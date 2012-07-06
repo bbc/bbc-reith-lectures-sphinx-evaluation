@@ -71,8 +71,13 @@ def evaluate(transcriber, directory):
         if file_name.endswith('.mp3'):
             raw_file = '/tmp/sphinx-eval.raw'
             print >> sys.stderr, "Evaluating WER for %s" % file_name
-            os.system('sox "' + os.path.join(directory, file_name) + '" -r 14000 -c 1 -s ' + raw_file)
-            (sphinx_transcript, sphinx_details) = transcriber.transcribe(raw_file)
+            if not os.path.exists(os.path.join(directory, file_name.split('mp3')[0] + '.sphinx.txt')):
+                os.system('sox "' + os.path.join(directory, file_name) + '" -r 14000 -c 1 -s ' + raw_file)
+                sphinx_transcript = transcriber.transcribe(raw_file)
+                sphinx_transcript_f = open(os.path.join(directory, file_name.split('mp3')[0] + '.sphinx.txt'), 'w')
+                sphinx_transcript_f.write(sphinx_transcript)
+            else:
+                sphinx_transcript = open(os.path.join(directory, file_name.split('mp3')[0] + '.sphinx.txt')).read()
             transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('mp3')[0] + '.txt'))
             wer = wer(sphinx_transcript, transcript)
             print >> sys.stderr, "WER for %s: %f" % file_name, wer
