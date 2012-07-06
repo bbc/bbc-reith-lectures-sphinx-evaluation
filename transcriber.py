@@ -33,7 +33,16 @@ class Transcriber(object):
             _sphinx3.init()
             self.initialised = True
 
-    def transcribe(self, data):
-        self.initialise()
-        transcript =_sphinx3.decode_raw(data)
+    def transcribe(self, raw_audio_file):
+        segment_length = 3360000
+        raw = open(raw_audio_file, 'r')
+        n = 1 + len(raw.read()) / segment_length
+        raw.close()
+        transcript = ''
+        for i in range(0, n):
+            raw = open(raw_audio_file, 'r')
+            raw.seek(i * segment_length)
+            segment_data = raw.read(segment_length)
+            raw.close()
+            transcript += _sphinx3.decode_raw(segment_data)[0] + ' '
         return transcript
