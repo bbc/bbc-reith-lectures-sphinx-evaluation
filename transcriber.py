@@ -16,7 +16,7 @@ class Transcriber(object):
     def initialise(self, acoustic_model, dictionary, fdict, language_model):
         if not self.initialised:
             _sphinx3.parse_argdict({
-                'samprate': '28000',
+                'samprate': '14000',
                 'nfft': '1024',
                 'hmm': acoustic_model,
                 'dict': dictionary,
