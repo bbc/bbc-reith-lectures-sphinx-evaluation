@@ -34,7 +34,9 @@ def convert_pdf_to_text(directory):
 def extract_transcript_from_text(text_file):
     data = open(text_file).read().decode('utf8')
     data = ' '.join(re.split(r'\n[1-9]+\n', data)) # getting rid of page numbers
-    data = data.split('RADIO 4')[1]
+    data_s = data.split('RADIO 4')[1]
+    if len(data_s) > 1:
+        data_s = data_s[1]
     transcript = ''
     for item in re.split(r'\n[A-Z ]+:', data):
         item = re.sub('\n', ' ', item)
