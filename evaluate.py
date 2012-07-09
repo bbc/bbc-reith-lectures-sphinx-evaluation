@@ -62,7 +62,7 @@ def word_error_rate(t1, t2):
         for j in range(1,n+1):
             add, delete = previous[j]+1, current[j-1]+1
             change = previous[j-1]
-            if stem(a[j-1]) != stem(b[i-1]):
+            if a[j-1] != b[i-1]:
                 change = change + 1
             current[j] = min(add, delete, change)
     return (current[n] / float(m))
