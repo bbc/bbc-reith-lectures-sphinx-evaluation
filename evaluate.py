@@ -48,7 +48,7 @@ def extract_transcript_from_text(text_file):
     transcript = re.sub(r'( )+', ' ', transcript)
     return transcript
 
-def wer(t1, t2):
+def word_error_rate(t1, t2):
     a = t1.split(' ')
     b = t2.split(' ')
     n = len(a)
@@ -81,7 +81,7 @@ def evaluate(transcriber, directory):
             else:
                 sphinx_transcript = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')).read()
             transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.mp3')[0] + '.txt'))
-            wer = wer(sphinx_transcript, transcript)
+            wer = word_error_rate(sphinx_transcript, transcript)
             print >> sys.stderr, "WER for %s: %f" % file_name, wer
             wers += [ wer ]
     print "Average WER: %f", [ sum(wers, 0.0) / len(wers) ]
