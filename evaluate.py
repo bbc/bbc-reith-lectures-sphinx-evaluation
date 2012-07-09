@@ -3,6 +3,7 @@
 import argparse
 from ConfigParser import ConfigParser
 import os, sys, re
+import json
 from transcriber import Transcriber
 
 def main():
