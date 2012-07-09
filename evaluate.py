@@ -75,15 +75,19 @@ def evaluate(transcriber, directory):
             print >> sys.stderr, "Evaluating WER for %s" % file_name
             if not os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
                 os.system('sox "' + os.path.join(directory, file_name) + '" -r 14000 -c 1 -s ' + raw_file)
-                sphinx_transcript = transcriber.transcribe(raw_file)
+                (sphinx_transcript, details) = transcriber.transcribe(raw_file)
                 sphinx_transcript_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt'), 'w')
                 sphinx_transcript_f.write(sphinx_transcript)
+                sphinx_transcript_f.close()
+                details_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.json'), 'w')
+                details_f.write(json.dumps(details))
+                details_f.close()
             else:
                 sphinx_transcript = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')).read()
             transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.mp3')[0] + '.txt'))
             wer = word_error_rate(sphinx_transcript, transcript)
-            print >> sys.stderr, "WER for %s: %f" % file_name, wer
+            print >> sys.stderr, "WER for %s: %f" % (file_name, wer)
             wers += [ wer ]
-    print "Average WER: %f", [ sum(wers, 0.0) / len(wers) ]
+    print "Average WER: %f", ([ sum(wers, 0.0) / len(wers) ],)
 
 main()
