@@ -34,7 +34,7 @@ class Transcriber(object):
             self.initialised = True
 
     def transcribe(self, raw_audio_file):
-        segment_duration = 120.0
+        segment_duration = 120
         segment_length = segment_duration * 14000 * 2
         raw = open(raw_audio_file, 'r')
         n = 1 + len(raw.read()) / segment_length
