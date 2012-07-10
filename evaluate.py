@@ -86,13 +86,12 @@ def evaluate(transcriber, directory, lazy):
                 details_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.json'), 'w')
                 details_f.write(json.dumps(details))
                 details_f.close()
-            elif os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
-                sphinx_transcript = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')).read()
-            if sphinx_transcript:
+            if os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
+              sphinx_transcript = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')).read()
               transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.mp3')[0] + '.txt'))
               wer = word_error_rate(sphinx_transcript, transcript)
               print "WER for %s: %f" % (file_name, wer)
               wers += [ wer ]
-    print "Average WER: %f" % ([ sum(wers, 0.0) / len(wers) ],)
+    print "Average WER: %f" % (sum(wers, 0.0) / len(wers),)
 
 main()
