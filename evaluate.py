@@ -88,10 +88,11 @@ def evaluate(transcriber, directory, lazy):
                 details_f.close()
             elif os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
                 sphinx_transcript = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')).read()
-            transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.mp3')[0] + '.txt'))
-            wer = word_error_rate(sphinx_transcript, transcript)
-            print >> sys.stderr, "WER for %s: %f" % (file_name, wer)
-            wers += [ wer ]
-    print "Average WER: %f", ([ sum(wers, 0.0) / len(wers) ],)
+            if sphinx_transcript:
+              transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.mp3')[0] + '.txt'))
+              wer = word_error_rate(sphinx_transcript, transcript)
+              print "WER for %s: %f" % (file_name, wer)
+              wers += [ wer ]
+    print "Average WER: %f" % ([ sum(wers, 0.0) / len(wers) ],)
 
 main()
