@@ -1,7 +1,14 @@
-Evaluation of Sphinx3 on the BBC Reith Lectures
-===============================================
+Evaluation script for CMU Sphinx3 on the BBC Reith Lectures
+===========================================================
 
 A set of resources to evaluate Sphinx3 in terms of Word Error Rates on the BBC Reith Lectures.
+The Reith lectures are BBC Programmes made available as podcasts along with their transcripts
+on the BBC web site, under [personal non-commercial terms of use](http://www.bbc.co.uk/podcasts/help/terms/).
+They cover almost each year since 1976 and a wide range of different speakers.
+
+It can therefore be used for the evaluation of multi-speaker Automated Speech Recognition (ASR) system.
+In particular, this script helps with evaluating the [CMU Sphinx3](http://cmusphinx.sourceforge.net/) 
+ASR system, to see how different acoustic and language models compare to each other.
 
 Getting started
 ---------------
@@ -24,3 +31,5 @@ Licensing terms and authorship
 ------------------------------
 
 See 'COPYING' and 'AUTHORS' files.
+The audio and transcripts are made available on the BBC web site under
+[personal non-commercial terms of use](http://www.bbc.co.uk/podcasts/help/terms/)
