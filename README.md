@@ -1,5 +1,5 @@
-Evaluation of Sphinx on the BBC Reith Lectures
-==============================================
+Evaluation of Sphinx3 on the BBC Reith Lectures
+===============================================
 
 A set of resources to evaluate Sphinx3 in terms of Word Error Rates on the BBC Reith Lectures.
 
