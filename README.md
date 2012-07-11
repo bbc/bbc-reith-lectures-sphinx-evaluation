@@ -24,9 +24,13 @@ An example configuration file is given in hub4\_and\_lm\_giga\_64k\_vp\_3gram.in
 
 Run the evaluation.
 
-> $ ./evaluate.py --directory reith-lectures sphinx-config.ini
+> $ ./evaluate.py --directory reith-lectures --config sphinx-config.ini
 
 If you want to run the evaluation using only pre-computed transcriptions, use the --lazy flag.
+
+For example to run the evaluation on transcriptions derived using the example configuration file:
+
+> $ ./evaluate.py --directory reith-lectures-hub4-and-lm-giga-64k-vp-3gram --lazy true 
 
 Licensing terms and authorship
 ------------------------------
