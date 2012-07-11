@@ -1,0 +1,761 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST. THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+REITH LECTURES 2010: SCIENTIFIC HORIZONS
+Presenter: Martin Rees
+Lecture 3: What We’ll Never Know
+TRANSMISSION: 16th JUNE 2010 RADIO 4
+
+SUE LAWLEY: Hello and welcome to the Royal Society in London for the third
+of our Reith Lectures. This year, the Royal Society celebrates its 350th
+anniversary. It was founded in the first year of the reign of Charles II during the
+Scientific Revolution of the 17th century. Isaac Newton was one of its earliest
+members. Later, Charles Darwin and Albert Einstein joined its ranks. So it’s
+appropriate that our lecturer this year is its current President - a man who
+believes every bit as much in the revolutionary capabilities of science as his
+society’s founding members.
+
+He lives in hope that we will discover life beyond our own planet. “Human
+beings”, he says, “may not be the culmination of the evolutionary tree”. And in
+the spirit of ceaseless exploration that characterises this institution, he calls this
+lecture ‘What We’ll Never Know’. Ladies and gentlemen, please welcome the
+BBC Reith Lecturer 2010: Martin Rees.
+
+(APPLAUSE)
+
+SUE LAWLEY: Martin, a couple of questions just before you deliver your lecture.
+You cease to be President of the Royal Society here in November, I think, at the
+
+1
+
+end of a five year stint. The great literary critic F.R Leavis once dismissed C.P
+Snow, who’d been standing up for science, as ‘a PR man for the scientific
+establishment’. Do you sometimes feel that’s the role you’ve been cast in?
+
+MARTIN REES: If that’s my role - I’ve certainly failed at that, I suspect. But I do
+see my role as being not only to promote excellent science, but to encourage
+engagement with the public, with politicians, and with the educational process
+generally.
+
+SUE LAWLEY: But you’re not the kind of man who likes spare time and you’re
+presumably you’re going to have a lot more of it when you finish here in
+November?
+
+MARTIN REES: Well I think I’ll have a backlog of things that I will catch up
+with, and spend more time doing science, doing some writing, and even some
+politics.
+
+SUE LAWLEY: I imagine you as one of those people who’s constantly got a plate
+spinning on ten sticks, rushing up and down the line. You said to me when you
+were a castaway on ‘Desert Island Discs’, some years ago now, that your luxury
+would be Thomas Jefferson’s chair. Just tell me why.
+
+MARTIN REES: Well that was a sort of reclining chair where you could sit in
+comfort and read and think, and perhaps I’ll do a bit more of that when I’ve
+retired from the Royal Society.
+
+SUE LAWLEY: Because he was a great inventor, wasn’t he? He was a gadget
+man.
+
+2
+
+MARTIN REES: Indeed he was, and it was a very ingenious invention.
+
+SUE LAWLEY: But you attached, I think, a telescope to your reclining chair with
+a lamp on it. (LAUGHTER)
+
+MARTIN REES: I think I’d like a telescope, and I’d like lots of books.
+
+SUE LAWLEY: (LAUGHS) Now tonight you tell me you’re going to ‘let your
+hair down’. What does that mean?
+
+MARTIN REES: Well what I meant was that this lecture is going to be focused
+on science and rather speculative fringes of science, so I should really give a
+health warning at the beginning that some of the things I’m going to say are
+speculative and not to be taken as all that as authoritative.
+
+SUE LAWLEY: We’ve got the health warning. Martin Rees, ‘What We’ll Never
+Know’. The floor is yours. Thank you.
+
+(APPLAUSE)
+
+MARTIN REES: While struggling to prepare what to say today, I had a fantasy.
+Suppose I had a time machine. I could 'fast forward' into the future, turn on the
+radio, listen to this lecture, take notes - and then reverse back to the present and
+start writing. (LAUGHTER)
+
+Well, there was plainly no such 'quick fix'- but could there ever be?
+
+Arthur C Clarke noted that any sufficiently advanced technology is
+indistinguishable from magic. We can't envision what artifacts might exist
+
+3
+
+centuries hence - any more than a Roman could foresee today's Sat Nav and
+mobile phones.
+
+Nonetheless, physicists would confidently assert that time-machines will remain
+forever fiction. That's because changing the past would lead to paradoxes infanticide would violate logic as well as ethics if the victim was your
+grandmother.
+
+So, what's the demarcation between concepts that seem crazy now but might be
+realised eventually - and things that are forever impossible?
+
+Are there scientific problems that will forever baffle us - phenomena that simply
+transcend human understanding?
+
+I'm going to speculate on these themes today.
+
+Einstein averred that "The most incomprehensible thing about the universe is
+that it is comprehensible".
+
+He was right to be astonished. Our minds, which evolved to cope with life on the
+African savannah, can also comprehend the microworld of atoms, and the
+vastness of the cosmos.
+
+Einstein himself made one of the biggest advances. More than 200 years before
+him, Isaac Newton had shown that the gravity that makes apples fall is the same
+force that holds planets in their orbits. Einstein went much further. He didn’t
+prove Newton wrong, but he transcended Newton by offering insights into
+gravity that linked it to the nature of space and time, and the universe itself.
+
+4
+
+Indeed, Einstein would have been especially gratified at how our cosmic
+horizons have enlarged. Our Sun is one of a hundred billion stars in our Galaxy,
+which is itself one of many billion galaxies in range of our telescopes. And this
+entire panorama emerged from a hot, dense 'beginning' nearly 14 billion years
+ago.
+
+Some inferences about the early universe are as evidence-based as anything a
+geologist might tell you about the history of our Earth: we know what the
+conditions were a second after the big bang, even just a microsecond after it. But,
+as always in science, each advance brings into focus some new questions that
+couldn't previously have even been posed.
+
+And the very first moments are a mystery. That’s because right back in the first
+tiny fraction of a second, conditions would have been far hotter and denser than
+we can simulate in the lab. So we lose any foothold in experiment; because we
+don't know the physical laws that then prevailed.
+
+Indeed, to confront the overwhelming mystery of what banged and why it
+banged, Einstein's theory isn't enough. That's because it treats space and time as
+smooth and continuous. We know that no material can be chopped up
+arbitrarily small: eventually, you get down to discrete atoms. Likewise, even
+space and time can't be divided up indefinitely.
+
+According to the most favoured approach - called string theory - every ‘point’ in
+our three-dimensional space may, if you magnified it enough, be a tightly
+wrapped origami in six extra dimensions. So space and time may themselves be
+very complicated on 'micro' scales - even further from our intuitions than
+Einstein's theory was.
+
+5
+
+But there may be mysteries, too, at the largest conceivable scales. There could be
+far more beyond our horizon, as it were, than the vast expanse that our
+telescopes can observe.
+
+Some have speculated that other universes could exist 'alongside' ours. Imagine
+ants crawling around on a large sheet of paper (their two-dimensional
+'universe'). They would be unaware of a similar sheet that's parallel to it.
+Likewise, there could be another entire universe (with 3-dimensional space, like
+ours) less than a millimetre away, but we would be oblivious to it if that
+millimetre were measured in a fourth spatial dimension, while we are
+imprisoned in just three.
+Well I've perhaps been a bit self-indulgent in starting this lecture with remote,
+speculative topics. But the bedrock nature of space and time, and the structure of
+our entire universe, are surely among science's great 'open frontiers'.
+
+They exemplify intellectual domains where we're still groping for the truth -where, in the fashion of ancient cartographers, we must still inscribe 'here be
+dragons'. And where there are questions that we can't yet formulate: Donald
+Rumsfeld's famous 'unknown unknowns' (what a pity, incidentally, that he
+didn't stick to philosophy!) (LAUGHTER)
+
+So two frontiers of science are the very large (the cosmos) and the very small (the
+quantum). But only a tiny proportion of researchers are cosmologists or particle
+physicists. There's a third frontier: the very complex.
+
+An insect, with its layer upon layer of intricate structure, is far more complex
+than either an atom or a star.
+
+Our everyday world presents intellectual challenges just as daunting as those of
+
+6
+
+the cosmos and the quantum, and that's where 99 percent of scientists focus their
+efforts.
+
+The different sciences are sometimes likened to successive levels of a tall
+building - physics on the ground floor, then chemistry, then cell biology - all the
+way up to psychology, and the economists in the penthouse. (LAUGHTER)
+There is a corresponding hierarchy of complexity - atoms, molecules, cells,
+organisms, and so forth.
+
+But the analogy fails in a crucial respect. In a building, insecure foundations
+imperil everything above. But the 'higher level' sciences dealing with complex
+systems aren't imperilled by an insecure base. The uncertainties of subatomic
+physics are irrelevant to biologists.
+An albatross returns to its nest after wandering ten thousand miles in the
+southern ocean - and it does this predictably. But it would be impossible, even in
+principle, to calculate this behaviour by regarding the albatross as an assemblage
+of atoms. Everything, however complicated - breaking waves, migrating birds, or
+tropical forests - is made up of atoms and obeys the equations of quantum
+physics. But even if those equations could be solved, they wouldn't offer the
+enlightenment that scientists seek.
+
+Each science has its own autonomous concepts and laws. Reductionism is true in
+a sense. But it's seldom true in a useful sense.
+
+Problems in biology, and in environmental and human sciences, remain
+unsolved because it's hard to elucidate their complexities - not because we don't
+understand subatomic physics well enough
+
+You won't learn the nature of time by taking a watch apart.
+
+7
+
+Let’s now focus on some specifics.
+
+If I were to conjecture where the scientific 'cutting edge' will advance fastest, I'd
+plump for the interface between biology and engineering. Practitioners of the
+new science of synthetic biology can construct a genome from small stretches of
+DNA. And another burgeoning discipline - nanotechnology - aims to build up
+structures atom by atom, leading to the possibility of even more compact devices
+to enhance computer processing and memory.
+
+Computers are already transformational - especially in fields where we can't do
+real experiments. In the 'virtual world' inside a computer astronomers can crash
+another planet into the Earth to see if that's how our Moon might have formed;
+meteorologists can simulate weather and climate; brain scientists can simulate
+how neurons interact.
+Just as video games get more elaborate as their consoles get more powerful, so,
+as computer-power grows, do these 'virtual' experiments.
+
+Some things, like the orbits of the planets, can be calculated far into the future.
+But that's actually atypical. In most contexts, there's a fundamental limit. That's
+because, tiny causes - like whether or not a butterfly flaps its wings - make a
+difference that widens exponentially. For reasons like this even the most finegrained computation can only forecast British weather a few days ahead. (But and this is important - this doesn’t stymie predictions of long-term climate
+change, nor weaken our confidence that it’ll be colder next December than it is in
+June).
+
+So there are limits to what can ever be learnt about the future, however powerful
+computers become.
+
+8
+
+But what can we conjecture about future applications of science?
+
+One thing that's changed little for millennia is human nature and human
+character. Before long, however, new cognition-enhancing drugs, genetics, and
+'cyberg' techniques may alter human beings themselves. And that's something
+qualitatively new in recorded history - and disquieting because it could portend
+more fundamental forms of inequality.
+
+Understanding the brain - the most complicated thing we know about in the
+universe - is of course a supreme challenge. Scanning techniques are revealing
+how our brains develop, and how our thoughts and emotions are processed.
+Already new debates open up about personal responsibility and freedom. The
+US National Academy of Sciences recently gave a special award for a project
+entitled 'Neural Correlates of Admiration and Compassion'. And this is scary. If
+scanners can reveal when we are sincere, and when we are bluffing, that's the
+ultimate invasion of privacy.
+And we are living longer. Ongoing research into the genetics of ageing may
+explain why; and indeed, a real ‘wild card’ in population projections is that
+future generations could achieve a really substantial enhancement in lifespan.
+This is still speculation - mainstream researchers are cautious. But such caution
+hasn't stopped some Americans, worried that they will die before this nirvana is
+reached, from bequeathing their bodies to be ‘frozen’, hoping that some future
+generations will resurrect them, or download their brains into a computer. For
+my part, I’d rather end my days in an English churchyard than a Californian
+refrigerator. (LAUGHTER)
+
+Will computers take over? Even back in the 1990s, ‘Deep Blue’ - IBM’s computer beat Kasparov, the world chess champion. ‘Deep Blue’ didn't work out its
+
+9
+
+strategy like a human player: it exploited its computational speed to explore
+millions of alternatives before deciding an optimum move. Likewise, machines
+may make scientific discoveries that have eluded unaided human brains - but by
+testing out millions of possibilities rather than via a theory or strategy or insight.
+
+But robots can't yet recognise and move the pieces on a real chessboard as
+adeptly as a child can. Later this century, however, they may relate to their
+surroundings (and to people) as adeptly as we do through our sense organs. And
+moral questions will then arise. We accept an obligation to ensure that other
+human beings can fulfil their 'natural' potential - and we even feel the same
+about some animal species. But what is our obligation towards sophisticated
+robots, our own creation? Should we feel guilty about exploiting them? Should
+we fret if they are underemployed, frustrated, or bored?
+
+Be that as it may, robots surely have immense potential in arenas that humans
+can't readily reach - in mines, oil rigs, and suchlike. And health care may be
+aided by nano-robots voyaging inside our bodies.
+
+But where they might really come into their own is way beyond the Earth - in
+outer space.
+
+In the 1960s manned spaceflight went from cornflakes packet to reality. Neil
+Armstrong's 'one small step' on the Moon came only 12 years after Sputnik - and
+only 66 years after the Wright Brothers' first flight.
+
+Had that pace been sustained, there would by now have been a lunar base, even
+an expedition to Mars. But the Moon race was an end in itself, driven by
+superpower rivalry. Only the middle-aged can remember when men walked on
+
+10
+
+the moon - to the young, the Apollo astronauts' exploits and their 'right stuff'
+values are ancient history - almost like a Western.
+
+Post-Apollo, hundreds of astronauts have circled the Earth in low orbits - but
+none has gone further. Instead, unmanned technology has flourished, giving us
+GPS, global communications, environmental monitoring and other everyday
+benefits.
+
+And scientific exploration has burgeoned too. Probes to Mars, and to the moons
+of Jupiter and Saturn, have beamed back pictures of varied and distinctive
+worlds. I hope that, during this century, the entire solar system will be explored
+by flotillas of robotic craft.
+
+But will people follow? The need weakens with each advance in robots and
+miniaturisation. At least, that's my view as a practical scientist. But as a human
+being, I remain an enthusiast for manned missions - as a long-range adventure
+for (at least a few) humans.
+
+The next humans to walk on the Moon may be Chinese - China has the resources,
+the dirigiste government, and maybe the willingness to undertake an Apollostyle programme.
+But if others boldly go to the Moon and beyond, it's more likely to be via cutprice ventures, spearheaded by individuals prepared to accept high risks perhaps even 'one way tickets' - driven by the same motives as early explorers,
+mountaineers, and the like.
+
+And remember that nowhere in our Solar system offers an environment even as
+clement as the Antarctic or the top of Everest. Space provides no haven from the
+Earth's problems.
+
+11
+
+A century or two from now, there may be small groups of pioneers living
+independent from the Earth. Whatever ethical constraints we impose here on the
+ground, we should surely wish such pioneers good luck in genetically modifying
+their progeny to adapt to alien environments - a step towards divergence into a
+new species. The post-human era would then begin.
+
+Would it be appropriate to exploit Mars, as happened when pioneers advanced
+westward across the United States? Should we send 'seeds' for plants geneticallyengineered to grow and reproduce there? Or should the Red Planet be preserved
+as a natural wilderness, like the Antarctic?
+
+The answer should, I think, depend on what the pristine state of Mars actually is.
+If there were any life there already - especially if it had different DNA, testifying
+to quite separate origin from any life on Earth - then there would be widely
+voiced insistence that Mars should be preserved unpolluted.
+
+And this leads to one of the other great unknowns. What creatures might be out
+there in space already? Even evidence for any bugs or bacteria would be of huge
+scientific importance. But what really fuels popular imagination is the prospect
+of advanced life - the 'aliens' of science fiction.
+
+Mars is a frigid desert with a very thin atmosphere. There may be simple life
+there. Perhaps also in the ice-covered oceans of Jupiter’s moon Europa.
+
+But nobody expects a complex biosphere in any of these locations. Suppose
+though that we widen our gaze beyond our Solar System.
+
+12
+
+The Italian monk and scholar Giordano Bruno, burnt at the stake in 1600,
+conjectured that the stars were other 'Suns', each with their retinue of planets.
+Four hundred years later, astronomy confirms this. We've learnt that many stars
+- indeed, probably billions in our Galaxy - are orbited by planets - just as the
+Earth, Mars and Jupiter circle around our own star, the Sun.
+
+The planets found so far are all big ones, rather like Saturn and Jupiter, the giants
+of our Solar System. Earth-sized planets around other stars are harder to detect,
+but we won't have to wait long for indirect evidence. And within a decade or
+two, astronomers will be able to view Earth-like planets circling distant stars.
+Bruno speculated further: on some of these planets, he conjectured, there might
+be creatures 'as magnificent as those upon our human earth', he said. And on this
+issue, we've little more evidence today than Bruno had.
+
+This doesn't stop some from expressing firm opinions, one way or the other. But
+I think utter open-mindedness is the only rational stance; we know too little
+about the key biological issues. The cosmos could teem with life; on the other
+hand, our Earth could be unique among the billions of planets that surely exist.
+And even if 'simple' life were widespread, advanced life might be rare.
+
+We don't know how life began here on Earth. We don't know what led from
+amino acids to the first replicating systems, and to the intricate protein chemistry
+of monocellular life.
+
+This might have involved a fluke so rare that it happened only once in the entire
+Galaxy - like shuffling a whole pack of cards into a perfect order. On the other
+hand, it might turn out that the process was almost inevitable given the 'right'
+environment.
+
+13
+
+So we may learn this century whether biological evolution is unique to the 'pale
+blue dot' in the cosmos that is our home, or whether Darwin's writ runs through
+a wider universe that’s full of life. Were our biosphere unique, it would
+disappoint some; but in compensation, we then need to be less 'cosmically
+modest' - because our Earth, tiny though it is, could then be uniquely important
+in the entire Galaxy.
+
+If alien minds existed, what concepts might we share with them? They'd be made
+of the same atoms, they'd gaze out, if they had eyes, at the same cosmos. But they
+might find string theory a doddle - and understand things that are beyond our
+grasp.
+
+And this thought takes me back to the question at the beginning of this lecture:
+are there intrinsic limits to our understanding, or to our technical capacity?
+
+Humans are more than just another primate species: we are special: our selfawareness and language were a qualitative leap, allowing cultural evolution, and
+the cumulative diversified expertise that led to science and technology.
+
+But some aspects of reality - a unified theory of physics, or of consciousness might elude us simply because they’re beyond human brains, just as surely as
+Einstein's ideas would baffle a chimpanzee.
+
+Ever since Darwin, we've been familiar with the stupendous timespans of the
+evolutionary past which led to our emergence. Many people envisage that we
+humans are the culmination of the evolutionary tree here on Earth.
+But that doesn't seem plausible to astronomers, because they’re aware of huge
+time-horizons extending into the future as well as back into the past. Our Sun
+
+14
+
+formed 4.5 billion years ago, but it's got 6 billion more before the fuel runs out.
+And the expanding universe will continue - perhaps for ever -- becoming ever
+colder, ever emptier. As Woody Allen said, 'Eternity is very long, especially
+towards the end'. (LAUGHTER) So, even if life were now unique to Earth, there
+would be scope for posthuman evolution - whether organic or silicon based - on
+the Earth or far beyond.
+
+It won't be humans who witness the Sun's demise: it will be entities as different
+from us as we are from a bug. We can't conceive what powers they might have.
+But there will still be things they can't do - like travelling back in time. So we'll
+never know what they know. Thank you.
+
+(APPLAUSE)
+
+SUE LAWLEY: Martin Rees, thank you very much indeed. Well we have with us
+here in the Royal Society, in London, an audience made up of experts and
+laypeople, eager to question you about what we can and can’t know. We’ve been
+taking questions during the course of the lecture, and I’m going to call Dr Lucie
+Green. You’re a space scientist at the UCL Mullard Space Science Lab, and your
+research is in the study of activity in the atmosphere of the sun. Your question,
+please?
+
+DR LUCIE GREEN: Yes, I was thinking about the fact that we rely on minerals
+and metals for human survival on the Earth, and these minerals and metals are
+finite in supply. So rather than thinking about a scientific human endeavour in
+space, may we have a commercial endeavour where we go and mine for the
+minerals and resources from asteroids, for example, and we see the creation of
+the first space billionaires?
+
+15
+
+MARTIN REES: Well, I mean we’d have to wait and see when people invest in
+that. But I certainly think that if indeed there are rare minerals that we can more
+readily get from space, then the way that would happen is by robotic fabricators
+and constructors which could do large projects in space. There’d be no case to
+send people.
+
+SUE LAWLEY: What is there out there? I mean there’s stuff worth having platinum and …
+
+MARTIN REES: Could be, yes.
+
+DR LUCY GREEN: That’s right, there is stuff worth having - billions of pounds
+worth of material. And where there’s money, people may go.
+
+MARTIN REES: As I say, if private entrepreneurs will fund it, accepting high
+risk, then it will happen.
+
+SUE LAWLEY: I’m going to turn actually for a question on life in space. I’m
+going to call Professor Chandra Wickramasinghe, who’s Director of the Cardiff
+Centre for Astrobiology. He worked with Fred Hoyle on the idea that life may
+have been seeded on Earth from space.
+
+WICKRAMASINGHE: Martin, you touched on the question of life in the
+universe. In the foreseeable future, it seems to me very likely that we would
+discover alien life - alien life of some form - and the question I want to ask you is
+would discovering such alien life or even making contact with the aliens change
+the course of science, change the future of science?
+
+MARTIN REES: Well it would open up an extremely fascinating new area of
+
+16
+
+science obviously, even if we found simple life elsewhere. If there are aliens who
+are recognised as intelligent, of course, that would have a different effect, and
+this would obviously require some adjustments on the path of some theologians
+clearly to accommodate that. But I think the question that fascinates me is how
+much could we relate to them? They would have something in common - maths
+and physics, for instance. But of course the one thing we know for sure is that the
+nearest they would be is many light years away. We could listen to their
+messages, we could send a message back, but there’s no scope for snappy
+repartee as it were (LAUGHTER) because it would take decades for the signal to
+go two ways. What would be more exciting would be to find life that had an
+independent origin. If there’s life on Mars and that came from the Earth, or vice
+versa, that wouldn’t be so exciting. It would still be possible that life is very rare.
+But if we found life elsewhere in our solar system which had a different kind of
+DNA, then I would immediately say that life was widespread in the universe. So
+that would be the important thing.
+
+SUE LAWLEY: I’m going to call Professor Colin Pillinger who’s sitting at the
+back there. He was the principal investigator for the British Beagle 2 project back
+in 2003, which you’ll recall unfortunately failed to land on Mars and disappeared
+from sight. Do you continue to be optimistic about its possibilities?
+
+PROFESSOR COLIN PILLINGER: I hope so, in answer to this question. We
+heard you’re going to retire later this year. Fortunately I’ve thought of a nice,
+new job for you. (LAUGHTER) Would you like to be the first Director of the new
+British Space Agency? And, if so, what mission would you like to launch as your
+first expedition? And of course you’ve told us how keen you are to find out
+whether we’re alone in the universe, and the first stepping stone to that would be
+Mars. So maybe you’d like to launch the second Beagle 2; and instead of being a
+failure, it would be called Deferred Success. (LAUGHTER)
+
+17
+
+MARTIN REES: Yes, yes. Well, first, I’d like to pay tribute to Colin for what he
+did because Beagle was a high risk venture and many much more expensive
+NASA projects have had less success than his. And it’s rather sad that everyone
+in the UK has heard of NASA; most have heard of the European Space Agency.
+Very few have heard about the UK space effort.
+
+SUE LAWLEY: But do you want the job that’s on offer?
+
+MARTIN REES: Ah, yes. Well I think Colin would do it better. But I think it is
+very important to have someone with a fairly high profile because there is - has
+been for several years - something called the British National Space Centre. But
+no-one’s heard of it and no-one knows who runs it, etcetera, and I think we need
+to have a somewhat higher profile organisation.
+
+SUE LAWLEY: Well then you’re the perfect man. I’m going to call Dr Fern
+Elsdon-Baker. She’s Head of the British Council Darwin Now project.
+
+DR FERN ELSDON-BAKER: Thank you, Lord Rees. I just wanted to ask, given
+that you’re in a speculative mood, do you think that the future of human
+evolution will be biological or technological?
+
+MARTIN REES: Well I think that’s a very interesting question. I mean obviously
+within 50 years machines will have more aspects of human capability than they
+do now, and of course one scenario is that they will then take over and posthuman evolution will be silicon based rather than organic.
+
+SUE LAWLEY: What are we talking about here? Bionic man, are we talking
+about?
+
+18
+
+MARTIN REES: No, just machines. And some people say that a machine of
+human intelligence is the last thing that humans would need to create because
+then of course the machine would itself take the next step.
+
+SUE LAWLEY: Let me call in Dr Stephen Webster. I think you’re a senior
+lecturer in science communication, yes.
+
+DR STEPHEN WEBSTER: Lord Rees, you’ve spoken very powerfully about the
+potential of science, and my question really is about life here now on Earth. I
+mean with science so dominant, why is there still religion? And I’ve got a second
+part to my question, which is you’ve talked about the …
+
+SUE LAWLEY: (over) I think that’s quite big enough. (LAUGHTER)
+
+DR STEPHEN WEBSTER: Well, I know. But if you can permit me a kind of
+second scientific question.
+
+SUE LAWLEY: Go on then.
+
+DR STEPHEN WEBSTER: Can science aim to understand religion?
+
+MARTIN REES: Well I mean I take the view that science and religion can and
+should coexist. Richard Dawkins on his website calls me a … What did he call
+me? (LAUGHTER)
+
+SUE LAWLEY: Isn’t it a compliant …?
+
+19
+
+MARTIN REES: A complaint Quisling because I am tolerant of religion, and I’m
+entirely unapologetic at being a compliant Quisling.
+
+SUE LAWLEY: But it’s just not your inclination to sweep away all thoughts. Is
+that because you just don’t want to stir it up?
+
+MARTIN REES: Well I think my view, to be honest, is this: that fundamentalism
+is a real danger, and I think we need all the allies we can muster against it. I
+would see the mainstream religions - particularly the Church of England - as
+being on our side, and also I think we should be more tolerant of those who do
+have different cultures.
+
+SUE LAWLEY: We’ve got Anthony Grayling, A.C. Grayling here, who’s a
+devout atheist. Do you want to comment, Anthony?
+
+ANTHONY GRAYLING: I don’t know what it is to be a devout atheist any
+more than what it would be to be a devout non-stamp collector. But …
+(LAUGHTER)
+
+MARTIN REES: Hear, hear.
+
+ANTHONY GRAYLING: What I would say to Martin is that there are people
+who have a religious commitment who are very hostile to aspects of science - in
+particular those that involve let us say stem cell research or therapeutic cloning;
+and other areas too - for example in science education on the biological front,
+evolutionary biology. And it seems to me that one can’t really stand on the
+sidelines when it comes to those sorts of debates; and although one always
+applauds people who are conciliatory and eirenic - as you are on these matters surely there is a line that can’t be crossed there?
+
+20
+
+MARTIN REES: Well I think creationism in its literal sense is something which
+could not be accepted by any astronomer or biologist obviously. But I think
+when we get to bioethics, then there’s a continuum and people draw the line
+differently. I mean most people, whether they claim to be atheists or not, may be
+against human reproductive cloning, for instance, and so I think it’s wrong to say
+that rationalists think one way and religious people think another way. There’s a
+continuum and whether you’ve got a religious view or none, then you still have
+to decide how far should we go in applications of technologies in biology.
+
+SUE LAWLEY: Let’s move onto another easy topic: consciousness. (LAUGHTER)
+Nathan Williams has handed in a question. Where are you? Thank you.
+
+NATHAN WILLIAMS: Hello. We have a room here full of extraordinary minds,
+all of whom have been fascinated by your lecture, but it seems to me that science
+at the moment has very little idea why these collections of atoms in our brains
+are fascinated. It seems we don’t even know how to really ask that question how we’ll know when we’ve found consciousness? Do you think science will
+ever explain consciousness?
+
+MARTIN REES: I just don’t know. I mean I think that is one of the Everest
+problems of science, as it were, the real summit. I mean I’m very glad that there
+are some people who think that it could be solved because unless they think it
+could be solved, they won’t even try to solve it. It’s good some are trying. And
+we don’t know how long it’ll be before we get to that particular summit.
+
+SUE LAWLEY: Well we have here Colin Blakemore, who’s Professor of
+Neuroscience at Oxford and a former Head of the Medical Research Council. He
+
+21
+
+is also a former Reith Lecturer. He did it back in ’76 when I think you were, and
+you remain.. I think you hold the record as being the youngest ever.. you were 32
+years old at the time, Colin
+COLIN BLAKEMORE: Thank you, Sue, for revealing my history to the whole
+room, that’s kind of you. (LAUGHTER) What I really wanted to ask about was
+reductionism. Atoms do make neurons, neurons do make up brains, brains
+produce behaviour. So if you really think that, in principle, complex phenomena
+cannot be explained in terms of its constituent atoms, molecules, then what else
+is there that could determine, say human behaviour?
+MARTIN REES: Well, regarding reductionism, I agree that we are all solutions
+of Schroedinger’s equation etc. But what I was saying was that’s not the most
+useful explanation. Let’s take a non-biological example, let’s take fluid
+mechanics. When someone tries to understand why water waves break, why
+waves go turbulent, etc, they treat the water as a continuum – they don’t care
+that the water is made up of molecules.
+COLIN BLAKEMORE: So you’re not saying that there are forces operating that,
+say create life or free will or consciousness, which are fundamentally different
+from the causal processes that operate in the physical world
+MARTIN REES: Absolutely not, no. I’m just saying that the kind of explanation
+we seek in each science is an explanation on that particular level, and the
+simplest example I can give is the fluid dynamics.
+SUE LAWLEY: Can I call Graham Farmelo who handed in a question?
+
+GRAHAM FARMILOE: Yes, my name’s Graham Farmelo. I’m a writer and a
+renegade particle physicist. I wanted to ask something about budgets and
+whether for some physicists their scientific curiosity might be outrun by the
+government budgets that they’re provided with. Are you at all worried that
+governments might soon stop funding experiments like the Large Hadron
+Collider, so that physicists won’t even be able to test their most advanced
+theories?
+
+22
+
+MARTIN REES: Obviously the Large Hadron Collider in Geneva is perhaps the
+world’s biggest scientific instrument and everyone says isn’t it hugely expensive?
+The way I’d answer that is to say that particle physics is a branch of science that
+does require these big experiments. And if you look at what’s being spent on it,
+it’s about 2 percent of the UK science budget, and I think 2 percent of the UK
+science budget going to this very fundamental area is about right. It’s just that
+that 2 percent is spent as part of a 20 year project involving dozens of other
+countries who are all cooperating in a rather inspiring way actually to build one
+huge machine. But overall, I think we have to make sure that we in the UK don’t
+lose our competitiveness because we have strength in science. And what I think
+very strongly there is that in an environment where the Obama administration
+has provided a big stimulus package - as have France, Germany and Canada - we
+in the UK need to have a similar response, otherwise we will lose our very strong
+competitive advantage.
+
+SUE LAWLEY: Well, as it happens, we have David Willetts here, the Science
+Minister. The cuts are coming, Mr Willetts. Are they going to hit the science
+budget?
+
+DAVID WILLETTS: Well I think that everybody understands that times are
+getting tougher around the world, but when it comes to the Large Hadron
+Collider, I thought Martin could have cited the exchange when the British
+government under Margaret Thatcher decided to back the Large Hadron
+Collider. A lot of the advice to Margaret Thatcher was that it was too expensive
+and wouldn’t yield an economic return and she’s supposed to have commented,
+“Yes, but it’s very interesting.” (LAUGHTER) And that is the other argument for
+science and not one that we should lose sight of.
+
+MARTIN REES: If I could come back on that, I think it’s very important to
+
+23
+
+support science across the whole area because what gets young people into
+science is often these rather fundamental areas like space, astronomy and particle
+physics; and unless we get them into science, then we won’t staff our
+universities, we won’t staff all our industries, etcetera. So I think everything has
+to be seen as a whole. And if you look at what’s happening in the US, that’s the
+line they take and we’ve got to try and match what they’re doing.
+
+SUE LAWLEY: And does this government, Mr Willetts, find science very
+interesting?
+
+DAVID WILLETTS: I think that what Martin just said is absolutely true and the
+importance of encouraging successive generations into scientific research is very
+important. The trouble is that times are tough and nobody’s going to be able to
+guarantee any particular budget. But, yes, Martin makes a very eloquent case.
+
+SUE LAWLEY: Here’s a last question. Kat Arney?
+
+KAT ARNEY: Rather flippant, but will we ever know where the odd socks go?
+
+MARTIN REES: (LAUGHS) Yes. Ah, I think that’s a very big mystery, but I
+think it highlights the point that even though I could talk with some confidence
+about the first few seconds after the big bang, many of the everyday problems
+are actually much more difficult and can’t be solved yet.
+
+SUE LAWLEY: But, Martin, we’re all fascinated by all of these topics multiverses, alien life, consciousness and so on. And the pace of discovery
+increases all of the time, and over the past 150 years it’s got faster and faster and
+faster. I mean I know scientists don’t like giving us their hunches, but is your
+hunch that we might start getting the answers to these big questions which
+
+24
+
+we’ve been airing tonight in the first half of this century?
+
+MARTIN REES: Some of them. I would hope we’ll understand the origin of life
+on Earth; we might have evidence for life elsewhere. Whether we have a sort of
+fundamental theory of all the physical forces, I don’t know. But I think it is
+important that as science advances, new questions do come into focus which
+couldn’t be posed, and the fact that we can talk with a fairly straight face about
+what the universe was like when it was a millisecond old is something which
+would have astonished people 50 years ago. The reason we’ve made these
+advances is because science has advanced in symbiosis with technology and
+we’ve seen how technology is accelerating. So that makes me very optimistic that
+even if we won’t solve all problems, we will be addressing problems 25 years
+from now that we can’t even formulate now.
+SUE LAWLEY: Martin Rees, thank you very much. That’s all we have time for
+this week. Thank you for your questions, audience. Next week we’ll be at the
+headquarters of the Open University in Milton Keynes where Professor Rees will
+conclude his lectures by warning that we need to change our priorities if we’re to
+avoid a calamitous future. That’s ‘Runaway World’ at the same time next week.
+Until then, Martin Rees, Reith Lecturer 2010, thank you very much. And from the
+Royal Society, goodbye.
+
+(APPLAUSE)
+
+25
+
+

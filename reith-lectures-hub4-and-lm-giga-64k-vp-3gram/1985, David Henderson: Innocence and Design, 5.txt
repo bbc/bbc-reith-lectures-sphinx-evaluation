@@ -1,0 +1,394 @@
+REITH LECTURES 1985: Innocence and Design
+David Henderson
+Lecture 5: DIYE plus the Lobbies: Counting the Cost
+TRANSMISSION: 8 December 1985 – Radio 4
+
+It has not been recorded that the dramatic appeal made by 1,000
+leading economists to Mr Hoover in 1930. asking him to veto the
+Smoot-Hawley Bill, caused that gentleman to hesitate before
+approving the bill. (E.E. Schattschneider, Policies, Pressures and the
+Tariff; Prentice-Hall, 1935; p. vii.)
+In this lecture I want to consider two questions. First, why is it that in some areas of
+economics, but not in others, ideas that are characteristically professional have so
+little influence? Second, a much larger issue: how much does this lack of influence
+matter?
+The Two Worlds of Economics Revisited
+I think the first of these questions is easy to answer in broad terms. I spoke in my first
+lecture about two tiers of economic problems and issues. One is that of
+macroeconomics. The second has provided the subject-matter of my last three
+lectures. It is chiefly in this second tier that do-it-yourself economics holds sway.
+Why is macroeconomics different? The main reasons, I think, are two. First, many of
+the issues are so inescapably technical that the need for specialised expertise is
+accepted; and though economics is never the only form of expertise required, it is the
+most universally relevant one. Second, macroeconomic issues are characteristically
+national or economy-wide rather than sectional. This means that interest groups are
+either not much involved or less influential when they are involved. Both points are
+true, for instance, in the question of whether Britain should become a fullparticipating member of the European Monetary System (the EMS). Of course, not all
+‘first-tier’, macroeconomic issues are so esoteric as this one, or of such limited
+concern to lobbyists; and even EMS membership has to be considered from a political
+as well as a technical standpoint. All the same, in relation to macroeconomic policy
+Keynes was right: here economists’ ideas do count for more than vested interests. But
+in my second tier, as I have shown, what governments chiefly respond to are the
+mutually reinforcing influences of the lobbies and the economics of Everyman.
+Economists’ ideas, when they are noticed at all, are often set aside.
+Why Economists Fail to Influence People
+Why is it that long-established economic orthodoxy has made so little impact on the
+ways of thinking of informed, intelligent and disinterested laymen? Certainly the main
+reason is that the ideas of DIYE have such a strong intuitive appeal. But part of the
+explanation lies with us, the professionals. To an extent which is striking, even
+disturbing, we have failed to impress others with our point of view.
+
+1
+
+One reason for this is that not all economists share that point of view. Some are highly
+critical of the orthodox principles of individualism, reliance on markets and prices,
+decentralisation, and non-discrimination, including free trade. I’ll have something to
+say about these dissenters in my final lecture. But those professionals who would
+actually side with do-it- yourself economics against orthodoxy are a minority. Most of
+us, on both the left and the right of the conventional political spectrum, are
+conditioned by our training to view what I have called second-tier questions through
+orthodox spectacles. In fact, I would say that economists are at present more agreed—
+perhaps I should say less disunited—on these questions where they are typically not
+listened to, than on the macroeconomic issues where they often are. But this
+consensus in favour of orthodox as opposed to intuitive ways of thinking has not led
+to a general acceptance of them outside the profession.
+In part, this may be due to the conspicuous disagreements in macroeconomics and
+elsewhere, which make for public scepticism about what any of us may have to say on
+any subject. But there are other reasons too. One concerns those economists of
+orthodox leanings who think that second-tier issues matter. Here 1 feel there is a
+major problem of communication. With honourable exceptions starting with David
+Hume and Adam Smith and continuing to Sam Brittan and Milton Friedman in our
+own day, we have failed to argue our case persuasively, in language that can be
+understood by educated non-specialists. The growing professionalisation of
+economics, while natural and in general to be welcomed, has worsened this problem
+in recent decades. Economists have become increasingly preoccupied with each
+other’s thoughts and writings, and less interested in what anyone else might think.
+This happens with every profession, but it is more unfortunate for us than for others.
+A further reason is that much of the professional support for the orthodox point of
+view is sporadic, lukewarm or reluctant, because interest and attention are directed
+elsewhere. For the past half-century, and despite a reaction during the last 15 years or
+so, economics has been dominated by a view of the subject and of the world as a
+whole which I would call ‘macro-supremacist’. On this view the important problems,
+both intellectual and practical, lie in the domain of macroeconomics, while other
+issues by comparison are of small account. This concentration on macroeconomics
+has had two natural results. The extent to which other economic policies are
+dominated by intuition, rather than more distinctively professional ideas, has often
+gone unobserved; and even when observed, it has not necessarily been seen as a
+matter for much concern.
+The Rise of Macro—Supremacist Views
+This brings me to the second and larger of my two questions: how much does it matter
+if do-it-yourself economics prevails, at any rate within my second tier? In
+approaching this question, I would like for a moment to put on one side the main
+theme of these lectures. I want to turn from the foreground of my picture to the
+background, to set my argument in a wider context of economic ideas and events.
+Let me start with a well-worn but helpful metaphor. Economic policy within each
+country is concerned with the size of the cake and the way in which it is divided up—
+in other words, with production and distribution or, in current textbook language,
+efficiency and equity. Economic efficiency in this sense is conventionally thought of
+as having three aspects. One of these is the concern of macroeconomics as I have
+
+2
+
+defined it. From this point of view, efficiency means making full use of the resources
+that are available to an economy at a given time—in particular, resources of labour—
+so that the ‘productive potential’ of the economy is realised. In a developed country
+such as Britain, the best single indicator of success in this respect is the
+unemployment rate—or more strictly, the difference between the current and
+prospective unemployment rate and whatever is thought to be the minimum
+sustainable rate.
+But, as the years pass, the productive resources available within an economy will
+normally increase: the labour force grows; the capital stock is built up; knowledge and
+skills accumulate; and technical progress occurs, so that labour and other inputs can
+be used more productively. This is the second aspect of efficiency - the growth of
+productive potential over time, and in particular, the growth of productivity. The third
+aspect is what economists call ‘resource allocation’ - in other words, making the best
+use of the resources available to an economy within any given period. This is, in fact,
+my second tier of economic issues. The issues largely concern what goods and
+services are produced, and how they are produced; and underlying the economists’
+approach to this is a perception of the way in which free markets, with prices
+responding to changes in demand and supply, can help to achieve a more efficient
+outcome.
+Now when the Great Depression of the 1930s swept over the world, it swept over the
+orthodox economic establishment as well. The professionals had not foreseen this
+calamity; they were unable to explain it convincingly; and they had no agreed remedy
+to offer which carried conviction. The long-established professional view of the
+economy as a self-equilibrating system, in which involuntary unemployment was not
+a serious problem, was undermined by events. Since it was through changes in
+relative prices that the self-equilibrating forces were supposed to act, people’s faith in
+the efficacy of prices and markets was also undermined.
+In this situation, the Keynesian system offered both a diagnosis and a prescription. At
+the analytical level, it gave reasons for believing that modem capitalist economies had
+a chronic tendency towards deficiency of demand, which explained why
+unemployment had become a persistent and serious problem. The remedy lay in
+government action, largely through fiscal and monetary policies, to maintain demand
+at an adequate level. Hence, the central task of economic policy was now defined as
+being the management of demand.
+From this Keynesian standpoint, it was full employment, or the first aspect of
+economic efficiency, that counted. By comparison the third aspect, the allocation of
+resources, was unimportant. Prices and markets could broadly be relied on to deal
+with it, but only because the issues involved were minor. I should add that Keynes
+himself, and many of his professional associates and followers too, were neither
+socialists nor believers in detailed central planning. The fact remains that one of the
+results of the Keynesian revolution, and a long- lasting one, was to play down the
+significance of resource allocation issues, and to stress the limitations rather than the
+uses of markets.
+As to the second aspect of economic efficiency, the growth of productive potential
+over time, the view became widely accepted in the 1950s and 1960s that full
+
+3
+
+employment was in itself a strongly positive factor, through its effects on investment
+and attitudes to change. If you took care of full employment, you would help
+substantially with growth—and indeed with resource allocation (point number three)
+as well, since full employment would also over time weaken sectional and
+mercantilist pressures. So successful demand management was seen as the key to
+improving economic efficiency in all its aspects. Questions of income distribution
+apart, economic policy was macroeconomics with trimmings.
+Macroeconomic Policies: The Continuing Debate
+In most of the OECI) countries, this view of the world continued to gain ground up to
+the end of the 1960s. The post-Keynesian consensus became widely established as the
+prevailing view. Then, like the older accepted doctrines in the Great Depression of the
+1930s, it was shaken by a combination of unforeseen events and professional
+criticism. A new series of major debates was initiated within the profession, more
+prolonged and less one-sided than those of the 1930s, though once again they were
+mainly centred on macroeconomic issues.
+What undermined the new orthodoxy can largely be summed up by an ugly but
+convenient word, ‘stagflation’—high rates of unemployment and inflation persisting
+together. Accepted demand management policies could not prevent its onset in the
+mid-1970s, nor did they offer an effective formula for coping with it once it had
+become established. The post- Keynesian consensus was challenged by the rival
+monetarist approach, which had foreseen the likelihood of accelerating inflation, even
+in the presence of higher unemployment rates, and explained it. As events unfolded in
+the 1970s, the debate was extended from the groves of Academe to the corridors of
+power.
+The issue is often described as one of Keynesianism versus monetarism. but it goes
+wider than that. It also goes deeper than the practical question of the importance of
+monetary policy as such. It concerns the properties and behaviour of economic
+systems. Although the labels are not ideal, the two rival schools of thought can be
+described as post-Keynesian and ‘new classical’. Like Keynes himself, the postKeynesians view modern market economies as subject to disturbances which
+automatic mechanisms will not smooth out, so there is no presumption that output will
+stay close to the level corresponding to the lowest sustainable rate of unemployment.
+The post-Keynesians also believe—though often with more reservations and
+qualifying clauses than 15 years ago— that financial policies, possibly supported by
+incomes policies, can do much to correct this deficiency. Theft view of the world can
+be summed up as stability pessimism combined with policy optimism. The new
+classical position is the reverse of this. Its adherents share with Keynes’s opponents of
+the I930s the belief that there are strong self-equilibrating forces at work in market
+economies. They are stability optimists. At the same time, they stress the
+limitations—some would say, the impotence— of official stabilisation policies.
+One result of the debate, and of the chastening experiences of Western economies in
+recent years, has been to weaken the hold of macro-supremacist ideas. This can be
+seen both in professional writings and in the actions of governments. Many of the
+post-Keynesians now accept that demand management policies will work better if the
+functioning of markets, and particularly of labour markets, is improved. This
+establishes a link with their opponents, who are strongly market-oriented. In spite of
+
+4
+
+the wide differences, there is a shared interest in the interactions between the
+behaviour of individual markets and that of the system as a whole; and there is often
+agreement on specific measures to improve resource allocation—or as they are often
+now termed, ‘supply side’ measures. There is also an uneasy consensus which
+embraces most post-Keynesians and monetarists—to which, however, other ‘new
+classical’ economists are not parties—that economic policy should be viewed in terms
+of both demand side and supply side measures, which are to be seen as
+complementary and mutually supporting.
+The Current Economic Strategy
+This middle-of-the-road consensus is reflected in the broad economic strategy that has
+now been adopted in virtually all the OECD countries. There is a common concern
+with inflation, and a common emphasis on maintaining firm control over the money
+supply, limiting both public expenditure and fiscal deficits, and reducing the scope of
+government regulations and controls. As compared with ten to 15 years ago, demand
+management is no longer the jewel in the crown of economic policy, and official
+thinking has moved in a market- oriented direction.
+So far, however—and here I return to my main theme—this change of direction has
+not greatly affected my second tier of economic issues. The main impetus for change
+has come from the pressure of events and the ferment of ideas in the world of
+macroeconomics. While it is true that reigning economic doctrines are no longer
+macro-supremacist, the debate on ideas and policy, as well as the day-to-day thinking
+of governments, is still macro-centric, and understandably so. Second-tier issues,
+though now seen as more pertinent, remain subsidiary.
+How much does this matter? Well, despite the shift in opinion that I have just
+sketched out, 1 believe that many of my economist colleagues would respond to this
+question with a dismissive shrug of the shoulders. A common professional criticism
+of these lectures will be that Henderson spent his time discussing small questions on
+which 90 per cent of literate economists have been agreed for 200 years, instead of
+addressing the issues that really matter. Let me tell you why my own perspective is
+different.
+A moment ago, I referred to three aspects of efficiency in the economic sense: full
+employment, economic growth, and improved resource allocation. I showed how it
+was natural from the standpoint of Keynesian ideas to think of full employment as not
+only the most important but also the key to the other two. Let me now offer you some
+reasons for believing that on the contrary it is the third area of policy, the allocation of
+resources that holds the key.
+Misdirected Investment
+Some years ago I broadcast a series of talks which I called, with due
+acknowledgement to Oscar Wilde, ‘The Unimportance of Being Right’. In them I
+described the Concorde and the Second UK Nuclear Power Programme as two of the
+three worst civil investment decisions in the history of mankind, the third being the
+Soviet counterpart to Concorde. Since then I have come to think that some major
+ventures elsewhere, including the government nuclear power programme in India,
+may have given rise to comparable losses.
+
+5
+
+I mention these expenditure programmes because they have been conspicuously
+costly, but also in order to emphasise two points. First, they involve the allocation of
+resources. It is necessary to make this statement of the obvious, since a surprising
+number of economists have the mistaken idea that resource allocation is only a matter
+of what happens to relative prices in an otherwise unchanging world. On the contrary,
+it extends to the choice of investments. Second, it is no accident that my examples are
+in the public sector. Of course, private firms can make expensive mistakes; but the
+fact that they are dependent on markets sets a limit to the amounts they can lose. In
+the public sector the limits are less well drawn, and often ineffective. Major
+programmes which yield few outputs, or even none at all, can acquire a status and
+momentum which are almost unassailable. The fast reactor programme in Britain is an
+example. If it had never been embarked on, more than 30 years ago now little would
+have been lost; if it were abandoned now, I believe that the same would hold true. The
+whole nuclear power programme in India rests on an intuitive technocratic vision of
+the early I950s, well laced with a brand of do-it-yourself economics which eminent
+scientists find congenial. The results in terms of costs incurred and actual kilowatthours generated have been consistently disappointing; but so powerful is the vision
+that it is proof against all evidence and experience.
+Industrial Strategies
+The same imperviousness to evidence can be seen in the industrial policies pursued
+over the past four decades by successive British governments. I believe the long and
+continuing sequence of assisted programmes. subsidised ventures, officially arranged
+mergers, support for lame ducks, and selective aid for special cases has had, and will
+continue to have, adverse effects on British economic performance. Obvious fiascos,
+of which the De Lorean, Lear Fan and Nexos projects are recent examples, are only a
+part of the story. In so far as these were due to straight commercial misjudgement, I
+find them less depressing than schemes which owed their support to the combination
+of DIVE, nationalist sentiment, and the natural desire of Ministers and officials to
+play, and be seen to be playing, an active role. It is this combination which ensures
+that past failures, where they are noticed at all, do not undermine the widespread and
+continuing support in Britain for an activist industrial strategy.
+Let me add that Britain is no exception in this respect. It would be easy to compile a
+list of cautionary examples from the industrial policies of other countries—large and
+small, rich and poor. Nor is it only national governments that are involved. I believe
+some of the much- applauded programmes of the European Commission in the field
+of advanced technology will worsen the problem they are designed to cure. All over
+the world, ambitious notions of industrial strategy provide the impetus for misdirected
+investments.
+Investment and Growth
+So far I have spoken of particular investment or expenditure programmes. But
+resource allocation goes wider than this. It extends for example to the division of
+investment between the public and the private sectors. Again, at the level of the
+economy as a whole, the question arises as to how the total resources available will be
+divided between, on the one hand, investing for the future—through expenditure on
+equipment and buildings, research and development, education and training—and on
+the other hand, current consumption. This key ratio of total investment to national
+
+6
+
+product is itself one of the topics that comes under the heading of the allocation of
+resources.
+From this a striking conclusion can be drawn. You will remember that the second
+aspect of economic efficiency is growth—the growth of productive potential over
+time. But this will be strongly influenced by the total rate of investment and by the
+return on the particular projects which make up that total: growth, in other words,
+depends on the quantity and quality of future-directed expenditure. To the extent that
+this is so, the second aspect of economic efficiency has no independent status—it
+merges into the third. Economic growth itself becomes a matter of resource allocation.
+Growth Performance and Trade Regimes
+Viewed in this way, the issue of growth is linked to the role of markets. The possibly
+close connection between a country’s growth performance and the extent of its
+reliance on markets was brought home to me in the late 1960s by a combination of
+personal experience and some notable work by other economists. At issue were the
+developing countries and their choice of trade policies. Up to then it had been
+generally assumed, by economists and practical men alike, that in these countries
+there was little scope for relying on prices and markets, certainly less than in the
+industrial countries where post-Keynesian orthodoxy in any case played down their
+role. As part of this view, it was thought that the developing countries would be wise
+to reduce their dependence on trade and world markets, and to operate regulated trade
+and payments systems. Events and professional argument have now discredited this
+notion. It is widely agreed that those developing countries that established open trade
+regimes, which were relatively free from administrative controls and did not
+discriminate against exports, were able thereby to achieve higher sustained rates of
+growth in output and standards of living. The Outstanding successes in this respect
+have been Bong Kong, South Korea, Singapore and Taiwan. Their achievements have
+matched those of Japan.
+At the other end of the spectrum is Ghana. It presents the rare case of a country which
+has actually become poorer compared with a quarter of a century ago, when it was the
+most prosperous state in black Africa. The main single element in Ghanaian
+prosperity was the flourishing cocoa industry which had been built up by peasant
+proprietors. A recent study describes it as having been ‘garrotted’ by government
+policies. Chiefly, these policies comprised low, controlled prices to producers, taxes
+on cocoa exports, and a persistently and grossly overvalued exchange rate. For those
+who believe that what happens to relative prices within an economy is a matter of
+minor importance, the case of Ghanaian cocoa, and indeed the whole depressing
+sequence of events there, is worth pondering.
+Let me underline that all the cases I have cited, in developed and developing countries
+alike, involve different facets of resource allocation which are inseparable in the real
+world: prices, markets, investment and international trade. I began by discussing a
+range of misconceived investment projects. But in all of these governments had
+deliberately set aside market criteria, and in effect imposed their own prices—either
+explicitly through subsidies, or implicitly through hidden preferences and
+administrative regulations. In so doing, they turned their backs on the opportunities
+offered, both for buying and for selling, by international markets-just as governments
+have also done in creating administered trade regimes, as in the Multi-Fibre
+
+7
+
+Arrangement or the Common Agricultural Policy. In some cases, they also turned
+their backs on ideas because they were foreign. At the level of particular sectors and
+investment projects, this has brought low returns or actual losses. Pursued on an
+economy- wide scale, as in many developing countries, it has been the chief retarding
+influence on economic growth.
+The Distortion of Incentives
+A related and fundamental point is this. Whenever governments use discretionary
+instruments of economic policy there are Liable to be damaging effects on growth,
+because of the way in which these distort incentives. Put simply, growth arises from
+innovation and change within society: and individuals and enterprises make
+innovations, and initiate or accept changes, because it is in their interests to do so.
+They are motivated by both the expectation of gain and the fear of loss. But typically,
+when governments make ad-hoc use of licences, prohibitions, import levies or quotas,
+subsidies, procurement preferences or even informal arm-twisting, the effect is to
+reward one particular group within a country at the expense of everyone else. This, of
+course, is why the interest groups are so active and well organised. The more these
+administrative devices are used, the more the fortunes of firms and industries, of
+employees and owners, depend for their success, not in providing what people are
+willing to pay for, but in persuading those in authority to adopt measures which are
+contrary to the interests of the rest of the community and which retard the process of
+change.
+In so far as political processes take over the functions of competitive markets, it is no
+longer enterprise or efficiency that bring rewards, but successful lobbying, backed by
+expertise in the ways and personalities of government and in the arcane complexities
+of official regulations. Historically it is the great achievement of the market economy
+to have made sustained economic growth possible. by establishing a sphere of activity
+in which the self-interest of individuals, together with their skills and creative
+energies, are harnessed to socially beneficial ends. Most modem governments think
+little of casting this advantage aside.
+Lastly, let me recall a point I made earlier in this lecture. Many post-Keynesian
+economists would broadly agree with their new classical opponents that if markets are
+able to operate more freely this is likely to assist in bringing down the current high
+unemployment rates in many OECD countries. It may also help in the longer term to
+reduce the minimum sustainable rate of unemployment in some of these economies. If
+this is true, then lull employment, as well as growth, falls partly at least under the
+heading of resource allocation.
+In the last half of this lecture I have been making a case. I have argued that the
+prosperity of countries depends in large part on how far their governments are
+prepared to allow choices, and especially investment choices, to be influenced by
+market forces in general and international market opportunities in particular. Let me
+emphasise that in putting this case I am not trying to remove macroeconomic issues
+from the stage: far from it. And though I have given reasons for questioning the
+macro-supremacist view which prevailed for so long after the Keynesian revolution, I
+can well see the attractions of that view. I have reached a different position myself
+through a combination of personal experience, events on the world scene, and
+professional arguments; but I do not rule out the possibility that some time in the
+
+8
+
+future these combined influences, in a new and changing situation, might cause me to
+move in the reverse direction. Meanwhile, however, I find it hard to sympathise with
+those economists who think that resource allocation is synonymous with
+macroeconomics, which as its name betrays is concerned only with small matters, and
+that the term ‘marginal’ in economics is synonymous with unimportant. Nor do I
+share the perception, widely held by professionals and laymen, that trade policies are
+a specialised fringe issue in Western countries today. Together with public finance,
+they form the central core of resource allocation questions; and for reasons I have just
+outlined, I believe that the way in which governments handle these questions is
+probably the main single influence on the wealth of nations.
+
+9
+
+

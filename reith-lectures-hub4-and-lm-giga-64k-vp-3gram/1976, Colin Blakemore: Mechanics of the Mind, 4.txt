@@ -1,0 +1,371 @@
+REITH LECTURES 1976: Mechanics of the Mind
+Colin Blakemore
+Lecture 4: A Child of the Moment
+TRANSMISSION: 1 December 1976 – Radio 4
+
+Imagine that you are asked to remember the number 584. What could be easier?
+Whether you wanted to or not, the number would be yours to recall for the next few
+minutes. With the slightest effort of will, you could remember it at the end of this
+lecture; and, if it were important enough, you would recollect it next month, next year
+or next century.
+There is an American—I’ll call him Henry M.—who has been robbed of this precious
+power to remember; not partially and gradually, just by growing old, as most of us
+will be, but suddenly and almost totally, by the knife of a well-intentioned surgeon.
+From Henry we can learn about the nightmare of eternal forgetfulness—a condition
+that Franz Kafka would have been delighted to describe. Brenda Milner, at the
+Montreal Neurological Institute, has followed the case of Henry for more than 20
+years. She once asked him to try to remember that very number, 584. He sat quietly,
+entirely undistracted, for 15 minutes, and, to her surprise, he could recall the number.
+But when asked how he did it, this is what he said:
+It’s easy. You just remember eight. You see, five, eight and four add up
+to 17. You remember eight, subtract it from 17 and it leaves nine. Divide
+nine in half and you get five and four, and there you are: 584. Easy!
+Henry lives in a world of his own, restricted, not just in space, but in time. Ever since
+an operation on his brain in 1953, his world has been just a few minutes long. Without
+such elaborate and fantastic tricks of rehearsal, almost everything slips from his mind,
+like water through a sieve. Every moment has a terrible freshness. He never knows the
+day of the week, what year it is or even his own age. Even though Brenda Milner has
+spent countless hours with Henry, she is an utter stranger to him, and on each
+occasion that they meet it is as if she were entering his transient world for the first
+time. He is, quite simply, unable to remember the new contents of his conscious
+experience. His general intelligence is not at all reduced and he is painfully aware of
+his own shortcomings. He apologises constantly for the absence of his mind,
+Right now, I’m wondering, have I done or said anything amiss? You
+see, at this moment, everything looks clear to me, but what happened
+just before? That’s what worries me. It’s like waking from a dream; I
+just don’t remember . . . Every day is alone in itself, whatever
+enjoyment I’ve had, and whatever sorrow I’ve had.
+Henry still remembers his very old memories and habits, but cannot form new ones
+and even has amnesia for things that happened in the years immediately before the
+operation. Three years before, his favourite uncle died, but Henry suffers the same
+grief anew each time that he is told of his uncle’s death.
+
+1
+
+In 1892, the German physiologist, Friedrich Goltz, described a similar loss of memory
+in dogs after the cerebral cortex had been damaged. ‘They do not learn from past
+experience,’ Goltz wrote. ‘They do not have experiences, for only he who has
+memories can have experiences. The do- cerebrated dog is essentially nothing but a
+child of the moment.’ Henry is a ‘child of the moment’, too; he is trapped,
+interminably, in the naïveté of infancy.
+We discover from this special case that our memories have two forms: one of them is
+quickly created, but fades within a few minutes, to be followed by a more persistent
+store, which can last for a lifetime. The most popular view is that short-term
+memories are converted or consolidated into the long-term ones, but the embodiments
+of the two sorts of memory must be quite different. Henry has lost the power to form
+new long-term memories; or perhaps he can make them, but has no way to retrieve
+them again.
+The injury to the brain of Henry was deliberate. When he was young, he gradually
+developed epilepsy so severe that he was unable to work. The surgeon treating him
+decided to remove the part of the brain that he thought was causing the epileptic
+seizures—an evolutionarily ancient part of the cerebral cortex, called the
+hippocampus (meaning a sea-horse) because of its twisted shape, which lies tucked
+inside the temporal lobes of the cerebral hemispheres. The hippocampus had been
+removed on one side in many previous patients, but because Henry’s epileptic attacks
+seemed to involve the whole of his brain, the surgeon destroyed the hippo- campus on
+both sides. And that was the cause of his present terrible state, for the hippocampus of
+man is crucially important in laying down or retrieving long4erm memories.
+Presumably, this surgical procedure will never be used again. Experimental brain
+surgery, which I shall discuss in a future lecture, is perhaps the riskiest form of
+experimental medicine, because it is irreversible and its effects are expressed as
+changes in the personal experience and the behaviour of the patients involved.
+In the 1940s, as the epilepsy of Henry was becoming progressively worse, a Canadian
+neurosurgeon, Wilder Penfield was gathering other evidence that the temporal lobes
+of man conceal the key to his memory. Penfield was also operating on epileptic
+patients, removing the areas of irritative damage in their brains. To guide him in
+pinpointing the epileptic focus, he used a method of exploring the human brain that
+has provided perhaps more evidence about its organisation than any other technique.
+He stimulated the surface of the brain with a weak electric current, not to damage it,
+but to excite impulses in the cells and fibres under the stimulating electrode. His
+patients were completely conscious during this electrical invasion of their minds.
+Only the scalp was locally anaesthetised; the tissue of the brain itself its insensible to
+touch, heat or pain.
+Penfield hoped to discover in each patient an area in the brain which, upon
+stimulation, would arouse the same curious mental aura that ushered in the epileptic
+attacks. That would be the spot to destroy, Penfield argued; and this approach was
+remarkably successful. But it also gave him the chance to discover the functions of
+other parts of the cerebral cortex. Stimulation of the touch area produced strange
+sensations felt by the patient in his skin; excitation of the visual cortex made the
+patient see flashes of light or swirling coloured forms in his visual field. But when
+
+2
+
+Penfield moved hits stimulating electrode to the temporal lobe and the hippocampus
+itself, the experiences of the patient were not mere fragments of sensation. They were
+whole episodes of existence, plucked from the patient’s previous life. The person
+would suddenly be transported into the past and would feel himself eavesdropping on
+a familiar scene.
+One of Penfield’s patients was a young woman. As the stimulating electrode touched
+a spot on her temporal lobe, she cried out: ‘I think I heard a mother calling her little
+boy somewhere. It seemed to be something that happened years ago…in the
+neighbourhood where I live’. Then the electrode was moved a little and she said:
+‘I hear voices. It is late at night, around the carnival somewhere—some sort of
+travelling circus. I just saw lots of big wagons that they use to haul animals in.
+There can be little doubt that Wilder Penfield’s electrodes were arousing activity m
+the hippocampus, within the temporal lobe, jerking out distant and intimate memories
+from the patient’s stream of consciousness.
+Memory, its physical structure, is an unsolved challenge for brain research. In fact, it
+is, perhaps, the central question, rather like the problem of the structure of DNA
+(deoxyribonucleic acid) for molecular biology and genetics. But theories about the
+nature of memory have still not really progressed beyond the stage of description
+through analogy. Analogy has often been a valuable stage in the discussion of
+biological problems, but it is, of its nature, constrained by the technological
+development of the time or the level of scientific knowledge in other fields. The
+restrictive nature of argument by analogy is aptly illustrated by historical models of
+memory. They are almost all based on the devices used by man himself to store
+information.
+According to Aristotle, sensory impressions entered the head with such force that they
+left physical inscriptions in the brain, like a scribe engraving on a wax tablet. This
+idea, that the mind is a tabularasa on which experiences are literally written, was
+espoused by the empiricist school of philosophy. ‘Let us then suppose the mind to be,
+as we say, white paper, void - of all characters, without any ideas;’ wrote John Locke
+in 1690, ‘how comes it to be furnished? Whence comes it by that vast store, which the
+busy and boundless fancy of man has painted on it with an almost endless variety? To
+this I answer in one word, from experience.’
+Even current models of memory dwell on analogies with existing, artificial methods
+of storing information. Mental memory has been compared with the magnetising of
+ferrite rings in the core memory of a computer, and with the ‘distributed’ image of a
+hologram—a device that stores a record of a three-dimensional scene through a
+process involving photography with laser light. Each analogy has a certain attraction
+because it mirrors some particular special feature of memory. The permanence of
+lines scratched in a wax tablet or written on paper mimics the durability of real
+memory. The speed of access to the memory of a computer core is reminiscent of the
+remarkably rapid way in which neuronal memory can be consulted.
+Because the information in a holographic plate is’ distributed ‘when part of the plate
+is destroyed, a somewhat degraded reconstruction of the entire stored image can still
+be retrieved from it; and there is a similar phenomenon in the brain. The eminent
+
+3
+
+psychologist, Karl Lashley, working in the first half of this century, described a kind
+of resistance to local injury in the store of information in a rat.
+The actual representation of remembered events is almost certainly in the cerebral
+cortex, but Lashley found that small areas of damage in the rat’s cortex simply blurred
+the animal’s ability to perform tasks that it had previously learned. The degree of
+degradation of memory was roughly proportional to the area of damaged cortex.
+Lashley expressed his frustration in failing to track down the physical substance of
+individual stored remembrances in a famous scientific paper in 1950. ‘I sometimes
+feel,’ he wrote, ‘in reviewing the evidence on the localisation of the memory trace,
+that the necessary conclusion is that learning just is not possible.’
+Description by analogy seems less successful for the nervous system than for other
+organs in the body. The heart is like a pump in its action and the kidney is like a filter
+because they are a pump and a filter. The analogies are both comparisons with other
+pieces of machinery and actual explicit descriptions of the mechanism of heart and
+kidney. But however similar in its properties mental memory is to a computer core or
+a hologram, the brain is not a set of magnetised rings or a laser illuminated
+photographic plate. The value of analogy is that it provides rules, best expressed in
+mathematical terms, for accomplishing certain logical processes. The rules will
+restrict the set of possible devices that can accomplish the task. Unfortunately, the
+physical structure and mechanisms of operation in the brain are so unlike those of any
+piece of machinery made by man that analogies are usually weak.
+In any case, most theories of memory concentrate on the manner in which events can
+cause changes in physical structures. In other words, they are concerned with the
+machinery of memory, not the code— the symbolic form in which the events are
+registered. The printing of words on a page is a simple and efficient method of storing
+information, but it means nothing without knowledge of the language in which the
+message is written. Most theories of memory are, as it were, concerned with the
+question of ink and paper and not with the much more fundamental issue of the
+grammar of remembrance.
+From this point of view, the most compelling theory of memory is the claim that
+remembering might consist of the synthesis of specific chemical molecules in the
+brain, the structure of each molecule representing a remembered event. This
+hypothesis is so powerful because it not only describes a possible physical substrate
+for memory (the synthesised molecule), but also embodies the nature of the code by
+which the information might be stored (the sequence of compounds in the molecule or
+its specific shape).
+Certainly, long-term memory must involve some physical change in the structure of
+the brain. Consider the following classical experiment; a rat is quickly taught to run
+through a maze or perform some other task. It is then cooled down to about five
+degrees centigrade for some time, stopping all electrical activity in its brain. When it
+thaws out, the rat, nose the worse for wear, tries the maze again. With a fairly long
+interval between learning and cooling, the rat still remembers the maze. But if cooled
+within minutes or perhaps seconds of learning, it reacts as if the task were completely
+new. The necessary conclusion is that the initial storage of information, short-term
+memory, involves ongoing patterns of nerve impulses in circuits of nerve cells
+
+4
+
+connected together by their fibres, while long-term memory is a lasting structural
+change in the pathway of cells. Some would say that this structural change is the
+synthesis of a substance that actually describes the remembered event. The theory of
+chemical memory even contains a strong analogy, for it draws a comparison between
+mental memory and that other monolithic biological mechanism of remembering—the
+genetic code.
+The double helix of DNA is, indeed, a store of information. What it remembers is the
+exact chemical composition of the organic species it belongs to: it is, quite simply, a
+recipe for replicating the structure of that organism. And the sequence of nucleotide
+bases within the double helix is not just the structure of genetic memory, but is the
+code as well. The four different bases that constitute the nucleotide chain are letters in
+an alphabet. Each triplet of three successive bases forms a word that specifies a
+particular amino-acid. The amino-acids, of which there are 20 kinds, are assembled
+within the cell, according to the instructions written in each gene, to make a
+polypeptide chain, which folds into a protein molecule. It is these proteins that define
+the nature and form of each organism: in particular, the enzyme proteins determine
+the metabolic processes that the cell can perform.
+The structure of DNA proposed by Francis Crick and James Watson put flesh on the
+skeleton that Charles Darwin left in the Victorians’ cupboard. It explains, with such
+staggering simplicity, the physical nature of genetic memory, and the code by which it
+stores information. What Darwin had supplied, 100 years before, was the other
+essential component—a way in which genetic memories could be forgotten. Natural
+selection is the mechanism by which only useful genetic memories are retained.
+It is difficult to exaggerate the importance of forgetting in mental memory, too. The
+selection process that lets us store in long-term memory only a tiny fraction of the
+running contents of short-term memory is essential if the brain is to use particular
+instances to derive general principles by a process of inference. The Russian
+psychologist, Alexander Luria, has described a man whose memory seemed to have
+no limit—a mnemonist whose mind was so extraordinary that Luria wrote of him in
+terms usually reserved for the mentally ill. He could commit to memory in a couple of
+minutes a table of 50 numbers, which he could recall in every minute detail many
+years later. His greatest difficulty was in learning how to forget the endless trivia that
+cluttered his mind.
+In a remarkable short story, Funes the Memorious, the Argentinean writer Jorge Luis
+Borges describes, in fiction, the alien totality of forgetlessness. A young boy, Ireneo
+Funes, had a fall from a horse and forgot how to forget. Borges writes:
+We, in a glance, perceive three wine glasses on the tables; Funes saw all
+the shoots, clusters, and grapes of the vine. He remembered the shapes
+of the clouds in the south at dawn on the 30th April of 1882, and he
+could compare them in his recollection with the marbled grain in the
+design of a leather- bound book which he had seen only once, and with
+the lines in the spray which an oar raised in the Rio Negro on the eve of
+the battle of Quebracho…He told me: I have more memories in myself
+alone than all men have had since the world was a world.
+
+5
+
+But what kind of molecules in the brain could possibly qualify as the repository of
+mental memory? They would need to be complex and therefore large in order to have
+sufficient variability in form to repre.’ sent the high informational content of each
+remembrance. In that case, the choice of appropriate macromolecules within the nerve
+cell is rather limited. They would have to be either proteins or the nucleic acids
+themselves—that is DNA, or RNA, the ribonucleic acid that transcribes the message
+from the DNA of the gene and which actually assembles the protein molecules. But
+all of these substances, DNA, RNA and protein, employ logically equivalent coded
+messages. The series o amino-acids in a protein contains identical information to the
+sequence of bases in the RNA on which it grew, and this, in turn, is simply a recoded
+version of the base sequence in the DNA of the gene. It is rather like the same
+sentence being expressed first in written words, then in Braille translation, and finally
+in Morse code; the information is identical. And so it is in protein, RNA and DNA.
+So, in order for a wholly novel and unique protein or RNA molecule to be made for
+each memory, a new DNA sequence would have to be synthesised first, within the
+actual gene. But there is no evidence that the DNA of nerve cells is continuously
+changing. In fact, DNA is virtually the only material that is not constantly being
+replaced in the living cell. The very permanence of genetic memory relies on the
+extraordinary stability of the DNA molecule: how can mental memory work by
+changing it?
+There seem to be only two possible solutions to this dilemma. Either the whole theory
+of chemical memory is wrong, or the existing, inherited DNA of the genes already
+contains the capacity to synthesise the RNA or protein that is used to represent any
+conceivable new remembrance. Each brain might contain within itself all the potential
+memories that it could ever form: every event would merely trigger production of the
+appropriate molecule, which was already described, in latent form, in the animal’s
+inherited DNA.
+This fantastic notion that every memory is innately within us, in our genetic makeup,
+is curiously reminiscent of Plato’s nativist theory that all human knowledge is derived
+by the soul from a previous existence. In his dialogue, Meno, Plato pictures a simple,
+uneducated slave-boy, Meno, being interrogated by Socrates. By judicious choice of
+questions, Socrates drags out of Meno an account of the fundamental theorems of
+geometry. True knowledge, Plato argues, must be within us all, and learning consists
+solely of discovering what we already know.
+It is true that the genetically-programmed wiring of the brain restricts the way in
+which each animal can act, and even provides, a vast repertoire of inherited automatic
+reflexes that allow it, without previous personal experience, to react appropriately to
+certain stereotyped situations that it might encounter. Built-in reflexes are the inherent
+knowledge of Plato: they are the behavioural reflections of genetic memories about
+the experience of earlier brains.
+But it is inconceivable that the empirical experience of each individual animal is
+actually represented by the synthesis of molecules. The expression of even innate
+reflexes requires the construction of nerve pathways that guarantee the appropriate’
+response to the particular stimulus. The formation of personal memories must surely
+involve a similar transformation in the connectivity of the brain.
+
+6
+
+What the chromosomes must store is the instructions needed to allow any circuit of
+nerve cells to change, depending on its own activity, without specifying in advance
+which circuit will be involved. The ultimate chemical contribution to mental memory
+is, then, the genetically-programmed ability to learn.
+The emergence of the capacity to learn is the triumph of evolution. Its first appearance
+must have been, quite simply, a transcendent step in the development of animal life,
+for learning frees the individual from the chains of his own double helix. It is the
+predictive power of learning and memory that give them such immense survival
+value. A primary requirement of any animal is that it should be able to anticipate
+changes in its environment. Inherited reflexes contain a static description of the events
+of high probability in the past experience of the species, but learning allows each
+animal to add a stock of personal secrets to ‘its description of the probabilities of the
+world.
+To anticipate the future is the ultimate goal of the evolution of the nervous system.
+But since it works inductively, the brain can only base its predictions on probabilities
+drawn from the past. True clairvoyance —the mythical power of the soothsayer and
+teller of fortunes to predict future events without statistical qualification— would be
+so immensely valuable to an animal that its natural selection by evolutionary pressure
+would have been explosive. If any species had had genuine second sight, not only
+would it necessarily have spread like a flood through the gene pool, but also that
+species would rule the world., For this reason alone the biologist must regard with
+extreme suspicion the claim that some individuals have extra-sensory perception, or
+true clairvoyance. And yet we do owe a good deal of our own biological superiority to
+our ability to plan for the future. There is no doubt that the evolution of intelligence
+has involved a gradually increasing power of prediction.
+In the back-to-front world that Alice found behind the looking-glass, the White Queen
+actually lived in reverse. ‘There’s one great advantage in it,’ she said, ‘that one’s
+memory works both ways.’ ‘It’s a poor sort of memory that only works backwards.’
+So it is. Our memory is not quite the kind of bizarre predictor of the future that made
+the White Queen scream before her finger was pricked, but the biological (if not the
+aesthetic) value of remembering is not that it allows one to reminisce about the past,
+but that it permits one to calculate coldly about the unknown future.
+Just as individual memory has partly released each animal from the immediate
+restrictions of the genetic code, so the sharing of learned ideas by social animals has
+added an entirely new dimension to the progress of evolution. The spread of ideas
+through social groups of animals, which is so well developed in the, primates, and
+especially in man, allows the experience of the individual to become reflected in the
+behaviour of other members of the same social group, even those in later generations.
+This is truly the social inheritance of culturally acquired characteristics.
+In 1953, on the Japanese island of Koshima, a female macaque monkey called Imo, a
+genius amongst monkeys, Invented a method for cleaning unpalatable sand from the
+sweet potatoes that the group of scientists observing the monkeys had been scattering
+on the beach since the previous year. She dipped each potato into the water of a brook
+with one hand and brushed away the sand with the other. During the following two
+years this habit of washing potatoes spread to 90 per cent of the members of Imo’s
+
+7
+
+troop: only the youngest infants didn’t know it, and the oldest males steadfastly
+refused to adopt it.
+By the sharing of ideas, animals, and most especially humans, pool the ability of their
+group. The pinnacles of intelligence are exploited by the entire society. In human
+culture, this has led to the emergence of a kind of communal intellect—the collective
+mind of man—that has pushed forward his biological progress at a prodigious rate. At
+first, the cultural transmission of human ideas must have been by imitation or
+demonstration, as it is among monkeys, and later by word of mouth. Such methods of
+transfer are subject to the opportunity for progressive distortion like that which
+characterises the spread of a rumour. And hence all the conditions would exist for a
+kind of evolution of ideas. The variability, which genetic mutation gives in Darwinian
+evolution, would be provided by the regular contribution of individual new ideas and
+their distortion in cultural transfer. The natural selection of these ideas would be made
+on the basis of their utility; in general, useful ideas would survive because they would
+propagate themselves, just as an adaptive genetic mutation flourishes.
+In effect, the evolution of ideas in the co1lective mind of man has virtually brought
+true natural selection to a halt. The ability of man to manipulate and plunder his
+environment has steadily grown, at the same time that medical skill has almost
+vanquished the forces that put pressure on the biologically undesirable elements of his
+genetic stock. Many biologists, including Jacques Monod, have ex’ pressed their fears
+at the dilution in quality of the human gene pool. But that is not all we have to fear.
+The present status of humanity is, in fact, a stalemate between the forces of
+conventional evolution, which threaten to punish us for breaking beyond the bounds
+of our biological rights, and our collective mind, which battles to pre serve our present
+status. What we should be most afraid of, perhaps, is the fact that, since the invention
+of printing, magnetic tape and computer cards, the collective mind has lost the vital
+ability to forget A principal task for us lies in the organisation of knowledge for ready
+access. This problem is nowhere more acute than in science itself, where the sheer
+accumulation of facts threatens to impede rather than to assist the progress of new
+ideas.
+Already, the technology that supports everyday life in the developed world has
+become so complex that no single mind can understand it. Man might not go out with
+a bang of his own creation, nor freeze his race to death by stealing the energy
+resources oil the earth. He might simply drown himself in a flood of information;
+society could collapse because it no longer comprehends its own cultural inheritance
+The code of the collective mind—the medium by which ideas are transmitted by
+man—is human language That Is the subject of my next lecture.
+
+8
+
+

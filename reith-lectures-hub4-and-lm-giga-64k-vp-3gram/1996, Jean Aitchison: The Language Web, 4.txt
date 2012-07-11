@@ -1,0 +1,319 @@
+REITH LECTURES 1996: The Language Web
+Jean Aitchison
+Lecture 4: A Web of Words
+TRANSMISSION: 27
+
+February 1996 – BBC Radio 4
+
+Dean Farrar, a respected 19th century intellectual, once eavesdropped on some apple
+pickers. “I once listened for a long time to the conversation of three peasants who
+were gathering apples among the boughs of an orchard. And as far as I could
+conjecture, the whole number of words they used did not exceed 100,” he guessed.
+They managed with this low number, he suggested, because “the same coarse
+expletives recurred with a horrible frequency in the place of every single part of
+speech.” Dean Farrar, like numerous others, grossly underestimated the number of
+words known by native speakers of English, or any language.
+Words are the topic of today’s lecture. The Language Web is the title of all these
+lectures and the human word store, with its multitude of links, is perhaps the most
+truly web-like of all aspects of language - even though up till recently both the size
+and the importance of the internal dictionary, or mental lexicon, has been
+underestimated.
+A false but popular view is that the size of a person’s lexicon is about two-thirds of
+Shakespeare’s vocabulary whose plays contain around 30,000 different words. But far
+more words exist now than in Shakespeare’s time and many speakers probably know
+twice as many as he did. An educated native speaker of English knows at least 50,000
+words, according to our best guestimates. The word “know” refers to “potentially
+active vocabulary”, that is, words which could be used spontaneously, even though
+words such as igloo, gladioli, or trombone, might occur only occasionally. Humans
+mop up words like sponges. By the age of 5, most English-speaking children can
+actively use around 500 words; and more are added fast, often quite long and complex
+ones.
+
+Child: There’s all different kinds. There’s triceratops’, a pachycephalosaurus, a
+crocodile, an ankylosaurus. That’s a barosaurus, a diplodocus, a brachiosaurus, a
+triceratops.
+The total number of words rises to 20,000 around the age of 13, and to 50,000 or more
+by the age of about 20. These figures have been arrived at by tests on the proportion
+of words known in various dictionaries. A typical university student can use the
+equivalent of two-thirds of the Concise Oxford Dictionary, which claims to contain
+around 75,000 entries. Though most people also know dozens of quite specialised
+words, which don’t always find their way into dictionaries - as with chemists who
+know the chemical elements.
+
+1
+
+MUSICAL CLIP: THE ELEMENTS SONG
+Averaging it out, between the ages of 5 and 20 a native English speaker acquires more
+than 10 words a day. That’s more than 300 a month and well over 3,000 a year,
+though the words are unlikely to be acquired at a smooth rate. This far surpasses the
+achievements of those few chimpanzees who have been taught so-called “words” via
+signs or pictures. Their total rarely reaches 500 in spite of intensive coaching. As one
+researcher concluded: “The only way to begin to account for the child’s wizardry as a
+word-learner, given the sheer weight of how much there is to be learnt, is to grant that
+the child brings a great deal to the ‘original word game’” : word-learning ability is
+clearly inbuilt in humans.
+At one time learning words was thought to be like beachcombing: strolling along the
+shoreline, picking up different shaped pebbles and shells, which were then stacked up
+in a mental museum. This is still the view taken by some language learners, as in
+Hanif Kureishi’s novel The Buddha of Suburbia, which described an immigrant keen
+to get accepted: “Dad always carried a tiny blue dictionary with him, making sure to
+learn a new word every day. At the weekends I’d test him on the meaning of
+‘analeptic’, ‘frutescent’, ‘polycephalus’ and ‘orgulous’. He’d say, “You never know
+when you might need a heavyweight word to impress an Englishman.”
+But words are not separate pebbles. They are woven into a complex web whose
+multiple links enable humans to remember and find so many words so quickly. At a
+first glance words are like coins with two sides: meaning on the one side, and sounds
+on the other. These two sides can get detached. Sometimes the meaning gets linked to
+the wrong sounds. Prince Edward, in a television interview about his old school said:
+“It’s difficult to use capital punishment in any institution. A beating is very valuable.
+It shows people you’ve come to the end of your tether.” The Prince did not plan to
+behead his school chums. He had made a speech error, a slip of the tongue, and said
+capital punishment when he’d meant corporal punishment. At other times people
+know the meaning of the word they want but can’t think of the sounds, which they’re
+sure are “on the tip of their tongue”. They’re just out of reach, like a submerged
+dream that floats under the surface of memory.
+Word meaning is the side of the coin people often think about first, though humans
+can’t usually explain the meanings of the tens of thousands of words they use.
+Defining words like a dictionary is a technical skill which only lexicographers
+acquire, as Blackadder discovered when he tried to rewrite the dictionary.
+CLIP: BLACKADDER
+Blackadder: Right. Next “A” - “A-B”.
+Baldrick: “A-B“. Well it’s a buzzing thing, ain’t it? “A buzzing thing.”
+Blackadder: Baldrick, what have you done?
+Baldrick: I’ve done “C” and “D”.
+Blackadder: Right. Let’s have it then.
+Baldrick: Right. Big blue wobbly thing that mermaids live in. Sea.
+Blackadder: Yes, tiny misunderstanding. Still my hopes weren’t high. What about “D”?
+Baldrick: I’m quite pleased with “dog.”
+Blackadder: Yes and your definition of “dog” is?
+Baldrick: Not a cat.
+2
+
+A view that words have fixed, precise meanings is an old one which goes back at
+least to Aristotle. It’s still found today. According to the novelist Evelyn Waugh,
+words have basic inalienable meanings, departure from which is either conscious
+metaphor or inexcusable vulgarity. Traditionally, a word is viewed as a cake, with a
+set recipe, whose ingredients can be ticked off on a list - sometimes called a checklist
+view of meaning. But the checklist idea works only occasionally, mainly for technical
+terms such as square, which is “a closed flat figure, with four sides of equal length,
+and all interior angles equal”. It works also for some consciously invented meanings,
+as in a bureaucratic definition of a cow. “A cow is a female bovine animal which has
+borne a calf, or has, in the opinion of the minister, been brought into a herd to replace
+one which has borne a calf.”
+But in most cases, woolly boundaries and fuzzy edges are the norm. Word meanings
+are like stretchy pullovers whose outline contour is visible, but whose detailed shape
+varies with use. In the words of R.G. Collingwood, “the proper meaning of a word is
+never something upon which the word sits like a gull on a stone. It is something over
+which the word hovers, like a gull over a ship’s stern”. This has been known for quite
+a long time. Nearly 40 years ago, the philosopher Wittgenstein pointed out the
+“family resemblance” phenomenon, using the word game as an example. Like
+members of a family, every game has similarities with some other game: ring-a-roses
+and tennis involve physical activity, tennis and chess require a winner, chess and
+patience are normally played indoors, and so on - but no one factor links them all.
+More than 20 years ago, the sociolinguist William Labov drew attention to the “fuzzy
+edges” problem, by asking people to name various containers. They not only
+disagreed with one another over bowls, cups and vases; but were inconsistent from
+day to day. Certain shapes were clear instances of particular containers, but others
+varied: something might be a bowl when full of potatoes, but a vase when it held
+flowers.
+A possible solution to all this fuzziness was proposed in the mid-1970s by a
+psychologist, Eleanor Rosch: humans do not rank all members of a category equally,
+she pointed out. They judge some to be very good examples, and others less so. So
+robins and blackbirds are very good birds, which she labelled prototypes. Canaries
+and doves are less good birds; toucans and ducks are bad birds; and a penguin is a
+very bad bird indeed. People analyse the characteristics of the best bird, the prototype,
+and allow anything which sufficiently resembles it to belong to the category “bird”.
+This explains how humans deal with oddities, why ostriches, emus and one-legged,
+albino blackbirds can be accepted as birds.
+But children take time to discover adult prototypes. One small girl latched onto a
+crescent moon as a prototypical moon. She then labelled anything which was crescent
+shaped and shiny as “moon” including curved cow horns, a slice of lemon, and a
+shiny green leaf. For another child, a “ra-ra” began as something dead and bloody
+which the cat brought in, maybe from the noise made by the animal as it chewed its
+catch. She then applied the word to her own blood-smeared cuts and bruises and,
+later, to red cherries in ice-cream. Adult style ranking may take a long time to emerge.
+Eleven year olds were inconsistent when asked to select the best examples of a
+category. Older children tended to give top ranking to items which were important to
+them. They gave high priority to parrots among birds because they found them eyecatching, and to potatoes among vegetables because they like potato chips.
+3
+
+In different cultures some unexpected differences sometimes surface. English
+speakers expect vehicles to have wheels and regard cars and buses as the best
+examples. French speakers are less fussy about the wheels, and some even accept skis
+and lifts as examples of “un vehicule”, a vehicle. Several Italian teachers of English
+judged that a goose was not a bird on the grounds that it was a fowl; and that a walnut
+was a fruit, a dried fruit. And some Swedish teachers of English denied that berries
+could be fruits. They had all been influenced by their own language even though they
+were unaware of this.
+But the human word-web involves much more than a set of prototypes. It’s
+multidimensional. Each word is an intersection point at which numerous strands meet.
+Some of these linking threads can be identified by “slips of the tongue”, when people
+accidentally substitute one word for another. “Do you have a refrigerator in your car?”
+someone asked me. They meant air-conditioner, showing that names for different
+cooling mechanisms were linked in their mind. Strong ties exist between words within
+the same domain of meaning, so “brother” may get substituted for “sister”, “aunt” for
+“niece”, “tomorrow” for “yesterday”, and so on. Sigmund Freud, incidentally,
+suggested that word substitutions had some deeper significance as when the Austrian
+President declared a meeting of parliament closed when he meant opened. Freud
+comments: ‘No doubt the President secretly wished he was in a position to close the
+sitting, but this seems over imaginative. Perhaps the words ‘close’ and ‘open’ are just
+tightly linked in the mind and some distraction caused the President to pronounce the
+wrong one.”
+Patients with brain damage sometimes provide further evidence of word links. A
+stroke victim may look at a lemon and name it apple or orange. The word-name has
+not necessarily disappeared from memory. Instead, closely connected words may have
+become confused, just as normal speakers cannot always remember which is which
+among different breeds of dog or makes of car.
+How these word-clusters form in people’s minds has long been a puzzle. But the
+answer may be quite simple. Words which can replace one another in a sentence
+structure often occur together, as orange and lemon: “Oranges and lemons say the
+bells of St Clement’s.” “Roses are red, violets are blue.” “Girls and boys come out to
+play.” “Parsley, sage, rosemary and thyme.” Even antonyms, opposites, are probably
+learned because they tend to occur near one another: “Don’t mix clean clothes with
+dirty ones”, “You’ll have to take the rough with the smooth”, “She doesn’t know if
+she loves him or hates him”, and so on.
+And people often use a couple of words from the same domain to avoid using a more
+general, technical term which covers them both. They talk about “brothers and
+sisters”, not siblings; “rain and snow”, rather than precipitation. “Please put the knives
+and forks on the table” is more usual than cutlery, which is a fairly formal term.
+“You’ll find the cutlery on the fourth floor, Madam.” In some cases, a superordinate
+term doesn’t even exist. What are baths and basins? Are they bathroom fixtures? Or
+sanitary fitments? What are coughs and sneezes? Are these noises indicating
+respiratory distress? And what about tin-openers and corkscrews, which are
+sometimes confused in slips of the tongue? No single English term covers “kitchen
+gadgets for opening things”.
+
+4
+
+Noticing which words occur together is a natural human talent. It’s the key to
+sounding like a native speaker. People who grow up speaking British English don’t
+talk about rank butter or rancid eggs or rotten weeds. They reliably refer to rancid
+butter, rotten eggs and rank weeds, even though rancid, rank and rotten tend to have
+overlapping definitions in dictionaries.
+Similarly with chase and pursue. English speakers use them with different objects,
+even though they might not consciously realise it. We chase runaway horses, burglars,
+balls and other physical things, as in “More friggin’ football. Bunch o’ tarts going
+round a field chasing a ball!” That example, by the way, was from the British
+National Corpus, a databank of spoken as well as written English. But we pursue
+abstract ideas, aims, targets and policies as in, “We need to take the initiative in
+pursuing a strategy for employment and growth”. So footballs are not normally
+pursued, nor are targets chased - even though the meaning follow after is given for
+both chase and pursue in some dictionaries.
+And humans learn how to handle new words by paying attention to the other words
+around, as with “wimp”. This word is widely used, but it’s crept into dictionaries only
+recently, so must have been learned some other way. In a survey of “wimp” words in
+newspapers over 80 per cent were accompanied by clues to its meaning, that of a
+feeble male. “He hates wimps and needs strong people”. You were a hunk if you
+drove a Mustang; a wimp if you drove anything else. He was a go-getter, a doer, not
+some depressed wimp and so on.
+Humans than are super sensitive to words which occur together. Sensitivity to
+surrounding words is now thought to be the key to learning grammatical rules. Verbs
+especially are the maypole around which a sentence revolves and they determine its
+structure. For example, you have to put something somewhere as in “Herbert put the
+jellyfish in the bath”. You can’t just say “Herbert put the jellyfish”. The sentence
+structure must have been picked up by listening to the words around.
+But words don’t just have meaning links. They also have a sound structure.
+Information about how humans retrieve word sounds comes from malapropisms similar sounding words which get confused, as in “he told a funny antidote” for “he
+told a funny anecdote”. Mrs Malaprop, the character in Sheridan’s play The Rivals,
+said things such as, “As angry as an allegory on the Banks of the Nile” when she
+meant “alligator”. With real adults a bathtub effect is found: the word is like a person
+submerged in a bath, their head and feet out of the water with the head further out
+than the feet. People get the beginnings of words right, after that the ends, and the
+middle not very well, as in “transcendental medication” for transcendental meditation.
+It’s a policy I regard as indispensable,” said a government spokesman. He actually
+meant “indefensible”. And “You keep newborn chicks warm in an incinerator,”
+proclaimed a lecturer. She had meant to say “incubator”.
+People also remember the word-rhythm and stressed vowel most of the time, though
+not as well as the beginnings and ends. Numerous similar words are distinguished
+fast, mostly by their different beginnings, as with ability and debility or virility and
+sterility.
+
+5
+
+MUSICAL CLIP: WHEN YOU ARE OLD AND GRAY
+Children, on the other hand, are better than adults at word rhythm, and not so good at
+word beginnings, as in: “Daddy, please will you buy me an ice-cream toilet” for “icecream cornet”, and “the lion and the leprechaun” for “the lion and the unicorn”,
+“gandigoose” for “bandicoot” and “marmadillo” for “armadillo”. They eventually
+shift over to an adult-like system, partly because they learn to read and partly because
+they discover that word beginnings provide a faster way to find words.
+Of course humans don’t just remember old words. They also coin new ones. “A dead
+cat bounce” is a temporary and deceptive share recovery before a final crash.
+“Greenism” is commitment to preserving the environment. “Middlescence” comes
+between adolescence and senescence. A “magaholic” is an insatiable magazine reader
+and a “golden parachute” is a large sum of redundancy money which allows the
+person dismissed from employment to float gently down to the problem of being
+unemployed. Most new words simply disappear, like raindrops falling and soaking
+into the ground. Only a few get caught in the bucket of public attention and make
+their way into dictionaries. As an 18th century writer James Bramston expressed it:
+“Like South Sea stock expressions rise and fall. King Edward’s words are now no
+words at all.” Coining words begins early. Young children easily make up new words,
+but many of them are odd by adult standards. “I’m souping,” said a 3-year old as it ate
+soup. Even 11 and 12 year olds make a lot of odd guesses. For example, a group was
+asked: “Suppose there was an insect called a wug, what would be a good word for a
+very small wug?” Woggle, wuggable, and wugtugbug were among the suggestions
+made. But adult-type responses, usually wuglet or wugling, became much commoner
+among teenagers, though several suggested miniwug or microwug. This ties in with
+an explosion of mini and micro-prefixes in the language as a whole. The mini micro
+rocket took off in the 1960s with words such as minicar, minibar, miniskirt and
+microwave becoming commonplace. From then on “mini” cropped up everywhere. “I
+must have been out of my mini mind,” commented one writer.
+Confidence in handling word formation may be one reason behind a leap in
+vocabulary which occurs around the age of 13. It’s a skill non-native speakers find
+hard to master. Sometimes word they think should exist simply don’t. “A principle of
+idealisation is applied manywhere,” said a Japanese scientist in the preface to his
+book.
+But every time we speak, we have to pick from this huge number of words, old and
+new. At one time searching for a word was assumed to be like hunting for a book in a
+library. A person went to the shelf in the mental lexicon where it was stored, as it
+were, then pulled it out. If this selection took place in too much of a hurry, a
+neighbour might be accidentally picked such as left instead of right or geranium
+instead of hydrangea. But this neat library model is unlikely. It’s more as if humans
+pull out a number of words from the bookshelves all at once and then replace those
+they don’t want. The mind subconsciously over-prepares itself, by activating more
+words than can be used. The most direct evidence comes from blends, when two or
+more words are combined into one, as in “she chuttled”, from chuckled and chortled,
+“It’s cold in Greeceland” - a blend of Greenland and Iceland, but said in a Greek
+restaurant. “He was given a standing applause,” said a politician, blending a standing
+ovation with loud applause. Another time the government were accused of “shrugging
+6
+
+their feet” over an important issue. The speaker presumably meant either shrugging
+their shoulders or dragging their feet.
+Both meaning and sound are interwoven in the selection process. A musician
+commented about the conductor Toscanini: “He had very little symphony with
+modern music,” meaning sympathy. The words sound similar, and Toscanini often
+conducted symphonies. Both were probably aroused in the mind, then the wrong one
+selected. Such errors indicate that it is normal to arouse more words than are needed,
+and to suppress those which are unwanted. Sometimes the wrong word is suppressed.
+An initial idea progressively fans out, it seems, and spreads to associated words.
+Eventually numerous different words may be ready to go, all of them resembling the
+word required in some way or other. Words that fit both the sound and the meaning
+get progressively more aroused and others fade away. Finally a winner will pop up,
+like toast out of a toaster; occasionally the wrong one if there are two or more similar
+candidates. All of this happens in less time than an eye blink.
+So many words are aroused because so many words are linked. The human word-web
+is not two-dimensional or even three-dimensional; it’s multi- dimensional. In a
+Michael Frayn play, Alphabetical Order, a character tries to find where a secretary
+filed an important piece of information. Most probably she’ll have it filed under
+whoever said it, which we don’t know, or the occasions he said it upon, which we
+don’t know either, but conceivably she may also have it filed under corporal
+punishment or punishment corporal or labour party or parties labour. The human mind
+would probably have filed it in all these places.
+But manipulating the vast, intertwined web of words inevitably leads to short cuts.
+Narrowing down the options can involve unseen snares. These will be discussed in the
+next lecture. Yet how lucky most of us are that we can so quickly locate the words we
+need out of the 50,000 or so we have stored. Our skill in doing this perhaps only
+becomes apparent when compared to someone who has lost this ability, as sometimes
+happens to stroke victims. This frustrating condition is described in Nabakov’s Pale
+Fire: She still could speak. She paused and groped and found what seemed at first a
+serviceable sound, but from adjacent cells imposters took the place of words she
+needed and her look spelt imploration as she sought in vain to reason with the
+monsters in her brain.
+Words are often felt to hold magical power. A survivor from the Titanic reportedly
+said, “My maiden name was Trout. How could I possibly drown?” But the most
+magical aspect of language is probably the huge number of words we know, and the
+speed with which we find the ones we want.
+
+7
+
+

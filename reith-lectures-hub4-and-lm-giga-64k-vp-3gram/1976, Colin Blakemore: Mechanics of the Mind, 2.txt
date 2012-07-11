@@ -1,0 +1,367 @@
+REITH LECTURES 1976: Mechanics of the Mind
+Colin Blakemore
+Lecture 2: Chang Tzu and the Butterfly
+TRANSMISSION: 17 November 1976 – Radio 4
+
+Nathaniel Kleitman, a Russian émigré who settled in the United States in 1915, and
+Bruce Richardson, an American colleague, spent 32 days alone in the depths of
+Mammoth Cave, Kentucky, in 1938. Only the artificial lights in their underground
+home preserved the rhythmic cycles of the day. But the day by which Kleitman and
+Richardson lived was not the day of this earth. They forced themselves to join the
+routine of an unknown planet, one with a 28-hour day: 19 hours for waking and nine
+for sleep. Could their bodies tolerate this sudden space-flight to a world of different
+time?
+Kieitman, a pioneer of the scientific study of sleep at the University of Chicago, had
+already developed methods of measuring continually the normal fluctuations of body
+temperature (hotter in the early afternoon, cooler in the early morning), and of
+recording the tossing and turning of restless sleep. He used the same techniques in
+Mammoth Cave to see whether his temperature cycle and sleep pattern, and those of
+Richardson, his companion, would stick to earth-time or switch to the clock of planet
+X.
+To be brief, Kieitman stuck and Richardson switched. Kleitman was unable to adjust
+to the 28-hour day; his body temperature stubbornly followed the rhythm of the world
+outside the cave, and his sleep was inadequate and fitful, especially when, every six
+days, ‘midnight’ in the cave coincided with noon in the real Kentucky. Richardson, on
+the other hand, adapted well to his temperature cycle and his sleep pattern.
+Similar experiments in underground bunkers in Germany, and in the continuous
+daylight of summer in the Arctic Circle, have proved that man has a clock in his
+brain—a clock set to the time cycle of his natural home. Like a real clock, the brain’s
+clock can readily be shifted back and forth, but with some discomfort to its owner, as
+every jet traveller knows. Again, like a real clock, there is less scope for speeding it
+up or slowing it down: Bruce Richardson was one of the rare individuals who can
+tolerate a regular 28-hour day; most of us can only manage between 22 and 26.
+Man is certainly not unique in having internal knowledge of the periodicity of time;
+even the simplest multicellular sea animals have their cycles of activity locked to the
+rotation of the earth on its axis. And the humble rat stirs from its daytime sleep at
+precisely the same time each evening: the rules of the solar system may be written in
+its genetic code. A rat kept in a room that is constantly dark or constantly illuminated
+will still obey a cycle of activity, but usually with a natural periodicity a little longer
+than 24 hours. It will not deviate from this inherent rhythm by more than a few
+minutes over several months; the timekeeper in a rat’s brain is more accurate than
+most mechanical clocks.
+
+1
+
+In laboratories all over the world, the study of human sleep remains the most direct
+experimental approach to the question of consciousness. This nightly appointment
+with death is the most profound loss of consciousness that most of us are likely to
+experience throughout our lives. We shall spend more than 20 years of our lifetime
+asleep - unconscious, almost oblivious to the demands, the joys, the dangers of the
+world around us. The problem of human consciousness has stirred up fierce debate
+between the reductionists, who would banish the Cartesian soul from the machinery
+of the body, and the holists, who see consciousness as the most personal evidence for
+a universal law—that the whole is more than the sum of the parts. What is the poor
+scientist to do when confronted with the rumour of a phenomenon, which is all that
+consciousness is? His commitment to the ‘postulate of objectivity’, in the terminology
+of Jacques Monod, does not give the scientist methods to measure the private
+deliberation of the conscious mind.
+How could a scientist deal with observations like these imaginary ones of Paul
+Jennings?
+When numbered pieces of toast and marmalade were dropped on
+various samples of carpet arranged in quality, from coir matting
+to the finest Kirman rugs, the marmalade- downwards incidence
+varied indirectly with the quality of the carpet—the Principle of
+the Graduated Hostility of Things.
+‘How can things be hostile?’ the scientist must say. Faced with these improbable
+results, the physicist would surely conclude that some constituent in high- quality
+carpets exerts an attractive force, perhaps electrostatic or magnetic, on marmalade.
+The more cynical psychologist might suspect that the hostility was not in the toast
+itself, but in the subtle intentions of the person who dropped it.
+Most scientists are embarrassed when they cannot explain events by the forces and
+laws that they already understand. Those who study the brain usually shuffle their feet
+uncomfortably, and quickly change the subject, when the discussion turns to that one
+brain function that we all know so intimately—consciousness itself.
+If things cannot be hostile, how can the bits and pieces of molecular hardware that
+make up the brain have emotions and thoughts? The brain researcher of today is
+almost as impotent to evaluate consciousness as a computer is to judge beauty or put a
+price on a Rembrandt portrait. But it does not follow that beauty is more than the sum
+of a number of definable features, or that a Rembrandt is more than all its individual
+brush-strokes. The problem is to define all the brush-strokes of the brain before we
+reject an opinion like that of W. Somerset Maugham, who said:
+The highest activities of consciousness have their origins in physical
+occurrences of the brain just as the loveliest melodies are not too
+sublime to be expressed by notes.
+There is no reason to believe that the scientific method will fail to account for the
+phenomenon of human consciousness, without invoking a new, transcendent
+principle. Indeed, some would say that there is no phenomenon to explain. In his
+remarkable book, The Concept of Mind, Gilbert Ryle attempted to show that the
+
+2
+
+everyday use of linguistic terms associated with the concept of consciousness, like
+‘believing’ and ‘thinking’, is based on a logically untenable model of the mind as a
+‘ghost in the machine ‘-an independent, invisible and secret agent, whose actions are
+intangible and cannot be revealed. Ryle rejected the doctrine that each of us is privy to
+an inner world of ghostly happenings, and gave an account of our lives as conscious
+beings in terms of observable actions and dispositions. Words like ‘knowing’ and
+‘believing’ describe propensities to act in particular ways, under certain
+circumstances. If this kind of unmasking of consciousness destroys its special
+qualities, must we conclude that consciousness does not exist at all? To call
+‘knowing’ a disposition to act may bring consciousness within the professional realm
+of brain research (and that is an important step), but it does not mean that there is
+nothing to explain. Ryle may have exorcised the ghost from the machine, but he has
+left a machine of much greater complexity.
+Then is consciousness - as some reductionists insist - a mere epiphenomenon that
+results from the actions of an immensely complex, but wholly mechanical, brain?
+Such a view might imply that any complicated calculating machine would
+automatically be conscious. But few would claim that the world’s combined telephone
+network, an undeniably enormous system of switches, has consciousness. Hostility,
+perhaps, but consciousness, surely not.
+On the other hand, I am sure it is wrong to believe that no computing machine can
+ever be conscious. The first requirement of a conscious machine—though perhaps not
+a guarantee of consciousness—is motivation. The nervous system did not first evolve
+as a device for intellectual exercise and conscious reflection. It simply made animals
+better at achieving their biological goals of eating, drinking and reproducing
+themselves—things that do not interest most computers.
+If evolution has given us internal awareness, it must presumably have had survival
+value. One advantage that consciousness provides us with is the ability to make
+predictions about the behaviour of other people, or even of other animals. It supplies a
+set of rules for relating emotional states to external events, which must surely be
+valuable in the complex social intercourse that governs the lives of people, no less
+than of chimpanzees or of the wild dogs of Africa.
+When asked by the hostess at a rather boring party whether he was enjoying himself,
+Oscar Wilde is reputed to have replied that he certainly was, for there was no one else
+there to enjoy. And in his play, An ideal Husband, Wilde wrote: ‘Other people are
+quite dreadful. The only possible society is oneself.’ But in a society of one,
+consciousness might not be needed at all.
+Nothing illustrates better the need for society in the creation of consciousness than a
+remarkable experiment of Ronald Meizack. He reared some dogs in total isolation,
+from infancy to maturity, so that they had no opportunity to learn the rules of social
+interaction. When he released the dogs and studied their behaviour, he discovered that
+they seemed to have little or no sense of pain, or at least nothing more than a brief
+reflex response to it.
+And in his famous work on conditioned reflexes, Ivan Pavlov was even able to
+transform overt pain to apparent pleasure. In one experiment, instead of combining a
+
+3
+
+ringing bell with morsels of food, to teach an animal to salivate to a neutral stimulus,
+Pavlov used a brief electrical shock to the dog’s paw as the ‘unconditioned’ signal
+that food was about to appear. Now, at first, the dog reacted violently to each shock,
+and its appetite was decidedly reduced. But gradually, a surprising transformation
+took place. The electric shock no longer prompted any sign of pain. On the contrary,
+when the shock came, the dog salivated, wagged its tail, and turned expectantly to its
+food bowl.
+Philosophers from Aristotle to Ludwig Wittgenstein, from René Descartes to Peter
+Singer (the author of a recent book, entitled Animal Liberation) have argued that the
+expressions of emotion and thought are the means by winch each human or animal
+communicates its consciousness. For Descartes, animals had no rational soul; they
+could not verbalise propositional thoughts in speech, and were therefore not
+conscious. But Singer reasons that feelings, principally those produced by pain, can
+be ascribed to others, including animals, by observing reliable behavioural signs that
+we recognise as similar to the responses we ourselves produce when we consciously
+experience pain. What, then, are we to make of the observations of Melzack and
+Pavlov, which seem to show that the emotional state of pain is not related in a simple
+way to a particular stimulus? Behaviour, the overt product of consciousness, is
+modified by social as well as personal experience.
+In man, too, cultural factors are extremely important in setting, not only the threshold,
+but also the context of pain. Acupuncture, itself an unpleasant procedure for most
+Westerners, has been practised for more than 2,000 years in China for the treatment of
+organic illness, and is, since the Cultural Revolution, quite often employed as the only
+form of anaesthetic in certain major surgical operations. Children in China are taught
+the classical theories, and even the techniques, of acupuncture from an early age.
+Some would argue that the undeniable success of acupuncture analgesia among the
+Chinese is simply due to a kind of cultural conditioning, like that of Pavlov’s dogs.
+Yet it is possible that acupuncture anaesthesia, and perhaps other cultural modifiers of
+pain, operate through a simple physiological principle. It has been known for many
+years that the pain-killing drug, morphine, and its derivatives act by attaching
+themselves to nerve cells in the brain— cells that somehow influence the threshold
+and sensation of pain. A naturally-occurring substance, named enkephalin, a tiny peptide molecule, has now been discovered in the brain; it acts just like morphine and
+reduces pain. In fact, it is presumably more accurate to say that morphine, the external
+agent, works just like enkephalin, the internal one. Enkephalin is a ‘natural opiate’, an
+analgesic drug that the brain itself can apparently synthesise to alleviate its own
+sensation of pain. Now, Chinese scientists have recently reported that the practice of
+acupuncture on a rabbit causes the production of a substance in its brain which, when
+injected into the brain of another rabbit, increases its tolerance of discomfort. This
+substance might well be enkephalin, secreted by nerve cells in the brain in response to
+the acupuncture needles.
+Morphine and the related compound, heroin, are dangerously addictive drugs, and
+their unsupervised possession is illegal; yet we may all carry within our heads a
+‘natural opiate’ that our brains use to regulate this most fundamental aspect of
+consciousness—the perception of pain.
+
+4
+
+For scientific, as well as philosophical, debate, it is important to distinguish the state
+of consciousness from the so-called ‘actions’ of the conscious mind, like choosing,
+whose existence as genuine operations Ryle and others would deny. It is this active
+aspect of consciousness that still gives scientists nightmares, philosophers headaches,
+and theologians eternal joy. The question of choice is often the subject of acrimonious
+debate between reductionists and theists; so it is curious to hear arguments from both
+sides of the fence that the actions of man are entirely predetermined, either by the
+totally predictable and mechanical operations of the connections in his brain, or by the
+predestination written for us all in the diary of an equally mechanical god. This
+attitude, whatever the motivation behind it, is an insult, either to the subtlety of the
+brain or to the mentality of God.
+I see no reason why the alternative concept—choice of action—should necessarily be
+the exclusive property of those who believe in a permissive and forgiving deity. Some
+degree of flexibility of operation is the hallmark of an advanced machine. It is the
+serendipity of free will that makes it valuable.
+Anyone who has tried to train an animal in a laboratory—or a child at home—knows
+that learning is never automatic, nor totally predictable. it is a source of frustration to
+the behavioural psychologist that, however well he trains a rat to run a maze, however
+easy the problem, the rat will never go in the correct direction in every single test.
+Now and then, he exercises his ratty free will and takes the alley with no cheese at the
+end. But the choice that the psychologist calls incorrect is, for the rat, a potentially
+valuable paradigm of action - the chance to discover, by chance, the unexpected. By
+this analogy, I do not mean to suggest that rats have conscious free will like man, nor
+to say that man is just a jumped-up rat, but it does illustrate that the existence of
+choice is not necessarily incompatible with a mechanical view of the mind. Just as
+one value of consciousness is to explain the actions and emotions of others, the
+element of free will in conscious thought is an internal explanation for the flexibility
+of our own behaviour.
+The final aspect of conscious experience, its level or state, is the one that can most
+readily be judged by objective observation; it can most clearly be ascribed to animals,
+and hence is most accessible to the scientific method. And that is why so much effort
+has been spent in the study of sleep.
+The mysterious nature of sleep, and the dreams that it harbours, must always have
+occupied the thoughts of men. In the egg- shaped universe of Greek mythology,
+Night, the shell of the egg, gave birth to Hypnos, god of sleep, whose son was
+Morpheus, god of dreams, master of the fantasy land that lay close to the realm of the
+dead. There was widespread belief in the ancient world that sleep was a time of
+communication with the gods, a time when the spirit left the body to wander alone;
+and its experiences were the dreams of the night. The ancient Chinese would never
+rouse a sleeper hastily, in case his spirit did not have time to re-enter his body. The
+view that we lose our personality in sleep is still prevalent. Even the law seems to
+accept that sometimes a man is not responsible for his actions while asleep; courts in
+both the United States and Great Britain have acquitted people of murder when the act
+was committed during sleep.
+
+5
+
+It is probably the apparent futility of sleep, the wasted time, the biological danger of
+it, that leads us to cherish dreams, the sole conscious product of sleep. The
+interpreters of dreams, from the second-century soothsayer, Artemidorus of Ephesus,
+to Sigmund Freud, have capitalised on our fascination with these products of the
+unbridled mind. But the similarity between the untrustworthy image of the dream and
+waking experience has posed enormous problems for the philosopher. The Chinese
+Taoist, Chang Tsu, in the third century BC, was one of the first to express his fears.
+He wrote of himself:
+Once upon a time, I, Chang Tsu, dreamed I was a butterfly flying
+happily here and there suddenly, I woke up and I was indeed Chan,
+Tsu. Did Chang Tsu dream he was a butterfly, or did the butterfly
+dream he was Chang Tsu?
+In most religions, dreams are incidents of mystical insight, of communion with the
+gods and of divine revelation. The irrational view that dreams are veiled predictions
+of future events was, and still is, widely held. The analytical psychologist, Erich
+Fromm, has tried to justify this belief by arguing that, if dreams are, as Freud
+suggested, the disguised fulfilment of unconscious wishes, then they might be
+expected to portray episodes that will be unwittingly sought out in real life. Aristotle,
+2,000 years ago, took a more jaundiced view, saying that, since dreams come in such
+abundance and such variety, some of them will inevitably resemble future events, just
+by chance—perhaps the first example of a statistical argument in the behavioural
+sciences.
+However, it was a belief in the power of premonition, and even the existence of
+telepathic communication, that led to the single most important technical advance in
+the study of sleep: the measurement of the human electroencephalogram. Towards the
+end of the last century, a young German, Hans Berger, who was serving in the army,
+slipped from his horse as it stumbled down an embankment, and he narrowly escaped
+serious injury. That evening, he was astonished to receive a telegram from his father
+asking if he was well, because his sister had had a feeling that he was in danger.
+This event led Berger to change his studies from astronomy to psychiatry, at the
+University of Jena, where he received his doctorate in 1897, just at the time that
+Sigmund Freud was writing The Interpretation of Dreams, in Vienna. Berger was
+obsessed with the relationship between material events in the brain and mental
+phenomena, in which he included telepathy.
+A long tradition of experiments, started by John Walsh in England and Luigi Galyam
+in Italy, had established that signals are carried along nerves to muscles, in the form
+of brief electrical pulses. It was known that the brain is packed with nerve cells and
+fibres, and electrical activity had already been detected in the brains of animals.
+Berger hoped to prove that electrical responses in the brains of men are correlated
+with consciousness, and might even be the physical medium by which thoughts could
+be telepathically transmitted. In 1924, he managed to record a signal with metal
+electrodes stuck to the head of his young son, Klaus.
+But what strange signals they were! Whenever Klaus was relaxed and inattentive,
+Berger picked up a feeble but definite ripple of electrical potential, with a regular
+
+6
+
+frequency of about ten cycles each second: he called it the ‘alpha rhythm’. Much
+more exciting, Berger later found that these electrical waves of the brain certainly
+were influenced by conscious experience. He wrote:
+In many experimental subjects, opening of the eyes . . . caused an
+immediate change in the electroencephalogram and . . . during
+mental tasks—for example, when solving a problem of
+arithmetic—the mere naming of the task sometimes caused the
+same change.
+However, it was something of a disappointment to Hans Berger that this change that
+occurred in the electroencephalogram when a person became more alert was not an
+increase in the amplitude of his alpha rhythm, but its virtual disappearance. The
+electroencephalogram became ‘desynchronised’, and decomposed into a torrent of
+tiny, high-frequency waves. But at least Berger had shown that the human brain, no
+less than that of an animal, is electrically active, and that alterations in mood,
+attention and the state of consciousness are accompanied by (some would say caused
+by) modulations of the electrical rhythm.
+During the delicious drowsiness that heralds sleep, the alpha rhythm dominates; as
+sleep deepens, the waves become longer and slower in frequency. This mindless
+rhythm is, in a sense, the natural state of the brain; it is the pattern adopted when
+sensory stimulation is attenuated and vigilance is low. Indeed, some classical
+experiments between 1930 and 1950 suggested that sleep is essentially a passive
+affair. A large, untidy tangle of nerve cells and fibres, called the ‘reticular formation’,
+in the stem of the brain, was implicated in the maintenance of consciousness. Like a
+great computer without a power supply, the cerebral cortex without the reticular
+formation below it is only a potentially powerful machine. Damage to the reticular
+formation can produce a prolonged state of coma and unconsciousness, and brief
+electrical stimulation of it in animals will rudely awaken them from sleep, and abolish
+the lazy rhythms from their electroencephalogram.
+Now, many sensory nerve fibres, bringing information into the brain from the sense
+organs have branches that terminate in the reticular formation, in addition to their
+main trunk-lines that run up towards the cerebral cortex. Any incoming signal is
+thought to have two effects: first, to inform a particular part of the cortex about the
+nature of the new event; and second, to ac4ivate the connections between the reticular
+formation and the whole cortex, hence desynchronising its waves.
+But the relentless daily demand for sleep, the internal clock that would not let
+Nathaniel Kleitman adopt the schedule of a different world, and the infinite torment of
+struggling to resist the embraces of Hypnos, all demonstrate that sleeping and waking
+are not passive reflections of sensory input. Indeed, regular, gentle, electrical
+stimulation in many parts of the brain, including the lowest parts of the reticular
+formation itself, can throw the cortical electroencephalogram of an alert cat into
+rhythmic waves, and the cat will instantly settle down and drift into completely
+normal sleep.
+More than 60 years ago, two Frenchmen, Legendre and Pieron, claimed that a
+chemical substance builds up in the brain of a tired animal, and that if the fluid from
+
+7
+
+the ventricles is transfused into those of another animal, the latter will fall asleep. This
+unlikely story has now been all but proved by John Pappenheimer and his colleagues
+at Harvard Medical School. A substance, called ‘factor S’ by Pappenheimer, isolated
+from the cerebral fluid of sleepy goats, will greatly enhance the sleep of rats or rabbits
+into whose brain it is transfused. It seems likely that factor ‘S’ is, like enkephalin, a
+small peptide molecule, which gradually builds up during the waking period, and
+possibly acts on the brainstem regions that trigger the start of sleep.
+Finally, measurement of the electroencephalogram has thrown light on the mystery of
+dreams themselves. In 1952, two students in Kleitman’s laboratory, Eugene Aserinsky
+and William Dement, discovered that, at roughly 90-minute intervals throughout the
+night, extraordinary things happened on the recording machine attached to their
+sleeping volunteers. The electroencephalogram suddenly reverted to the drowsy
+mode, as if the sleeper were about to wake up: his breathing became irregular, his
+heart-rate increased, his fingers twitched and, if the volunteer was male, his penis
+sprang to attention. Most striking of all, his eyes beneath their lids darted about
+crazily. These episodes are therefore called ‘rapid-eye-movement sleep’ or
+‘paradoxical sleep’ because the sleeper is actually much harder to awaken, despite the
+alert state of his brain. Dement went on to find that, if someone is woken in this stage
+of sleep, he is almost certain to say that he has just had a vivid dream.
+Now, experiments with animals point to another area in the brainstem reticular
+formation as the site if initiation of paradoxical sleep. This region may activate the
+cerebral cortex and trigger the spurious mental events of dreams. The level of
+consciousness is then regulated by a primitive part of the brain, not by the intellectual
+machinery of the cerebral cortex. This raises ethical and legal dilemmas of the most
+serious kind. The rapid advances in heart transplantation surgery a few years ago
+played a part in changing the public and legal attitude to dying. The present medical
+definition of death accepts the fact that a man, as an independent mind, can outlive his
+own heart. As in the recent case of Karen Quinlan in the United States, death is now
+equated with irreparable damage to the brainstem, even when the higher centres of the
+cerebral cortex are quite intact. Without the vital power that drives it, the mind may
+be suspended forever in sleep. But it would be short-sighted to think that this
+interpretation is less expedient and more absolute than one based on the function of
+the heart. Even our definition of life itself is determined by the prevailing level of
+medical expertise and current scientific opinion. The experimental study of sleep is
+important, because a full understanding of the control of consciousness may give us
+more objective criteria for the definition of death.
+In my next lecture, I move on to the cerebral cortex itself, and to the perceptions that
+we trust as valid descriptions of the outside world.
+
+8
+
+

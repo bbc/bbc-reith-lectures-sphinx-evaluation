@@ -1,0 +1,340 @@
+Vilayanur S. Ramachandran
+Reith Lectures 2003: The Emerging Mind
+Lecture 3: The Artful Brain
+
+In this lecture - which is the most speculative one in the series of five - I'd like to take
+up one of the most ancient questions in philosophy, psychology and anthropology,
+namely what is art? When Picasso said: "Art is the lie that reveals the truth" what
+exactly did he mean?
+As we saw in my previous lectures neuroscientists have made some headway in
+understanding the neural basis of psychological phenomena like body image, how you
+construct your body image, or visual perception. But can the same be said of art given that art obviously originates in the brain?
+In particular what I'd like to do is raise the question: "Are there such things as artistic
+universals?"
+Now let me add a note of caution before I begin. When I speak of artistic universals I
+am not denying the enormous role played by culture. Obviously culture plays a
+tremendous role, otherwise you wouldn't have different artistic styles - but it doesn't
+follow that art is completely idiosyncratic and arbitrary either or that there are no
+universal laws.
+Let me put it somewhat differently. Let's assume that 90% of the variance you see in
+art is driven by cultural diversity or - more cynically - by just the auctioneer's
+hammer, and only 10% by universal laws that are common to all brains. The
+culturally driven 90% is what most people already study - it's called art history. As a
+scientist what I am interested in is the 10% that is universal - not in the endless
+variations imposed by cultures. The advantage that I and other scientists have today is
+that unlike we can now test our conjectures by directly studying the brain empirically.
+There's even a new name for this discipline. My colleague Semir Zeki calls it Neuroaesthetics - just to annoy the philosophers.
+I recently started reading about the history of ideas on art - especially Victorian
+reactions to Indian art - and it makes fascinating reading.
+For example if you go to Southern India, you look at the famous Chola bronze of the
+goddess Parvati dating back to the 12th century. For Indian eyes, she is supposed to
+represent the very epitome of feminine sensuality, grace, poise, dignity, everything
+that's good about being a woman. And she's of course also very voluptuous
+
+The Goddess Parvati
+
+But the Victorian Englishmen who first encountered these sculptures were appalled
+by Parvati, partly because they were prudish, but partly also just because of just plain
+ignorance.
+They complained that the breasts were way too big, the hips were too big and the
+waist was too narrow. It didn't look anything like a real woman - it wasn't realistic - it
+was primitive art. And they said the same thing about the voluptuous nymphs of
+Kajuraho - even about Rajastani and Mogul miniature paintings. They said look these
+paintings don't have perspective, they're all distorted.
+They were judging Indian art using the standards of Western art - especially classical
+Greek art and Renaissance art where realism is strongly emphasized.
+But obviously this is a fallacy. Anyone here today will tell you art has nothing to do
+with realism. It is not about creating a realistic replica of what's out there in the world.
+I can take a five dollar camera, aim it at one of you here, take a photograph. It's very
+realistic but you wouldn't give me a penny for it. In fact art is about the exact
+opposite. It's about deliberate hyperbole, exaggeration, in fact even distortion in order
+to create pleasing effects in the brain.
+But obviously that can't be the whole story. You can't just take an image and
+randomly distort it and call it art - although many people in La Jolla where I come
+from do precisely that. The distortion has to be lawful. The question then becomes:
+What kinds of distortion are effective? What are the laws?
+So one day I was sitting in a temple in India when I was on a sabbatical and in a
+whimsical frame of mind I just jotted down what I think of as the universal laws of
+art, the ten laws of art which cut across cultural boundaries. Given our time limits, I'm
+
+going to just tell you four or five of my ten laws - the rest are on the BBC Website, so
+you can go look it up.
+
+Professor Ramachandran's suggested 10
+universal laws of art:
+Peak shift
+Grouping
+Contrast
+Isolation
+Perception problem solving
+Symmetry
+Abhorrence of coincidence/generic viewpoint
+Repetition, rhythm and orderliness
+Balance
+Metaphor
+
+The first law, I call peak shift and to illustrate this I'll use a hypothetical example from
+animal behaviour, from rat psychology.
+Imagine you're training a rat to discriminate a square from a rectangle. So every time
+it sees a particular rectangle you give it a piece of cheese. When it sees a square you
+don't give it anything. Very soon it learns that the rectangle means food, it starts liking
+the rectangle - although you're not supposed to say that if you're a behaviourist. And it
+starts going towards the rectangle because it prefers the rectangle to the square.
+But now the amazing thing is if you take a longer skinnier rectangle and show it to the
+rat, it actually prefers the longer skinnier rectangle to the original rectangle that you
+taught it. And you say: Well that's kind of stupid. Why does it prefer a longer skinnier
+rectangle rather than the one you originally showed it? Well it's not stupid at all
+because what the rat is learning is a rule - Rectangularity. And of course therefore if
+you make it longer and skinnier, it's even more rectangular. So it says: "Wow! What a
+rectangle!" and it goes towards that rectangle.
+Now you say: Well, what's that got to do with art?
+Well let's think about caricature. What do you do in a caricature? Supposing you want
+to produce a caricature of Maggie Thatcher or a caricature of Nixon, what do you do?
+You take Nixon's face and you say: What's special about his face? What makes him
+different from other people. So what you do is you take the mathematical average of
+all male faces and you subtract it from Nixon's face. And you get the big bulbous nose
+and the shaggy eyebrows. And then you amplify it. And then you get an image that
+looks even more like Nixon than Nixon himself. Now if you do it just right you get
+great portraiture, even a Rembrandt. But if you overdo it you get caricature, it looks
+comical. But it still looks even more like Nixon than the original Nixon. So you're
+behaving exactly like that rat.
+
+But what's it got to do with the rest of art. Let's go back to the Chola bronze of
+Parvati. Let's talk about Indian art. Well the same principle applies. How does the
+artist convey the very epitome of feminine sensuality? What he does is simply take
+the average female form, subtract the average male form - you're going to get big
+breasts, big hips and a narrow waist. And then amplify it, amplify the difference. And
+you don't say: "My God, it's anatomically incorrect". You say: "Wow! What a sexy
+goddess!"
+But that's not all there is to it because how do you bring in dignity, poise, grace?
+Well what you do is something quite clever, what the Chola bronze artist does is
+something quite clever. There are some postures that are forbidden to a male. I can't
+stand like that even if I want to. But a woman can do it effortlessly. So what he does
+is he goes into an abstract space I call "posture space", and then subtracts the average
+male posture from the female and then exaggerates the feminine posture - and then
+you get elegant triple flexion - or tribhanga - pose, where the head is tilted one way,
+the body is tilted exactly the opposite way, and the hips again the other way. And
+again you don't say: "My God, that's anatomically inappropriate. Nobody can stand
+like that." You say: "My God! It's gorgeous. It's beautiful! It's a celestial goddess". So
+the image is extremely evocative and it's an example of the peak shift principle in
+Indian art.
+OK, this is all about faces and caricatures and bodies and Chola bronzes. That seems
+quite reasonable, but what about the rest of art? What about abstract art? What about
+Picasso. What about semi-abstract art? What about impressionism, what about
+Cubism? Van Gogh? Monet? Henry Moore? How can my ideas even begin to
+approach some of those artistic styles?
+To answer this question, you need to go and look at ethology, especially the work of
+Niko Tinbergen at Oxford more than fifty years ago. And he was doing some very
+elegant experiments on seagull chicks.
+As soon as the herring-gull chick hatches, it looks at its mother. The mother has a
+long yellow beak with a red spot on it. And the chick starts pecking at the red spot,
+begging for food. The mother then regurgitates half-digested food into the chick's
+gaping mouth, the chick swallows the food and is happy. Then Tinbergen asked
+himself: "How does the chick know as soon as it's hatched who's mother? Why
+doesn't it beg for food from a person who is passing by or a pig?"
+And he found that you don't need a mother.
+You can take a dead seagull, pluck its beak away and wave the disembodied beak in
+front of the chick and the chick will beg just as much for food, pecking at this
+disembodied beak. And you say: "Well that's kind of stupid - why does the chick
+confuse the scientist waving a beak for a mother seagull?"
+Well the answer again is it's not stupid at all. Actually if you think about it, the goal of
+vision is to do as little processing or computation as you need to do for the job on
+hand, in this case for recognizing mother. And through millions of years of evolution,
+the chick has acquired the wisdom that the only time it will see this long thing with a
+
+red spot is when there's a mother attached to it. After all it is never going to see in
+nature a mutant pig with a beak or a malicious ethologist waving a beak in front of it.
+So it can take advantage of the statistical redundancy in nature and say: "Long yellow
+thing with a red spot IS mother. Let me forget about everything else and I'll simplify
+the processing and save a lot of computational labour by just looking for that."
+That's fine. But what Tinbergen found next is that you don't need even a beak. He
+took a long yellow stick with three red stripes, which doesn't look anything like a
+beak - and that's important. And he waved it in front of the chicks and the chicks go
+berserk. They actually peck at this long thing with the three red stripes more than they
+would for a real beak. They prefer it to a real beak - even though it doesn't resemble a
+beak. It's as though he has stumbled on a superbeak or what I call an ultrabeak.
+Why does this happen?
+We don't know exactly why, but obviously there are neural circuits in the visual
+pathways of the chick's brain that are specialized for detecting beaks as soon as the
+chick hatches. They fire when seeing the beak. Perhaps because of the way they are
+wired up, they may actually respond more powerfully to the stick with the three
+stripes than to a real beak. Maybe the neurons' receptive field embodies a rule such as
+"The more red contour the better," and it's more effective in driving the neuron, even
+though the stick doesn't look like a beak to you and me - or maybe even to the chick.
+And a message from this beak-detecting neuron now goes to the emotional limbic
+centres in the chick's brain giving it a big jolt and saying: "Wow, what a super beak!"
+and the chick is absolutely mesmerized.
+Well now what's this got to do with art, you're wondering?
+Well this brings me to my punch line of about art. What I'm suggesting is if those
+seagulls had an art gallery, they would hang this long stick with the three red stripes
+on the wall, they would worship it, pay millions of dollars for it, call it a Picasso, but
+not understand why - why am I mesmerized by this damn thing even though it doesn't
+resemble anything? That's what all of you are doing when you are buying
+contemporary art. You are behaving exactly like those gull chicks.
+In other words human artists through trial and error, through intuition, through genius
+have discovered the figural primitives of our perceptual grammar. They are tapping
+into these and creating for your brain the equivalent of the long stick with the three
+stripes for the chick's brain. And what you end up with is a Henry Moore or a Picasso.
+The advantage of these ideas is you can test them experimentally. You can actually
+record from cells in the brain which sort of fire when you show it a face in the
+fusiform gyrus. Now some of them will fire only to a particular view of a face. But
+higher up you've got neurons which respond to any view of a given face. And I'm
+predicting that if you present a Cubist portrait of a monkey face - where you present
+two views of a monkey's face in the same place - that cell will be hyper-activated. Just
+as the long stick with the three red stripes hyper-activates the beak-detecting neurons
+in the chick's brain, this Cubist portrait of a monkey face will hyper-activate these
+face-detecting neurons in the monkey brain - and the monkey says: "Wow! What a
+face". So what you have here is in fact a neural explanation for Picasso, for Cubism.
+
+I've told you about one law so far - peak shift and the idea of ultra-normal stimuli. We
+have borrowed insights from ethology, neurophysiology, rat psychology to account
+for why people like non-realistic art.
+The second law is more familiar to all of you. It's called Grouping.
+Many of you may have seen those famous puzzle pictures, like Richard Gregory's
+Dalmatian dog. You just see a bunch of splotches when you first look at it but you
+sense you visual brain trying to solve a perceptual problem, trying to make sense of
+this chaos. And then after a few seconds, or maybe actually several seconds - 30 or 40
+seconds - suddenly everything clicks in place and you group all the correct fragments
+together, and lo and behold you see a Dalmatian dog.
+
+Richard Gregory's Dalmatian
+
+You can almost sense your brain groping for a solution to the perceptual riddle and as
+soon as you successfully group the correct fragments together to see the dog, what I
+suggest is a message gets sent from the visual centres of the brain to the limbicemotional brain centres of the brain giving it a jolt and saying: "AHA, there is a dog"
+or "AHA, there is a face".
+The Dalmatian dog example is very important because it reminds us that vision is an
+extraordinarily complex and sophisticated process. And even looking at a simple
+scene involves a complex hierarchy, a stage by stage processing. At each stage in the
+hierarchy of processing, when a partial solution is achieved - "Hey it looks a bit doglike right here" - there is a reward signal "AHA", a partial "AHA", and a small bias is
+sent back to earlier stages to facilitate the further binding of the features of the dog.
+And through such progressive bootstrapping the final dog clicks in place to create the
+final big "AHA!" Vision has much more in common with problem solving - more like
+a twenty questions game - than we usually realize.
+
+The grouping principle is widely used in both Indian and in Western art - and even in
+fashion design. For example you go to Harrods, and you pick out a scarf with red
+splotches on it. Then you often match it with a skirt which has got some red splotches
+on it. Now what's this all about? Is it just hype, is it just marketing? Or is it telling you
+something very deep about how the brain is organized? I'm going to argue it is telling
+you something very deep, something to do with the way the brain evolved.
+Vision evolved mainly to discover objects and to defeat camouflage. You don't realize
+this when you look around you and you see clearly defined objects.
+But imagine your primate ancestors scurrying up in the treetops trying to detect a lion
+seen behind fluttering green foliage. What you get inside the eyeball on the retina is
+just a bunch of yellow lion fragments obscured by all the leaves. But the brain says so to speak - "What's the likelihood that all these different yellow fragments are
+exactly the same yellow simply by chance? Zero. They must all belong to one object,
+so let me link them together, glue them together. Oh my God, it's a lion - let me out of
+here!" And as soon as you glue them together, a signal gets sent to the limbic system
+saying: "AHA, there's something object-like, pay attention here".
+So there's an arousal, and an attention which then titillates the limbic system, and you
+pay attention and you dodge the lion.
+And such "AHAs" are created, I maintain, at every stage in the visual hierarchy as
+partial object-like entities are discovered that draw your interest and attention. What
+the artist tries to do is to generate as many of these "AHA" signals in as many visual
+areas as possible by more optimally exciting these areas with his paintings or
+sculptures than you could achieve with natural visual scenes or realistic images. Not a
+bad definition of art if you think about it.
+That takes me to the third law - the law of perceptual problem solving or visual
+peekaboo. Now what do I mean by that? As anyone knows a nude seen behind a
+diaphanous veil is much more alluring and tantalizing than a full-colour Playboy
+photo or a Chippendale pinup - or a Page Three girl, is that what you call it? Why?
+As I said our brains evolved in highly camouflaged environments. Imagine you are
+chasing your mate through dense fog. Then you want every stage in the process every partial glimpse of her - to be pleasing enough to prompt further visual search so you don't give up the search prematurely in frustration. In other words, the wiring
+of your visual centres to your emotional centres ensures that the very act of searching
+for the solution is pleasing, just as struggling with a jigsaw puzzle is pleasing long
+before the final "AHA". Once again it's about generating as many "AHAs" as possible
+in your brain.
+The fourth law is the law of isolation or understatement. You all know that a simple
+outline doodle by Picasso or a nude by Rodin or Klimt can be much more evocative
+than a full colour photo of a woman. Similarly the cartoon-like outline drawings of
+bulls in the Lascaux Caves are much more powerful and evocative of the animal than
+a National Geographic photograph of a bull. Hence the famous aphorism in art: "Less
+is more".
+
+But why should this be so? Isn't it the exact opposite of the first law, the idea of
+hyperbole, of trying to excite as many "AHAs" as possible? A pinup or a Page Three
+girl after all has much more information. It's going to excite many more areas in your
+brain, many more neurons, so why isn't it more beautiful?
+The way out of this paradox is to consider another visual phenomenon, called
+Attention. It's a well-known fact that you can't have two overlapping patterns of
+neural activity simultaneously. Even though you've got one hundred billion nerve
+cells, you can't have two overlapping patterns. In other words, there is a bottleneck of
+attention. You can only allocate your attentional resources to one thing at a time.
+Well when you look at a Page Three girl, the main information about her sinuous soft
+contours is conveyed by her outline. Her skin tone, hair colour after all is no different
+from anyone sitting here. It's irrelevant to her beauty as a nude. So in the realistic
+photo you have all this irrelevant information cluttering the picture and distracting
+your attention away from where it's needed critically - to her contours and outlines.
+By leaving all this out in a doodle or sketch the artist is saving your brain a lot of
+trouble. And this is especially true if the artist has also added some peak shifts to the
+outline to create an "ultra nude" or a "super nude".
+What's the evidence for all this? Of course you can test it by doing brain imaging
+experiments comparing neural responses to outline sketches and caricatures versus
+full-colour photos. But there's also very striking neurological evidence from children
+with autism. Some of these children have what's called the savant syndrome. Even
+though they are retarded in many respects, they have one preserved island of
+extraordinary talent.
+For example, a seven-year-old autistic child Nadia had exceptional artistic skills. She
+was quite retarded mentally, could barely talk, yet she could produce the most
+amazing drawings of horses and roosters and other animals. A horse drawn by Nadia
+would almost leap out at you from the canvas. Contrast this with the lifeless, twodimensional, tadpole-like sketches drawn by most normal eight or nine-year-olds - or
+even normal adults.
+So we have another paradox. How can this retarded child produce a drawing that is so
+incredibly beautiful? The answer, I maintain, is the principle of isolation.
+In Nadia perhaps many or even most of her brain modules are damaged because of
+her autism, but there is a spared island of cortical tissue in the right parietal. So her
+brain spontaneously allocates all her attentional resources to the one module that's still
+functioning, her right parietal. Now it turns out that the right parietal is the part of
+your brain that's concerned with your sense of artistic proportion. We know this
+because when it's damaged in stroke, for example, in an adult, you lose your artistic
+sense. You produce drawings that are often excessively detailed but lack the vital
+essence of the picture you're trying to depict. You lose your sense of artistic
+proportion. Conversely, since everything else is damaged in Nadia's brain she
+allocates all her attention to this brain module - so she has a hyper-functioning art
+module in her brain. Hence the beautiful renderings of horses and roosters.
+Another example, equally striking. Dr Miller, University of California, has studied
+
+patients who start developing rapidly progressing dementia in middle age, a form of
+dementia called the fronto-temporal dementia, affecting frontal lobes and temporal
+lobes, but sparing the parietal lobe. And guess what happens. These patients suddenly
+start producing the most amazingly beautiful paintings and drawings - not all of them
+but some of them - even though they had never had any artistic talent before the onset
+of their dementia. Again, it's the isolation principle at work. With all other modules in
+the brain not working the patient develops a hyper-functioning right parietal. There
+are even reports from Alan Snyder in Australia that you can temporarily paralyze
+parts of the brain in normal volunteers - all of us less gifted people here. Imagine just
+zapping bits of your brain and unleashing hidden talents. If that happens, it will truly
+be a brave new world.
+We don't have time to talk about all my other laws in detail. But I'll just mention the
+last law on my list - and in many ways the most important, yet the most elusive:
+Visual Metaphor. You all know what a metaphor is in literature as when you say it's
+the East and Juliet is the sun. But you can do the same thing in visual art - both in
+Western art and in Indian art. For example, when you look at the Chola bronze of the
+dancing Shiva or Nataraja with multiple arms you are not meant to take the multiple
+arms literally or call it a multi-armed monstrosity like the Victorian art critic, Sir
+George Birdwood, did. Funnily enough he didn't think that angels sprouting wings
+were monstrosities - although I can tell you as a medical man you can have multiple
+arms, but wings on scapulae are anatomically impossible!
+The multiple arms are meant to symbolize multiple divine attributes of God and the
+ring of fire that Nataraja dances in - indeed his dance itself - is a metaphor of the
+dance of the Cosmos and of the cyclical nature of creation and destruction, an idea
+championed by the late Fred Hoyle. Most great works or art - be it Western or Indian are pregnant with metaphor and have many layers of meaning.
+Everyone knows that metaphors are important yet we have no idea why. Why not just
+say: "Juliet is radiant and warm" instead of saying: "Juliet is the sun"? What is the
+neural basis for metaphor? We don't know but I'll have a stab at this question next
+week in my Oxford lecture on synesthesia.
+With that I conclude my lecture on Neuro-aesthetics. Have we understood the neural
+basis of art? Of course not. We have barely scratched the surface. But I hope the
+"laws of art" I've discussed might give you some hints about the general form of a
+future theory of art.
+The solution to the problem of aesthetics, I believe, lies in a more thorough
+understanding of the connections between the 30 visual centres in your brain and the
+emotional limbic structures. And once we have achieved a clear understanding of
+these connections, we will be closer to bridging the huge gulf that separates C.P.
+Snow's two cultures - science on the one hand and Arts, philosophy and humanities on
+the other.
+We could be at the dawning of a new age where specialisation becomes old-fashioned
+and a new 21st century version of the Renaissance man is born.
+
+

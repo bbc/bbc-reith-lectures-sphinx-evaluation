@@ -1,0 +1,734 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT
+IS TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST.
+THE NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE
+BBC NOR THE PARTICIPANTS IN THE PROGRAMME CAN
+GUARANTEE THE ACCURACY OF THE INFORMATION HERE.
+REITH LECTURES 2010: SCIENTIFIC HORIZONS
+Presenter: Martin Rees
+Lecture 2: Surviving the Century
+TRANSMISSION: 8th JUNE 2010 RADIO 4
+
+SUE LAWLEY: Hello and welcome to Wales. We’re at the National Museum
+Cardiff for the second in this year’s series of BBC Reith Lectures. We have an
+audience of scholars, students, experts and commentators from fields such as
+astronomy, physics, earthquake engineering, oceanic studies, and many more.
+
+The series is called ‘Scientific Horizons’ and our lecturer is Martin Rees,
+Master of Trinity Cambridge, Astronomer Royal, and President of the Royal
+Society. He’s exploring the role of science in today’s world. As a cosmologist,
+he has an awareness of the immense scale of the future and the threats to our
+existence. He believes science can provide solutions to many of them, but are
+we capable of implementing those solutions? ‘We are stewards of the world at
+a very special time’, he says. ‘Man has the future in his hands.’ Ladies and
+gentlemen, please welcome the BBC Reith Lecturer 2010: Professor Martin
+Rees.
+
+(APPLAUSE)
+
+SUE LAWLEY: Martin, you are in fact almost Welsh, aren’t you?
+
+1
+
+MARTIN REES: Well almost. I’m afraid I can’t really say I’m Welsh. I grew
+up in a village near Ludlow, which is just one mile the other side of the
+border. So I’m really a Shropshire lad, but I come to Wales whenever there’s a
+chance; and one of the bonuses of being the Reith Lecturer is the chance to
+come to Cardiff today.
+
+SUE LAWLEY: But hence your full title: Lord Rees of Ludlow. You’re not
+very keen on titles, are you? Do you hate being called Lord Rees?
+
+MARTIN REES: Well I think it does sound a bit pompous, doesn’t it, but one
+uses it to impress public officials, etcetera. (LAUGHTER) But I don’t feel it’s
+the kind of thing to use all the time.
+
+SUE LAWLEY: You quite like Professor. Your parents ran a school, didn’t
+they? Were they scientists of any kind, or were they journalists?
+
+MARTIN REES: (over) No, they weren’t. They were both teachers. But my
+mother was a primary school teacher and my father had a degree in English.
+
+SUE LAWLEY: And did they spot very early on that young Martin had a
+natural bent for physics or astronomy or science in general?
+
+MARTIN REES: They didn’t. I didn’t really have that early bent particularly.
+I was interested in numbers and nature. But I have to say that when I went to
+secondary school, I really did science because I was bad at languages.
+(LAUGHTER)
+
+SUE LAWLEY: So you became an astronomer by chance, did you?
+
+MARTIN REES: By chance. I went to university; I did mathematics and
+
+2
+
+physics. And then when I was 21, I wanted to do a PhD, and then I decided I
+would do something in applying what I’d learned to astronomy. And I was
+very lucky in that that was a time, in the 1960s, when the subject was opening
+up: the first evidence for the Big Bang, first evidence for black holes, etcetera.
+And so I was quite lucky because if you go into a subject when things are
+happening fast, you don’t have to be cleverer than the old guys because
+everyone is starting at the beginning.
+
+SUE LAWLEY: That’s very good rationalisation for a very successful career.
+Professor Rees, let me invite you to deliver your second lecture on Scientific
+Horizons. This one’s called ‘Surviving the Century’.
+
+(APPLAUSE)
+
+MARTIN REES: As an astronomer, I often get mistaken for an astrologer, but
+I cast no horoscopes and I’ve got no crystal ball. And in fact scientific
+forecasters have a dismal record. When Alexander Graham Bell invented the
+telephone, he enthused that: ‘some day every town in America will have one’.
+(LAUGHTER) And the great physicist Lord Rutherford averred in 1937 that:
+‘nuclear energy was moonshine’. And Thomas Watson, Founder of IBM, said:
+‘I think there is a world market for maybe five computers’. (LAUGHTER)
+And one of my predecessors as Astronomer Royal said: space travel was
+‘utter bilge’. So I won’t add to this inglorious roll call. I’m going to focus on a
+key question: how can our scientific capabilities be deployed to ease the
+tensions we’ll confront in the coming decades?
+
+Our lives today are moulded by three innovations that gestated in the 1950s,
+but whose pervasive impact wasn’t then foreseen. Indeed forecasters
+generally underestimate long-term changes even when they overplay shortterm ones.
+
+3
+
+It was in 1958 that Kilby and Noyce built the first integrated circuit. This was
+the precursor of today’s ubiquitous silicon chip - perhaps the most
+transformative invention of the last century. It has spawned the worldwide
+reach of mobile phones and internet, promoting economic growth while itself
+being sparing of energy and resources.
+
+In the same decade Watson and Crick discovered the bedrock structure of
+heredity: the double helix. This launched the profound science of molecular
+biology whose main impact still lies ahead.
+
+And there’s a third technology: space. It’s just over 50 years since the launch
+of Sputnik, and that event led President Kennedy to inaugurate the Apollo
+programme to land men on the moon. Kennedy’s prime motive was of course
+superpower rivalry. Cynics could deride it as a stunt. But it was an
+astonishing technical triumph, and it had an inspirational legacy too: distant
+images of Earth, its delicate biosphere of clouds, lands and oceans contrasting
+with a sterile moonscape where the astronauts left their footprints have ever
+since the 1960s been iconic for environmentalists.
+
+But of course there was always a dark side to space. Rockets were primarily
+developed to carry nuclear weapons, and those weapons were themselves the
+outcome of the World War II Manhattan Project which inaugurated the
+nuclear age.
+
+We lived throughout the Cold War under a threat that could have shattered
+the entire fabric of civilisation. The risk of global nuclear annihilation,
+involving tens of thousands of bombs, is thankfully now in abeyance. But it
+hasn’t gone for good. We can’t rule out by mid-century a global political
+realignment leading to a standoff between new superpowers that could be
+handled less well, or less luckily, than the Cuba missile crisis was. And the
+
+4
+
+risk that smaller nuclear arsenals proliferate and are used in a regional context
+even by terrorists is higher than it ever was.
+
+I’ll suggest in this lecture that we shall confront new threats that may be even
+harder to control than nuclear weapons. But the response should certainly not
+be ‘to go slow’ on science. On the contrary. What’s needed is greater urgency
+in advancing knowledge and a redirection of our priorities in applying it.
+
+In looking several decades ahead, there’s one trend we can predict with
+confidence: there’ll be more people on the Earth. Fifty years ago the world
+population was below 3 billion. It’s more than doubled since then - to 6.8
+billion today - and it’s projected to reach about 9 billion by 2050, and the
+growth is mainly in the developing world. But nearly half the world’s people
+live in countries where fertility has fallen below replacement level, and this
+so-called demographic transition is a consequence of declining infant
+mortality, availability of contraceptive advice, women’s education and so
+forth. But numbers are still rising fast in India, whose population is projected
+to overtake China’s and could exceed 1.5 billion by 2050. And they’re rising
+fast also in Africa. It’s worth quoting some more numbers here. A hundred
+years ago Ethiopia’s population was 5 million. It’s now about 80 million, and
+it’ll almost double again by 2050. And Sudan and Uganda will more than
+double by mid-century, and its consequent pressure on the water resources of
+the Nile Basin. And there could be a billion more people in Africa in 2050 than
+there are today.
+
+Most of those who are alive today are under 25. That’s why a continuing
+population rise until mid-century seems almost inevitable. But the trends
+beyond 2050 will depend on what people now in their teens and 20s decide
+about the number and spacing of their children. But in Africa about 200
+million women are denied such a choice. Enhancing the life chances of
+Africa’s poorest people by providing clean water, primary education and
+
+5
+
+other basics should be a humanitarian imperative; and it would achieve
+throughout the continent the demographic transition that has occurred
+elsewhere. Failure would be a failure of governance - the resources required
+are modest - and it would be a tragedy of continental proportions, which
+would also trigger massive migratory pressures.
+To feed Africa’s present and future population, modern farming techniques
+must be used to enhance productivity, but without degrading the soil or
+ecology. And water shortages, perhaps aggravated by climate change, must
+be addressed. To produce a kilogram of vegetables with present methods
+takes 2,000 litres of water. A kilogram of beef takes 15,000 litres. Can we
+specify an optimum population for the world? I don’t think we can. That’s
+because we can’t confidently conceive what people’s lifestyles - diet, travel
+patterns and energy needs - will be beyond 2050.
+
+The world couldn’t sustain anywhere near its present population if everyone
+lived like present day Americans. On the other hand, more than 10 billion
+people could live sustainably, with a high quality of life, if all adopted a
+vegetarian diet, travelling little but interacting just via super internet and
+virtual reality.
+
+I’ve highlighted though the fast rise in global population because it is deemed
+by some a taboo subject, tainted by association with eugenics in the 20s and
+30s, with Indian policies under Indira Gandhi, and more recently with
+China’s effective but hardline one-child policy.
+
+But two messages, in particular, should surely be proclaimed more widely.
+First, enhanced education and empowerment of women within this decade surely a benign priority in itself - would reduce fertility rates in the poorest
+nations and could thereby reduce the projected world population beyond
+2050 by as much as a billion people. Second, a higher population would
+aggravate all pressures on resources - especially if the developed world
+
+6
+
+(where most of the growth would be) narrows its gap with the developing
+world in its per capita consumption.
+
+Another firm prediction about the post-2050 world is that, as well as being
+more crowded, it’ll be warmer. By how much is a matter of continuing
+research. The greater the warming, the greater the risk of trimming, for
+instance, gradual melting of Greenland’s ice cap or the release from the
+Tundra of methane, which would lead to further warming. And that’s the
+motive for attempts to reduce global consumption of fossil fuels.
+
+The declared political goal has been to halve global carbon dioxide emissions
+by the year 2050. This corresponds to a ration of 2 tonnes of carbon dioxide
+per year, each person on the planet. For comparison, the current US level is 20
+tonnes per person per year; European figures about 10; the Chinese level’s
+already 1.5; and the Indian is 1.5. In cutting these emissions, the richer
+countries must take the lead without stifling economic growth in the
+developing world where emissions in the short-term are bound to rise.
+
+Success in halving global carbon emissions would be a momentous
+achievement - one where all nations acted together in the interests of a future
+beyond the normal political horizon. The meagre progress in Copenhagen last
+December didn’t instil optimism. On the other hand - odd though this may
+sound - the political response to the financial crisis may offer encouragement.
+Who would have thought two years ago that the financial system would have
+been so transformed that big banks were nationalised? Likewise we need
+coordinated, outside-the-box action to avoid serious risk of a long-term
+energy crisis.
+
+The world spends more than 5 trillion dollars a year on energy and its
+infrastructure. There’s a glaring contrast here with health and medicine where
+worldwide R&D expenditures are much, much higher. The clean energy
+
+7
+
+challenge deserves a priority and commitment akin to the Manhattan Project
+or the Apollo moon landing.
+
+It’s sometimes said fatalistically that the UK’s stance on all this is of marginal
+import because our carbon emissions are only 1 or 2 percent of the problem.
+But we have leverage in two respects. First politically. We’ve earned
+international influence because of the UK government’s leadership ever since
+the Gleneagles G8 Summit, and because we’ve already enshrined in our
+Climate Change Act a commitment to cut our own emissions by 80 percent
+over the next 40 years. Second, we have the expertise to spearhead some of
+the technologies needed for a low carbon economy. We need to keep our
+lights on to ensure energy security for ourselves, but beyond that imperative
+it’s in our interest not to fall behind the Chinese in developing clean energy
+technologies that the world will need.
+
+In wave and tidal energy, for instance, the UK could lead. We have the
+geography - capes round our coast with fast-flowing tidal currents - and we
+have marine technology from North Sea oil and gas. And since I’m speaking
+in Cardiff, I should highlight the Severn barrage scheme as well.
+
+What about biofuels? There’s been ambivalence because they compete for
+land use for food growing and forests, but in the long-run GM techniques
+may lead to novel developments: bugs that break down cellulose or marine
+algae that convert solar energy directly into fuel.
+
+Another need is for improved energy storage. In the US Steve Chu, the Nobel
+Prize-winning physicist whom President Obama appointed as Energy
+Secretary, has given priority to improving batteries - for electric cars and to
+complement unsteady power sources such as sun and wind and tides.
+
+What’s the role of nuclear power? I’d myself favour the UK having a
+
+8
+
+replacement generation of nuclear power stations - and boosted R&D into
+‘fourth generation’ reactors and into nuclear fusion. But one can’t be relaxed
+about a worldwide expansion of nuclear power unless internationally
+regulated fuel banks are established to provide enriched uranium and remove
+and store the waste. Otherwise there’s too much risk of weapon proliferation.
+
+I think an attractive long-term option for Europe is solar energy: huge
+collectors - most maybe in North Africa - generating power that’s distributed
+via a continent-wide smart grid. Achieving this would require vision,
+commitment and public-private investment on the same scale as the building
+of Europe’s railways in the 19th century.
+Some pessimists argue that the transition to a low carbon economy won’t
+happen fast enough, and that the international community should, as a
+fallback, contemplate a ‘plan b’ - being fatalistic about the rise in carbon
+dioxide, but combating the warming it induces by, for instance, putting
+reflecting aerosols in the upper atmosphere or even vast sunshades in space.
+
+The political problems of such geo-engineering may be overwhelming: not all
+nations would want to turn down the thermostat equally, and there could be
+unintended side effects. An alternative geo-engineering approach would be
+direct extraction of carbon from the atmosphere. This approach would be
+more acceptable politically. But it seems to me right at least to study geoengineering, to clarify which options make sense and which don’t; to explore
+the governance issues they raise and perhaps damp down undue optimism
+about a technical quick-fix of our climate.
+
+Energy security, food supplies and climate change are the prime long-term
+threats without enemies that confront us - all aggravated by rising
+populations. But there are others. For instance, rapid changes in land use may
+jeopardise whole eco systems.
+
+9
+
+There have been five great extinctions in the geological past. Human actions
+are causing a sixth. The current extinction rate is a hundred, even a thousand
+times higher than normal. We’re destroying the book of life before we’ve read
+it. And biodiversity - manifested in forests, coral reefs, deep oceans and all
+Earth’s other eco systems - is often proclaimed as a crucial component of
+human well-being. And it is: we’re clearly harmed if fish stocks dwindle to
+extinction; there are plants whose gene pool might be useful to us; and
+massive destruction of the rainforests could accelerate global warming.
+
+But there’s an ethical issue here. For some environmentalists, these
+instrumental - and anthropocentric - arguments aren’t the only compelling
+ones. For them, preserving the riches of our biosphere has value in its own
+right, over and above what it means to us humans.
+So far today I’ve talked about threats we’re collectively imposing on the
+environment, but I’d like now briefly to highlight a new type of vulnerability,
+stemming from fast developing technologies.
+
+Almost all innovations entail new risks: in the early days of steam, people
+died when poorly designed boilers exploded. But something has changed.
+Most of the old risks that humans caused were localised - if a boiler explodes,
+it’s horrible but there’s a limit to just how horrible. But there are new hazards
+whose consequences could be so widespread that even a tiny probability is
+disquieting. We’re all precariously dependent on elaborate networks:
+electricity grids, air traffic control, international finance, just-in-time delivery
+and so forth. It’s crucial to ensure maximum resilience of all such systems.
+And there could be other vulnerabilities. It’s becoming feasible, for instance,
+to stitch together long strands of DNA and thereby construct from scratch the
+blueprint of an organism. This offers huge potential for medicine and
+agriculture. But there are risks. Already the genome for some viruses - polio,
+Spanish flu and SARS - have been synthesised. Expertise in such techniques
+will become widespread, posing a manifest risk of bio-error or bio-terror.
+
+10
+
+And we’re kidding ourselves if we think that those with technical expertise
+will all be balanced and rational. Expertise can be allied with fanaticism - not
+just the traditional fundamentalism that we’re so mindful of today, but that
+exemplified by some New Age cults: extreme eco freaks; violent animal rights
+campaigners, and the like.
+
+And there will be individual weirdoes with the mindset of those who now
+unleash computer viruses - the mindset of an arsonist. The global village will
+have its village idiot.
+
+In a future era of vast individual empowerment where even one malign act
+could be too many, how could we be safeguarded? Maybe our society will
+shift towards having more intrusion and less privacy. Indeed the rash
+abandon with which people put their intimate details on Facebook and our
+acquiescence in ubiquitous CCTV suggest that such a shift would meet
+surprisingly little resistance. Or will there be pressures to constrain diversity
+and individualism?
+
+This lecture has focused on some potential downsides of the 21st century. But
+despite all that, I am actually an optimist - at least a techno-optimist. There
+seems no scientific impediment to achieving a sustainable world beyond 2050
+where the developing countries have narrowed the gap with the developed,
+and all benefit from further scientific advances that could have as great and
+benign an impact as information technology and medical advances have had
+in the last decade.
+
+It’s the politics and the sociology that pose the deepest concerns. Will richer
+countries realise that it’s in their self-interest for the developing world to
+prosper, sharing fully in the benefits of globalisation? Can nations sustain
+effective but non-repressive governance in the face of threats from small
+
+11
+
+groups with high-tech expertise? And, above all, can our institutions prioritise
+projects which are long-term in political perspective even if a mere instant in
+the history of our planet?
+
+And I’ll conclude with a cosmic vignette. Suppose some aliens had been
+watching our planet from afar for its entire history. What would they have
+seen? Over nearly all that immense time, 45 million centuries, Earth’s
+appearance would have altered very gradually. Continents drifted; the ice
+cover waxed and waned; successive species emerged, evolved and became
+extinct.
+
+But in just a tiny sliver of the Earth’s history, the last one millionth part,
+patterns of vegetation altered at an accelerating rate. This signalled the
+growing impact of humans and the advent of agriculture.
+
+Then, in just one century, came other changes. The amount of carbon dioxide
+in the air began to rise anomalously fast. The planet became an intense
+submitter of radio waves - the output from TV, cellphones and radar
+transmissions. And something else unprecedented happened: small
+projectiles, launched from the planet’s surface, escaped the biosphere
+completely. Some were propelled into orbits around the Earth; some
+journeyed to the moon and planets.
+
+If they understood astrophysics, the aliens could predict that the biosphere
+would face doom in a few billion years when our sun flares up and dies. But
+could they have predicted this sudden fever less than halfway through the
+Earth’s life? And if they continued to keep watch, what might these
+hypothetical aliens witness in the next hundred years in this unique century?
+Will a final spasm be followed by silence? Or will the planet itself stabilise?
+
+12
+
+And will some of the objects launched from the Earth spawn new oases of life
+elsewhere?
+
+Well the answer depends on how the challenges I’ve addressed today can be
+met. 21st century science, optimally applied, could offer immense benefits to
+the developing and the developed world, but it will present new threats. To
+confront these successfully, and to avoid foreclosing humanity’s long-term
+potential, should be our aspiration for the coming decades. Thank you very
+much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Thank you very much indeed. And now to questions from the
+floor here in the National Museum Cardiff where we have an audience of
+academics and experts and students and laypeople. I’ve seen lots of questions
+being handed in during the course of the lecture, so I know there are plenty.
+I’m going to call for a question first from Peter Harper who’s Head of
+Research at the Centre for Alternative Technology here in Wales. And I think
+you focus on the changes people can make to their everyday lives, such as
+organic farming or environmentally friendly ways of running their homes yes?
+
+PETER HARPER: Indeed, but that’s not what I would like to ask Professor
+Rees. You’ve mentioned several times the need for re-prioritising our work,
+but that means doing some things less perhaps. Do you think that some of the
+more fun stuff, we should do less of? I’m thinking of things like the moons of
+Saturn, the origins of humanity, even the mighty Higgs boson. Perhaps it’s
+time to stop doing that stuff or defer it until the 22nd century. Isn’t it time for
+all hands on deck?
+
+SUE LAWLEY: You might just have to tell us what the mighty Higgs boson is
+
+13
+
+before we go any further.
+
+MARTIN REES: It would take too long to explain that.
+
+SUE LAWLEY: But it’s actually what the Large Hadron Collider is up to.
+
+MARTIN REES: It’s what … The big machine in Geneva is looking for it yes, yes
+
+SUE LAWLEY: Exactly.
+
+MARTIN REES: Well I think I would disagree because the amount spent in
+actual pure research is only a tenth of what’s spent in the development stage.
+And I think if we look back in the past, we have found that the research that’s
+paid off has been the unpredictable part, and I think it’s in the development
+and the applications that we need to make the choices. And obviously I think
+we need to spend more on the developed countries; and in terms of energy
+research, I think we could afford to multiply the amount spent on energy
+R&D by a factor of 5 or 10 very easily.
+
+SUE LAWLEY: Do you accept that, Peter Harper?
+PETER HARPER: Yes. (laughs) look, the Large Hadron Collider has cost quite
+a lot of money and there’s thousands and thousands of scientists there. I’d
+love to see them working on energy research. Why aren’t they?
+
+SUE LAWLEY: That’s the point, isn’t it?
+
+MARTIN REES: Yes.
+
+SUE LAWLEY: I mean do we actually need what the Large Hadron Collider
+is doing, or could that money be put to your solar panels in the Sahara Desert
+
+14
+
+and actually get some electricity created?
+
+MARTIN REES: Yes. Well I think there are lots of people who could help
+with the solar energy, but I think there are other ways I would get them rather
+than from the Hadron Collider. I think there are many other types of activity
+which are lower priority than fundamental research.
+
+SUE LAWLEY: You mentioned medical research and I’m going to bring in
+Nick Thomas, Dr Nick Thomas. He’s principal scientist at one of the world’s
+biggest medical technology companies, and he doesn’t get as much research
+funding as he thinks he ought to. I suspect you’re not alone. (LAUGHTER)
+
+DR NICK THOMAS: That’s possible.
+
+MARTIN REES: Yes.
+
+DR NICK THOMAS: The question I’d like to ask. You touched on the
+disproportionality between funding of energy and healthcare. Currently I’ve
+read that the funding rate levels in energy are about 1 to 10 percent of those in
+healthcare. So, first of all, do you believe there’s a fundamental need to
+readdress the way science is funded? And if so, do we have to accept a
+compromise in individual survival if we reduce healthcare spending to the
+greater good for global survival?
+
+MARTIN REES: Again I don’t think we need to have that trade off. I mean I
+think the deficiency in the energy R&D is to be blamed on the large utility
+companies. Tom Friedman in his book says that the American energy
+companies spend less on R&D than the American pet food industry does, and
+that seems an imbalance. So I think what is wrong is that the big companies
+ought to be investing from the huge turnover they have. Pharmaceutical
+companies - as you know better than me - invest about 20 percent, don’t they,
+
+15
+
+in R&D; in the energy utilities, it’s less than 1 percent. And I think of course
+investment in a new energy system is very long-term, and probably it needs
+some sort of financial incentives which don’t exist at the moment.
+
+SUE LAWLEY: I’m going to call someone who’s handed in a question here.
+Jackie Mulville?
+
+JACKIE MULVILLE: Yes, my question is: is the survival of the maximum
+number of humans worth the environmental cost?
+
+MARTIN REES: Well as a human being myself, I think that the future of
+humans is specially important. But it should not be at the cost of all the rest of
+the biosphere, and that’s why I think we do have to ensure that we don’t
+ravage the biosphere in the way that is happening now and would happen
+even more if population rises and we don’t change our methods. We can
+envisage a situation where with modern technology the world population,
+even the projected world population, could survive without despoiling the
+ecology.
+
+SUE LAWLEY: Okay, I’m going to call in Dr Simon Jones who’s a principal
+lecturer in geography at the University of Glamorgan, and he’s an expert in
+the management of coastal zones, which you mentioned.
+
+DR SIMON JONES: Thank you, Sue. Martin, you made great play on the
+need for energy security during your lecture - alluding, amongst other things,
+to the proposed Severn barrage. Would you agree that such proposals are
+cumulatively perhaps examples of destruction of the biosphere that inevitably
+will lead to human extinction? Are our chances with these things 50/50?
+
+MARTIN REES: Well I think if we are to get our energy by non-fossil fuels,
+
+16
+
+then there’s a limited number of options, isn’t there? There’s tidal, there’s
+wind, or there’s nuclear, and all of them have some environmental negative
+effects and I think we just have to make the choice of which of those three we
+prefer and also of how much energy we want to use per capita in order to
+provide the sort of lifestyle that we want. Any option is going to have some
+environmental effects and it would not be for me to decide whether you
+should go for the Severn barrage or for more wind farms.
+
+SUE LAWLEY: You don’t have a view on the Severn barrage? You sounded
+as if you …
+
+MARTIN REES: My instinct is to be in favour of it because it’s true it would
+have an environmental impact, but in the long-run it’s not obvious to me that
+the environmental consequences would be negative; and compared to the
+huge area of wind farms you would need to provide the same amount of
+energy, I would have thought that the Severn barrage was something to be
+considered very seriously.
+
+SUE LAWLEY: We should explain that it would be a 10 mile wide barrage, I
+think, running from somewhere just south of where we are sitting now, from
+the south of Cardiff, across to Western-super-Mare. And then, because there’s
+this huge tidal rise, a tremendous amount of electricity could be created if it
+were held back and let through, yes? Right, what do you think of it?
+
+DR SIMON JONES: I think I’d probably defer to the wisdom of my
+grandmother in the first place: that you never appreciate something fully until
+it’s gone.
+
+SUE LAWLEY: I see on the front row here we have Rhodri Morgan, the
+former first Minister for Wales, what about a comment on the Severn Barrage?
+
+17
+
+RHODRI MORGAN: Yes, well I did want to pick Sir Martin up, I think he
+referred to the incoming Energy Secretary in the USA, Stephen Chu deciding
+to concentrate a lot of US research effort on batteries so that, in effect, you’ll
+be able to store electricity because that would be enormously helpful to
+counteract the intermittency of renewable sources that you’ve described as
+‘unsteady’ but actually, tidal – it may be intermittent, but it’s not unsteady,
+you can predict it for thousands of years in advance. So , you know coalitions
+are all the rage at the moment, (laughter) but do you think the most
+significant coalition, in the long term, would not be the one launched in the
+Rose Garden of 10 Downing Street, just recently, but the coalition of
+Professor Chu’s giant banks of energy –storing batteries and the Severn
+Barrage belonging to Wales and the West of England?
+
+MARTIN REES: well, I’d agree with that. The other point I’d make is that if
+you do things on a full European scale, then, of course, the fluctuations in
+wind and sun are smoothed over so the larger the scale over which your grid
+can transmit power, then the easier it is to get by with renewables.
+
+SUE LAWLEY: You mentioned weirdoes and village idiots in the global
+village. Let me go to Professor Rod Dubrow-Marshall. (LAUGHTER) Oh that
+was unfortunate, wasn’t it? Rod Dubrow-Marshall is a social psychologist and
+his work focuses on how we can prevent such people unleashing their bioterror on the planet. Your question, if you will? Sorry about that.
+
+PROFESSOR ROD DUBROW-MARSHALL: Yes, hopefully not a weird
+question. Do you think our ultimate survival actually depends on the pooling
+of knowledge across science, the social sciences and humanities?
+
+SUE LAWLEY: Are you suggesting knowledge isn’t pooled at the moment?
+
+PROFESSOR ROD DUBROW-MARSHALL: Well in universities of course
+
+18
+
+we have the traditional barriers between the sciences and the social sciences
+and the humanities and the arts, and of course across those barriers resources
+flow perhaps in different rates. But my question is: for us to survive, does it
+not have to break down completely in order for knowledge to be pooled to
+the maximum?
+
+MARTIN REES: I think yes because technical scientific knowledge by itself is
+clearly not sufficient. We have to know what people want, what their
+preferences are. Clearly that involves social studies, and we want a humane
+public that is steeped in the humanities as well - if possible. So I think we do
+want a broadly educated public.
+
+SUE LAWLEY: The professor raised the point about bio-terror, but I believe
+you’ve suggested in the past, Martin, that the cause of our demise is more
+likely to be error than terror?
+
+MARTIN REES: I think there is a risk of error, unintended consequences of
+some of these things, but I think …
+
+SUE LAWLEY: So it’s the idiot scientists, not the village idiot?
+
+MARTIN REES: Well not idiot scientists, but there are of course risks of some
+process going wrong - whether it’s an oil spill in the Atlantic or anything like
+that. And of course as science gets more powerful, then the downside of
+errors gets greater.
+
+SUE LAWLEY: But you’ve also said that in your view we only have a 50/50
+chance of surviving the century.
+
+MARTIN REES: Well I didn’t quite say that. I said that I think …
+
+19
+
+SUE LAWLEY: Well you wrote a book called ‘Our Final Century’.
+
+MARTIN REES: Well yes, and what it said was … (LAUGHTER) Yes and
+what it said was that I thought there was a 50 percent chance of a setback to
+civilisation as bad as a nuclear war, or some consequence of 21st century
+technology equally serious. I think the chance of us being wiped out is very
+small.
+
+SUE LAWLEY: I’m going to call Jenny Hainsworth-Lamb.
+
+JENNY HAINSWORTH-LAMB: Hi there. I feel that we’re fed politically
+motivated, one-sided scientific opinions. Making informed decisions about
+the environment is difficult. To empower ordinary people to change, do you
+agree that it’s the responsibility of the scientific community to ensure that
+facts and balanced arguments are delivered in plain English?
+
+MARTIN REES: Certainly it should be possible, in my opinion, to make the
+essence of science accessible to people in plain English. The technical details
+involve mathematics and formulae, etcetera, but the essence I think can be
+explained in plain English to the extent that is needed by a citizen to make an
+informed decision.
+
+SUE LAWLEY: You grow your own vegetables, don’t you?
+
+JENNY HAINSWORTH-LAMB: I grow my own vegetables and I also,
+because I do an awful lot of driving in my professional career - I decided to
+keep bees to try and balance out the effect I was having on the environment.
+So I hope I’m making a contribution one way or another.
+
+SUE LAWLEY: But essentially what you seem to be suggesting, Martin, was
+that you know if we all became vegetarian and went on virtual holidays,
+
+20
+
+everything would be fine.
+
+MARTIN REES: Well that was a caricature. I wasn’t suggesting that. I was
+just …
+
+SUE LAWLEY: Oh I quite like the idea.
+
+MARTIN REES: Well I was just saying that there are two extremes. One
+extreme is present day Americans; and the other extreme would be not
+travelling at all and living in virtual reality and just eating rice. I’m not
+advocating either of those extremes
+
+SUE LAWLEY: I’m going to call Nick Pidgeon, Professor of Environmental
+Psychology at Cardiff University. You’re currently investigating public
+attitudes towards climate change and energy resources.
+
+NICK PIDGEON: Yes, thank you Martin. Your analysis points to the
+inescapable fact, in my view, that combating climate change will require a
+revolution in technology, in politics, and in our lifestyles on a scale not seen
+since the Second World War. Are the public and politicians ready for the scale
+of change that will be required here? And, additionally, are there dangers for
+scientists when they act as advocates for such change?
+
+MARTIN REES: Well I think if scientists advocate a sort of bare bones
+approach that’s going to involve drastic life changes, they won’t get much
+resonance. But my view on this whole topic is that the way the problem will
+be solved will be by obviously first tackling ways in which we can actually
+save money - by using energy more efficiently, insulating buildings better,
+etcetera. Then we want to incentivise the development of new clean
+technologies and hope to end up when it is in fact no more expensive than
+fossil fuels. And so that will enable the transition to happen without there
+
+21
+
+being any hardship involved.
+
+SUE LAWLEY: But the thrust of the question, as I understood it, is can you
+take the politicians with you? Are they listening enough?
+
+MARTIN REES: Yes. Well I think the politicians would obviously resonate
+with what I’ve just said because they realise it’s hard to get the public to make
+a change which imposes inconvenience or hardship on them. But I genuinely
+believe that in the long-run we can meet these targets of reducing our
+dependence on fossil fuels by moving to other sources of energy which we
+can develop in the next 10 or 20 years. But what is very important is to
+prioritise the development of those new energy sources - be they wind, tides
+or solar or nuclear.
+
+SUE LAWLEY: And you mentioned that President Obama is now listening to
+environmentalists in a way in which his predecessor wasn’t. What about our
+new Prime Minister? Do you feel you’re going to be pushing at an open door
+there?
+MARTIN REES: I don’t want to make political statements, but I think the
+auguries are positive so far and I think we should pay tribute to the last
+government for what it achieved in this area.
+
+SUE LAWLEY: Our thanks to you all. We have to end it there. Thank you
+very much indeed. Next week we’ll be broadcasting from Martin’s
+professional home - the Royal Society in London, where he’s been President
+for the past 5 years: a place where since its foundation, in 1660, great minds
+have gathered to discuss the important scientific issues of the day. The title of
+his third lecture is tantalising. It’s called ‘What We’ll Never Know: Journey
+into the Known Unknown with us - or is it the Unknown Unknown - at the
+same time next week. For now, from Cardiff, our thanks to Martin Rees and
+goodbye.
+
+22
+
+(APPLAUSE)
+
+23
+
+

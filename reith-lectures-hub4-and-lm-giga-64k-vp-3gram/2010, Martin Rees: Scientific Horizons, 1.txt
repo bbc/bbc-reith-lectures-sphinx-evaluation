@@ -1,0 +1,754 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT
+IS TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST.
+THE NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE
+BBC NOR THE PARTICIPANTS IN THE PROGRAMME CAN
+GUARANTEE THE ACCURACY OF THE INFORMATION HERE.
+REITH LECTURES 2010: SCIENTIFIC HORIZONS
+Presenter: Martin Rees
+Lecture 1: The Scientific Citizen
+TRANSMISSION: 1st JUNE 2010 RADIO 4
+
+SUE LAWLEY: Hello and welcome to the Radio Theatre in Broadcasting
+House for the first in this year’s series of Reith Lectures. They’re being given
+by a man who’s been called “a scientific magician; a man who leaves you
+wondering where he got his ideas from.” Magic, however, is not his business.
+He’s rooted in the pursuit of rigorous scientific inquiry, and his work has
+taken him to the pinnacle of his profession as President of the Royal Society,
+Astronomer Royal, and Master of Trinity College Cambridge.
+
+He’s called his four lectures ‘Scientific Horizons’. His subject is the challenges
+and threats man faces as he starts his journey through the rest of the 21st
+century. He believes we’re in danger, as he puts it, of “destroying the book of
+life before we’ve read it.” Man may be at the top of the evolutionary tree, but
+there are still many things he doesn’t understand - and possibly never will.
+Indeed the form of life of which he’s a part may not be the only one in the
+universe.
+
+So in ‘Scientific Horizons’ our lecturer will look at the threats to the whole
+existence of man and explore some of their solutions. Ladies and gentlemen,
+please welcome the BBC’s Reith Lecturer 2010: Martin Rees.
+
+1
+
+(APPLAUSE)
+
+SUE LAWLEY: Welcome, Martin. You’ve been Astronomer Royal for the past
+fifteen years, I think. I gather it’s a deeply arduous task?
+
+MARTIN REES: It was fifty years ago arduous, but I’d like to say the duties
+are so exiguous I could do them posthumously. I need never retire.
+(LAUGHTER)
+
+SUE LAWLEY: But you must get letters or emails from lots of people who
+think that they’ve cracked it; you know that they’ve learned the darkest
+secrets of the universe. What do you do with all of them?
+
+MARTIN REES: Oh I get those. You do best to tell them to write to each
+other. (LAUGHTER) Sometimes they hit it off. Sometimes you get a letter
+from each saying: ‘Why did you tell me to write to that nut?’ (LAUGHTER)
+
+SUE LAWLEY: But seriously, you do like interaction, don’t you? You are not
+the kind of scientist who sits poring over his papers in his ivory tower for
+ages. Debating, travelling, talking, lecturing is what you do?
+
+MARTIN REES: Well that’s right. The science I do is fairly interactive - I have
+lots of collaborators; I’m interested in data obtained in different ways. But
+also I’d derive less satisfaction, I think, if I could only talk to fellow specialists.
+I get more satisfaction from the fact that my subject is of gratifying interest to
+a much wider public than professionals.
+
+SUE LAWLEY: But puzzles and conundrums are what you do, and they’re
+whirling away, one likes to imagine, in your head the whole time. Is that how
+you do your science: you think of a brilliant solution and then set about trying
+to prove that it’s the correct one?
+
+2
+
+MARTIN REES: Well sometimes I sit and think. Sometimes I just sit. But one
+hopes that ideas eventually generate. But they generate more actually when
+they’re stimulated by some new observation or by some remark made by
+someone else. It’s a very interactive subject. But I’m very fortunate actually.
+The subject I work in - astronomy - has been developing very fast. It was
+developing fast when I started, but the pace of change has not slackened at
+all.
+
+SUE LAWLEY: Wonderful. Well we hope also the debate here is going to
+inspire you, just as we hope you’re going to inspire us - which I’m sure you
+are. Can I invite you to take to the podium and deliver your first lecture. It’s
+called ‘The Scientific Citizen’. Thank you.
+
+(APPLAUSE)
+
+MARTIN REES: I'll start with a flashback to the 1660s - to the earliest days of
+the Royal Society. Christopher Wren, Robert Hooke, Samuel Pepys, and other
+'ingenious and curious gentlemen' (as they described themselves) they met
+regularly. Their motto was to accept nothing on authority. They did
+experiments; they peered through newly-invented telescopes and
+microscopes; they dissected weird animals. But, as well as indulging their
+curiosity, they were immersed in the practical agenda of their era - improving
+navigation, exploring the New World, and rebuilding London after the Great
+Fire.
+
+Today, science has transformed our lives. Our horizons have hugely
+expanded; no new continents remain to be discovered. Our Earth no longer
+offers an open frontier, but seems constricted and crowded - a 'pale blue dot'
+in the immense cosmos.
+
+3
+
+My theme in these lectures is that the Royal Society's old values should
+endure. Today's scientists, like their forbears, probe nature and nature's laws
+by observation and experiment. But they should also engage broadly with
+society and with public affairs.
+
+Indeed, their engagement is needed now more than ever. Science isn't just for
+scientists. All should have a voice in ensuring that it's applied optimally - and
+to the benefit of both the developing and developed world. We must confront
+widely-held anxieties that genetics, brain science and artificial intelligence
+may 'run away' too fast. As citizens, we all need a feel for how much
+confidence can be placed in science's claims. And these are themes I'll explore
+in all four lectures.
+
+And, as I'll discuss, this is a crucial century. The Earth has existed for 45
+million centuries. But this is the first when one species, ours, can determine for good or ill - the future of the entire biosphere.
+
+But first, a comment on how science itself has changed our perspective on
+nature.
+
+Last year, we celebrated Charles Darwin's anniversary. Darwin's impact on
+Victorian thought was profound - and he resonates even more today. His
+concept of natural selection has been described, with only slight hyperbole, as
+'the best idea anyone ever had'. His insights are pivotal to our understanding
+of all life on Earth, and the vulnerability of our environment to human
+actions. Other sciences have disclosed the nature of atoms, of DNA, and of
+stars. Spectacular images from space have enlarged our cosmic horizons.
+
+It's a cultural deprivation not to appreciate the panorama offered by modern
+cosmology and Darwinian evolution - the chain of emergent complexity
+
+4
+
+leading from some still-mysterious beginning to atoms, stars, and planets.
+And how on our planet, life emerged, and evolved into a biosphere
+containing creatures with brains able to ponder the wonder of it all. This
+common understanding should transcend all national differences - and all
+faiths too.
+
+Science is indeed a global culture, and its universality is specially compelling
+in my own subject of astronomy. The dark night sky is an inheritance we've
+shared with all humanity, throughout history. All have gazed up in wonder at
+the same 'vault of heaven', but interpreted it in diverse ways.
+
+Today, I'm not going to speak further about the findings of science, nor will I
+extol it as the greatest collective achievement of humanity - though it surely
+is. I'll instead focus on how it impinges on our lives - and how it will in
+future.
+
+Some changes happen with staggering speed. Everyday life has been
+transformed in less than two decades by mobile phones and the internet.
+Computers double their power every two years. Spin-offs from genetics could
+soon be as pervasive as those from the microchip have already been. Ten
+years ago, the first draft of the human genome was decoded. Now, genome
+sequencing - the 'read out' of our genetic inheritance - is a million times
+cheaper than 10 years ago.
+
+These rapid advances - and others across the whole of science - raise
+profound questions.
+
+For instance:
+Who should access the 'readout' of our personal genetic code?
+
+5
+
+How will our lengthening life-spans affect society?
+Should we build nuclear power stations - or windmills - if we want to keep
+the lights on?
+Should we use more insecticides or plant GM crops?
+How much should computers invade our privacy?
+
+Such questions didn't feature much in the recent election campaign here in the
+UK. That's partly because they transcend party politics. But it's more because
+they are long-term - and tend to be trumped by more urgent items on political
+agendas.
+
+But often science does have an urgent impact on our lives. Governments and
+businesses, as well as individuals, then need advice - advice that fairly
+presents the level of confidence, and the degree of uncertainty.
+
+Issues come up unexpectedly. For instance, back in April, the eruption in
+Iceland raised urgent questions about vulcanology; about wind patterns, and
+about how volcanic dust affects jet engines. In that instance, the knowledge
+was basically there: what was lacking was coordination, and an agreement on
+the acceptable level of risk.
+
+Sometimes, though, the key science isn't known. An example was the
+outbreak of 'mad cow disease' in the 1980s. At first, experts conjectured that
+this disease posed no threat to humans because it resembled scrapie in sheep,
+which had been endemic for 200 years without crossing the species barrier.
+That was a reasonable conjecture, and comforting to politicians and public.
+But it proved wrong. The pendulum then swung the other way. Banning 'beef
+on the bone', for instance, was in retrospect an over-reaction, but at the time
+seemed a prudent precaution against a potential tragedy that could have been
+far more widespread than it actually turned out to be.
+
+6
+
+Likewise, the government could have been right to stock up vaccine against
+swine flu - even though, fortunately, this particular epidemic proved milder
+than feared.
+
+Indeed, if we apply to pandemics the same prudent analysis whereby we
+calculate an insurance premium - multiplying probability by consequences we'd surely conclude that measures to alleviate this kind of extreme event
+actually need scaling up.
+
+Incidentally, there's a mismatch between public perception of very different
+risks and their actual seriousness. We fret unduly about carcinogens in food
+and low level radiation. But we are in denial about 'low-probability highconsequence' events which should concern us more. The recent financial crash
+was one such; but others that haven't yet happened - lethal pandemics are one
+example - should loom higher on the agenda.
+
+The varied topics I’ve just mentioned show how pervasive science is, in our
+lives and in public policy.
+
+President Obama certainly recognised this. He filled some key posts in his
+administration with a real 'dream team' of top-rate scientists. And he opined
+that their advice should be heeded, I quote, “even when it is inconvenient indeed especially when it is inconvenient.”
+
+The UK has 'chief science advisors' in most government departments. Not yet,
+however, in the Treasury (LAUGHTER) - though I can't help thinking this
+would be worthwhile, even at the sacrifice of one economist. (LAUGHTER)
+
+Winston Churchill once said that scientists should be “on tap, not on top.”
+And it is indeed the elected politicians who should make decisions. But the
+role of scientific advice is not just to provide facts to support policies. Experts
+
+7
+
+should be prepared to challenge decision-makers, and help them navigate the
+uncertainties of science. But there's one thing they mustn't forget. Whether the
+context be nuclear power, drug classification, or health risks, political
+decisions are seldom purely scientific. They involve ethics, economics and
+social policies as well. And in domains beyond their special expertise,
+scientists speak just as citizens.
+
+There's no denying where science has recently had the most contentious
+policy impact, and where the stakes are highest: climate change.
+
+It will feature, along with other global threats, in my second lecture, but I'll
+venture some comments today too. As regards the science, there is, in my
+inexpert view, one decisive measurement: the amount of carbon dioxide in
+the atmosphere is higher than it’s been for a million years, and is rising,
+mainly because of the burning of fossil fuels. This finding isn’t controversial.
+And straightforward chemistry tells us that carbon dioxide is a so-called
+'greenhouse gas': it acts like a blanket, preventing some of the heat radiated
+by the Earth from escaping freely into space. So the measured carbon dioxide
+build-up in the atmosphere will trigger a long-term warming, superimposed
+on all the other complicated effects that make climate fluctuate.
+
+The predicted rate of warming, however, is uncertain - depending on the
+poorly-understood 'feedback ' from water vapour and clouds, which
+themselves affect the blanketing. Nevertheless, even the existing uncertain
+science convinces me that the threat of disruptive climate change is serious
+enough to justify its priority on the agenda of this country and others.
+
+This confidence may surprise anyone who has dipped into all that's been
+written on the subject. Any trawl of the internet reveals diverse and
+contradictory claims. So how do you make up your mind? I'd suggest the
+following analogy.
+
+8
+
+Suppose you seek medical guidance. Googling any ailment reveals a
+bewildering range of purported remedies. But if your own health were at
+stake, you wouldn't attach equal weight to everything in the blogosphere:
+you'd entrust your diagnosis to someone with manifest medical credentials.
+Likewise, we get a clearer 'steer' on climate by attaching more weight to those
+with a serious record in the subject.
+
+But - as I said earlier about science advice in general - it's crucial to keep 'clear
+water' between the science on the one hand, and the policy response on the
+other. Risk assessment should be separate from risk management.
+
+Climate projections still span a wide range, but even if there were minimal
+uncertainties in how the world's weather might change, there would still be
+divergent views on what governments should do about it.
+
+For instance, what balance should be struck between mitigating climate
+change and adapting to it. How much should we sacrifice now to ensure that
+the world is no worse when our grandchildren grow old? How much should
+be incentivise clean energy?
+
+On all these choices, there’s as yet minimal consensus, still less effective
+action. But policies, and investment priorities, are being influenced by climate
+change projections. So it's inevitable, and right, that climate science is under
+specially close scrutiny.
+
+We are today far more questioning of authorities on every topic. We can all
+access far more information and want to weigh up evidence for ourselves.
+Such scrutiny should be welcome: just as there are instances of shoddy work,
+error or even malpractice in the medical and legal profession, so there
+
+9
+
+occasionally are in science.
+
+But science is generally 'self-correcting'. Scientists are their own severest
+critics. They have more incentive than anyone else to uncover errors. That’s
+because the greatest esteem goes to those who contribute something
+unexpected and original - like refuting a consensus. That's how in science
+initially-tentative ideas firm up - not only on climate change, but - to take
+earlier examples - regarding the link between smoking and lung cancer, and
+between HIV and AIDS. But that's also how seductive theories get destroyed
+by harsh facts. Science is 'organised scepticism'.
+
+Our scientific knowledge and capability is actually surprisingly patchy. Odd
+though it may seem, some of the best-understood phenomena are far away in
+the cosmos. Right back in the 17th century, Isaac Newton could describe the
+'clockwork of the heavens' and predict eclipses. But few other things are so
+predictable. For instance, it's still hard to forecast, even a day before, whether
+those who go to view an eclipse will encounter clouds or clear skies. And
+guidance on some everyday matters - aspects of diet and child care for
+instance - still changes from year to year.
+If you ask scientists what they are working on, you will seldom get an
+inspirational reply like 'seeking to cure cancer' or 'understanding the
+universe'. They focus on a tiny piece of the puzzle; they tackle something that
+seems tractable. They're not ducking the 'grand challenges' - but they're
+judging that an oblique approach can pay off best.
+
+A frontal attack may be premature. For instance, forty years ago President
+Richard Nixon declared a "war on cancer". He envisaged this as a national
+goal, modelled on the then-recent Apollo moon-landing programme. But
+there was a crucial difference. The science underpinning Apollo was already
+understood. So, when funds gushed at NASA, it became reality. But in the
+case of cancer, the scientists knew too little to be able to target their efforts
+
+10
+
+effectively.
+
+By the way, I'm using the word 'science' throughout, in a broad sense, to
+encompass technology and engineering - this is not just to save words, but
+because they're symbiotically linked. 'Problem solving' motivates us all whether one is an astronomer probing the remote cosmos, or an engineer
+facing a down-to-earth design conundrum. There is at least as much challenge
+in the latter - a point neatly made by an old cartoon showing two beavers
+looking up at a hydroelectric dam. One beaver says 'I didn't actually build it,
+but it's based on my idea'. (LAUGHTER)
+
+Nixon's cancer programme, incidentally, facilitated a lot of good research into
+genetics and the structure of cells. Indeed, the overall investment in scientific
+research in the 20th century paid off abundantly. But the pay-off happens
+unpredictably, and after a time-lag that can be decades long. And that of
+course is why much of science has to be funded as a 'public good'.
+
+A fine 'case study' is the laser, invented in 1960. It applied basic ideas that
+Einstein had developed more than 40 years earlier. And its inventors in turn
+didn’t foresee that lasers would be used in eye surgery and in DVD players.
+
+Traditionally, discoveries reach public attention only after surviving peer
+review. But this 'copybook' procedure is under increasing strain, due to
+competitive or commercial pressures, 24-hour media - and the greater scale
+and diversity of a scientific enterprise that’s now widely international.
+
+A conspicuous departure from traditional norms happened back in 1989
+when Stanley Pons and Martin Fleischmann, then at the University of Utah,
+claimed at a press conference to have generated nuclear power using a tabletop apparatus. If credible, it would have ranked as one of the most
+momentous breakthroughs since the discovery of fire.
+
+11
+
+But doubts set in. Extraordinary claims demand extraordinary evidence, and
+in this case the evidence proved far from robust. Others failed to reproduce
+what Pons and Fleischmann claimed they’d done. Within a year, there was a
+consensus that the results were misinterpreted, though even today a few
+believers remain.
+
+'Cold fusion' bypassed the normal quality controls of the scientific profession,
+but it did no great harm in the long run. Indeed in any similar episode today,
+exchanges via the internet would have led to a consensus verdict even more
+quickly.
+
+But this fiasco holds an important lesson: what's crucial in sifting error and
+validating scientific claims is open discussion. Suppose that Pons and
+Fleischmann had worked not in a university but in a lab whose mission was
+military, or commercially-confidential. What would have happened then? If
+those in charge were convinced that they had stumbled on something
+stupendous, a massive programme might have got under way, shielded from
+open scrutiny and wasting huge resources.
+
+The imperative for open-ness and debate is a common thread through all the
+examples I've discussed. It ensures that any scientific consensus that emerges
+is robust and firmly grounded.
+Even wider discussion is needed when what's in contention is not the science
+itself, but how new findings should be applied. Such discussions should
+engage all of us, as citizens - and of course our elected representations, not
+just the scientists.
+
+Sometimes this has happened, and constructively too. In the UK, ongoing
+dialogue with parliamentarians led to a generally-admired legal framework
+on embryos and stem cells - a contrast to what happened in the US. But we've
+
+12
+
+had failures too: the GM crop debate was left too late - to a time when opinion
+was already polarised between eco-campaigners on the one side and
+commercial interests on the other.
+
+But what about ideas 'beyond the fringe' - the illusory comfort and assurance
+of the pseudosciences? Here there is less scope for debate - both sides don't
+share the same methods or play by the same evidence-based rules. I've not
+found it fruitful to have much dialogue with astrologers or with creationists.
+
+A word now about communicating science. I mentioned Darwin earlier. Back
+in 1860, his book 'The Origin of Species' was a best seller: readily accessible even fine literature - as well as an epochal contribution to science. But what
+scientists today call ‘the literature’ isn’t accessible in this way at all. But its
+essence can generally be conveyed, free of jargon and mathematics, by skilled
+communicators.
+
+Misperceptions about Darwin or dinosaurs are an intellectual loss, but no
+more. In the medical arena, however, they could be a matter of life and death.
+Hope can be cruelly raised by claims of miracle cures; exaggerated scares can
+distort healthcare choices, as happened over the MMR vaccine.
+
+When reporting a particular viewpoint, journalists should clarify whether it is
+widely supported, or whether it is contested by 99 percent of specialists.
+Noisy controversy need not signify evenly-balanced arguments. Of course the
+establishment is sometimes routed and a maverick vindicated. We all enjoy
+seeing this happen - but such instances are rarer than is commonly supposed.
+
+Scientists should expect media scrutiny. Their expertise is crucial in areas that
+fascinate us, and matter to us all. And they shouldn't be bashful in
+proclaiming the overall promise that science offers.
+
+13
+
+I'll end, as I began, with a flashback - this time to the atomic scientists who
+developed the first nuclear weapons during World War II. Fate had assigned
+them a pivotal role in history. Many of them returned with relief to peacetime
+academic pursuits. But the ivory tower wasn't, for them, a sanctuary. They
+continued not just as scientists but as engaged citizens - promoting efforts to
+control the power they had helped unleash.
+
+These men - Joe Rotlat, Hans Bethe and the others - were an elite group. The
+alchemists of their time, possessors of secret knowledge. The dominant issues
+today, in contrast, span all the sciences. They are far more open, and often
+global. There 's less demarcation between experts and laypersons.
+Campaigners and bloggers enrich the debate. But professionals have special
+obligations to engage - the atomic scientists were fine exemplars. Scientists
+shouldn't be indifferent to the fruits of their ideas. They should try to foster
+benign spin-offs - commercial or otherwise. And they should resist, as far as
+they can, dubious or threatening applications.
+
+Unprecedented pressures confront the world, but there are unprecedented
+prospects too. The benefits of globalisation must be fairly shared. There's a
+widening gap between what science allows us to do and what it's prudent or
+ethical actually to do - there are doors that science could open but which are
+best left closed. Everyone should engage with these choices but their efforts
+must be leveraged by ‘scientific citizens’ - scientists from all fields of expertise
+- engaging, from all political perspectives, with the media, and with a public
+attuned to the scope and limit of science. Thank you very much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Martin Rees, thank you very much indeed. Now I want to
+open up the subject to the floor and invite some questions from the audience.
+I’m aware of some questions that we have, but we’ve also been collecting
+
+14
+
+some written ones during the course of the lecture. And if you have any more
+during the course of the debate, please feel free to hand them in. I’m going for
+a question first of all from Dr David Elliman who’s a consultant in community
+child care at Great Ormond Street Children’s Hospital.
+
+DR DAVID ELLIMAN: I agreed with most of what you said, but you
+touched on the MMR debacle and this was one example where people didn’t
+follow your logic, which was if they have a medical issue they will listen to a
+medical practitioner. In this instance, they listened to celebrities and
+newspaper people. How do you help people decide which information they
+value, they listen to, when they’re confronted with all the information you
+mention on the internet?
+
+MARTIN REES: Well, first, I didn’t imply that people actually did view the
+internet in a discerning way. I said it would be better if they did. But of course
+it isn’t easy, particularly in the case when you have people who have similar
+paper qualifications taking quite different views. And here again, I think there
+is a role for, in a sense, the leaders of the profession, but also for journalists
+and commentators who do have the chance to go round and get a fair sample
+of opinion. And I think what went wrong was that certain segments of the
+press did not present things in a balanced way. They presented equally what
+was a maverick viewpoint and what was a majority viewpoint. So I think
+although some parts of the press were responsible, others were highly
+irresponsible and I think they should take the blame.
+
+SUE LAWLEY: Well we’ve got the Science Editor of The Times in the front
+row: Mark Henderson. I think you’re on the spot, Mr Henderson.
+
+MARK HENDERSON: Yes, I hope that ‘The Times’ was one of the media
+outlets that was responsible in this respect, and I think we did I think always
+take the view that we should behave as Martin said and evaluate claims. And
+
+15
+
+in fact it would be interesting to ask Martin to what extent he thinks the
+media has a role in fact often not to be directly objective or narrowly objective
+and balanced in discussion of issues like this, and to what extent it’s actually
+incumbent on responsible journalists to evaluate competing claims and offer a
+view as to their relative merits?
+
+MARTIN REES: Well I think you would accept that other newspapers were
+not as responsible as you were, and they in fact have a lot to answer for …
+
+MARK HENDERSON: (over) Certainly, yes.
+
+MARTIN REES: … in that they maintained this controversy.
+
+AUDIENCE MEMBER: (actually Professor David Nutt) Why do you say
+that?
+
+SUE LAWLEY: Hold on, hold on. I’ll come back to you. (to Martin Rees) Go
+on.
+
+MARTIN REES: Yes, okay. But I would have thought that it was appropriate
+that journalists should try and present what the balance of argument is on a
+particular issue.
+
+SUE LAWLEY: But should they be evaluating it themselves really, Mr
+Henderson’s asking?
+MARTIN REES: Well I mean obviously they don’t have the expertise if it’s a
+technical matter. But journalists tend to have a wide network of contacts and
+they can, either through their contacts or by going indirectly to them, get a
+feel for what the consensus view is. Of course the consensus isn’t always
+right, but I think what they should be doing is reporting a consensus if there
+is one.
+
+16
+
+SUE LAWLEY: Was that Dr Elliman who wanted to come back in there?
+There was a call from the back there. Is it on this subject, sir?
+
+PROFESSOR DAVID NUTT: Well it’s on the subject of the media. David
+Nutt here, one of those scientific advisers who tried to tread the line between
+policy and science and found that the line had disappeared and so went over
+the cliff.
+
+SUE LAWLEY: Shall we just say for people listening, you were the former
+Chairman of the Advisory Council on the Misuse of Drugs?
+
+PROFESSOR DAVID NUTT: That’s right, yes.
+
+SUE LAWLEY: Who resigned because …
+
+PROFESSOR DAVID NUTT: No, no, I was sacked.
+
+SUE LAWLEY: You were sacked. (LAUGHTER)
+
+PROFESSOR DAVID NUTT: Let’s be …
+
+SUE LAWLEY: Alright, let’s be clear. (LAUGHTER/APPLAUSE)
+
+PROFESSOR DAVID NUTT: I refused to resign.
+
+SUE LAWLEY: It was felt that you crossed the line between scientific advice
+and policy.
+
+PROFESSOR DAVID NUTT: Yes. And I think there are many questions I
+could ask you, Martin, but I think the challenge we have at present is that we
+
+17
+
+have a relatively educated citizen, but in parliament we have very few MPs
+who seem to understand evidence or science. And I presume one of the main
+roles of the Royal Society is to try to balance out that inexperience with the
+experience of 350 years of scientific progress, and I just wonder how you’re
+going to take on this challenge given that the Shadow Home Secretary said
+when I was sacked that it should have happened a lot sooner because I wrote
+a paper that tried to balance out the relative harms of ecstasy and horseriding.
+
+MARTIN REES: Well I won’t comment on what’s come to be called the Nutt
+Case (LAUGHTER), but I will address the question of the small number of
+scientifically informed people in parliament. Of course all learned societies
+should engage with politicians to try and interest them. It is sad that there are
+rather few who are expert in science among the new intake. But that in itself
+doesn’t matter because if we look back on those who were active in scientific
+areas in the last parliament, they weren’t all people with a scientific training just as the best scientific journalists aren’t always people with scientific
+training. So I think although we started off in the Royal Society by focusing on
+those who seem to have some sort of scientific background, it wouldn’t
+surprise me if those in a new parliament who show the greatest interest in
+science and scientific matters will be people who didn’t have a scientific
+background.
+
+SUE LAWLEY: We’ve got Lord Drayson here, Paul Drayson, who’s been
+Minister of Science. What do you say about all of this and the lack of scientists
+in politics?
+
+LORD DRAYSON: I think Martin is right: it’s to be regretted. We really do
+need more expertise in politics generally. With our modern political system,
+to establish an effective political career, it requires such a commitment of time
+and your life that it is very difficult to do that whilst at the same time being a
+
+18
+
+very active scientist. If you have a structure which, therefore, requires a
+scientist who has spent their life developing a career, building up their
+expertise - to ask them to then take a career break, which is going to require
+them to lose their currency, it’s just not practical.
+
+SUE LAWLEY: Martin …
+
+MARTIN REES: There’s two things. First I’d like to acclaim Paul Drayson for
+all he did through his commitment to science during his time in office. I think
+we were fortunate to have him there. But I’d also like to say that I think the
+concern that we are expressing is not peculiar to science. It’s really that
+politics is becoming a career and very few of these people in parliament have
+had any real career other than being a political adviser, working in a think
+tank, or something of that kind.
+
+SUE LAWLEY: Let me bring in someone who’s Chairman of a body that I
+know you feel works very well, and that’s the Human Fertilisation and
+Embryology Authority, the HFEA: Professor Lisa Jardine.
+
+PROFESSOR LISA JARDINE: You ask for an engagement between the
+public in general, parliamentarians, those who are not experts with science. I
+try to do that, it’s one of my responsibilities - to communicate difficult issues
+in IVF, stem cell research to that broader public. But there is a fundamental
+difficulty, which is that the public and decision-makers want the right
+answers, right now. Whereas science, as I think you elegantly said, trades in
+organised doubt. So how are we going to engage with a public that wants to
+know whether it’s red wine that causes breast cancer or whether eating fewer
+chips will give you less prostate cancer?
+
+SUE LAWLEY: And they want to know now.
+
+19
+
+PROFESSOR LISA JARDINE: They want to know now.
+
+MARTIN REES: Yes. Well I think we have to make clear that science does
+have its limits and hope people will be encouraged to support further
+research in science. But I think people have to realise that the key questions I
+meant to sell in my lecture are not yet solved. One consequence of what
+you’re saying is that people have an irrational way of comparing different
+risks. They fret too much about some minor risks. As to what we do about it, I
+would not have thought it’s only scientists who confront this problem. There
+are other areas where clearly there are uncertainties and people have to accept
+that we have to make judgements on the basis of probabilities in many
+contexts, and I’d have thought not just in science.
+
+SUE LAWLEY: Let me bring in somebody who knows something about the
+public perception of risk. He’s David Spiegelhalter and he is the Winton
+Professor of the Public Understanding of Risk at Cambridge University, and
+he tried a few weeks ago to predict the football results and got them entirely
+wrong. (LAUGHTER)
+
+SPIEGELHALTER: Exactly, exactly. That was deliberate. It was quite
+deliberate. (LAUGHTER) You appear to speak approvingly, for example, of
+the government response to swine flu; but I think many people, the popular
+opinion would be that that might have been an over-reaction. I mean the
+problem with low probability high consequence events is that they hardly
+ever happen, and we’re deeply uncertain about what the probabilities and the
+consequences might be. You would like to take a more rational, perhaps
+insurance based approach, but how are you actually going to do that in the
+face of these really deep uncertainties without the public continually accusing
+the scientists of crying wolf about things that just don’t happen?
+
+MARTIN REES: Yes. Well of course many of the things we should worry
+
+20
+
+about have a less than 50 percent probability, and you could take the view we
+don’t take any precautions if the chance is less than 50 percent. But that’s not
+the attitude we take when getting fire insurance for our house; and many
+people are aware that you do insure against things which have a much less
+than 50 percent chance of probability, and therefore in those contexts people
+accept that they are likely to waste their money because what they’re insuring
+against won’t happen. And it seems to me that that was entirely analogous to
+what was done in stocking up the vaccine. The chance might have been less
+than 50 percent, but if you multiply the probability by the consequences it
+was not necessarily foolish. I don’t have enough expert knowledge in that
+particular case, but there are surely many cases when there’s much less than
+50 percent chance of something happening but, nonetheless, it is worth a
+major investment to guard against it.
+
+SUE LAWLEY: I’ve got a question here from Oliver Morton. Tell us what you
+do and who you are.
+
+OLIVER MORTON: I’m Oliver Morton. I’m the Energy and Environment
+Editor of ‘The Economist’. You said in your talk that scientists are their own
+fiercest critics, but when we actually come to media presentations of scientific
+controversy, you very, very rarely have a controversy where there are
+eminent scientists on both sides. It tends much more to be science on one side;
+critics on the other. So the question is: are the media just covering the wrong
+things and there are lots of great stories where scientists are pitted against
+each other that we’re just missing, or are the sort of internecine criticisms
+within science not actually germane to the world outside?
+
+MARTIN REES: There are certainly many debates within science. I mean, as
+you know, within my own field of astronomy - cosmology - there have been
+very longstanding debates and vendettas between those who believe different
+things about the universe, so there are lots of cases when there are internal
+
+21
+
+debates within science; and of course in the early stages of any investigation,
+there are a whole lot of views and contention. It may take some time before
+one emerges. And I think the question really is at what extent the public is
+likely to be interested and needs to be informed. Is it better to wait until a
+consensus has emerged among the specialists before this becomes something
+which is widely known, or should the debate be public at early stages? And I
+think if it’s interesting, then there’s no reason why the internal debate among
+experts should not be publicised. But the public is, as we said earlier, more
+concerned about what is certain or nearly certain than about things which are
+admitted to be very uncertain by the experts. And so the public may not be all
+that interested in these internal debates, although in things like cosmology - to
+my surprise - they were very interested.
+
+SUE LAWLEY: I’m going to Sue Blackmore. Would you tell us, Sue
+Blackmore, what you do before you put your question?
+
+SUE BLACKMORE: I’m a Visiting Professor in Psychology at the University
+of Plymouth. You started, Martin, by applauding the idea of the founders of
+science that we should accept nothing on authority. Great, but that was
+different in those days when an intelligent scientist could actually try out
+everything for themselves. Now science is so complex, requires so much
+money, so much equipment, so much knowledge - in effect I as a scientist in
+one field have to take on authority almost everything else in science. Should
+I?
+
+MARTIN REES: I think it’s inevitable that you have to. You can’t repeat the
+experiments made by all your colleagues in different fields. But I think it’s
+very important that there should be some cross-calibration. That’s why people
+need to get out of their disciplinary ghettoes and that’s why there is a role for
+scientific commentators and critics, such as the best scientific journalists,
+because they in fact have a network that spreads across different subjects and
+
+22
+
+they can calibrate the quality of work in different fields.
+
+SUE LAWLEY: I have a question here from Alom Shaha who’s a science
+teacher.
+
+ALOM SHAHA: I don’t know if you know, but in 2006 the National
+Curriculum For Science changed to introduce something called How Science
+Works, which I think was intended to improve scientific literacy. Do you
+think we need to go further in differentiating between the education we
+provide for so-called future scientists and scientifically literate citizens?
+
+MARTIN REES: Well I think that’s a very good point. I mean science is not
+just for those who are going to be professional scientists, and it is quite right
+that there should be different approaches. So I think we do need to try very
+hard to ensure that some feel for science is given to those who are not going to
+pursue it further because otherwise the debate on all these important
+questions we’ve been discussing won’t get above the level of tabloid slogans.
+
+SUE LAWLEY: Thank you to you all. Next week we’ll be in Cardiff where
+Professor Rees will be revealing his optimism about scientists providing
+answers to our global problems, but some pessimism about the politicians
+and the sociologists who put them into practice. I hope you’ll tune in then.
+For now, Martin Rees, Reith Lecturer 2010, thank you very much indeed.
+
+(APPLAUSE)
+
+23
+
+

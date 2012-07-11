@@ -1,0 +1,346 @@
+REITH LECTURES 1986: Law, Justice and Democracy
+Lord McCluskey
+Lecture 2: The Clanking of Medieval Chains
+TRANSMISSION: 12 November 1986 – Radio 4
+
+In the first lecture I undertook to look at the role of our judges and at the character of
+our judiciary. I did so because we need to understand these matters in order to make a
+reliable judgment about whether or not we should confer upon judges a more active, a
+more interventionist role. Should we augment their power to make and unmake law?
+Should we empower them to review and even overrule laws made by Parliament?
+So I asked what judges do; and reminded you that they decide the cases that happen to
+come before them. Of course they don’t sit under a palm tree deciding each case as
+the fancy takes them or even as their subjective sense of justice suggests. They decide
+according to law. Law and justice are not the same thing. Justice is an abstract ideal
+whose precise content in any particular dispute is uncertain and debatable. By
+contrast, law is a kind of system, a collection of principles, makeshifts, fictions and
+expedients, none of them unchangeable, and most varying in character depending on
+the time and the place. So, at the simplest level, law is a tool designed to enable men
+to sculpt justice out of the raw material of life.
+But it would be naive to rest content with that description. Law is a social instrument.
+It embodies and enforces moral, social, political, cultural and economic choices. It
+translates these choices into rules which are intended to realise both ultimate and
+intermediate social goals. It compromises these choices when they come into conflict.
+Often the choice is difficult and painful. A judge may find himself restricted to
+choosing which is the lesser of the two evils. So the links between justice and law are
+sometimes tenuous and indistinct. In a society like the United States of America, the
+law may be fashioned to uphold an individual liberal goal, such as freedom of
+speech—though it may achieve that goal unevenly—and sometimes people have to
+pay a heavy price when others exercise that freedom. In the Soviet Union, by contrast,
+the law closely censors individual expression, supposedly in the interests of some
+overriding public purpose. So again, at a price, the law is fashioned to achieve an end
+which is political in character. No doubt apologists for each system would claim that
+the object of the law was to realise some social purpose which, if pursued with
+sufficient vigour, opens the door to real justice. What would not be in dispute is that
+law is just a means to an end.
+Individual judges in either country may not refer to justice by name, but, when
+applying the law to individual cases, the judges will claim, less pretentiously, to be
+acting in the public interest. It is hardly different in a society such as ours, where the
+boundary between free speech and restraint is jagged and indistinct: the Law provides
+particular tools, such as obscenity, contempt; official secrets, blasphemy and
+defamation, and judicial notions of the public interest guide the hands that wield the
+tools. But just as the public interest’ will not have the same meaning in different
+societies, it will not necessarily have the same content for different judges. In fact, a
+
+1
+
+concept such as the public interest—like so many other broad concepts that open the
+door to judicial discretion—is imprecise and elastic, and compels the judge to make
+value-judgments which are not wholly dependent upon the letter of the law.
+So the next question is: how do judges think? Only a cynic would put the preliminary
+question: do judges think? But, as we brush aside the cynic’s question, we should
+acknowledge that the application of the law to the facts in order to produce a decisive
+result does require thought. The contested and difficult case is almost always unique.
+The result is not preordained. The judge has to think what result the law indicates for
+these litigants in this case. And, when the law allows some room for choice, he has to
+think of principled reasons why he should make the choice he does.
+So, how do judges think? Now if I were to ask, ‘how do Americans think?’ or ‘how
+do engineers think?’ you would instantly point out that there is no reason to suppose
+that all Americans think the same way. Or all engineers. Or even all or most
+American engineers. And, of course, it is equally true of judges. They think in
+different ways. Like the engineers, they must draw upon some common and agreed
+body of principles, though the principles available to judges, being man-made, are
+more flexible and can be altered. Judges must disclose their thinking. They advance
+reasons to justify their decisions. And what is most striking about those cases—
+usually the most difficult, the most contentious, the most celebrated cases, in which
+several judges, or even several different levels of court in the appeal hierarchy,
+disclose their reasoning—is that the several judges give different reasons. Indeed,
+they frequently arrive at different results; and inevitably, when that happens, the
+reasons must be different.
+In truth, and to state the matter comprehensively, they can arrive at the same result for
+the same reasons; they can arrive at the same result for different reasons; they can
+arrive at different results for different reasons; and—just occasionally—they can
+come to different results for what look like the same reasons. So, if we can assume
+that the judges are impartial, intelligent and logical and are searching for the legal
+answers within the same shared corpus of principles and precedents, with a view to
+applying the same law to the established facts, we are driven to the conclusion that the
+application of the law to the facts is not a self-contained logical process. Judges
+frequently say, when they give their reasons, that they have been driven or compelled
+or forced to come to a particular conclusion, sometimes without difficulty, sometimes
+with regret, sometimes with considerable doubt or hesitation; only to hear their
+colleagues announce that they have been driven, compelled, forced down a different
+road to a different conclusion. Thus, despite the common principles, despite a
+mountain of precedents, despite a tradition of trying to write into Acts of Parliament
+precise answers to all foreseeable situations, the judge is left remarkably free to
+follow his own route to his own conclusion. If I am right, in suggesting that the law
+and logic leave judges a freedom of choice which is real, both as to the result and as
+to the reasoning which is adduced to justify the result, does the reasoning contained in
+the written opinions of judges tell us the whole story? Or are there other assumptions,
+other considerations, other suppositions disclosed or undisclosed, visible or invisible,
+which judges individually or collectively hold to be self-evident and which are just as
+important as the close, analytical reasoning in which such opinions are so rich?
+The Snail in the Ginger-Beer
+
+2
+
+Let me look again at the celebrated case of Mrs Donoghue, who drank some gingerbeer which a friend had poured into a tumbler from a dark-brown bottle. When the
+tumbler was being refilled, a dead snail floated out of the bottle. Mrs Donoghue was
+distressed. Seeking compensation for her upset, she pursued a case against the
+manufacturer who had sold the café proprietor the dark, sealed bottle containing both
+the beverage and the dead snail. Her claim raised a pure question of law: if the
+manufacturer of an article intends it to reach the consumer in the same state as he
+despatches it, without any opportunity for an intermediate inspection, does he owe to
+the consumer a duty to take care to ensure that the article is free from defect likely to
+cause injury? The law to be laid down for the manufacturer who bottled Mrs
+Donoghue’s ginger-beer was going to be the law for every manufacturer whose
+product was intended to reach the consumer without intermediate inspection.
+And it could not logically be confined to manufacturers: the same principle should
+apply to those who negligently designed, constructed or even repaired buildings or
+machinery, or even to those, such as bankers or accountants, who expressed and
+communicated an expert opinion, and, by doing so, set in train a chain of events
+resulting in loss to persons to whom the opinion was communicated, even if these
+were persons with whom they had not contracted but who had placed reliance on the
+experts’ care and skill.
+So Mrs Donoghue’s case raised the spectre—or the bright new dawn—of product
+liability. In trying to derive a principled answer, the judges of the House of Lords
+analysed over 30 precedents, cases from different times and various countries. When
+the decision was announced, those precedents that fitted the result for which a judge
+would vote were quoted with approval. Those that did not fit were said to be different
+or were rejected contemptuously with words like those of Lord Buck- master: ‘Better
+that they should he buried so securely that their perturbed spirits shall no longer vex
+the law.’
+When it came to the principles of the law, the judges were equally divided. Some
+thought it would be ‘little short of outrageous’ to hold manufacturers liable to the
+victims of their negligence: Lord Tomlin reminded their lordships of a recent railway
+disaster—caused, apparently, by a defective axle—and expressed dismay at the
+possibility that the victims of the crash might be able to sue the manufacturers of the
+axle. Where would it all end? Others could see nothing but justice and common sense
+in a rule of law which made the careless manufacturer compensate those who were
+injured as a result of his carelessness. By a majority of only one vote, the judges of
+the House of Lords reversed the decision of the lower court, and chose to uphold the
+principle that the manufacturer was liable to the consumer for his negligence: and
+soon that principle came to be seen and almost universally accepted as the
+embodiment of obvious common sense. But no one reading the written opinions of the
+judges and observing the rhetorical passion of the language used can be left with any
+doubt that the decision was not wholly dependent upon the reasoning, that the judges
+rationalised and pleaded like advocates for the view they had formed. The case is a
+striking example of how a mountain of precedents still leaves judges free not only to
+evolve or restrict a principle but even to create or destroy one. And of how judges,
+with precisely the same starting materials in terms of fact and legal tradition, end up
+crusading for diametrically opposite conclusions.
+
+3
+
+It is not often that judges reveal the depth and character of their differences by
+resorting to such colourful and polemical language; but even when their
+disagreements are couched in the most urbane terms, the disagreements themselves
+are often highly significant. And not all disagreements reach the surface. If a court
+sees itself as an instrument of government or as the trustee or the promoter of some
+important public purpose, it may try to produce a united front, by delivering one
+opinion, called the Opinion of the Court. In the United States Supreme Court,
+unanimity had to be fought for by argument, negotiation, compromise and diplomacy
+before Chief Justice Earl Warren could announce the unanimous result in Brown vs.
+The Board of Education. This was the landmark case in 1954 in which the Supreme
+Court held that the segregation of white and black schoolchildren in the public
+schools of a state violated the constitutional rights of black children. These rights had
+been created in 1868 by the 14th amendment to the American Constitution, after the
+North’s victory in the Civil War. The Court refused to follow earlier decisions in
+which it had been ruled that racial segregation by public authorities was permitted by
+the Constitution. It was plain to the judges who took part in the case that to declare
+such segregation unconstitutional was to announce a revolution, to lay down a new
+law which millions of people and many states might resist, evade and even disobey;
+the force and authority of the new law would be gravely weakened if the Court did not
+speak with a single voice. So the unanimity of the Court became of the greatest
+importance, second in importance only to the making of the decision itself.
+That is an example of judges making unanimity itself a goal in order to avoid
+weakening the authority of the court’s decision, an acceptance by judges of what, in
+political terms, would be called collective responsibility for what they realised was a
+decision of enormous political and social importance.
+That, of course, is America. Our courts hardly exercise comparable governmental
+functions: the lack of unanimity among our judges matters less and seldom attracts
+attention. And disagreements do not always emerge: if the case is dull, if the court is
+one from which there is no appeal, or if the judge who disagrees does not feel
+sufficiently strongly to sit down and write out a detailed dissent. But, despite the
+various influences that might discourage a declaration of dissent, the differences that
+can emerge are remarkable. In the snail in the ginger-beer case, the judges were
+almost evenly split as to the result. In Mrs Gillick’s case the nine judges who
+considered the case split 5:4 in favour of Mrs Gillick, but in the House of Lords the
+voting was 3:2 against her. She lost. In the case in which the Defence Secretary
+sought delivery from the Guardian of documents which Sarah Tisdall had copied and
+leaked to that newspaper, the House of Lords split 3:2 against the Guardian. And in a
+case in 1971, no three of the five judges who had heard the case in the House of Lords
+could agree. So Lord Diplock, in order, as he said, to avoid discredit on the
+administration of justice in the United Kingdom, voted with two other judges in order
+to provide a majority, even though he disagreed with their opinion.
+Responding to Choice
+So, judges do think. They study the results of earlier cases and the reasons given by
+the judges for reaching those results; they seek to discover and to articulate the
+principles which those earlier judges must be deemed to have had in their minds when
+they reasoned their ways to the results in those cases. But judges are not engaging in
+some inexorable exercise in which every choice is determined by existing law. Choice
+
+4
+
+there is, but often not the choice between the right answer and the wrong answer.
+Between them, law, reason and discretion leave judges free to declare results which
+derive at least in part from philosophies, attitudes and influences which are not
+themselves rules of law. It is unnecessary for me to assess the argument advanced by
+others that the judiciary is biased in its choices and prejudiced in its decisions because
+of the narrow social, educational and professional background which most judges
+share. It is enough to acknowledge that no one can be entirely free of the perspectives
+and assumptions that derive from his background. No matter what the law puts into a
+novel case, a judge can always take a little more out. So, although judges do not
+normally profess to legislate, it is inescapable that courts make law. The common law
+was made by judges. Every time a court determines the result in a particular case by
+redefining and developing legal principles and rules in such as way as to ensure that
+they will govern future cases, it is performing a function which resembles the
+legislative function. Let me illustrate this.
+Parliament legislated that when damages for personal injury were being calculated,
+certain sums received by way of invalidity pension were to be deducted from the
+plaintiffs damages. By contrast, the judges of the House of Lords, in deciding a case,
+ruled that certain sums received by a plaintiff by way of disability pension were not to
+be taken into account in calculating his damages. So we have a rule made by
+Parliament and a rule made by the judges. In each instance, a law-making body has
+laid down a new rule which is to have general application to all similar cases that arise
+in the future. That is equally true of many rules laid down by the courts. Both courts
+and Parliament are capable of creating, amending and repealing rules of quite general
+application. So let me illustrate how judges come to make law— bearing in mind that
+there are few areas in which judges are constitutionally incapable of making new law,
+though Parliament often tries to legislate unambiguously and comprehensively,
+leaving no gaps for the judges to fill. That has not proved easy.
+One branch of law extensively developed in hard-fought litigation over the last 150
+years is that governing the rights to compensation of persons injured by the actions of
+others. The courts developed and applied the idea that certain people owed to other
+people particular duties. If those who owed the duties neglected to perform them and
+so caused injury to those to whom the duties were owed, the victims were entitled to
+recover monetary compensation from those whose neglect caused the injury. Thus the
+essential basis of the right to damages for personal injury was wrongdoing or fault—
+not fault in some abstract sense but fault consisting of breach of duty. So the courts
+had to decide if everybody owed duties to everybody else, or if there were limits.
+Were duties owed only by those who had, by entering into a contract, voluntarily
+entered into a relationship with others; or could there be duties apart altogether from
+contract? If an accident were brought about by several contributory causes, was the
+author of each cause responsible for the loss in whole, in part, or not at all? What if
+the victim himself were partly responsible? Should his fault, however small, absolve
+the other wrongdoers? Or should it simply reduce his right to compensation
+proportionately? Should people have to answer for the negligent acts of their
+servants? And what if the servants injured one another, was the master going to have
+to compensate a servant injured by the negligence of a fellow servant? Was the owner
+to be held liable for the damage done by his dog or his pet tiger? Was a proprietor to
+be held liable if dry rot spread from his house to an adjacent one, or his dam burst and
+flooded his neighbour’s land? Well, of course, there are thousands of such questions.
+
+5
+
+And it would have been an inconceivable effort of the imagination for lawyers,
+politicians, industrialists or anyone else to sit down and anticipate all the questions.
+What happened was that the courts waited until people brought contested claims and
+the resolution of each contest required the answering of the questions raised. Life after
+the Industrial Revolution—the growth of mechanical transport systems and the
+creation of huge urban working populations exposed to dangerous processes—was not
+slow in throwing up the questions. It might have been possible to try to enact codes of
+law from which the answers might be deduced. But that was not the way Victorian
+Britain faced up to the challenge of the new questions.
+The British answer was to trust the judges. It was not so much a conscious decision as
+a default decision. And the judges were, as judges always are, creatures of their time,
+class and background, influenced and conditioned by their knowledge and their
+ignorance, their beliefs and their prejudices, intellectually indebted to Saint Paul and
+Adam Smith but not too familiar with mines, factories and docks. Thus equipped, they
+provided answers to whatever questions the cases put. People may talk about the
+edifice of the common law, but there was no grand design. It was erected a brick at a
+time. The doctrine of precedent saw to that. In so far as there were or were thought to
+be blueprints, they consisted of vague and imprecise notions, like the natural law or
+common sense. if there were conscious borrowings from developed and coherent
+systems, they were borrowings from old systems, such as the Roman law or the canon
+law, which had themselves evolved out of the experience and perceptions of different
+peoples, different times, different societies. And the principles and jurisprudential
+concepts that other societies had slowly fashioned were adapted to give some
+coherence to the developing system.
+Judges brought to the task a strong sense that, collectively, they were able to draw
+upon an infinite reservoir of natural law and right reason, of good custom and sound
+common sense. Their paths to that reservoir had been lighted by generations of wise
+men, mostly other judges, whose decisions and reasoning were to be accorded the
+highest respect. And the law, because of its origins and its antiquity, was perceived to
+be wiser than men, especially men who were not judges; and not just wiser but surer.
+Modern judges, unlike their predecessors, have had to learn to live with Parliament’s
+inexhaustible drive to make and unmake law in all fields. But the traditions of the
+powerful, inspired judiciary endure. They have been seen from time to time in the
+judges’ reluctance to give effect to legislation restricting common law rights. They
+may be seen in the pleas to trust the judges. In the last 35 years they have emerged
+strikingly in the judges’ rediscovery of judicial review.
+The Recovery of Old Rights
+What the judges did was to resurrect and develop old forms of remedy to enable
+citizens to challenge infringements of their rights, especially infringements by public
+officials. This is the process known as judicial review of administrative action, or
+administrative review. Essentially, what the judges did was to turn their attention to a
+field in which they were the real experts: the field of remedies. They did not assert
+that they were creating new rights; they just claimed to be discovering ways of giving
+people access to rights which had lain unused because nobody could reach them. The
+judges did not stock the shelves; they merely unlocked the glass door behind which
+the rights sat, tantalisingly unobtainable. There were good historical precedents for
+proceeding in this un-dramatic fashion. Any lawyer appreciates that by providing
+
+6
+
+ways of asserting rights, the judges have armed the citizen with rights that he did not
+know he had. Not only that; because once the rediscovered judicial tools for
+administrative review became known and widely used, the grounds for administrative
+review increased and multiplied. And government ministers and other public officials
+to whom Parliament had delegated wide power and discretion suddenly found that
+judges were once again prepared to police their use of power and discretion.
+There is, no doubt, a long way to go yet, and it is possible to detect some unevenness
+in the readiness of judges to use their new jurisdiction. It is by no means easy to
+predict when the judges will step in and when they will stand back and decline to
+intervene. In one case, concerning the statutory guidance issued by the Secretary of
+State on local authorities’ expenditure, the court declined to examine the detail of the
+guidance or its consequences, stating that it could do so only if it appeared that the
+Secretary of State had acted in bad faith or for an improper motive or had taken leave
+of his senses. But in Mrs Gillick’s case the same court made a most minute
+examination of guidance issued by the Department of Health and Social Security
+although no such suggestion was made. On most occasions the court has explicitly
+confined itself to technical matters about how public officials have gone about
+exercising their responsibilities; but sometimes they have looked deeply into the
+factual basis of the decisions the officials have taken. We see here echoes of the
+continuing debate that has exercised the United States Supreme Court for over a
+century, about the meaning of the words ‘due process’ in the 14th amendment. In
+some cases the courts have seemed to encourage those who seek judicial review of
+administrative action. But in a recent case the court expressed itself troubled at what
+was described as ‘the prolific use of judicial review’ to challenge the performance by
+local authorities of their functions under the Homeless Persons Act, 1977. In some
+cases they have allowed attempts to challenge public administration to be choked by
+what the layman would see as technicalities. In others, the technicalities have
+presented no insuperable obstacle. So precisely how the courts will finally define the
+character and limits of their rediscovered jurisdiction is still uncertain. But its recent
+history illustrates that judges are still prepared to engage in what Lord Wilberforce
+described as cautious legislation’, even when, as its supporters claim, the judges are
+‘up to their necks in policy’, and disobeying Acts of Parliament. Most commentators
+credit the judges with being on the side of the angels, exercising what English judges
+see as their neglected but historical role of shielding the subject from attempts by the
+executive to encroach upon his liberty. It is also possible to interpret what is being
+done as signalling a rebellious stand against Parliamentary sovereignty, a move by the
+courts to reoccupy constitutional ground conceded by earlier generations of judges to
+the electorate.
+For judges to ensure that administrators stay within their statutory powers is one
+thing; to tell Parliament that it is abusing its sovereign power would be quite another.
+I believe that the underlying notion that our judges have a special gift for
+dispassionately applying a law older, wiser and surer than the laws that pour out of
+ever-changing Parliaments has led some to support the argument that there should be
+enacted an entrenched Bill of Rights, one which would enable the judiciary to engage
+in a wider judicial review, and strike down primary legislation if it failed to come up
+to the standards of the new natural law, as encapsulated in the Bill. So it is worth
+considering how the law made by judges compares with that made by elected
+Parliaments. And it is to that I shall turn next.
+
+7
+
+

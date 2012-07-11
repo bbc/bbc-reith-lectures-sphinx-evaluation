@@ -1,0 +1,251 @@
+Lord Broers
+Reith Lectures 2005: The Triumph of the Technology
+Lecture 1: Technology will Determine the Future of the Human Race
+Four thousand years ago, just 5 miles north of present day Thetford, our Neolithic
+ancestors began what may have been the largest early industrial process in these
+islands. This is the site that the Anglo-Saxons called 'Grimes Graves' and it contains
+nearly four hundred mine-shafts, built to extract high-quality flints, which could be
+chipped to produce sharp cutting edges. Using nothing but tools of bone and wood
+and presumably the flints themselves, these ancient people excavated to a depth of up
+to twelve metres, to reach the buried flints. It has been calculated that the miners
+needed to remove 1000 tonnes of waste to produce eight tonnes of flint. The site
+covers nearly 40 hectares and the whole project is astonishing.
+Whilst more advanced technologies had developed elsewhere - for instance in China our ancestors' task was anything but easy. They needed timbers to shore up their
+excavations and ladders to get down in to them, lighting was required in the deeper
+pits and they needed tools, which they made from deer antlers, so they had to manage
+the local herds of red-deer. A separate and skilled industry was required to work the
+extracted flints and to market and distribute them. The flints were used as axe heads,
+as agricultural implements, as arrow-heads, and no doubt there were countless other
+applications that we have lost track of. The Grimes Graves operation underpinned the
+foundations of a new sort of society. The timescale was quite different from our own.
+Excavation at Grime's Graves lasted more than five centuries, whereas, for example,
+valve electronics lasted about fifty years.
+Humankind's way of life has depended on technology since the beginning of
+civilization. It can indeed be argued that civilization began when humans first used
+technologies, moving beyond the merely instinctual and into an era when people
+began to impose themselves on their environment, going beyond mere existence, to a
+way of life which enabled them to take increasing advantage of their intellect. A visit
+to Grime's Graves at its peak would have created as much wonder as was created by
+flight or the telephone when they first appeared.
+Ranking in importance such early developments as the techniques of flint extraction
+against subsequent developments, such as the use of metals, is not easy, especially as
+the primitive technologies were independently developed in widely separated
+societies. But any such ranking is fraught with difficulties as was the recent poll that
+asked the public how they would rank Britain's greatest inventions; electricity
+generation, which is the foundation of almost every current technology, the jet engine,
+which made possible our international mobility, the invention of vaccination that
+saved millions of lives, the discovery of the structure of DNA, which underpins
+biotechnology, the possibilities seemed endless. Well, the public chose none of these,
+but instead…..the safety bicycle. And it was that choice which confirmed my subject
+for these lectures.
+The bicycle is of course an ingenious, practical, and sustainable invention, which
+brought new opportunities for people in every stratum of society, and which continues
+
+to offer benefits today. But to place it ahead of the fundamental accomplishments of
+Faraday, Stephenson, Maxwell, Thomson, Whittle, and Crick & Watson demonstrates
+in my mind a profound misunderstanding of the contribution of advanced
+technologies to our lives, and of the vast pyramid of scientific and technical
+achievement that underlies these technologies.
+The means to control plagues, to travel in hours to parts of the world which once took
+months to reach, to be able to access billions of written words from one's desk, to
+instantly conjure up high-quality images of distant objects and events - these are just a
+few of the technologies which we take almost for granted and which rest upon the
+accomplishments of generations of British engineers and scientists. Compared with
+these, I am afraid I cannot view the safety bicycle as a significant contender. But the
+fact that so many of our compatriots thought that it was of such paramount
+significance surely indicates a failure - of serious dimensions - in communication and
+understanding. I needed at least to try in these lectures, to correct that failure.
+My contention is that technology is sidelined and undervalued - we become defensive
+about it and would rather retreat into the past, or into fundamental science, than to
+strive to stay in the race. The cost of this major social failure will progressively
+disadvantage all of us. Technology is determining the future of the human race. We
+need it to satisfy our appetite for energy, perhaps through nuclear power; to help us
+address hunger through plant breeding throughout the world; to monitor and find the
+means for avoiding global warming so that we can rescue our planet for future
+generations. Technology can improve our health, and lengthen our lives. I want this
+lecture series to act as a wake up call to all of us. Technology, I repeat, will determine
+the future of the human race. We should recognise this and give it the profile and
+status that it deserves.
+The most straightforward explanation for the lack of appreciation is that modern
+technologies are too complex to be understood by anyone but the experts. But this is
+only true if the details are to be understood. It is up to the engineers and scientists who
+create these technologies to explain what they have done in language that can be
+understood by non-experts. We are very much to blame. Mind you matters were no
+better in days gone by when those responsible for the developments were purposefully
+obscure about their discoveries. The boundary between science and what for the sake
+of simplicity we call 'magic' was blurred. Even when the Royal Society, Great
+Britain's leading scientific academy, was founded in 1662 its objectives included
+matters we would now class as 'alchemy' rather than science. Knowledge was power
+and potentates were anxious to restrain its diffusion. Galileo was condemned and
+confined to house arrest for the latter part of his life for seeking to promulgate
+theories we now know to have been broadly correct. Worse perhaps than that, he
+wrote in the vernacular language (Italian) which could be understood by ordinary
+people, rather than the Latin of the scholars. And even the humdrum mining at Grimes
+Graves seems to have been associated with mystical rituals and ceremonies. The demystification of science is another change of the last few centuries, but it is evidently
+one which remains incomplete.
+One of the reasons that the earliest significant advances were few and far between was
+that the technologies of communication had yet to be created, and communication of
+any kind could be rigidly controlled. While there was only word of mouth,
+
+information must frequently have been lost, and the process of innovation forced to
+repeat itself over and over again. Innovation could not advance exponentially as it
+does today because there were no means reliably to pass information from generation
+to generation, or between widely-separated societies. The difficulty of transportation
+compounded the problem: it was only the wealthy and powerful who could travel to
+distant sources of information. It was through primitive paintings and tablets of stone,
+and eventually hand-written manuscripts, that each generation first began to preserve
+and reliably to pass its precious knowledge on.
+Progress remained slow because it was only through tedious hand copying that more
+than a single record could be produced, and replication in large numbers was
+impossible. It was the printing press that began to solve this problem. Printing was the
+first and perhaps the greatest of the communication technologies. It was followed four
+centuries later by the telegraph and then the telephone, the radio, the television and
+now, and perhaps as important in its influence as the early printing presses, the
+electronic media, especially the Internet. Electronic networks provide the ability to
+communicate instantaneously anywhere in the world and the World Wide Web of Tim
+Berners Lee makes - in principle - all of the information possessed by anyone
+available to everyone.
+This previously inconceivable connectivity enables people to contribute to the process
+of innovation, or perhaps more importantly, to avoid the mistakes of others. Yet every
+advance in communication technology has facilitated the dissemination of both
+misinformation and disinformation; the more advanced the technology the greater the
+potential for misuse. The Internet is especially vulnerable as it is less controlled than
+its predecessors, and the World Wide Web Consortium is fighting to keep it this way
+for reasons I support, but the inevitable consequence is that it carries a plethora of
+falsehood, which any surf of the web will speedily demonstrate. We must arms
+ourselves against such falsehood - teach people to be intelligent critics and help them
+judge whether a source is reliable.
+The ready availability of even objective truth doesn't mean that objective truth will be
+believed or absorbed. For example, the difficulty the public has in understanding
+science in some respects grows rather than shrinks in the age of unlimited
+information. We are gathered today in the Royal Institution of London, 205 years old,
+and specifically founded - mainly by non-scientists - to 'diffuse the knowledge, and to
+facilitate the general introduction, of useful mechanical inventions and improvements,
+and to teach the application of science to the common purposes of life'. Those rotund
+eighteenth-century phrases contain a mighty truth which we need to heed no less
+today.
+Advances in technology accelerated as efforts to understand the world around us bore
+fruit. For instance, inherited folk lore in medicine began to crumble in the light of
+advances in understanding made by William Harvey and others, based on systematic
+observation and recording. Newton put to flight so many of the myths about the
+universe. Newton's 'laws' introduced systematic and (on the face of things) simple
+rules which helped to explain the Universe, and helped to solve previously insoluble
+problems. This was the beginning of a new era. Perversely, it was also when
+intellectual advances began to become so complex that it became difficult and
+eventually impossible for the non-specialist to understand them.
+
+In the course of these lectures I shall look at some of the ways in which technologies
+have grown more complex, and yet how - despite hugely expanded public education understanding of them has diminished. The idea of a straight-line development
+towards an ideal is attractive, but it is alas untrue. There have been mistakes in
+judgement, mistakes sometimes compounded by secrecy. In health-related issues
+there is the tragedy of Thalidomide, to mention one example. Engineers, whilst
+making immense leaps in so many directions, have failed always to predict other
+consequences of operating in hitherto unknown regimes: the amazingly-innovative
+British jet airliner, the Comet, ahead of all its competitors at the time, was aborted
+because of insufficient understanding of materials and stress induced fatigue.
+Such lapses have tended to engender a sense of mistrust and suspicion on the part of
+the general public, and there is an ever-more pressing need for scientists and
+engineers openly to communicate what they are doing and to be candid over the likely
+consequences of their work. This is a subject I will discuss at greater length in my
+final lecture when I will also examine our responsibilities towards the developing
+world.
+I have found that the possession of an understanding of technology, just as with an
+understanding of music, literature, or the arts, brings with it great personal satisfaction
+and pleasure. I still pause to wonder at the achievements of humankind, for example,
+when I am flying in comfort at 40,000 feet and look down on the white caps and
+spume of a turbulent sea so far distant below me, and realize the difficulties there
+were in crossing it only a couple of lifetimes ago. I know that I can safely drink the
+water that runs out of the tap in the majority of places I visit in the world, and can talk
+with my family or even hold in my hand a real-time picture of them wherever I am.
+How remarkable it is to gaze up at the moon and the planets and realise that we have
+already walked on that great sphere and have sent intelligent machines to those
+planets, even to their satellites, and received high-quality pictures and data from those
+remote surfaces.
+My appreciation is all the greater because I know enough to realise how difficult it
+has been to accomplish these things, enough in fact to know how little - after a
+lifetime in science and technology - I actually know myself. I sometimes play the
+game of wondering how much I would be able to recreate if by some cataclysmic
+disaster I were to be the only person left with knowledge of how these wonders were
+accomplished. I am afraid that it would only be a small and specialized fraction of
+electronics.
+I was born in Calcutta. My father was an insurance business man, but his great
+passion was for technology, especially wireless and photography. Indeed, he spent
+enough time on these hobbies that his expertise was close to that of professionals. His
+interest in radio is recorded in a series of articles that he wrote for the Calcutta
+Statesman in the late 1930s discussing radio and reviewing the latest receivers. He
+was one of the first to receive the BBC on short-wave radio and he wrote under the
+pseudonym 'Superhet'. Radios and TVs still use superheterodyne receivers but that
+will have to be the subject of another series of lectures.
+
+By happy coincidence, but perhaps not surprisingly, he wrote twice about Sir John
+Reith, describing him in 1938, the year I was born, as, "building up the BBC from its
+beginnings to the mighty machine which today transmits music, entertainment, and
+information to no less than 8,600,000 homes in Great Britain", and later pointing out
+that he had behaved as a virtual dictator in his management style.
+That so many people are able to hear this lecture today is itself the consequence of a
+whole series of inventions and coincidences. Whilst some of the basic principles of
+radio were understood, the fundamental roots of broadcasting arrived partly by
+chance, as a technology thought of as the opportunity for 'messages without wires'
+turned unintentionally into a system of diffusion to multiple audiences. The
+development of the valve, 'the magic lamp of radio', was the decisive step, as I will
+describe in my next lecture, but so were the governmental and regulatory attitudes that
+followed and which for a time seemed likely to snuff out infant broadcasting.
+No-one could anticipate the effects of the radio, on the printed word, on politics, on
+social behaviour, …on advertising even following that fateful day in 1922 when the
+first radio commercial was broadcast. The future US President, Herbert Hoover, said
+of this afterwards that it was "inconceivable that we should allow so great a
+possibility for service…to be drowned out by advertising chatter". We all know what
+happened to that good intention, but at least the BBC and National Public Radio in the
+USA hold out against that chatter.
+There was, you can be sure, no lack of commentators eager to predict the worst
+outcomes of radio broadcasting, that it would destroy theatres and newspapers, that it
+would vulgarise culture, things which turned out either to be untrue or which were
+outweighed by the benefits. Through radio and later television, and subsequently the
+internet, societies beyond the metropolitan circle - and beyond the 'rich' world - have
+access to music, literature, drama, information, and news, in a way which was
+previously impossible.
+Perhaps because we have yet to come fully to terms with their implications and
+possibilities, the potentialities of modern technology tend to be thought of in terms of
+advances brought about by computers and electronic communications, and indeed
+those potentialities are awesome. But is it not developments in transport, medicine,
+energy and weaponry that have produced the greatest impact upon our lives?
+It is surely by developments in medicine that the greatest numbers of the world's
+people have been most immediately affected. Changed techniques for travel have had
+revolutionary social consequences, at least in the first world. And some of the
+technologies of energy generation are threatening the planet's eco-system (and their
+profligate use of scarce non-renewable resources presents still greater threats in the
+future). Finally, we are unlikely to overlook the implications of weaponry and its
+delivery. These have shifted centres of power and have had unpredictable and as yet
+unforeseen effects on the relative success of different countries and societies. The
+twentieth century, the seed-bed of so many advanced sciences, was also the century of
+previously unimaginable atrocities based on advances in technology and the capacity
+for yet-greater atrocity clearly still exists.
+
+I would argue, though, that most new technologies, with the exception of those
+associated with weaponry, have had hugely beneficial effects for most people
+extending our capabilities and indeed our lives to an extent that our ancestors could
+not have imagined and I believe that we are only at the beginning.
+We began this evening in the empty landscape of East Anglia, four millennia ago. The
+basis of the highest achievement in their day, flints were superseded as a fundamental
+technology by metals of increasing sophistication. Now they are but historic artifacts.
+Other, far more complex, technologies have followed a similar course, passing from
+the mainstream into recreation, heritage, and history. One thinks of the sailing ship
+and the steam locomotive, although Ellen MacArthur's heroic sailing triumphs suggest
+that technology developments in sailing are still alive and well. And many were
+superseded by superior alternatives before they reached their full potential, such as the
+airship.
+The cycle of technological change grows faster. Compared with the sailing ship how
+brief was the longevity of the steam engine, let alone the vinyl gramophone record.
+What will be the next cycle, and how will it emerge? I hope it is clear by now that I
+am convinced that it is technology that shapes our lives and that its influence is
+paramount and is only going to increase as time passes. It is time that we in Britain, so
+good at fundamental science also came fully to appreciate the intellectual challenge
+behind product development. We seem culturally unable to realise that this can be
+more challenging than fundamental science and requires the very best minds. In my
+view this has already been grasped in India and China which in my view is pleasing
+because after all technology is the means by which the developing world can increase
+its standard of living but if we do not join the race to advance technology we face
+serious consequences not least that we will fall behind in our own intellectual, social
+and material development.
+
+

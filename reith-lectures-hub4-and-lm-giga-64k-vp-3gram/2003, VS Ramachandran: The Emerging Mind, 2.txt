@@ -1,0 +1,327 @@
+Vilayanur S. Ramachandran
+Reith Lectures 2003: The Emerging Mind
+Lecture 2: Synapses and the Self
+
+Our ability to perceive the world around us seems so effortless that we tend to take it
+for granted. But just think of what's involved. You have two tiny upside down
+distorted images inside your eyeballs but what you see is a vivid three-dimensional
+world out there in front of you and this transformation is nothing short of a miracle.
+How does it come about?
+One common fallacy is to assume there is an image inside your eyeball, the optical
+image, exciting photoreceptors on your retina and then that image is transmitted
+faithfully along a cable called the optic nerve and displayed on a screen called the
+visual cortex. Now this is obviously a logical fallacy because if you have a screen and
+an image displayed on a screen in the brain, then you need another little chap in there
+watching that image, and there is no little chap in your head. And if you think about it,
+that wouldn't solve the problem either because then you'd need another little guy in
+his head looking at the image in his brain and so on and so forth, and you get an
+endless regress of eyes and images and little people without really solving the
+problem of perception.
+So the first thing you have to do to understand perception is to get rid of the idea of
+images in the brain and think instead of transforms or symbolic representations of
+objects and events in the external world. Just as little squiggles of ink, print or writing,
+or dots and dashes in the Morse code can symbolize or represent something even they
+don't physically resemble what they are representing, similarly the action of nerve
+cells in your brain, the patterns of firing, represent objects and events in the external
+world even though they don't in any way resemble what's out there in the world.
+Neuroscientists are like cryptographers trying to crack an alien script, an alien code,
+in this case the code used by the nervous system to represent objects and events in the
+external world.
+So today's lecture will be about the process we call seeing - about how you become
+consciously aware of things around you. As in our last lecture, I'll begin by telling you
+about patients with strange visual defects and then explore the wider implications of
+these syndromes for understanding the nature of conscious experience, how the
+activity of mere specks of jelly in the visual areas of your brain gives rise to all the
+richness of your conscious experience, the redness of red, your ability to recognize a
+burglar or your lover, and how does that happen.
+We primates are highly visual creatures and it turns out we have not just one visual
+area, the visual cortex, but thirty areas in the back of our brains which enable us to
+see, perceive the world. It's not clear why we need so many, why do you need thirty
+areas, why not just one area? But perhaps each of these areas is specialised for a
+different aspect of vision. For example, one area called V4 seems to be concerned
+mainly with processing colour information, seeing colours, whereas another area in
+the parietal lobe called MT or the middle temporal area is concerned mainly with
+
+seeing motion. How do we know this? Well the most striking evidence comes from
+patients with tiny lesions that damage just V4, the colour area, or just MT, the motion
+area.
+So for example, when V4 is damaged on both sides of the brain, you end up with a
+syndrome called cortical colour blindness or achromatopsia, and patients with cortical
+achromatopsia see the world in shades of grey, like a black and white movie, but they
+have no problem reading a newspaper or recognising people's faces or seeing
+direction of movement. Conversely if MT, the middle temporal area is damaged, the
+patient becomes motion blind. She can still read books and see colours but can't tell
+you which direction something is moving or how fast.
+For example there was a woman in Zurich who had this problem, she was terrified to
+cross the street because unlike of us here, she saw the cars on the street not as moving
+but as a series of static images as though lit by a strobe light in a discotheque. She
+couldn't tell how fast a car was approaching even though she could read its number
+plate or tell you what colour it was. Even pouring wine into a glass was an ordeal; you
+and I gauge the rate at which the wine level is rising and slow down appropriately but
+she can't do this - so the wine always overflows. All of these abilities that seem so
+simple and effortless to all of us normal people -- it's only when something goes
+wrong we realize how extraordinarily subtle the mechanisms of vision really are and
+how complex a process it really is.
+Now even though the anatomy of these thirty "visual" areas, the "seeing areas" in the
+brain looks bewildering at first, there is an overall pattern which I will now describe.
+The message from the eyeball on the retina goes though the optic nerve and goes to
+two major visual centers in the brain. One of these I'll call it the old system, the old
+visual centre, it's the evolutionary ancient centre, the old pathway that's in the brain
+stem and it's called the superior colliculus. The second pathway goes to the cortex, the
+visual cortex in the back of the brain and it's called the new pathway. The new
+pathway in the cortex is doing most of what we usually think of as vision, like
+recognizing objects, consciously. The old pathway, on the other hand, is involved in
+locating objects in the visual field, so that you can orient to it, swivel your eyeballs
+towards it, rotate your head towards it. Thereby directing your high acuity central
+foveal region of the retina towards the object so then you can deploy the new visual
+pathway and then proceed to identify what the object is and then generate the
+appropriate behaviour for that object.
+Let me now tell you now about an extraordinary neurological syndrome called
+Blindsight discovered by Larry Weiscrantz and Alan Cowey at Oxford. It's been
+known for more than a century that if the visual cortex which is part of the new visual
+pathway, if that's damaged you become blind. For example if the right visual cortex is
+damaged you're completely blind on the left side if you look straight everything to the
+left side of your nose, you're completely blind to.
+When examining a patient named GY who had this type of visual deficit, one half of
+the visual field completely missing, where he was blind, Weizcrantz noticed
+something really strange. He showed the patient a little spot of light in the Blind
+region. Weiscrantz asked him "what do you see"? The patient said "nothing" and
+that's what you would expect given that he was blind but now he told the patient "I
+
+know you can't see it but please reach out and touch it" The patient said well that's
+very strange - he must have thought this is a very eccentric request. I mean, point to
+this thing which he can't see.
+So the patient said, you know I can't, I can't see it how can I point to it? Weiscrantz
+said well just try anyway, take a guess. The patient then reaches out to touch the
+object and imagine the researcher's surprise when the patient reaches out and points to
+it accurately, points to the dot that he cannot consciously perceive. After hundreds of
+trials it became obvious that he could point accurately on 99% of trials even though
+he claimed on each trial that he was just guessing. He said he didn't know if he was
+getting it right or not. From his point of view it might as well have been an
+experiment on ESP. The staggering implication of this is that the patient was
+accurately able to point to an object that he denied being able to see. How is this
+possible? How do you explain his ability to infer the location of an invisible object
+and point to it accurately?
+The answer is obvious. As I said GY has damage to his visual cortex - the new
+pathway - which is why he is blind. But remember he still has the other old pathway,
+the other pathway going through his brain stem and superior colliculus as a back-up.
+So even though the message from the eyes and optic nerves doesn't reach the visual
+cortex, given that the visual cortex is damaged, they take the parallel route to the
+superior colliculus which allows him to locate the object in space and the message
+then gets relayed to higher brain centres in the parietal lobes that guide the hand
+movement accurately to point to the invisible object! It's as if even though GY the
+person, the human being is oblivious to what's going on, there's another unconscious
+zombie trapped in him who can guide the hand movement with uncanny accuracy.
+This explanation suggests that only the new pathway is conscious - events in the old
+pathway, going though the colliculus and guiding the hand movement can occur
+without you the person being conscious of it! Why? Why should one pathway alone
+or its computational style perhaps lead to conscious awareness, whereas neurons in a
+parallel part of the brain, the old pathway can carry out even complex computations
+without being conscious. Why should any brain event be associated with conscious
+awareness given the "existence proof" that the old pathway through the colliculus can
+do its job perfectly well without being conscious? Why can't the rest of the brain do
+without consciousness? Why can't it all be blindsight in other words?
+We can't answer this question directly yet but as scientists the best we can do is to
+establish correlations and try and home in on the answer. We can make a list of all
+brain events that reach consciousness and a list of those brain events that don't. We
+can then compare the two lists and ask, is there a common denominator in each list
+that distinguishes it from the other? Is it only certain styles of computation that lead to
+consciousness? Or perhaps certain anatomical locations that are linked to being
+conscious? That's a tractable empirical question and once we have tackled that, it
+might get us closer to answering what the function of consciousness might be, if any,
+and why it evolved.
+Now I should add that the blindsight syndrome in GY seemed so bizarre, when it was
+first discovered that it was greeted with scepticism and some of my colleagues don't
+believe that it even exists. Well partly this is because the syndrome is very rare but
+
+also partly because it seems to violate common sense. How can you point to
+something you don't see? But actually that's not a good reason for rejecting it because
+in a sense we all suffer from blindsight. Now that sounds cryptic so let me explain
+that.
+Imagine you are driving your car and having a lively animated intimate conversation
+with your friend sitting next to you. Your attention is entirely on the conversation, it's
+what you're conscious of. But in parallel you are negotiating traffic, avoiding the
+pavement, avoiding pedestrians, not running red lights and performing all these very
+complex elaborate computations without being really conscious of any of it unless
+something strange happens, like you see an actual zebra instead of just a zebra
+crossing! So in a sense you are not any different from GY all of you here, you have
+"blindsight" for driving and negotiating traffic. What we see in GY is simply an
+especially florid version of blindsight unmasked by disease, but his predicament is not
+fundamentally different from yours and mine.
+Intriguingly you cannot imagine the converse scenario. Paying conscious attention to
+driving and negotiating traffic while unconsciously having a creative conversation
+with your friend. This may sound trivial but it is a thought experiment and it is
+already telling you something valuable, that computations involved in the meaningful
+use of language require consciousness but those involved in driving, however
+complicated, don't involve consciousness.
+I believe this approach to consciousness will take us a long way toward answering the
+riddle of what consciousness buys you and why it evolved. My own philosophical
+position about consciousness accords with the view proposed by the first Reith
+lecturer, Bertrand Russell, there is no separate "mind stuff" and "physical stuff" in the
+universe, the two are one in the same, the formal term for this is neutral monism.
+So we have talked about the messages in the new visual pathway. But now let us turn
+to the other pathway, the old pathway which goes to the colliculus, mediates
+blindsight. That projects to the parietal lobe in the sides of the brain. The parietal
+lobes are concerned with creating a three dimensional representation, a symbolic
+representation of the special lay-out of the external world so the ability that we call
+spatial navigation, avoiding bumping into things, dodging a missile that's hurled at
+you, catching something that's thrown at you all of these abilities depend crucially on
+the parietal lobes.
+Now when the right parietal lobe is damaged, you get a fascinating syndrome, called
+neglect, in a sense the converse of blindsight. The patient can no longer move his eyes
+towards the object, which is looming towards him and he can no longer reach out and
+point to it or grab it. Now bear in mind he isn't blind to events on the left side of the
+world because if you draw his attention he can see it perfectly clearly and he'll
+identify it, he'll tell you what it is. So he's not blind. So you can think of neglect, I
+think the best description of it is, it's an indifference to the left side of the world.
+That's why you call it neglect.
+If he's eating from a plate of food, he'll eat only from the right side of the plate and
+completely leave the left side of the plate uneaten. Then you draw his attention he will
+say "Oh my God, that's a nice avocado" and he'll take it. So when you draw his
+
+attention he can see it but otherwise he ignores it. If he is shaving he will only shave
+from the right side of his face, or if she's a woman only apply make-up on the right
+side of the face and that looks quite bizarre, as you can imagine.
+Now as I said neglect is caused by damage to the right hemisphere. The patient is also
+usually paralysed on the left side because the right hemisphere of the brain controls
+the left side of the body. I wondered if it would be possible to "cure" neglect? Can
+you treat this patient, making him pay attention to the left side of the world he's
+ignoring?
+So I hit on the idea of using a mirror, as in the case of phantom limbs in my previous
+lecture. So all I did was I had the patient sitting on a chair and then I stood to the right
+side of the patient and held a mirror like that so that when the patient rotated his head
+to the right he would be looking directly into the mirror that I was holding on his right
+side.
+Now the question is, how does he react to this? Obviously he is not neglecting the
+right side, he's only neglecting the left side of the world so clearly he can see the
+mirror but he's going to see the reflection of the left side of the world inside the
+mirror. The question is how is he going to react to that? Well one possibility is he's
+going to say: "Hey my God, that is a reflection. There's a whole left side of the world
+that I have been ignoring, let me pay attention" and turn around and pay attention -- in
+which case you have cured neglect instantly with a mirror. Or he could say, "Well
+look the reflection is on my right side, so the objects are on my left but hey, left
+doesn't exist in my universe I'm supposed to neglect it so I'll just ignore it" so he
+ignores the reflection. What happens?
+Well what happened actually as often happens in science - neither! OK? I stood on
+her right, so she is sitting here in her wheelchair I was sitting, standing on her right
+side, holding up a mirror, she looked inside the mirror, and on her left side was my
+student standing with a pen, holding a pen. And I asked the patient what do you see?
+What am I holding? The patient says, oh you're holding a mirror. I said, how do you
+know? She said well I can see my reflection in and it's cracked on the top -- which is
+true.
+And I said, what do you see in the mirror? She said oh I see your student John, he's
+holding a pen. I said, OK I would now like you to use your right hand - remember her
+right hand is not paralysed - to reach out, grab the pen and then write your name on
+the pad that's on your lap. Now of course you try this on a normal person and actually
+I have tried it on a normal colleague. You know you just reach, you know you see the
+reflection in the mirror of the person holding the pen, you turn to the left, grab the pen
+and write your name on the pad. What did the patient do?
+It's absolutely astonishing. The patient looked in the mirror, reaches out into the
+mirror for the reflection, bang, bang, bang, starts clawing the surface of the mirror, or
+on some occasions reaches behind the mirror trying to grab the reflection sometime
+yanking my tie, grabbing my belt buckle, remember I was holding the mirror on the
+patient's right side. And I said, what are you doing Mrs D, the patient's name?
+
+The patient said, oh I am trying to reaching for the pen. I said, no, no, no I don't mean
+the reflection, I mean the real pen where is the real pen? The patient says: "The real
+pen is inside the mirror, Doctor," or on another occasion: " The pen is behind the darn
+mirror, Doctor." OK? Now this is absolutely astonishing because we have tried this on
+a three year old child so the child is sitting here on a chair, you hold the mirror on the
+right side of the child and you have an assistant holding a candy and you tell the child
+reach out, reach and grab the candy. The child realizes this is some kind of game,
+giggles and reaches correctly for the candy on the left side and takes it. Even a
+chimpanzee can do this, doesn't get confused a mirror image for a real object but the
+older and wiser Mrs D - seventy years of experience with mirrors - reaches straight
+into the mirror, bang, bang, bang. Why does this happen? We call it "mirror agnosia"
+or " looking glass syndrome" in honour of Alice who actually walked into the mirror
+thinking it was a real world. Why does it happen?
+Well I think what happens is this patient's brain is saying, speaking metaphorically,
+look that's a mirror, I know it's a mirror, that's a reflection, therefore the object is on
+my left but left doesn't exist in my universe. Therefore the object must be inside the
+mirror, however absurd it seems to all of you chaps, and therefore I'll reach into the
+mirror, bang, bang, bang. All of that abstract knowledge about the laws of optics and
+mirrors is now distorted to accommodate this strange new sensory world that the
+patient finds herself trapped in.
+Now I'll turn to another disorder which is also caused by damage to the right parietal
+and that is even more extraordinary. It's called denial or anosognosia. Remember
+most of these patients with right parietal damage also have some damage to the
+internal capsule so they are completely paralyzed on the left side of the body. It's what
+you mean by a stroke, this complete paralysis of the left side of the body, and most of
+them complain about this as indeed they should. They say when am I going to get
+better, my arm doesn't work. But a subset of them, a small percentage of them will
+vehemently deny that their left arm is paralyzed, and these are patients who don't have
+any neglect. They'll say doctor, it's moving fine. Why does this happen?
+It's not clear but it is only seen when the right parietal is damaged, rarely seen when
+the left parietal is damaged and that gives out a clue. It tells you that the denial
+syndrome has something to do with hemispheric specialization. The manner in which
+the two cerebral hemispheres deal with the external world, especially the manner in
+which they deal with discrepancies in sensory input and discrepancies in beliefs.
+Specifically I would like to suggest when confronted with a discrepancy, the left
+hemisphere's coping style is to smooth over the discrepancy, pretend it doesn't exist
+and forge ahead. The right hemisphere's coping style is the exact opposite. It's highly
+sensitive to discrepancies so I call it the anomaly detector.
+Now imagine a patient with a right hemisphere stroke left side paralyzed. The patient
+is sending a command to move the arm, he is getting a visual signal saying it is not
+moving so there is a discrepancy. His right hemisphere is damaged, his left
+hemisphere goes about its job of denial and confabulation smoothing over the
+discrepancy and saying, all is fine, don't worry. On the other hand, if the left
+hemisphere is damaged and the right side is paralyzed the right hemisphere is
+functioning fine, notices the discrepancy between the motor command and the lack of
+visual feedback and says, my god you are paralyzed. This was an outlandish idea but
+
+it's now been tested with brain imaging experiments and shown to be essentially
+correct.
+Now this syndrome is quite bizarre - a person denying that he or she is paralyzed - but
+what we found about seven or eight years ago something even more amazing. Some
+of these patients will deny that another patient is paralyzed so the patient is sitting
+here. We saw the patient, another patient sitting in a wheelchair - I'll call him patient
+B - and I've told patient B move your arm. Patient B of course is paralyzed, doesn't
+move. And then I ask my patient - is that patient moving his arm? And the patient
+says yes of course he is moving his arm. He is engaging in denial of other people's
+disabilities.
+Now at first this didn't make any sense to me then I came across some studies by
+Giaccomo Rizzollati, experiments done on monkeys. If you record from parts of the
+frontal lobes which are concerned with motor commands you find there are cells
+which fire when the monkey performs certain specific movements, like one cell will
+fire when the monkey reaches out and grabs a peanut, another cell will fire when the
+monkey pulls something, yet another cell when the monkey pushes something. That's
+well known. These are motor command neurons. But Rizzollati found that some of
+these neurons will also fire when the monkey watches another monkey performing the
+same action, so you find a peanut-grabbing neuron which fires when the monkey
+grabs a peanut. When the monkey watches another monkey grab a peanut, it fires. It's
+quite extraordinary because the visual image of somebody else grabbing the peanut is
+utterly different so you have to do this internal mental transformation to do that
+computation and for that neuron to fire and Rizzollati calls these mirror neurons.
+Another name for them is monkey-see monkey-do neurons and these neurons I think
+are the ones that are damaged in these patients.
+Because think about what's involved in your judging somebody else's movements.
+Maybe you need to do a virtual reality internal simulation of what that person is
+doing, and that may involve the activity of these very same neurons, these mirror
+neurons. So these mirror neurons, instead of being some kind of curiosity, hold
+important implications for understanding many aspects of human nature like how do
+you read somebody else's movements, their intentions, their actions. Many aspects of
+what you called a theory of other minds, a sophisticated theory of other people's
+behaviour. We think it is this system of neurons that is damaged in these patients. The
+patient can therefore no longer construct an internal model of somebody else's actions.
+I also want to argue that these neurons may have played an important role in human
+evolution and I am going to talk about this at length in my Oxford lecture on the
+emergence of language and abstract thinking, because think about it. One of the
+hallmarks of our species is what we call culture. And culture depends crucially on
+imitation of your parents, of your teachers and the imitation of complex skills may
+require the participation of mirror neurons. So what I'm arguing is somewhere around
+50,000 years ago maybe the mirror neurons system became sufficiently sophisticated
+that there was an explosive evolution of this ability to mime complex actions, in turn
+leading to cultural transmission of information which is what characterises us humans.
+Now let me conclude by emphasising once again that although the studies on patients
+are intriguing in themselves, our real agenda here is to understand in terms of brain
+
+function, us normal humans, how our brains work, the whole spectrum of abilities that
+we call human nature, whether it is body image or culture or language or abstract
+thinking and I hope to convince you that such a deeper understanding of the brain will
+have a profound impact not just on the sciences but on the humanities as well. Lofty
+questions about the mind are fascinating to ask, philosophers have been asking them
+for three millennia both in India where I am from and here in the West - but it is only
+in the brain that we can eventually hope to find the answers.
+Thank you very much.
+
+

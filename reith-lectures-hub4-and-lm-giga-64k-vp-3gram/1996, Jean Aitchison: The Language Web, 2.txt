@@ -1,0 +1,296 @@
+REITH LECTURES 1996: The Language Web
+Jean Aitchison
+Lecture 2: A Web of Deceit
+TRANSMISSION: 13
+
+February 1996 – BBC Radio 4
+
+For centuries ideas about language origin have frothed up like soap bubbles, then
+burst into nothing. Over two thousand years ago, the Egyptian King Psammetichus
+reportedly gave instructions for two newborn children to be brought up in total
+isolation. To his disappointment, their earliest world was “bekos”, the Phrygian word
+for “bread”. The king reluctantly concluded that the Phrygians predated the
+Egyptians. But according to John Webb, a 17th century writer, Chinese was possibly
+the original language of humankind. Happily it was spoken by Noah and his family in
+the Ark he assumed, and so survived the flood. In the mid-19th century, Abbot
+O’Donnelly, a Frenchman, claimed a new and prodigious discovery of the original
+universal language, supposedly found on an Egyptian obelisk. His translation, he
+boasted, was “sufficient to open the eyes of a mole”. But no one listened, he
+lamented, with his words and results being blown away by the wind. As one weird
+idea after another bubbled up, language origin was regarded as a playground for
+cranks and the topic was banned in 1866 by the Linguistic Society of Paris, the most
+prominent linguistic association of the time. And disapproval continued. “The greater
+part of what is said and written upon it is mere windy talk,” said the linguist William
+Dwight Whitney in 1893.
+The origin of the language web has become a serious field of study only in the last 10
+years or so, and will be the topic of today’s lecture. A fresh look at the role of
+language has led to new ideas about how it all started. Traditionally, humans are
+regarded as reliable fact-swappers, and conveying information is often claimed to be
+the primary purpose of language. This view was put forward by philosophers, such as
+the 17th century thinker John Locke, who stated that language is “the great conduit
+whereby men convey their discoveries, reasonings and knowledge from one to
+another”. But this idea is misleading. Language is good at transferring some types of
+data, especially negative reports, such as, “No buses will run on Sunday”, or “The
+milk hasn’t arrived” - provided that the speaker is telling the truth.
+But it’s bad at other types, especially spatial information, where instructions such as
+“Take the third turning on the right, then the fourth on the left” would be much clearer
+on a map. And as for tying knots, Hilaire Belloc once said, “If you can describe
+clearly without a diagram the proper way of making this or that knot, then you’re a
+master of the English tongue”. Perhaps he should have said, “You’ll have
+considerable difficulty describing a knot however many languages you’ve mastered.”
+Language is also bad at conveying pain or emotion. This patchwork of efficiency and
+inefficiency is fairly typical of behaviour that is biologically programmed: it has
+evolved to deal with some things, but not others, just as rabbits nibble grass but don’t
+crack nuts.
+
+1
+
+Early human language was probably not a fact-swapping device. Its original role can
+be uncovered by looking at behaviour which we share with our ape relatives,
+according to anthropologists.
+Humans, alongside other primates, are often called social animals: they have firm
+family ties and also interact strongly at the group level. This social background has
+promoted two types of behaviour: they like grooming one another, and they can make
+guesses about the mental state of others - intelligent primates can put themselves into
+one another’s shoes, as it were. These abilities tie in with two things which language
+is especially good at: interacting with others, and influencing them.
+Humans use language to keep in touch with one another, to weave a web of
+friendship. Speech is a close-quarters type of interaction, and social talking may be a
+substitute for the friendly grooming found among monkeys, according to one theory.
+The “Hello, how are you? Isn’t it a nice day?” kind of greeting has even been called
+“grooming talking”.
+Friendly gossip can be thought of as a kind of mutual grooming, in which the
+participants take it in turns to stroke one another.
+MUSIC: GOSSIP CALYPSO
+Traditionally gossip is associated with women, but it is not just women yakking.
+Consider a conversation in P.G. Wodehouse’s novel Carry On Jeeves. “What ho!” I
+said. “What ho!” said Motty. “What ho, what ho!” I continued. “What ho, what ho,
+what ho!” Motty replied. Even if they’ve got nothing to say humans take it in turns to
+mouth empty greetings at one another. Such conversational turn taking starts early in
+life. Listen to a mother and baby. Mother says, “And how’s my little darling today?”
+Then typically waits until the baby coos or burps or otherwise takes its turn before she
+continues:
+MOTHER INTERACTING WITH BABY
+“Look who I found. (baby makes sound) Yes, where does he belong? (baby chatters)
+Such turn taking may have predated language. Mothers and babies have possibly
+cooed and gurgled at one another for millennia. Turn taking is often a kind of ritual.
+You can frequently guess what the participants are planning to say. If you apologise,
+“Oh I’m terribly sorry, I spilt some coffee on your carpet,” you expect the problem to
+be minimised. “Oh please don’t worry. It really doesn’t matter.” Similar patterns are
+found all over the world. And solidarity speak - that is vocalising to strengthen social
+ties - extends to chance before sports matches. Take the New Zealand rugby team
+Haka. (FX: Rugby team) This can be matched by chimpanzee pant-hoots, which,
+according to some recent research, are male solidarity calls. (FX: chimpanzee panthoots)
+Human grooming talking is satirised by the science fiction writer Douglas Adams.
+Ford, a being from another planet, was puzzled by the peculiar human habit of
+continually stating, restating the very obvious as in “It’s a nice day” or “You’re very
+tall”, or “So this is it, we’re going to die.” His first theory was that if humans didn’t
+keep exercising their lips, their mouths probably seized up. After a few months of
+2
+
+observation, he’d come up with a second theory: if human beings don’t keep
+exercising their lips, their brains start working.
+But humans don’t just verbally scratch each other’s backs. They use language to
+influence and persuade one another. An effective persuader must be able to imagine
+events from another person’s point of view. In fashionable jargon, he or she must
+have a “theory of mind”. Without it, persuasion is a hit-and- miss affair.
+Animals who possess a theory of mind are good at social manipulation: they can
+intentionally deceive one another, a skill found among most primate species, though
+some are better at it than others. Monkeys are fairly poor at it. Baboons and great apes
+are good at it. Among the great apes, chimpanzees, our close relatives, are extremely
+skilled deceivers. An infant chimp may scream as if it’s being attacked in order to
+persuade its mother to comfort and feed it. An older chimp may lead others away
+from hidden food, then double back and scoff the lot by itself. This ability to deceive
+has been labelled Machiavellian intelligence. Our ape relatives use deception almost
+always for selfish reasons. Humans differ, in that deception can be used for good
+purposes, as well as bad: for reasons of tact, as well as for dishonesty. Humans are not
+only good deceivers, but also good persuaders and good sympathisers: they can
+calculate how to influence others, and how to please them. An ability to deceive is
+therefore an advantage - as long as it is used wisely.
+All this deceit may at first sight seem a long way from language. But a crucial
+connection exists. The ultimate goal of learning to speak may be lying, or more
+accurately a spin-off from lying - the ability to talk convincingly about things which
+are absent or even non-existent. This property of language, known as displacement, is
+one of its great strengths. Talking about the past and future is important in any human
+society and imaginary events loom large in songs and literature. Once upon a time,
+there were three little pigs … and so on.
+A web of deceit, an ability to fib is therefore crucial to language. This may seem
+bizarre since most of us disapprove of lying. “Matilda told such dreadful lies, it made
+one gasp and stretch one’s eyes,” said Hilaire Belloc in his cautionary tales for
+children, in which lying Matilda is burnt to death. Yet even in England where we
+pride ourselves on being straightforward social lying is approved of. Politicians, sales
+persons, parents, maybe all of us are economical with the truth when it suits us, and
+little white lies are an essential component of politeness. Mrs Skewton, a character in
+Charles Dickens’ novel Dombey and Son couldn’t stop yawning as she was shown
+around Warwick Castle, but she assured her guide that for her yawning was a
+demonstration of delight. A truly tactful lady.
+Friendship and deceit are therefore essential prerequisites of language. But they alone
+were not enough to trigger it. Human language developed only when these prelanguage webs were combined with a unique human feature - a complex sound
+structure.
+All primates can hear and discriminate a wide range of sounds, but the phonetic skills
+of non-human primates are minimal for two reasons. First, they can’t easily suppress
+their own spontaneous calls. Withholding them is not impossible, as shown by
+Papoose, a female gorilla who wanted to mate with Titus, a youngish animal, rather
+3
+
+than the older dominant male in the group. She and Titus managed to retain secrecy
+by suppressing normal copulatory calls. In another case, Figan, a chimp who was
+given some bananas, eventually learned not to make excited calls bringing other
+chimps to the scene. Second, vocal fine tuning is impossible for other apes. The
+sounds they make are variable and unclear, partly because they can’t close off the
+passage to the nose. (FX: ape sounds) But in humans the tongue forms roughly a right
+angle with the windpipe, like an upside down letter “l” and a larynx (or voice box) is
+lower than in chimps. This enables humans to shut off the nasal cavity when they
+speak and to make a range of precise and recognisable non-nasal sounds. Human
+vocal precision is quite odd, by primate standards, and the human sound system has
+more in common with birdsong than the grunts of our ape cousins.
+Birds are capable of precise vocal control. So much so that Lord Monboddo, an
+English eccentric, claimed in 1773 that we humans learned how to sing and speak
+from birds, especially cuckoos, ravens and parrots - just as he assumed we discovered
+how to spin and weave from spiders. But birds and humans are not copying one
+another. Independently, they have each evolved a sound system which shares a
+number of features. Humans have a number of instinctive cries: a baby’s scream of
+pain or yell of hunger is recognisable worldwide. (FX: baby crying) These cries are
+not real language, which exists alongside as a separate system. Similarly many birds
+have a few preset calls such as a call to congregate or a danger cry. (FX: birds) They
+also have more complex songs whose outline is fixed, but whose finer details often
+have to be learned.
+Language proper is itself double-layered. Single noises are only occasionally
+meaningful: mostly, the various speech sounds convey coherent messages only when
+combined into an overlapping chain, like different colours of ice-cream melting into
+one another. In birdsong also, individual notes are often of little value, the sequence is
+what matters. (FX: birdsong) In both humans and birds, control of this specialised
+sound-system is exercised by one half of the brain, usually the left half, and the
+system is learnt relatively early in life. And just as many human languages have
+dialects, so do some bird species. In California the white-crowned sparrow has songs
+so different from area to area that Californians can supposedly tell where in the state
+they are by listening to these sparrows. (FX: sparrows) Like humans also, some birds,
+such as hornbills, take it in turns to vocalise. (FX: hornbills)
+So we humans are a zoological curiosity. Just as the hoatzin, a weird type of bird, has
+a stomach somewhat like that of a cow, and a Newfoundland, a weird type of dog, has
+webbed feet a bit like a duck’s - so humans, a weird type of ape, have evolved a
+communication system more like that of birds than that of their ape cousins. Yet the
+parallels between humans and birds must not be over-emphasised because there are
+also wide differences. Mostly only male birds sing and female birds burst into song
+only if injected with the male hormone testosterone; and differences between the
+songs of different birds are far greater than the differences between human languages,
+which are remarkably similar in their overall structure. In addition human language is
+an intimate style of communication compared with birdsong, which un-amplified
+carries over greater distances, sometimes several kilometres. The record is probably
+held by the kakapo, a New Zealand flightless parrot whose sonic booms attract mates
+from several kilometres away. (FX: kakapo)
+
+4
+
+Humans can sometimes adapt the tones and rhythm of their language to produce long
+distance communication, as in the talking drums of Africa. (FX: drums) Such
+adaptations reveal one further unique feature of human language: it can be transferred
+to other media - drum beats, sign language or writing. But the parallels between
+human language and birdsong are striking. Complex sound systems tend to acquire
+similar characteristics. This indicates that both human language and birdsong are the
+end product of a long period of evolution with basic mechanisms innately built into
+their owners.
+Arguments continue about how humans acquired their birdlike skill. Apart from the
+sounds, the ground-plan, the basic web structure, is similar in all human languages,
+indicating that they developed from a common inherited root. Modern humans and
+human language probably came from one area of the globe, from Africa.
+Archaeological traces and clues from DNA and blood groups support this conclusion.
+One scenario is known as the East Side story. Several hundred thousand years ago, we
+and our chimp cousins spread across Africa. Then a major earthquake, or “tectonic
+event”, as it is sometimes called, created the Great Rift Valley, splitting Africa into
+lush forest to the west and relatively dry savannah to the east. The chimps were left in
+the tree-filled west. Future humans were stranded in the arid east. Their dry savannah
+became even drier, and they were forced to adapt, or die. One adaptation was meateating, as humans learnt to supplement their vegetarian diet by scavenging. This
+promoted brain growth, which may have aided the development of language.
+Nature is over generous in providing pathways along which animals may evolve;
+multiple routes are available for exploitation. Evolution is as much a case of
+suppressing some options as it is of selecting others. Language may have been a lucky
+choice out of a range of alternatives. Comments by the poet Robert Frost on his life
+could well apply to the human race as a whole: “Two roads diverged in a wood and I I took the one less travelled by, and that has made all the difference.” Once a
+particular path has been chosen, this constrains future choices - just as leaves which
+fall off trees cannot leap back on again. Language was a lucky choice which paid off
+and has been paying off ever since.
+But just how it all got started is still partly a puzzle. Early words could have arrived
+via several routes. In the last century, three ideas predominated. According to a socalled “pooh-pooh” theory, language began as cries of emotion: “ooh! aah! ai! ha!”.
+But a “dingdong” proposal, that language started by imitating natural sounds, was
+supported by Charles Darwin. He speculated that an “unusually wise ape-like animal”
+may have imitated the growl of a beast of prey, and so informed his fellows of the
+danger. A “yo-he-ho” hypothesis, that heaving and hauling gave rise to words, is the
+most plausible of these early ideas: the vocal cords were in origin membranes deep in
+the throat which closed off the lungs, making the rib-cage rigid when some effort is
+required. The grunt as the air is expelled can be heard in some old sea shanties.
+MUSICAL CLIP: SEA SHANTY
+Yet the problem is not so much how sounds arose as how particular sounds came to
+be used as symbols, with firm meanings. A vervet, an agile African monkey with a
+black face and a long tail, may represent an intermediate phase. Vervets have warning
+calls which distinguish different types of danger: at a chutter they stand on their hind
+5
+
+legs and look around for a snake, at a rraup they dive into the undergrowth as if hiding
+from an eagle, and at a chirp they climb a tree and look around for a lion or leopard.
+Squirrel monkeys in South America also distinguish between different perils. But
+these monkey danger calls are not pure naming. They are a cry of fear, a warning to
+others, and only partially a symbol. Naming for the sake of naming is a major hurdle
+for animals. The naming insight, the realisation that things have names is hard for
+them to grasp, though it comes naturally to humans.
+A stack of single words was probably in common use long before any “grammar”
+emerged. Rules, in the sense of recurring patterns, could have started in more than one
+way. Individual words might have been placed together, much as many children start
+off with single words such as “hi”, “bye-bye”, “mummy”, daddy”, which they later
+combine in a predictable way as in “bye-bye daddy”, “hi mummy” and so on.
+CLIP OF MOTHER AND CHILD
+Child: Car do’y (dolly) Car do’y.
+Mother: Car dolly.
+Child: Car do’y (dolly)
+Mother: Car with dolly in it.
+Of course those who set language going in the first place were unlikely to be babies.
+But neatening up was a more likely way for rules to emerge. Numerous words were
+probably placed together randomly and repetitively. “Meat I want.” “Meat meat want
+I,” for example - perhaps not unlike the sign sequences of the chimp Nim Chimpsky
+who was taught a language with signs for words. Nim tended to repeat items. Like
+most chimps, he was fairly greedy, and his food anxiety gave rise to many repeated
+signs as in “Eat me eat,” “Nut Nim nut,” “Drink eat, drink eat.”. His longest recorded
+sound-sequence was: “Give orange me. Give eat orange me. Eat orange. Give me eat
+orange. Give me you.” The message was clear: Nim wanted an orange.
+But for more complex messages, those which go beyond obvious requests, more
+structure is needed. In language change today optional patterns become habits. Then
+the habits become obligatory. Our best guess is that something similar happened at the
+origin of language. Even Nim Chimpsky showed some signs of this process. When
+requesting food, he almost always put the food word first as in “Grape eat,” “Banana
+Nim eat,” “Apple me eat.” Human beings also have inbuilt preferences, some of
+which may have predated language. When humans talk about two items, they prefer
+to locate the small than the large. They say “The cat sat on the mat,” “the bird perched
+on the tree” rather than “The mat lay under the cat,” “The tree stood under the bird.”
+It is part of the human mindset to envisage the world in this way. As another
+preference, all over the world humans are more likely to say the equivalent of “Harriet
+was hit by a cabbage” rather than “A cabbage hit Harriet.” Animate beings tend to get
+placed before inanimate things. Again humans prefer to put verbs near the objects
+affected. A sequence - “Henry ate an apple” or “Henry an apple ate” - is statistically
+more likely in the languages of the world than “Ate Henry an apple.” Even though
+this last order is not impossible; it is found in Welsh, for example (we towelled Henry
+aval (ph)). Many more preferences can be found and they sometimes clash, which is
+why all languages are not more similar.
+
+6
+
+But in general preferences become tendencies, tendencies become habits, and habits
+become rules. This provides some clues as to why languages do not fly apart in crazy
+ways. The human mindset pushes our thoughts in certain directions. Language
+possibly language neatened itself up with rules only gradually: “If it all gets too much
+of a muddle, try a bit of organisation” might have been a subconscious maxim perhaps somewhat like the man who supposedly lost an open umbrella on his untidy
+desk: this made him decide to tidy it up. Language was probably at first messy and
+only partially structured, but acquired more and firmer rules as it became more
+complex. This all led to a more precise type of web, a web of rules, and in the next
+lecture I will talk about how children born today acquire this rule web whose overall
+structure is preordained.
+So after at least 50,000 years of evolution, the language web is the same the world
+over in its broad outline. Some 19th century travellers were surprised by this: “The
+grammar is precise and somewhat complicated . . .” said a Mr Bell in 1899 about the
+language of the Miskitu Indians, who live on the north-east coast of South America.
+He continued: “It seems strange to find among an uncultivated and uncivilised race
+rules of grammar as precise and well known as are used by the most cultivated nations
+of Europe . . . How is this to be explained?”
+
+7
+
+

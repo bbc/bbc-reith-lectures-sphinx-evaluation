@@ -1,0 +1,757 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST. THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+REITH LECTURES 2010: SCIENTIFIC HORIZONS
+Presenter: Martin Rees
+Lecture 4: Runaway World
+TRANSMISSION: 22nd JUNE 2010
+
+RADIO 4
+
+SUE LAWLEY: Hello and welcome to the Open University in Milton Keynes for
+the fourth, and last, of this year’s BBC Reith Lectures. This is one of the biggest
+universities in the world, but you won’t see many students on its campus.
+Thanks to the invention first of television, and then of the silicon chip, it reaches
+the people it teaches remotely today through the network we call The Worldwide
+Web.
+
+In this series, our lecturer has been lifting our gaze across the frontiers of science
+- a journey in which we’ve been shown both the bright and the dark sides of
+scientific development. Tonight he urges us not to flag, but to keep pace with the
+constantly expanding body of knowledge that brings so many benefits to
+mankind. Ladies and gentlemen, can I ask you please to welcome the BBC’s
+Reith Lecturer 2010: President of the Royal Society and Astronomer Royal,
+Martin Rees.
+
+(APPLAUSE)
+
+SUE LAWLEY: Martin, you’ve said before that it’s easier to understand the
+cosmos than it is the frog. I find that counterintuitive. I mean, after all, you can
+1
+
+hold a frog in your hand; you can cut it up on the laboratory bench. And there is
+the cosmos. How do you explain that? Why do you say that?
+
+MARTIN REES: Well I say that because a star is actually fairly simple. It’s so hot
+inside. There’s no complex chemistry; everything’s broken down into simple
+atoms. Whereas a frog, or even an insect, has layer upon layer of complicated
+structure, so there’s much more structure in the smallest living thing than there is
+in any of the inanimate things which we study.
+
+SUE LAWLEY: But I’m sure when you were a boy, you cut up frogs, and you
+probably played with Meccano sets and did jigsaws. How much does it worry
+you? And I know this is slightly straying into the subject of your lecture, but how
+much does it worry you that these days you know everything is controlled on a
+screen - every game, every plaything is a screen and a mouse?
+
+MARTIN REES: Well I do think that virtual reality shouldn’t take over from real
+reality, especially in education, and it’s a pity if kids don’t see frogs or birds’
+nests and things and only see things on the screen. So I think there is a loss if
+people are too much in virtual reality.
+
+SUE LAWLEY: But I mean they can play with a Wii, for example. Health reasons
+apart, they don’t have to go out and play a round of golf. They can just wave
+their arms about in front of a screen.
+
+MARTIN REES: Well I think for those of us who are sort of old and immobile,
+it’s great to have these alternatives. But for young people, I think real reality is
+what they should be in.
+
+SUE LAWLEY: But it’s a problem, isn’t it - that we become observers rather than
+2
+
+participants? That’s the fundamental concern, isn’t it?
+
+MARTIN REES: Well except the internet does allow more to participate, I think.
+If you compare the internet with television, of course, it’s a more interactive
+medium and that’s a good thing.
+
+SUE LAWLEY: Martin, can I invite you to deliver your lecture?
+
+MARTIN REES: Thank you.
+
+(APPLAUSE)
+
+MARTIN REES: In 2002, three mathematicians at Kanpur in India - Manindra
+Agrewal, and his two students - made a breakthrough that was important for
+codes and code-breaking. They posted their results on the web. Within just a day,
+20,000 people had downloaded the work, which became the topic of hastilyconvened discussions in research centres around the world.
+
+This episode - offering instant global recognition to two Indian students contrasts starkly with the struggles of another young Indian a hundred years
+ago. Srinivasa Ramanujan, a clerk in Mumbai, mailed long screeds of
+mathematical formulae to G H Hardy, a professor at Trinity College, Cambridge.
+Fortunately, Hardy had the percipience to recognise that Ramanujan was not the
+typical green-ink scribbler who finds numerical patterns in the bible or the
+pyramids, but that his writings betrayed preternatural insight. Hardy arranged
+for him to come to Cambridge, and did all he could to foster his genius. Sadly,
+however, poor health led Ramanujan to an early death.
+
+I use this anecdote to introduce my theme today - how to optimise science and
+3
+
+innovation in the era of global mobility and networking - and how the benefits
+of globalisation can be shared by developing as well as developed nations.
+
+The Open University was a visionary creation of the 1960s. But its pioneers - in
+the era of black and white TV - couldn't have conceived how fundamentally IT
+would change the way we learn - how it could globalise students' horizons, level
+the playing field between those in major centres and those in relative isolation,
+and give outstanding teachers a world-wide reach. And the capability to access
+huge datatsets has transformed not only science, but finance and all international
+business.
+
+But enterprising individuals aren't content to be linked merely in cyberspace.
+They still tend to swarm together - most obviously in high-tech hotbeds like
+Silicon Valley in the US - and indeed around the world's leading 'research
+universities'. In Cambridge, for instance, a dynamic high-tech community has
+grown up that offers, in the words of the Financial Times, a "low risk place to do
+high risk things". Talent attracts talent (and big companies too). Success breeds
+success - and, just as important, failure is accepted as a step towards later
+success.
+
+The United States, in particular, benefits hugely by draining highly-skilled
+migrants from the rest of the world. And its allure has now been enhanced by the
+rhetoric and the initiatives of the Obama administration, which has boosted
+America's already world-leading scientific community - in morale and in
+substance. The UK's success in attracting and retaining mobile talent will be at
+risk unless we respond. Even to retain our international competitiveness, we
+must raise our game.
+
+There's now an international market for the best students as well. They are
+4
+
+academic assets, and a long-term investment in international relations. After they
+graduate they'll feed into all walks of life - networked world-wide, ready to seize
+the best ideas from anywhere and run with them.
+
+Migrants can now - unlike a century ago - retain contact with their homeland:
+communications are always open; travel is far easier and cheaper. In fact there is
+a growing two way traffic.
+
+Some now use the term ‘brain circulation’, rather than 'brain drain' to describe
+what’s happening in China, India, Taiwan and Ireland.
+
+But there's no such consolation for the very poorest countries: they face daunting
+challenges in retaining their all-too-few highly-trained people, and even more in
+attracting them back.
+
+Africa’s predicament is the worst. Around half of its health workers want to
+leave. And their loss can be ill afforded - and it’s doubly tragic if, after moving to
+a developed country, they find they’re not accredited - and doctors become cab
+drivers. It's just as bad in agricultural science, engineering, and all the other
+specialities that countries need for African development.
+
+The poorest countries need to engage their diaspora communities - encouraging
+those with expertise to at least make regular visits. But wealthier nations should
+take some responsibility too. A cost-effective form of aid would be to establish, in
+Africa and elsewhere, 'centres of excellence' - with strong international links where ambitious scientists could work in less dispiriting conditions, maybe via
+linkages with foreign experts. They could then fulfil their potential without
+emigrating, and strengthen tertiary education in their home country.
+5
+
+Of course the biggest tectonic shift in the world's science stems from the
+burgeoning growth in the Far East - in China above all. Since 1999, China's R
+and D spend has risen by 20 percent each year - up to a level that's now second
+only to the US.
+
+China's technocratic leadership has astutely targeted its scientific investment on
+'growth areas'.
+
+Look, for instance, towards the city of Shenzhen. There, a 500-strong research
+team is hard at work, on the front line of genetic research. They were only
+established eleven years ago. Now they have more sequencing capacity than
+anywhere in the world - enough to sequence 10,000 human genomes in a year.
+And China strives to lead, too, in the quite different field of solar power.
+
+Education is prioritised in China - and in Taiwan, South Korea and other
+countries of the Far East - with a focus on the aspirations of their fast-developing
+economies. And concerns are often voiced that we in the UK are falling behind.
+
+The young, here and everywhere, have a natural interest in science - whether
+focussed on space, dinosaurs, or tadpoles. The challenge for educators around
+the world is to sustain this interest beyond the primary-school stage.
+
+What's crucial is hands-on involvement - showing, not just telling. And I want to
+suggest that the sophistication of modern science is, ironically, an impediment to
+engaging young people with it.
+
+Newton, when young, made model windmills and clocks - the high tech artefacts
+6
+
+of his time. Darwin collected fossils and beetles. Einstein was fascinated by the
+electric motors and dynamos in his father's factory.
+
+Fifty years ago, inquisitive children could take apart a radio set, or a motorbike,
+figure out how it worked, and even put it together again. But it's different today.
+The artefacts that now pervade young people's lives - mobile phones and
+suchlike - are baffling "black boxes" - pure magic to most people. Even if you take
+them apart you'll find few clues to their arcane miniaturised mechanisms. And
+you certainly can't put them together again.
+
+There's now, for the first time, a huge gulf between the artefacts of our everyday
+life, and what even a single expert, let alone the average child, can comprehend.
+
+Science education isn't just for those who will use it professionally. Indeed
+everyone should have a 'feel' for science - partly for cultural reasons; partly
+because they otherwise can’t, as citizens, participate in discussing how science is
+used.
+
+But to sustain our society, enough young people need to attain professional-level
+expertise - as millions do now each year in the Far East.
+
+A few will become researchers, come what may - what you might call the nerdish
+element (I'm one of them myself). (LAUGHTER) But we can't survive just on
+them. At a time when our nation should reduce its dependence on the financial
+sector, and rebalance towards high-tech manufacturing and services, the sciences
+must attract a share of those who are ambitious and have flexible talent - those
+who have a choice of career paths and who are mindful that the city still offers
+himalayan salaries, if no longer such high esteem.
+
+7
+
+At the start of the last decade, BBC TV ran a series of programmes to identify '100
+Greatest Britons'. The advocates of Darwin and Newton slugged it out among
+the final six. But there was a third contender - Brunel. And he did better than
+either - for two reasons: First, his advocate was Jeremy Clarkson. (LAUGHTER)
+Second, there were rumours that students from Brunel University campaigned
+hard. Nonetheless, this was an all-too-rare instance of a great engineer being
+publicly acclaimed. (The others finalists were, incidentally, Churchill,
+Shakespeare and Princess Diana.)
+
+But Brunel is long dead - the scientists and engineers now living deserve wider
+acclaim.
+
+To attract the next generation, prominent role models would be helpful preferably not all male, grey and stale. And we must proclaim science both as an
+intellectual challenge and as a prerequisite for meeting humanitarian imperatives
+- health, education and 'clean energy' for the developing world.
+
+I'm fortunate to know many of today's leading scientists - those who've achieved
+Nobel-level breakthroughs. They're individualists, but they have some things in
+common.
+
+They have all staked their careers on a specific line of research - and they chose
+well. They were given the space and the freedom to take professional risks. The
+path they took was unpredictable, and often the payoff was long in coming.
+
+Universities and institutes won't stay internationally competitive unless they can
+attract and nurture such people.
+
+It's essential that those with a good track record feel free to follow their own
+8
+
+judgement rather than being constrained by narrow external targets. Scientists
+are of course accountable to their funders. But those arguing for such
+permissiveness aren't being self-indulgent: history shows that it's the way
+research pays the greatest dividends overall.
+
+We can't confidently predict how, when or whether a specific research project
+will 'pay off'. The social or economic benefit should not be credited solely to the
+most immediately relevant project, any more than a win at football is due solely
+to the team members who actually score the goals. So we need to support science
+broadly.
+And now for a brief digression. My lecture title, 'The Runaway World', was used
+by the sociologist Anthony Giddens for his 1999 Reith Lectures on globalisation and also indeed, right back in 1967, by the provocative anthropologist Edmund
+Leach for his.
+
+In homage to these two predecessors - I'll comment briefly on how scientists look
+from the perspective of sociology.
+
+It is important, as well as enlightening, to appreciate how pervasive the social
+and political factors that drive and direct science are. And the scientific tribe is a
+fascinating topic for anthropological study.
+
+The way scientists work, what problems attract their interest, what styles of
+explanation are culturally appealing - and (more mundanely) what fields attract
+funding - plainly depend on a range of political, sociological and economic
+factors.
+
+However - and this is important - the outcome of scientists' efforts is 'objective':
+and can be evaluated by criteria that don't depend on how these ideas were
+9
+
+motivated and arrived at. How science is applied, however, is a culturedependent matter.
+
+The physicist Steven Weinberg has given an apt metaphor for scientific
+breakthroughs. He says: "A party of mountain climbers may argue over the best
+path to the peak, and these arguments may be conditioned by the history and
+social structure of the expedition, but in the end either they find a good path to
+the summit or they do not, and when they get there they know it."
+
+To some, there's a special mystique about science and discovery. But it really
+doesn't involve any mode of thinking distinct from problem solving by engineers
+or detectives. And the greatest scientists don't fall into a single mould. Some are
+brilliant. Newton's mental powers seem to have been really 'off scale'. And his
+concentration was as exceptional as his intellect: when asked how he cracked
+such deep problems, he said 'by thinking on them continually'. In contrast,
+Darwin was modest in his self-assessment: he wrote 'I have a fair share of
+invention, and of common sense or judgement, such as every fairly successful
+lawyer or doctor must have, but not, I believe, in any higher degree'.
+
+And when asked about religion, Darwin diffidently responded "The whole
+subject is too profound for the human intellect. A dog might as well speculate on
+the mind of Newton. Let each man hope and believe as he can". A glaringly
+different stance from some of his present-day disciples! (LAUGHTER)
+
+A lot has been written about creativity in science and in the arts. There are
+parallels, but differences too. Any artist’s work is individual and distinctive - but
+it generally doesn’t work, doesn’t last. Contrarywise, even the journeyman
+scientist adds a few durable bricks to the corpus of ‘public knowledge’. But our
+contributions as scientists lose their identity. If A didn’t discover something, in
+10
+
+general B soon would - indeed there are many cases of near-simultaneous
+discovery.
+
+Not so, of course, in the arts. As another Reith Lecturer, Peter Medawar,
+remarked, when Wagner diverted his energies for ten years, in the middle of the
+Ring cycle, to compose Meistersinger and Tristan, he wasn’t worried that
+someone would scoop him on Gotterdammerung. (LAUGHTER)
+
+Even Einstein exemplifies this contrast. He made a greater imprint on 20th
+century science than any other individual; but had he never existed all his
+insights would by now have been revealed - though gradually, by several
+people, rather than by one great mind.
+
+Einstein's fame extends far wider than science - he was one of the few who really
+did achieve public celebrity. His image - the benign and unkempt sage - became
+as much an icon of creative genius as Beethoven. His impact on general culture
+though has been ambivalent. It's a pity, in retrospect, that he called his theory
+'relativity'.
+
+Its essence is that the local laws are just the same in different frames of reference.
+'Theory of invariance' might have been an apter choice, and would have
+staunched the misleading analogies with relativism in human contexts. But in
+terms of cultural fallout he's fared no worse than others. Heisenberg's
+uncertainty principle - a mathematically precise concept, the keystone of
+quantum mechanics - has been hijacked by adherents of oriental mysticism. And
+Darwin has likewise suffered tendentious distortions, especially in applications
+to human psychology.
+
+Scientific knowledge is collective, public and international - it's in principle
+11
+
+accessible to the entire world. But its benefits can only actually be 'captured' by
+those who are educated and discerning enough - who are 'plugged in' to the
+research community. That's why it's in the interest of each country to maintain
+strong and broad expertise. And that's specially true of the UK. Our science is
+overall at least as strong as that of any country apart from the US. We are the
+only country outside the US with several universities in the international
+'premier league'. It would be tragic to jeopardise these strengths - once the tap
+has been turned off, it can't readily be turned on again.
+
+Let me offer a supportive quote. I quote. 'We are supposed to be the clever
+country. We used to be the commonsense country. Not for much longer if the
+politicians continue to undervalue the potency of those Francis Bacon called the
+'merchants of light', of new knowledge, especially scientific knowledge, which is
+unarguably the only sure wealth of the future. ' That quote’s from Melvyn Bragg,
+who has himself done more than anyone to bridge the two cultures.
+We don't know what will be the 21st century counterparts of the electron,
+quantum theory, the double helix and the computer - nor where the great
+innovators of the future will get their formative training and inspiration. But one
+thing seems clear: The UK's standing depends on sustaining our edge as
+discoverers and innovators - on ensuring that some of the key creative ideas of
+the 21st century germinate and - even more - are exploited here in the UK.
+
+But it would be perverse to strike a jingoistic note. Science has always crossed
+national boundaries. Like in the 1660s, the Royal Society proclaimed its intention
+‘to promote’ - I quote - ‘commerce in all parts of the world with the most curious
+and philosophical process to be found’.
+
+Any leading laboratory - whether it's run by a university, or multinational
+company, contains a broad mix of nationalities wherever it is located. And, as I
+12
+
+emphasised earlier, we need to share and spread expertise throughout the
+developing world.
+
+Collaborations in science straddle today's deepest political divides. To quote just
+one instance, a physics facility (with the acronym SESAME) is being built in
+Jordan, with support from countries across the Middle East. A project that brings
+Iran and Israel to the same table on an equal footing could be acclaimed a success
+in political terms alone.
+
+And individual scientists act as global citizens. For instance, John Sulston, the
+Nobel Prizewinner who in the 1990s led the UK part of the human genome
+project, now campaigns to provide affordable drugs for Africa. The great
+American ecologist EO Wilson, argues eloquently for the preservation of
+biodiversity.
+
+But my overall theme in these lectures is that it’s imperative to multiply such
+examples. We need a change in priorities and perspectives - and soon - if the
+world's people are to benefit from our present knowledge - and from the further
+breakthroughs that this century will bring. It's urgent to apply new technologies
+optimally, and avoid their nightmarish downsides: to stem the risk of
+environmental degradation; to develop clean energy, and sustainable agriculture;
+and to ensure that we don't in 2050 still have a world where billions live in
+poverty and the benefits of globalisation aren't fairly shared.
+
+I'll close with a personal perspective, which links back to the Open University.
+The University's East Anglian graduates receive their degrees in Ely Cathedral. I
+was privileged to attend one such ceremony in that immense and glorious
+building.
+13
+
+Ely Cathedral overwhelms us today. But think of its impact 900 years ago - think
+of the vast enterprise its construction entailed.
+
+Most of its builders had never travelled more than 50 miles - the Fens were their
+world. Even the most educated knew of essentially nothing beyond Europe.
+They thought the world was a few thousand years old - and that it might not last
+another thousand.
+
+But despite these constricted horizons, in both time and space - despite the
+deprivation and harshness of their lives, despite their primitive technology and
+meagre resources - they built this cathedral - pushing the boundaries of what
+was possible. Those who conceived it knew they wouldn't live to see it finished.
+
+Their legacy still elevates our spirits, nearly a millennium later.
+
+What a contrast to so much of our discourse today! Unlike our forebears, we
+know a great deal about our world - and indeed about what lies beyond. Many
+phenomena still make us fearful, but the advance of science spares us from
+irrational dread. We know that we are stewards of a precious 'pale blue dot' in a
+vast cosmos - a planet with a future measured in billions of years - whose fate
+depends on humanity's collective actions this century.
+
+But all too often the focus is short term and parochial. We downplay what's
+happening even now in impoverished far-off countries. And we give too little
+thought to what kind of world we'll leave for our grandchildren.
+
+In today's runaway world, we can't aspire to leave a monument lasting a
+14
+
+thousand years, but it would surely be shameful if we persisted in policies that
+denied future generations a fair inheritance. Thank you very much.
+
+(APPLAUSE)
+SUE LAWLEY: Martin Rees, thank you very much indeed. Well you heard it
+here first: the President of the Royal Society confessing to being a nerd.
+(LAUGHTER) Well we have an audience here at the Open University in Milton
+Keynes, and we’ll do our best to give voice to a cross-section of them. Let me ask
+for a first question from Alkisti Alevropoulou-Malli. She’s a Cambridge PhD
+student.
+
+ALKISTI ALEVROPOULOU-MALLI: There’s a lot of qualified scientists leaving
+research careers to find work elsewhere. Post-doctoral jobs are transient, and
+actual career advancement is limited. As a result, many people feel disillusioned
+and find that academic research lacks the job stability and career advancement
+other professions offer. What do you think could be done to make an extended
+career in academic research more appealing to researchers facing these concerns?
+
+SUE LAWLEY: Martin?
+
+MARTIN REES: Well I think this is a very genuine concern, of course especially when the future does look a bit uncertain at the moment. But I think
+it’s important that we should bang on to our politicians about the importance of
+us in the UK maintaining an edge in science and technology because if we don’t
+get smarter, we get poorer. We’ve got other countries in the world which are
+catching up, and if we lose the one advantage we had in the past, that’ll be bad
+15
+
+news. So I think it’s very important that we do do everything possible to ensure
+that we remain attractive to students and scientists from all over the world.
+
+SUE LAWLEY: But if one of your talented students tells you that he doesn’t
+fancy a career in science research because he wants to go into the City, what do
+you say to him, Martin?
+
+MARTIN REES: Well if it’s a matter of the City, I say, “If you go into the City,
+then don’t call it the real world. Faffing around with financial derivatives is
+further away from anything that matters than being a scientist, engineer, teacher,
+doctor or anything else.
+
+SUE LAWLEY: What about the Himalayan salary you mentioned that you might
+be tempted by?
+
+MARTIN REES: Well it is tempting, and I think all we can say is that they won’t
+get the respect that goes with it. (LAUGHTER)
+
+SUE LAWLEY: Not from you anyway.
+
+MARTIN REES: No.
+
+SUE LAWLEY: Even if they’re you know helping build the economy, even if
+they’re creating money that might be put into the funding itself?
+
+MARTIN REES: (over) Well I think Adair Turner has made some very wise
+remarks on the social value, or otherwise, of the financial sector.
+
+SUE LAWLEY: How much might you earn, Alkisti, if you went on to get a post16
+
+doctoral post? What would be your annual income?
+
+ALKISTI ALEVROPOULOU-MALLI: Well I think it varies between 25 to 30
+grand a year.
+
+SUE LAWLEY: Yes, which wouldn’t compare too well, I think, with a City
+salary. I know sitting next to you, you’ve got your tutor. Nick Gay, isn’t it,
+Professor of Biochemistry at Christ’s College, Cambridge.
+
+NICK GAY: There’s another question that I wanted to raise here, and this is the
+difference between the culture of science in the United States and in the UK
+because in my experience they tend to be much more aggressive in terms of
+seeing it as a way of creating wealth, whereas we tend to take a much more
+ideological approach to it. And I was wondering whether in order to be more
+successful, we’d need to be more entrepreneurial in our approach to science?
+
+SUE LAWLEY: Martin?
+
+MARTIN REES: Well I think the contrast is less. Not all people with PhD’s are
+going to want to teach in universities. They may want to go into some start-up
+company, etcetera, and it’s good many should. And I think it’s important and, as
+I said in my lecture, this is happening in a place like Cambridge - that there is a
+movement between universities and start-up companies and people can move
+around. They can have a secure base in Cambridge or similar centre where
+there’s a major university, and they can be secure personally even if their
+companies fold because they can move to another one. And I think we do need to
+develop this, and it is happening. So the gap between the UK and the US in terms
+of these perceptions is changing. But the problem there is not only to provide the
+17
+
+encouragement and the mindset, but also to provide the venture capital for startups.
+
+SUE LAWLEY: I’m going to bring in Dr Daniel Glaser, who’s Head of Science
+Projects in Public Engagement at the Wellcome Trust.
+
+DR DANIEL GLASER: Lord Rees, I’m a bit worried about scientific genius. I
+think there’s a problem with it in the sense that science is supposed to be
+reproducible; things are supposed to happen the same everywhere. But some
+bright spark coming up with an idea challenges that notion, and I wonder you
+know whether you fully countenance the worry that genius presents for science.
+It shouldn’t just be driven by bright blokes with bright ideas. It should be arising
+in a more systematic way, shouldn’t it?
+
+MARTIN REES: I don’t understand your concern. I mean obviously people
+come up with ideas in all kinds of ways, but what is important is the response of
+the community to those ideas. I mean an idea doesn’t become part of the
+scientific canon as it were until it has been accepted, and how the idea comes
+about is secondary. And some people we know are more creative and original
+than others. Sometimes people come up with a discovery accidentally, but I think
+it’s clear from all the science that we know that they think very differently.
+
+SUE LAWLEY: Let me ask you a question you’ll hate, which is have you had …
+Well I know you’ve had Eureka moments, not least early on in your career when
+you discovered a very interesting and hitherto unknown characteristic of the
+Quasar. Can you put into words that thrill of the moment when the fog lifts as it
+were?
+
+MARTIN REES: Well people have that moment - a sort of aha, Eureka moment 18
+
+but it’s no different qualitatively from what everyone gets solving any kind of
+puzzle. I think problem solving is something which everyone appreciates at
+some level, and that’s a key part of engineering design, it’s a key part of most of
+science. I don’t think that the way scientists think is all that distinctive. They
+think in a variety of ways, just like everyone else does.
+
+SUE LAWLEY: I’m just trying to entice you to encourage more people to want to
+stay in science - you know to say that it isn’t just … Because it is 95 percent grind,
+isn’t it - reproducing the same experiment, testing, proving?
+
+MARTIN REES: No, I wouldn’t say so. I think it’s really doing your own work,
+but also taking part in a debate. I think what I’ve enjoyed most in my scientific
+career is being part of an ongoing debate, which has gradually clarified mysteries
+and led to a far greater understanding. So I think social interactions are a crucial
+part of science.
+
+SUE LAWLEY: Let me bring in John Zarnecki who is Professor of Space Science
+here at the Open University. Professor Zarnecki?
+
+PROFESSOR JOHN ZARNECKI: Martin, in a few days time, I shall be
+travelling to China. This will be my third trip there in the last eight months. And
+I have to come clean here and say that apart from representing you know British
+space science and the Open University, the main reason I’m going is that after
+thirty years of flying scientific instruments on European and American space
+missions, I see the best chance in the next five or ten years to go to interesting
+places is actually with the Chinese. Am I along the right lines? And, if so, should
+we see these as opportunities or is it a threat to our scientific endeavour?
+
+MARTIN REES: I think it’s an opportunity. Science is not a zero sum game. It’s
+19
+
+fairly clear that in the second half of this century, the centre of gravity
+intellectually of the world is going to be in Asia. That’s where all the people are,
+and so I think we’ve got to accept that four centuries where Europe and the
+United States have dominated intellectually is changing. This is not that we’re
+doing any worse; it’s just that the world is far more fascinating and far wider. So
+I think we should welcome the fact that China is catching up and hope that other
+developing countries follow China’s example.
+
+SUE LAWLEY: We’ve got a question from Lord Haskins handed in, Chris
+Haskins.
+
+LORD HASKINS: Yes. I mean there does seem to be a paradox going on here
+between the way competitiveness keeps coming up and, at the same time,
+sharing science with the world. I’ve been a competitor in the yoghurt business all
+my life, trying to knock ten bells out of my competitors and hoping they’d die.
+(LAUGHTER) The concept in science of competition where there are winners
+and losers doesn’t seem to me to be very appropriate. And if we continue to
+attract doctors and scientists from Africa in order to remain competitive, we are
+playing a pretty irresponsible game.
+
+MARTIN REES: Well I think there are two different points there. First, I think
+that for every scientist or medical person who is removed from Africa, we should
+pay enough money to train at least two more, okay? But that’s separate from the
+issue of migration between the developed countries. What concerns me about the
+last two years is that the relative attractiveness of the UK compared to the US has
+diminished because the rhetoric of the Obama administration and the substance
+has made America seem more attractive to someone say in Singapore or Eastern
+Europe than was the relative situation two years ago. It’s that that worries me,
+and that which could be remedied by political action.
+20
+
+SUE LAWLEY: I’m going to call Tony Hirst. Just getting a microphone to you,
+Tony Hirst. Tell us what you do.
+
+TONY HIRST: I’m Tony Hirst. I’m a lecturer at the Open University. And my
+question was you mentioned that a lot of children in primary school are
+interested by science, but they lose this interest at some point - presumably in the
+transition to secondary education. Do you have any thoughts on why that might
+be?
+
+MARTIN REES: Well I think it’s the lack of fieldwork and hands-on experience,
+but also of course it’s the inadequate number of teachers of those subjects. One of
+the big problems, of course, is that the number of good science teachers is not
+enough to ensure that every secondary school pupil gets exposed to one, and this
+is a difficult problem to change. I think in the short-run there are two things we
+can do. One is we can encourage mid-career transitions, so that people move into
+teaching in mid-career. And, secondly, we can make better use of the web and
+distance learning of various kinds. But I think that is the problem - that people
+get turned off science because they find the curriculum uninspiring; partly
+because the teaching’s uninspiring.
+
+SUE LAWLEY: Do you agree with that, Tony Hirst?
+
+TONY HIRST: Yes, I do. I’ve spent a lot of time working with children, and a lot
+of practical activity I think helps keep them inspired, but increasingly that
+practical engagement with science and with experiment is being denied them.
+
+SUE LAWLEY: Let me bring in Dr Hazel Rymer who’s a Senior Lecturer in
+21
+
+Environmental Geophysics at the Open University. She’s a vulcanologist.
+
+DR HAZEL RYMER: Martin, research is international and interdisciplinary, as
+you’ve said. Here at the Open University, we’re launching a new Open
+University BSc in natural sciences, which will be available globally online. But
+there are increasing numbers of organisations offering perhaps rather dubious
+online qualifications. How do you think international standards for education
+could be set, as they have been for research in this interconnected world?
+
+SUE LAWLEY: Are you suggesting they would be sub-standard, some of the
+things on offer online - or bogus even?
+
+DR HAZEL RYMER: Some might be.
+
+SUE LAWLEY: And that’s your fear? Yuh.
+
+MARTIN REES: I think the general problem with the web obviously is that if
+you just google any topic, you get a mixture of stuff that is good and stuff that’s
+very dubious or ropey in various ways, and so it’s not just a problem in your
+particular context. I mean if you have some disease, you don’t attach equal
+weight to everything on the internet. You take the views more seriously if they’re
+by some accredited practitioner. And similarly one should react that way in
+science. But it’s very difficult to do this. We need some sort of kitemarks in
+different areas, I think.
+
+SUE LAWLEY: I’m going to bring in Noel Sharkey who’s a Professor of Artificial
+Intelligence and Robotics at the University of Sheffield.
+
+22
+
+PROFESSOR NOEL SHARKEY: At the beginning of your lecture, you discussed
+the great benefits of the new technologies, such as the internet. Then later you
+extolled the virtues of having clusters of scientists in the same physical location.
+But the new technologies are bringing us closer and closer together digitally
+every day. So don’t you think that physical location may become increasingly
+irrelevant with the further development of the global communities in
+cyberspace?
+
+MARTIN REES: Well I certainly think from my own experience that I can
+collaborate over the internet or by email with someone who I already know. But I
+think if you don’t know the person, then you need to meet them for real to get
+the collaboration started.
+
+SUE LAWLEY: Do you accept that Professor Sharkey?
+
+PROFESSOR NOEL SHARKEY: Well I think it’s partly generational. I don’t
+mean to cast aspersions on your age (LAUGHTER) but it’s partly generational.
+And I have a lot of colleagues in the United States that I’ve never met, but I’ve
+been in communication with for years. And we also use Skype nowadays or all
+kinds of video mechanisms, and it’s getting better and better and better. And
+we’ve even got technologies …
+
+MARTIN REES: (over) Well I think when we have better video links, then I think
+my point will get weaker because then you will feel you can really get to know
+people.
+
+SUE LAWLEY: What happens …
+
+PROFESSOR NOEL SHARKEY: But I can even hug people on the internet now.
+23
+
+SUE LAWLEY: You can what? You can hug them?
+PROFESSOR NOEL SHARKEY: Yes. There are technologies now, so that you’re
+connected to people with body suits, so you can actually hug them.
+(LAUGHTER) So I don’t know how close you want to be to your colleagues.
+
+SUE LAWLEY: I’m going to call Professor David Cope who’s Director of the
+Parliamentary Office of Science and Technology, whose job it is to advise
+Parliament on science and technology policies.
+
+PROFESSOR DAVID COPE: I’d better say that I’m speaking in a personal
+capacity. Right at the very end, you criticised what you see as a dominant short
+term and parochial thinking about many of the issues that you have outlined to
+us both tonight and in earlier lectures. And you called for change in that. How to
+do that? What institutions can deliver that? Do you think that the existing
+institutions that we have can be reformed and refocused? Or do we really need
+to start again and have a complete set of new institutions that will be able to pick
+up that enormous challenge which you’ve outlined?
+
+MARTIN REES: Well, I mean as you know better than me, there are some
+institutions already that are performing a useful role and it is sometimes said
+there need to be others - for instance some sort of World Energy Commission to
+actually address global issues in that arena, etcetera. But I think the main point is
+that more and more of the issues that are important to us are global issues and
+we have to realise that in politics the global context is more important, just as the
+scientific input is more important. And I think that’s a reason why science
+education is more important than ever, and I think we hope that our politicians
+will gradually get this. I certainly would say that there were certain ministers in
+the previous government - I’d say Hilary Benn and the two Milibands who were
+24
+
+in charge of ministries with this sort of agenda - who were both committed and
+well informed. And I think if we have high quality politicians, then we in this
+country can have an influence; and small though we are, this country can
+perhaps have some sort of leverage.
+
+SUE LAWLEY: This is a theme that’s run throughout your lectures really,
+Martin, if I may say - that you know you are absolutely confident that the
+scientists can step up to the plate and can provide solutions and can show a way
+forward. Your fear is, or your lack of faith is, that the politicians and the
+sociologists and the people who are going to make it happen won’t step up to the
+plate similarly. There is a lack of faith there, isn’t there?
+
+MARTIN REES: Yes. It’s not the politicians. I think it is really engaging with the
+public because the politicians respond obviously not to the scientists as such;
+they respond to the general pressure from the public. And I think all we can do and this is done by the media - is to raise consciousness of these issues, so that
+they are an important part of electoral politics, and the important thing is to
+ensure that people become aware of these long-term environmental threats
+before they become disastrous and it’s too late to do anything about them.
+
+SUE LAWLEY: Martin, thank you very much. Thank you, too, to our audience
+here at the Open University for being properly testing of our distinguished
+lecturer. But then we knew you would be. Thank you, Martin, for a series of
+lectures which have been at once thrilling, disturbing, enlightening and
+challenging. You’ve been over the past four weeks, as you’ve delivered this
+series, a true merchant of light in the best scientific tradition and we’re very
+grateful. Ladies and gentlemen, the BBC Reith Lecturer 2010: Martin Rees. And
+from the Open University, goodbye.
+
+25
+
+(APPLAUSE)
+
+26
+
+

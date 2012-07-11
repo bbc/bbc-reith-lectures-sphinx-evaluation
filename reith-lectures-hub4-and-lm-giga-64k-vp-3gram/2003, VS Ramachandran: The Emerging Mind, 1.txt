@@ -1,0 +1,378 @@
+Vilayanur S. Ramachandran
+Reith Lectures 2003: The Emerging Mind
+Lecture 1: Phantoms in the Brain
+The history of mankind in the last three hundred years has been punctuated by major
+upheavals in human thought that we call scientific revolutions - upheavals that have
+profoundly affected the way in which we view ourselves and our place in the cosmos.
+First there was the Copernican revolution - the notion that far from being the centre of
+the universe, our planet is a mere speck of dust revolving around the sun. Then there
+was the Darwinian revolution culminating in the view that we are not angels but
+merely hairless apes, as Huxley once pointed out in this very room. And third there
+was Freud's discovery of the "unconscious" - the idea that even though we claim to be
+in charge of our destinies, most of our behaviour is governed by a cauldron of motives
+and emotions which we are barely conscious of. Your conscious life, in short, is
+nothing but an elaborate post-hoc rationalisation of things you really do for other
+reasons.
+But now we are poised for the greatest revolution of all - understanding the human
+brain. This will surely be a turning point in the history of the human species for,
+unlike those earlier revolutions in science, this one is not about the outside world, not
+about cosmology or biology or physics, but about ourselves, about the very organ that
+made those earlier revolutions possible. And I want to emphasize that these insights
+into the human brain will have a profound impact not just on us scientists but also on
+the humanities, and indeed they may even help us bridge what CP Snow called the
+two cultures - science on the one hand and arts, philosophy and humanities on the
+other.
+I would like to thank the BBC for inviting me to give the 2003 Reith lectures. I hope
+the lectures will appeal to a broad audience, fulfilling Lord Reith's original mission.
+Given the enormous amount of research on the brain, all I can do is to provide a very
+impressionistic survey rather than try to be comprehensive. Of course by doing this, I
+will be oversimplifying many of the issues involved and run the risk of annoying
+some of my specialist colleagues. But, as Lord Reith himself once said, "There are
+some people whom it is one's duty to offend!"
+Although the lectures will cover a very wide spectrum of topics, there will be two
+recurring themes that run through all of them. The first broad theme is that by
+studying neurological syndromes that have been largely ignored as curiosities or mere
+anomalies we can sometimes acquire novel insights into the functions of the normal
+brain - how the normal brain works. The second theme is that many of the functions
+of the brain are best understood from an evolutionary vantage point.
+The human brain, it has been said, is the most complexly organised structure in the
+universe and to appreciate this you just have to look at some numbers. The brain is
+made up of one hundred billion nerve cells or "neurons" which is the basic structural
+and functional units of the nervous system. Each neuron makes something like a
+thousand to ten thousand contacts with other neurons and these points of contact are
+called synapses where exchange of information occurs. And based on this
+
+information, someone has calculated that the number of possible permutations and
+combinations of brain activity, in other words the numbers of brain states, exceeds the
+number of elementary particles in the known universe.
+Even though its common knowledge these days, it never ceases to amaze me that all
+the richness of our mental life - all our feelings, our emotions, our thoughts, our
+ambitions, our love life, our religious sentiments and even what each of us regards us
+his own intimate private self - is simply the activity of these little specks of jelly in
+your head, in your brain. There is nothing else.
+Given the staggering complexity, where do you even begin? Well let's start with some
+basic anatomy. It's the 21st century and most people here have a rough idea what the
+brain looks like. It's got two mirror-image halves, called the cerebral hemispheres,
+so it looks like a walnut sitting on top of a stalk, called the brain stem, and each
+hemisphere is divided into four lobes, the frontal lobe, the parietal lobe, the occipital
+lobe and the temporal lobe. The occipital lobe in the back is concerned with vision. If
+it's damaged, you become blind. The temporal lobe is concerned with things like
+hearing, with emotions and certain aspects of perception. The parietal lobes of the
+brain are concerned with - at the sides of the head - they are concerned with creating a
+three-dimensional representation of the spatial layout of the external world, and also
+of your own body in that three-dimensional representation. And lastly the frontal
+lobes, in the front, are the most mysterious of all. They are concerned with some very
+enigmatic aspects of human mind and human behaviour such as your moral sense,
+your wisdom, your ambition and other activities of the mind which we know very
+little about.
+Now there are several ways of studying the brain but my approach is to look at people
+who have had some sort of damage to a small part of the brain, or some change in a
+small part of the brain, and interestingly when you look at these people who have had
+a small lesion in a specific part of the brain, what you see is not an across-the-board
+reduction in all their cognitive capacities, not a blunting of their mind. What you see
+is often a highly selective loss of one specific function with other functions being
+preserved intact, and this gives you some confidence in asserting that that part of the
+brain is somehow involved in mediating that function.
+You are going to see many examples of this in my lectures but just to give you a
+flavour for this kind of research, I'm just going to mention two or three of my
+favourite examples. One of my favourites is prosopognosia, or face blindness. When
+there is damage to a structure called the fusiform gyrus in the temporal lobes on both
+sides of the brain, what you get is a patient who can no longer recognise people's
+faces. Now the patient isn't blind because he can still read a book and he's not
+psychotic or obviously mentally disturbed but he can no longer recognise faces by
+looking at people. Now that syndrome is very well known but there is another
+syndrome that is quite rare and that's what we call the Capgras Syndrome, and I'll
+give you an example of this. A patient I saw not long ago who had been in a car
+accident, had sustained a head injury and was in a coma for about a couple of weeks.
+Then he came out of this coma and he was quite intact neurologically when I
+examined him. But he had one profound delusion - he would look at his mother and
+say "Doctor, this woman looks exactly like my mother but she isn't, she is an
+imposter".
+
+Now why would this happen? Now the important thing is this patient who I will call
+David is completely intact in other respects. Now to understand this disorder, you
+have to first realise that vision is not a simple process. When you open your eyes in
+the morning, it's all out there in front of you. It's easy to assume that it's effortless and
+instantaneous but in fact you have this distorted upside down image in your retina
+exciting the photoreceptors and the messages then go through the optic nerve to the
+brain and then they are analysed in thirty different visual areas, in the back of your
+brain. And then you finally after analysing all the individual features, you identify
+what you're looking at. Is it your mother, is it a snake, is it a pig, what is it? And that
+process of identification takes place in a place which we call the fusiform gyrus which
+as we have seen is damaged in patients with face blindness or prosopognosia.
+So once the image is recognised, then the message goes to a structure called the
+amygdala which is sometimes called the gateway to the limbic system which is the
+emotional core of your brain, which allows you to gauge the emotional significance of
+what you are looking at. Is this a predator, is it a lion or a tiger? Is it a prey which I
+can chase? Is it a mate that I can chase? Or is it my departmental chairman I have to
+worry about, or is it a stranger who is not important to me, or something utterly trivial
+like a piece of driftwood? What is it?
+Now what's happened in this patient? What we suggest is that maybe what's gone
+wrong is that the fusiform gyrus and all the visual areas are completely normal in this
+patient. That's why when he looks at his mother, he says "oh yeah, it looks like my
+mother", but the wire, to put it crudely, the wire that goes from the amygdala to the
+limbic system, to the emotional centres, is cut by the accident. So he looks at his
+mother and he says - "hey, it looks just like my mother, but if it's my mother why is it
+I don't experience this warm glow of affection (or terror, as the case may be). There's
+something strange here, this can't possibly be my mother, it's some other strange
+woman pretending to be my mother". It's the only interpretation that makes sense to
+his brain given the peculiar disconnection.
+Now how do you test an outlandish idea like this? My student Bill Hirstein and I in La
+Jolla, and Haydn Ellis and Andrew Young here in England, did some very simple
+experiments measuring galvanic skin response which I'll talk about in detail in my last
+lecture, and we found - sure enough - there has been this disconnection between
+vision and emotion as predicted by our theory, just as we had thought. Now what's
+even more amazing is when David, this patient who when his mother said she's an
+imposter, an hour later his mother phones him and he picks up the phone and answers
+the phone and he says "mum, how are you, where are you?" Instantly he recognises
+her. There is no delusion. An hour later the mother walks into the room and he says
+"who are you? You look just like my mother but you're an imposter, you're not my
+mother". Now why does this happen? Well it turns out there's a separate pathway
+going from the auditory cortex in the superior temporal gyrus to the amygdala, and
+that pathway perhaps is not cut by the accident. That's why when he listens to his
+mother on the phone, he says "oh my god, this is my mum, where are you?" But when
+he sees her, the delusion kicks in immediately and he says "who are you"?
+
+Now, there are many other twists to this story which I'm going to tell you about in my
+last lecture on neuropsychiatry, but I thought I'd just mention it briefly today because
+it's a lovely example of the sort of thing we do, of cognitive neuroscience in action.
+Now we have talked about visual response to visual images, your emotional response
+to visual images. Obviously this response is vital for your survival but the existence of
+connections between visual brain centres and the limbic system or emotional core of
+the brain also raises another interesting question, and that is what is art? How does the
+brain response to beauty? Given that these connections are between vision and
+emotion, and art involves an aesthetic emotional response to visual images, surely
+these connections must be involved, and this is a topic I'll take up my lecture in
+Birmingham.
+Now we've been talking about all these intricate connections in the brain, in the limbic
+system, in the visual centres, in the amygdala. An obvious question is the question of
+nature versus nurture. In other words, are these connections laid down by the genome
+in the foetus, or are they acquired in early infancy as the infant interacts with the
+world, the so-called nature/nurture debate. This takes me to the next syndrome I'd like
+to talk to you about and that is phantom limbs.
+Everyone here knows what a phantom limb is. A patient has an arm amputated
+because there's a tumour, malignant tumour on the arm or there's been a car accident
+and the arm has to be amputated, but the patient continues to vividly feel the presence
+of that arm. Some of you here, this being England, would now about Lord Nelson
+who vividly felt a phantom arm. I'll tell you about an experiment we did on these
+patients. So we have a patient with a phantom left arm. His arm had been amputated
+above the left elbow so I had him sitting in my office blindfolded and I took a Q tip
+and touched different parts of the body and asked him what do you feel? I touched his
+shoulder and he said oh you're touching my shoulder. I touched his belly and he said
+oh you're touching my belly. I touched his chest and he said you're touching my chest
+- not surprising. But the amazing thing is when I touched his face, the left side of his
+face - remember his left arm is amputated so he has a phantom on the left side - when
+I touched his cheek he said oh my god doctor, you're touching my left thumb, my
+missing phantom thumb and he seemed as surprised as I was. Then I touched him on
+the upper lip and he said oh my god you're touching my phantom index finger, and
+then on his lower jaw and he said you're touching my phantom pinkie, my little finger.
+So why does this happen? There was a complete map, a systematic map of the
+missing phantom hand on his face, draped on his face. So you have a medical mystery
+of sorts, the sort of mystery we saw with David, the patient with the Capgras
+syndrome, the sort of mystery that would have intrigued Sherlock Holmes, Conan
+Doyle or Berton Rouché. So what's going on?
+To answer this question, you have to look at the anatomy of the brain again. The
+entire skin surface, touch signals, all the skin surface on the left side of the brain is
+mapped on to the right cerebral hemisphere on a vertical strip of cortical tissue called
+the post-central gyrus. Actually there are several maps but I'll simplify them and
+pretend there's only one map called the post-central gyrus. Now this a faithful
+representation of the entire body surface. It's almost as though you have a little person
+draped on the surface of the brain. It's called the Penfield homunculus, and for the
+
+most part it's continuous which is what you mean by a map, but there is one
+peculiarity and that is the representation of the face on this map on the surface of the
+brain is right next to the representation of the hand on this map, instead of being near
+the neck where it should be, so it's dislocated. Now nobody knows why, something to
+do with the phylogeny or the way in which the brain develops in early foetal life or in
+early infancy, but that's the way the map is.
+So I realised that what's going on here is when you amputate the arm, the part of the
+cortex of the brain corresponding to the hand is not receiving any signals because
+you've removed the hand. So it's hungry for sensory input. So what happens is the
+sensory input from the face skin now invades the vacated territory corresponding to
+the missing hand, and that then is misinterpreted by higher centres in the brain and
+arising from the missing phantom hand. And that's why the patient says, every time
+you touch his face he says oh that's my phantom thumb you're touching, that's my
+phantom index finger, that's my phantom pinkie. In fact you can even put an ice cube
+on the face and the patient will say oh my thumb is ice cold. You can put a drop of hot
+water, in fact you put a drop of hot water and the water started trickling down the
+face, the patient will trace the trickle on his phantom with his normal hand following
+its path. On one occasion we had the patient raise his phantom and he was amazed to
+feel the trickle going uphill which is against the law of physics.
+Now that's just a hypothesis but to test this idea, we used the brain imaging technique
+called MEG or magnetoencephalography which allows you to see which parts of the
+brain light up when you touch different parts of the body, and sure enough what we
+found was in this patient, Victor, unlike the normal brain when you touch his face, it
+activated not only the face area in the brain but also activated the hand region of the
+Penfield map in the brain. So there has obviously been this cross-wiring in the brain
+of this patient. And this is important because it allows you to link changes in brain
+anatomy, changes in brain maps, in the sensory map, with phenomenology, allows
+you to link physiology and psychology which is one of the goals of cognitive
+neuroscience, this discipline we're talking about.
+The discovery also has broader implications. One of the things we were all taught as
+medical students is that connections in the brain are laid down in the foetus or in early
+infancy, and once they are laid down, there is nothing much you can do to change
+these connections in the adult and that's why when there's damage to the nervous
+system as in a stroke, there is such little recovery of function and why neurological
+ailments are so notoriously difficult to treat. What I am saying is that's wrong. In fact
+there's a tremendous amount of plasticity or malleability even in the adult brain, and
+you can demonstrate this in a five minute experiment in a patient with a phantom
+limb. Now how you go about harnessing this ability in the clinic may be to help
+patients recover from stroke or indeed from phantom limb pain is a question that we
+don't have time to go into but we can take up during discussions.
+OK so we have seen that after our arm amputation, the patient's brain gets crosswired. The face input now innervates the hand region of the brain. Now that happens
+because of amputation. It turns out that the same thing can happen because of a
+mutation, if there is something wrong with your genes. Instead of the brain modules
+remaining segregated, you get this accidental cross-wiring and then you get a curious
+condition called synesthesia, which we have now been studying. This is going to be a
+
+topic of my lecture in Oxford. Briefly it was described by Francis Galton or clearly
+documented by him in the 19th century. He pointed out that some people who are
+perfectly normal in other respects have one peculiar symptom, if you want to call it a
+symptom, and that is these people who are otherwise completely normal, they get
+their senses mixed up and that is every time they hear a particular tone they see a
+particular colour. So C sharp is red, F sharp is blue. Another tone might be indigo,
+OK? And this phenomenon, this mingling of senses is synesthesia. Galton pointed out
+also that it runs in families. We and others have confirmed this, including Simon
+Baron-Cohen.
+Now, another aspect of this syndrome is whenever you hear a particular tone you see
+a particular colour. Some of these people also when they see numbers in black and
+white, like the number five or the number six or the number seven, what we call
+Arabic numerals - Indian numerals strictly speaking - when you see these numbers,
+every time you see a number it evokes a particular colour so 5 is always red, 6 is
+always green. It's always tinged green. 7 is always indigo, 8 is always yellow, so this
+again is another example of synesthesia and it's very common. We find it's about one
+in two hundred people have this so it's not as rare as people have thought it to be in
+the past.
+Now why does this happen? Why does this mixing of signals occur? Well we, a
+student of mine, Ed Hubbard and I were looking at brain atlases, brain maps and we
+were struck by the fact that if you look at the fusiform gyrus, that's where the colour
+information is analysed. But amazingly the number area of the brain which represents
+visual graphemes of numbers, 5 6 7 8 and all of that, is right next to it also in the
+fusiform gyrus, almost touching it. So we said this can't be a coincidence. Maybe in
+some people there is some accidental cross-wiring. Just as after amputation we get
+cross-wiring between the face and the hand, in these people maybe there's a crosswiring between the number and colour area in the fusiform gyrus. Of course the key
+difference is in the case of phantom limbs, it's the amputation that causes the
+reorganisation whereas in synesthesia given that it runs in families, we think it's
+caused by a gene or a set of genes which causes abnormal connections between
+adjacent brain regions, in this case between numbers and colours so every time he
+sees a specific number it evokes a particular colour.
+First of all many neurologists, neuroscientists in the past, even though the
+phenomenon was described by Galton a hundred years ago, it's been regarded mainly
+as a curiosity. It sounds crazy. They're just crazy or they're just faking it to draw
+attention to themselves, or maybe it's childhood memories. You played with
+refrigerator magnets, 5 was red, 6 was blue, 7 was green. Now it never made much
+sense to me because why does it then run in families? You have to say maybe the
+same magnets were passed round. So first thing we wanted to show this is a real
+phenomenon, it's the person genuinely sees red when he sees 5. It's not just
+imagination or memory. How do you show that?
+So we devised a simple display on the computer screen, a number of 5s scattered on
+the screen, black 5s, just black and white. Embedded among those 5s are a number of
+2s and these 2s form a shape like a triangle, a hidden shape, a triangle or a square.
+Now when all of us here, any one of us normals or less gifted individuals, looks at this
+pattern, you see nothing. But when a synesthete looks at it, who sees numbers as
+
+colour, he sees the 5s as red and the 2s as green so he looks at it and he says my god,
+instantly the 2s pop out and he says oh they're forming a triangle, they're forming a
+square. And they are much better at doing this than normal people so it's a clinical test
+for discovering synesthetes.
+Now, the fact that synesthetes are actually better at this than normal people suggests
+that they can't be crazy. If they're crazy, how come they're better at it? So this shows
+this is a genuine sensory phenomenon. It also shows that it can't be memory
+association or something cognitive or a metaphor because - if that were true, how
+come he's able to see the triangle or the square pop out from the background? OK we
+have shown that this phenomenon is real, we in La Joya and as well as Jeffrey Gray
+and Mike Morgan and others here in London have done experiments to test the idea
+there's actual cross-wiring in the brain and have shown that in fact there's activation of
+the fusiform gyrus in the colour area just showing numbers to these people.
+But then the next question is OK, here are some people with some quirk in the brain.
+They see numbers as colours so what's the big deal, why should I care? Well now I'm
+going to show you that you're all synesthetes but you're in denial about it. So what I
+want you to do is I want you all to imagine two shapes in front of you. I wish I had a
+slide but of course this is radio. One of them imagine is a shattered piece of glass with
+jagged edges, the other is like an amoeba, it's got undulating curvy shapes. And one of
+them I'm going to call a bouba, and the other is kiki - which is which? Now the
+amazing thing is 98% of people will pick the shattered piece of glass with the jagged
+edges, and say oh that's a kiki, and the undulating amoeboid shape, oh that's a bouba,
+even though they have never seen the shape before.
+Why does this happen? Well I suggest it happens - I am going to talk about this in
+detail in my Oxford lecture - because you're all synesthetes.
+Now we have talked about several syndromes, phantom limb, synesthesia, Capgras
+syndrome and these are quite bizarre and we have tried to explain it in terms of neural
+circuitry in the brain but there is a syndrome that is even more bizarre, and this is pain
+asymbolia. I'll tell you about a patient I saw in Vellore in India about ten years ago.
+He was quite normal, intellectually normal, mentally quite lucid, alert, attentive, his
+memory was normal, perception, everything was fine except I took a needle and
+pricked him with a needle to determine the intact, not to be sadistic but to determine
+the intactness of his pain pathways, to determine his pain sensations, and every time I
+poked him, of course, all of you here would say, ouch. He started giggling, telling me
+doctor, I feel the pain but it doesn't hurt. It feels very funny, like a tickle and he would
+start laughing uncontrollably.
+Here is the ultimate irony - a human being laughing in the face of pain. OK, why
+would the patient do this? Well, seeing this patient made me ask an even more basic
+question, why does anybody laugh? Why do all of you here laugh, OK? Now a
+martian ethologist watching all of you here would be very suprised every now and
+then. It is a species-specific trait, laughter. Every now and then all of you here stop
+what you're doing, shake your head, make this funny staccato rhythmic sound, hyenalike sound. Why do you do it? Now clearly laughter is hard-wired, it's a "universal"
+trait. You see it every society, every civilization, every culture, society, has some
+form of laughter and humour - except the Germans.
+
+So this suggests strongly it's hard-wired in the brain and this raises an interesting
+question. Why did it evolve in the brain, OK, how did it evolve through natural
+selection? When you look at all jokes and humour across societies, the common
+denominator of all jokes and humour despite all the diversity is that you take a person
+along a garden path of expectation and at the very end you suddenly introduce au
+unexpected twist that entails a complete re-interpretation of all the previous facts.
+That's called a punch-line of the joke. Now obviously that is not sufficient for laughter
+because then every great scientific discovery or every "paradigm shift" would be
+funny, and my scientific colleagues wouldn't find it amusing if I said their discoveries
+were funny.
+OK, the key ingredient here is, it's not merely sufficient that you introduce a reinterpretation but the re-interpretation, the new model you have come up with should
+be inconsequential, it should be of trivial consequence. It sounds a bit abstract so let
+me illustrate with a concrete example. Here is a portly gentleman walking along, he is
+trying to reach his destination, but before he does that he slips on a banana peel and
+falls. And then he breaks his head and blood spills out and obviously you are not
+going to laugh. You are going to rush to the telephone and call the ambulance. But
+imagine instead of that, he walks along, slips on the banana peel, falls, wipes off the
+goo from his face, looks around him everywhere, and and then gets up, then you start
+laughing. The reason is I claim is because now you know it's inconsequential, you
+say, oh it's no big deal, there's no real danger here. So what I'm arguing is, laughter is
+nature's false alarm. Why is this useful from an evolutionary standpoint? So what you
+are doing with this rhythmic stocatto sound of laughter is informing your kin who
+share your genes, don't waste your precious resources rushing to this person's aid, it's
+a false alarm everything is OK. OK, so it's nature's OK signal.
+OK, now what does this got to do with my patient in Vellore? Let me explain. When
+we examined his brain, when we do the CT scan we found there was damage to the
+region called the insular cortex on the sides of the brain. The insular cortex receives
+pain signals from the viscera and from the skin. That's where you experience the raw
+sensation of pain but it turns out there are many layers to pain. It's not just a unitary
+thing. From the insular cortex the message goes to the amygdala, which we
+encountered earlier in the context of the Capgras syndrome and then to the rest of the
+limbic system, and especially the anterior cingulate, where you respond emotionally
+to the pain, to the agony of pain and take the appropriate action. So my idea was,
+maybe what's happened on this patient is, the insular cortex is normal. That's why he
+says, doctor I can feel the pain, but the message, the wire that goes from the insular to
+the rest of the limbic system and the anterior cingulate is cut.
+Therefore you have the two key ingredients you need for laughter and humour,
+namely one part of the brain signalling a potential danger, my god there is something
+painful here, but the very next instant the anterior cingulate says but I'm not getting
+any signal. Big deal, there is no danger here, forget it, OK. So you got the two key
+ingredients and the patient starts laughing and giggling uncontrollably, OK. So it is a
+disconnection similar to what we saw with the Capgras patient.
+So we have seen several syndromes here which suggest that you can look at
+neurological oddities, neurological syndrome and learn a great deal about the
+
+functions of the normal brain. I would like to conclude with a quotation from my
+previous book, Phantoms in the Brain, "There is something distinctly odd about a
+hairless, neotenous primate that has evolved into a species that can look back over its
+own shoulder to ponder its own origins. Odder still, the brain cannot only discover
+how other brains work but also ask questions about itself, who am I? What is the
+meaning of my existence, especially if you are from India? Why do I laugh? Why do I
+dream, why do I enjoy art, music and poetry? Does my mind consist entirely of the
+activity of neurons in my brain? If so, what scope is there for free will? It is the
+peculiar recursive quality of these questions as the brain struggles to understand itself
+that makes neurology so fascinating. The prospect of answering these questions in the
+next millennium is both exhilarating and disquieting, but it's surely the greatest
+adventure that our species has ever embarked upon."
+So I hope you'll stay with me for all the remaining lectures, thank you very much.
+
+

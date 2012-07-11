@@ -1,0 +1,367 @@
+REITH LECTURES 1976: Mechanics of the Mind
+Colin Blakemore
+Lecture 3: An Image of Truth
+TRANSMISSION: 24 November 1976 – Radio 4
+
+In Cambridge, Massachusetts, in London, England, and in Lyons, France, there are
+men who can see, but do not perceive. They have eyes that function, but they
+themselves are unaware of the things that their eyes can see and on which they are
+able to act. These men all have brain injuries at the back of the cerebral hemispheres,
+in the part called the visual cortex, which receives messages from the eyes.
+In the middle of the last century, a Frenchman, Marie-Jean-Pierre Flourens, provided
+the first real experimental evidence that the cerebral cortex is responsible for so-called
+‘higher functions’ of the mind. Although he spoke of faculties like will and intellect,
+his experimental subjects were animals, not people.
+Like Aristotle, Galen and Leonardo before him, Flourens had intuitive trust in the
+continuity of biological mechanisms, which led him to extrapolate from animals to
+man. Shortly before his death in 1867, Flourens wrote in opposition to Darwin’s new
+theory of natural selection, but it was that very theory that made legitimate his own
+experimental paradigm. Flourens worked by studying the consequences on an
+animal’s behaviour of damage to its brain.
+‘Animals deprived of their cerebral lobes,’ he concluded, ‘have…neither perception,
+nor judgment, nor memory, nor will The cerebral lobes are therefore the exclusive
+seat of all the perceptions and all the intellectual faculties.’
+Hermann Munk, in Berlin, first realised that small injuries to the surface of the cortex
+could render an animal apparently blind or seemingly deaf. But Munk also made the
+remarkable discovery that these ‘mind-blind’ and ‘mind-deaf’ animals quite rapidly
+recovered their senses; he likened their progress to young animals learning to
+appreciate their sensations for the first time.
+How different the situation seemed to be when neurologists first turned their attention
+to the human cortex. It is a sad fact that brain science, no less than engineering and
+technology, has reaped a rich harvest of knowledge from the tragedy of war.
+The First World War was a vast, unwanted experiment in neurology. The Irish
+neurologist, Gordon Holmes, studied men whose injuries affected the back part of the
+hemispheres, which Munk had implicated in the functions of seeing in animals.
+Holmes confirmed that a tiny area of damage here produced a corresponding patch of
+blindness, or scotoma, in the visual field. The patient stared fixedly at a point, as
+Holmes mapped out the scotoma by waving a fine wand with a light on the end of it.
+Whenever the light fell into the affected part of the visual field, it disappeared from
+the patient’s view.
+
+1
+
+On the question of recovery of vision, however, Holmes’s results were totally
+different from Munk’s. The representation of the eyes in the visual cortex, he wrote,
+‘is fixed and immutable, so that if a part of the visual cortex be totally destroyed, there
+will be permanent blindness of the corresponding segment of the visual fields.’
+Holmes re-measured the blind areas years after the injury in some of his patients and
+found them quite unchanged.
+But new experiments, in the United States, England and France, show that such
+people can actually see without knowing it. The patients in question have indubitable
+injuries of the visual cortex; they never see a flashing light inside the resulting
+scotoma; in fact, they deny seeing anything there at all. Yet, if such a light is briefly
+flashed and they are asked to guess where it is by pointing to it, they do so with
+remarkable skill. They can even guess reliably whether a line flashed within the
+scotoma is horizontal or vertical, even though they claim that they see no line at all,
+and find the whole exercise rather foolish.
+It is well known that some nerve fibres from the eyes send their signals to regions
+below the cerebral hemispheres, more primitive parts of the brain that are rather
+important in a frog, but were thought only to control movements of the eyes in man.
+Now we must accept that these sub-cortical visual areas are capable cr1 providing
+information for the movements of the hands and even for the guesses of an unaware
+mind. The phenomenon of ‘blindsight’, as it has been called, establishes that the
+cortex is the home of conscious perception, but some kind of sensory function can
+continue without it.
+Then why, one might ask, have the cerebral cortex at all? What is it that the intact
+brain does that the man with ‘blindsight’ cannot do? It constructs a description of
+outside reality, a model in which it has confidence and sufficient faith to speak.
+According to the adage of William Blake: ‘Everything possible to be believed is an
+image of truth’ and what our perception provides us with is this ‘image of truth’,
+which we trust as a measure of reality. Between the turmoil of moving lights that fills
+the tiny image within our eye and the credible world of external objects that we build
+from that image is a miraculous transformation.
+How easy it all was for some of the Greeks, most notably Euclid: light, he thought,
+streamed out from the eyes to touch the world, like a million invisible fingers. Objects
+were seen as objects because they were felt as solid and real by these seeing hands.
+The long fingers of vision certainly do free us from the tiny world within the reach of
+our arms.
+When Galileo became blind in 1638, he wrote: ‘This heaven, this earth, this universe,
+which. . . I have enlarged a hundred, nay a thousand fold beyond the limits universally
+accepted by the learned men of all previous ages, are now shrivelled up for me into
+such a narrow compass as is filled by my own bodily sensations.’
+But seeing is not like touching. An object held in the hand is permanent, solid,
+immutable in size and shape: the patterns seen by the eyes change their size with their
+distance, and change their shape with their movement, as every artist knows. The fact
+is, of course, that the subjects of seeing are not objects themselves, but the flat,
+intangible images of them, which hide within the pupil of the eye.
+
+2
+
+Light comes into the eye in a cone of straight rays, not out of it, as Euclid had said.
+The realization of this produced a revolution in Renaissance art, not just through the
+discovery of perspective, but because artists must have learned that their task was to
+challenge the viewer just as he is tested by the image in his own eye. The retina of the
+eye is the canvas of the brain. If we can conjure up everything that we know of reality
+from the poverty of its two-dimensional image, why should the artist not use his
+painting to provoke perceptions just as real?—But to do so, the painter who strives to
+represent reality must transcend his own perception. He must, ignore or override the
+very mechanisms in his mind that create objects out of images: for we do not perceive
+our retinal image; we experience an external world of solid things.
+In a way, the Greeks were right. As you watch a man walk away, you see that he
+remains the same size (although the image of him on your retina certainly shrinks).
+Look at a coin when you turn it in your hand and you perceive it always as a round
+disc of metal (although its image is an infinite series of ellipses). What we reconstruct
+within our mind’s eye are the constant physical properties of objects; and so we
+should, because those are the things that we need to know. To do this, we must not
+only recognise the outlines of individual objects from the confusion within the eye,
+but must also discover from the image subtle clues about their distances. Only when
+we know both the true geometrical shapes in the image and the distances of the
+objects portrayed there can we derive the constancy of our perceptions. The artist, like
+the eye, must provide true images and the clues of distance to tell his, magic lies.
+The mechanisms of constant perception are built into our brains. They are either
+rapidly learned or they may even be inherited: a baby a few weeks old reacts as if his
+perceptions already have constancy of shape and size.
+It took great minds like those of Isaac Newton and John Dalton to formulate the laws
+of motion and the conservation of matter in words and mathematics. But every child
+discovers a pictorial version of the physical laws of the universe in his own
+perceptions.
+The representational artist, then, must be as perceptually naive as an embryo; he must
+not illustrate his own model of the world, but must search behind it for the image in
+his eye. As Paul Klee wrote in 1902: ‘I must begin, not with hypothesis, but with
+specific instances, no matter how minute.’
+Renaissance painters, starting in the middle of the 15th century, with the pioneer of
+perspective, Filippo Brunellesehi, tried to create the trompe I’oeil, the deceit of the
+eye.
+Their greatest achievements are the extraordinary ceiling paintings, like those of
+Andrea Pozzo in the Church of Sant’ Ignazio in Rome, where the artist has painted a
+continuation of the architecture of the building, soaring upwards and occupied by an
+unruly host of angels and cherubs with good heads for heights. These ceiling paintings
+gain their magical transparency because they have no distinctive edge. There is
+nothing to identify them as paintings. But because a painting is nothing but a flat,
+geometrical projection, its perspective can only be perfect from one viewing-point.
+Only one observer in the church can see the painting as it should be seen. From any
+
+3
+
+other position, its geometry is wrong and its painted pillars and arches seem to twist
+and sag. Just when the artist succeeds in synthesising exactly the retinal projection of
+an actual scene, then surely he fails, for he gives the privilege of perfection to one
+viewer alone.
+Conventional paintings and drawings have a different and special quality. As the
+psychologist, Richard Gregory, has said: ‘Pictures are paradoxes.’ They are part of
+our actual world of objects and, at the same time, are messengers from a different
+world. We see them simultaneously as lines and colours on a flat surface and as the
+solid objects that they portray. The quest for perfection in the trompe l’oeil was one
+attempt to destroy the paradox of paintings.
+It was the Romantic movement that suddenly rediscovered what pre-Renaissance
+iconographers must surely have known— that the picture itself is part of the
+perception it creates. Was abstraction in art an inevitable response to the discovery of
+paradox? Certainly it attempts to resolve the conflict by exploiting the painting as an
+object itself—almost the antithesis of the transparent reality of the trompe l’oeil. But
+to defy the model-builder in the mind, to try to express an idea independent of a
+subject, is even more difficult than mimicking reality. ‘A good painter has two chief
+objects to paint,’ wrote Leonardo da Vinci, ‘man and the intention of his soul; the
+former is easy, the latter hard.’
+The fact that light forms an image on the retina posed serious problems for art: but the
+discovery of the retinal image presented difficulties no less profound for philosophy
+and science. The Arab, Ibn Al Haitham, or Aihazen, described the convergence of
+rays of light on to the eye in about AD 1000, and Christoph Schemer carried out crude
+experiments on the optical properties of the eye early in the seventeenth century.
+However, René Descartes is usually given the credit for the first accurate description
+of the retinal image. He took the eye of an ox, cut a window in the back of it and
+covered it with paper. Holding the eye up to the light, he saw on the paper a tiny
+inverted image of his room. I think it is no coincidence that he published this
+discovery in 1637, side by side with the first statement of his philosophical principle
+of believing nothing that be felt he might doubt. If the apparent richness of our visual
+world comes into us in such a comical form—a tiny picture, upside-down—how can
+we possibly trust it? The internalisation of knowledge is a problem that has dogged
+philosophy, and physiology, ever since.
+However, the British school of empiricist philosophy, from Francis Bacon and John
+Locke in the 17th century, to Bishop George Berkeley and David Hume in the 18th,
+did put their trust in sensory experience as a reliable source of knowledge. They saw
+around them the growing material success of England in trade and exploration. They
+recognised the power of scientists, like the brilliant experimenters, Isaac Newton and
+Robert Boyle, to explain through observation. Observing events and gaining
+knowledge by inductive inference must be the only means by which we can discover
+truth.
+But George Berkeley even became worried about the very existence of any material
+object outside the content of the mind. When we put our hands near a fire, we feel
+pain; when we put sugar in our mouths, we experience pleasure. But no one could
+claim that fire contains pain or sugar pleasure. Then why should one think that any of
+
+4
+
+our other sensations, of shape and colour, of loudness and tone, originate in the
+material properties of objects? By comparison with Descartes’ dictum, Cogito, ergo
+sum, Berkeley retorted: Esse est percipi—to exist is to be perceived. But Bishop
+Berkeley did not conclude that objects disappeared when he turned his back on them,
+nor that his bedroom disintegrated when he blew his candle out. They must continue
+to exist because they are always observed by somebody else, someone who has to be
+everywhere at once. This theory of solipsism is admirably summarised in the famous
+limerick of Ronald Knox and its reply:
+There once was a man who said,’ God
+Must find it exceedingly odd
+If he finds that this tree
+Continues to be
+When there’s no one about in the quad.’
+Dear Sir, your astonishment’s odd.
+I am always about in the quad,
+And that’s why the tree
+Will continue to be
+Since observed by
+Yours faithfully, God.
+The problem of internal inference about the world, posed by Descartes, is certainly
+not solved even by modern brain research. Descartes himself avoided it neatly by
+imagining sensory nerves from the eyes, the ears and the skin all terminating around
+an enigmatic pimple on the back of the brain—the pineal gland—which he proposed
+as the principal home of the soul and whose true function is still unknown. Simply
+contacting the soul in this physical manner was enough: the soul was responsible for
+the actual seeing, hearing and feeling. The activity produced by signals from the two
+eyes was even fused together to provide a convenient single picture of the world,
+which was twisted around to turn the inverted retinal image the right way up again.
+But this is no solution, of course. It merely puts the task of recognition one step
+farther on. There is no little man in the human brain to rush around looking at the
+signals from the senses. If there were, how would his eyes and ears work? Yet much
+of the physiological investigation of the brain has been concerned with the Cartesian
+problem of internal maps.
+Like the cartographers of the earth, who were so active at the time, neurologists and
+experimental physiologists in the second half of the last century were geographers of
+the mind. The British neurologist, John Hughlings Jackson, working in London in the
+1860s, discovered a new continent in the brain. Some of his epileptic patients had fits
+that started with uncontrollable movements in one part of the body: the thumb on one
+hand, one of the toes or a corner of the mouth—and always in the same place. Now,
+epileptic convulsions are caused by irritation in the brain, and Hughlings Jackson
+related the region of injury to the part of the body where the fits began. Thus he
+discovered what is now called the motor cortex—a strip of brain tissue on the side of
+the cerebral hemispheres which represents the muscles on the opposite side of the
+body. The motor cortex is the keyboard of an instrument whose strings are the
+muscles, which finally play the melody of movement.
+
+5
+
+Other explorers soon made maps in different parts of the cortex for each of the senses.
+Directly behind the motor cortex is a second strip that receives a map of the entire
+body surface from the receptors in the skin. Again, it is as if the shape of the body
+were drawn out on the surface of the brain. And what do the physiologists call this
+body map? The homunculus! The little man! As if this picture of the body solved the
+paradox of Descartes!
+But the cortical homunculus is a strangely inaccurate map. In it, there is much more
+space devoted to man’s face, his thumbs and his fingers than to his trunk and the
+surface of his legs. When Edgar Adrian, now Lord Adrian of Cambridge, recorded
+electrical activity from the touch area in the pig’s cortex, he found an even odder
+map—a porcunculus, I suppose it should be called. An enormous fraction of the pig’s
+touch area is dedicated to its snout. And in a mouse, the whiskers occupy most of the
+touch cortex. The principle seems to be that the most important and sensitive areas of
+the body are most generously represented in the map.
+But not just the surface of the skin is sensed within the cortex. The very existence of
+the body is registered there as well. Injuries behind the touch area, in the parietal lobe,
+produce a most extraordinary disturbance of the relationship between body and mind.
+The opposite side of the body is simply lost to its owner’s consciousness. It hangs as
+an unwanted parasite on his conceptual self. Patients with a damaged parietal lobe
+shave only one side of their lace, comb only half of their hair and they object to
+sharing their hospital bed with what they feel to be somebody else’s arms and legs.
+The eminent Russian neurologist Alexander Lucia transcribed the thoughts of a
+soldier, Lev Zassetsky, who was injured in this part of his brain during the Second
+World War:
+Suddenly, I’ll come to, look to the right of me, and be horrified to
+discover half of my body is gone, I’m terrified; I try to figure out
+what’s become of my right arm and leg, the entire right side of my
+body. I move the fingers of ray left hand, feel them, but can’t see
+the fingers of my right hand and, somehow, I’m not even aware
+they’re there…Often, I even forget where my forearm or buttocks
+are and have to think of what these two words refer to. I know
+what the word ‘shoulder’ means and that the word ‘forearm’ is
+closely related to it. But I always forget where my forearm is
+located. Is it near my neck or my hands…?
+If we are to believe the existentialist writer, Jean-Paul Sartre, this personal sense of
+bodily existence can also be lost in the depths of terror. In his short story Wall, Sartre
+describes the sensations of a man awaiting execution during the Spanish Civil War:
+My body, I saw with its eyes, I heard with its ears, but it was no
+longer me.
+I had to touch it and look at it to find out what was happening, as if
+it were the body of someone else...
+Most of the time it was quiet and I felt no more than a sort of
+weight, a filthy presence against me.
+
+6
+
+Perhaps the most extraordinary map in the brain is the visual one, which Hermann
+Munk and Gordon Holmes first started to chart: in fact, there is not just one map of
+the visual world, but perhaps a dozen or more in a monkey, and presumably also in
+man. This amazing array of charts at the back of the cortex is a veritable atlas of the
+world of vision. Each map has a different scale and, like the various pages in a real
+atlas, showing geological structure, demographic data, rainfall and so on, the visual
+maps each emphasise a different component—colour in one, shape in another,movement in a third. Each time the eyes shift their gaze, a new torrent of information
+pours through this labyrinth of maps.
+Any injury to an individual portion of this visual atlas, beyond the primary area of
+Holmes and Munk, causes a partial loss of the description of the visual world—a kind
+of scotoma of knowledge. Damage in one place can abolish colour perception alone;
+in another, the ability to see more than one thing at a time is lost; in another, whole
+objects cannot be recognised, although all their individual parts are seen quite
+normally. And fin-ally, brain damage can even steal the capacity to interpret a real
+map—the concepts of space are destroyed and the patient is lost even in hi’s own
+home.
+But just as a real map is not the country that it portrays, so the sensory maps in the
+brain are not explanations for the objects of our perceptual world. For the source of
+knowledge, for the solution to Descartes’ dilemma, we must look within the maps, at
+the nerve cells of which they are made—the neurons of knowledge. There are more
+than 10,000 million nerve cells in the human brain. Each cubic inch of the cerebral
+cortex probably contains more than 10,000 miles of nerve fibres, connecting the cells
+together. If the cells and fibres in one human brain were all stretched out end to end,
+they would certainly reach to the moon and back. Yet the fact that they are not
+arranged end to end enabled man to go there himself. The astonishing tangle within
+our heads makes us what we are. Every cell in the cortex receives on its surface an
+average of several thousand terminals from the fibres of other cells. The richness of
+interconnection makes each neuron a Cartesian soul.
+Lord Adrian made the first electrical recordings of the activity of individual nerve
+fibres, at Cambridge, in 1926. He discovered a universal law, one whose influence
+will, in the long run, be as important as Newton’s laws of motion, for it would be
+impossible to understand the brain without this law: neurons communicate with each
+other by sending bursts of brief electrical pulses along their fibres. The pulses don’t
+vary in size, but only in the frequency of their bursts, which can be up to 1,000
+impulses in a second.
+In the visual system, nerve cells look out at the world through their connections from
+the 100 million or so receptors in each eye. When physiologist’s turned their
+recording microelectrodes on to these visual neurons, the results were a revelation; for
+each cell seemed not to be passively signalling the brightness or darkness of the
+retina, as we might expect, but to be searching for meaningful combinations of
+features, for the boundaries and shapes in the image that define the edges of objects.
+One of the most remarkable of such experiments was reported in 1959 by the
+American, Jerome Lettvin, and his colleagues, in a scientific paper, already a classic,
+entitled: ‘What the frog’s eye tells the frog’s brain.’ They recorded impulses from
+fibres in the frog’s optic nerve and found that different classes of fibres would only
+
+7
+
+respond with a burst of impulses if an appropriate pattern was projected on a screen in
+front of the eye.
+In other words, the eye has a language for its soliloquy to the brain. It speaks in
+symbols that define the important features of the visual scene. In the frog’s optic
+nerve, to quote Lettvin, one class of fibre responds only ‘to a small object passed
+through the field; the response does not outlast the passage…the discharge is greater
+the greater the convexity…of the boundary of the dark object…A smooth motion has
+less effect than a jerky one…We have been tempted to call ‘them “bug perceivers”.
+In the primary visual cortex of a monkey, neurons respond selectively to straight lines
+appearing in the visual field. Different cells signal different orientations of line., Each
+shape falling on the retina is described by the activity of these various line detectors,
+In the other visual areas of the cortex the combinations of activity from these linedetecting cells produce neurons that require the shape of a corner, or a particular type
+of movement or even the outline shape of a monkey’s hand, appearing in the field, to
+make them spit out their spluttering messages to the rest of the brain.
+The language of vision has a slightly different dialect for every species. The octopus
+probably has no ‘word’ for a diagonal line: it can only detect horizontal and vertical
+ones. Many animals have little or no ability to discriminate colour. But equally, some
+other species have nerve cells that can describe events that are invisible to us,
+Some animas can detect the plane of polarisation of light or the direction of a
+magnetic field. We deceive ourselves if we think that our perceptual world is
+complete. It is what our neurons are able to tell us.
+We seem driven to say that such neurons have knowledge. They have intelligence for
+they are able to estimate the probability of outside events—event that are important to
+the animal in question. And the brain gains its knowledge by a process analogous to
+the inductive reasoning of the classical scientific method. Neurons present arguments
+to the brain based on the specific features that they detect, arguments on which the
+brain constructs its hypothesis of perception. It was Francis Bacon, founder of the
+philosophical school of empiricism, who first recommended clearly the inductive
+method for the formulation of scientific theories. The classical method of science was
+surely inspired by the example of human perception!
+Indeed, science itself can be regarded as a cultural extension of the biological process
+of acquiring knowledge. But even perception can’t proceed without expectations, built
+into the brain in the form of the experiences with which it is familiar.
+Equally, science has not progressed by induction alone. The anticipatio mentis, the
+prejudice of insight, which Francis Bacon so much detested, is an essential part of
+science, just as it is of human perception.
+Expectation is at least partly based on the memory of past experience, and that is the
+topic I shall turn to in my next lecture.
+
+8
+
+

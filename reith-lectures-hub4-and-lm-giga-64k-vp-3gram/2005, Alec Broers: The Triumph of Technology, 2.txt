@@ -1,0 +1,244 @@
+Lord Broers
+Reith Lectures 2005: The Triumph of the Technology
+Lecture 2: Collaboration
+When I returned to this Engineering Department from the USA in 1984 my wife and I
+bought an historic and wonderful house some ten miles south of Cambridge. It was
+built around 1520, a date that could be substantiated to within a decade by the form of
+the oak beams that comprised its floors and ceilings. These had been shaped by iron
+blades that only lasted about ten years. Being someone of the present rather than the
+past I had not previously been much preoccupied with history but living in the
+splendid oak structure - like a fine sailing vessel that had gone aground - inspired me
+to wonder what had preoccupied the technologists and scientists of that age.
+In my search I discovered that on 24 August 1563 a 'conjunction' took place of the
+planets Saturn and Jupiter. The two appeared so close together in the sky that they
+seemed to merge together. This rare occurrence was of great importance in an era
+when it was widely believed that exceptional astronomical events both influenced and
+predicted worldly happenings.
+The problem was that the very best minds of the period, in Europe at least, were quite
+unable to calculate exactly when the conjunction was to take place. Some calculations
+were at least a month out. The best were inaccurate by days. Given the science and
+technology of the period, such inaccuracy is easy to understand. There were no
+reliable and accurate clocks. And without astronomical telescopes, robust celestial
+observation was to a great extent impossible. And besides, how many of us could do
+this calculation today?
+The importance of overcoming such problems was not just a matter of shoring up the
+credibility of astrologers. Upon fine and accurate astronomical observation, and upon
+accurate timekeeping, depended reliable navigation, and the possibility of fruitful
+voyaging in the coming centuries. Measurement, the development of observational
+instruments and accurate clocks, complex calculations: all these came together in the
+ensuing centuries. Technology was of importance and gained support and the process
+by which these advances was achieved perfectly illustrates the productive connection
+between science and technology. The latest manifestations of this are the Global
+Positioning System, which I shall describe later, and its European descendant Galileo.
+We think of such support as a modern phenomenon, but in fact - in Europe at least governments have supported scientific and technological research for centuries. Such
+support was commonly tied to the fulfilment of contemporary needs, for example in
+the development of accurate systems of navigation to overcome the shortcomings we
+have just glimpsed.
+Most modern technologies are created by bringing together and evolving capabilities
+which already exist. The genius lies in the way they are brought together and
+improved. There are innumerable examples to illustrate the process. The long sought
+mobile phone was made a reality by bringing together mathematical concepts of
+cellular networks, advanced ultra high frequency radios, low power microprocessors,
+
+and improved batteries. It was not invented, although buried within it are innumerable
+inventions, and several of the genii who design the world's best cell-phones do so just
+south of Cambridge. The hybrid car combines the efficient modern internal
+combustion engine with pollution free electric drive and systems that recycle the
+energy dissipated in braking. The modern jet airliner combines innumerable
+individual capabilities in mechanical design, aerodynamics, jet engines, electronic
+communication and navigation systems, and the airports that they serve are wonders
+of modern civil engineering. Other examples easily come to mind; the modern dental
+surgery, flat-screen TVs, medical scanners, the ubiquitous scanning electron
+microscope developed in this laboratory, electronic stock exchanges, Dyson's vacuum
+cleaner, the apparatus used to decode DNA, the IPod, and so on. All of these new
+technologies came about through a process in which established capabilities were
+evolved and combined in new ways. They were the result of engineers seeking
+solutions to practical problems and human need.
+When fundamentally new materials or ideas are available the potential is even greater
+but the route to useful products is longer and the commercial risks higher. Such is the
+case, for example, with the polymer semiconductors that have emerged recently in the
+Cavendish laboratory that offer no less than a revolution in computer displays and in
+low cost electronics.
+In this second Reith lecture I explore the origins of modern technologies. I believe
+that today collaboration is essential for success because it brings both global
+awareness and the ability to gather together diverse capabilities. It is rare that
+individuals or groups working in isolation possess all that is needed. During my time
+at Cambridge I concentrated on extending the bridges that provided global awareness
+and enabled collaborations - with industry, with universities, with government.
+Without joining with others, one quite simply does not have the resources to be
+internationally competitive nor does one have the 'spirit level' that reveals whether or
+not one is even in the race - complacency and smugness easily set in.
+Mind you there are dangers in collaboration, especially in the security of ideas patents can protect ideas but necessarily give away the details when they are
+published. Individuals have this dilemma. They need to be a part of the larger world
+and communicate with it, but the moment they reveal their ideas, they have to be
+ready to run fast or competitors will out-speed them. I will return to this question in
+my third lecture.
+The process of collaboration has been vastly enhanced by modern communications.
+The World Wide Web, which Tim Berners-Lee originally developed to allow
+physicists to work together, now allows creators of technology in every corner of the
+earth to work together - or to compete. And it is amazing how the efforts of creative
+engineers lead to advances and novel concepts that could not have been imagined by
+those who carried out the original research.
+Which brings me to the laser. Few now remember that the laser was an adaptation of
+the earlier maser. The maser, an acronym for Microwave Amplification by Stimulated
+Emission of Radiation, was a device devised by Charles Townes to meet the need for
+an electronic oscillator that would operate at very high radio frequencies. It was an
+electronic device. Townes proposed that a similar device should be possible that
+
+operated at optical frequencies and two years later Theodore Maiman demonstrated
+the first laser. The laser uses the same principles as the maser but operates at optical
+frequencies, hence the acronym Light Amplification by Stimulated Emission of
+Radiation.
+It was predicted in 1960, when the laser was first demonstrated, that it would
+revolutionise optical imaging systems and make holograms feasible, but no-one could
+have imagined the breadth of applications that were to emerge. No one could have
+foreseen that lasers would be used to transmit the majority of the world's telephone
+and television signals, or to record and play back sound and vision using plastic disks,
+let alone the plethora of other applications that now benefit everyone. These were
+subsequent accomplishments of technologists.
+Telephone and television, and indeed all forms of electronic communications, are now
+carried around the world by beams of light that are channelled down glass fibres. The
+light beams are generated and modulated by solid state lasers that are so fast that a
+single beam can, for example, carry tens of thousands of simultaneous phone calls. A
+metal wire can carry about a hundred. An essential component in these optical
+systems is the Erbium amplifier which allows the light signal to be amplified directly
+without first converting it back to an electronic signal. This key advance was made by
+British engineers.
+The technology of optical communication had its earliest origins in science but
+through most of its development it was a technologist's technology progressing
+through a series of intellectual advances that outweigh those of the original
+researchers. The achievements have been extraordinary - it has connected the world in
+a way that engineers would have thought impossible thirty years ago and avoided a
+log-jam in the Internet that people predicted twenty years ago.
+These advances involved many people in many laboratories. One model says that ten
+times the effort needed in the original research must be expended in developing a
+prototype technology, and ten times this effort is needed to produce the manufactured
+product. The idea that a single person can 'invent' a new technology, is out of the
+question in these cases. Creative ideas of course come from individuals but their ideas
+must fit into the matrix of creativity being generated by individuals and teams all over
+the world.
+I have discussed only two of the unexpected applications of the laser. I could have
+told similar stories about its applications to materials processing, such as the reshaping of the lenses in our eyes, high quality welding, or precision measurement.
+Even some of the humble and reliable printing devices attached to our home
+computers apply low power lasers in an unforeseen manner. The successful
+applications of the laser far exceed the most extravagant predictions made in the
+1960s.
+The process of improving existing capabilities and adapting them to new applications
+relies on something that we do not need to teach, something that is inherent in the way
+the best technologists operate. Creative engineers are, by nature, problem solvers,
+always seeking ways to employ advances in technology in new and better ways. It is
+an extraordinarily exciting activity. Look back to the era of the first European ocean
+
+voyagers, the lack of reliable time-keepers to determine longitude, the reliance on
+crude devices such as the cross-staff to make astronomical observations. The
+navigators' achievements were astonishing, but consider where we are by contrast
+today.
+GPS, the Global Positioning System, because it built on the vast technological
+achievements of humankind, belittled previous accomplishments. GPS had its origins
+almost exclusively in technology. It uses principles related to those of land based
+navigational systems but with the signals coming from satellites rather than ground
+based transmitters.
+The idea of building a satellite-based location system emerged when a number of
+quite separate developments coincided. The cost of launching satellites became finite;
+advances in microelectronics allowed the necessary electronics to be packed into a
+small satellite and the receivers to be compact and reasonably priced; and finally, it
+was seen that such a system could have military significance making available the
+billions of dollars necessary to put up the twenty three satellites. This technology
+grew out of space research and microelectronics and was funded by the military.
+At the time it was decided to build the Global Positioning System, I suspect that few
+would have foreseen that within a decade tens of millions of receivers would be sold
+and that they would not just be used for navigating ships and planes. Farmers would
+use them to guide their tractors, taxi fleets would be managed using GPS data, the
+arrival of trains and buses would be announced, and authorities would keep track of
+criminals on parole with GPS ankle bracelets. Standard cars would carry GPS-based
+navigational systems and these would not only tell people where they were, but just as
+importantly perhaps, the location of the nearest Indian restaurant.
+But stop to wonder a moment about this technology. A GPS receiver contains up to a
+dozen individual receivers each of which automatically searches the frequency
+spectrum to find the tiny synchronised signals from the satellites. The receiver's
+computer knows the exact position of each satellite, and from the time delay between
+the signals it calculates its own position in three dimensions to an accuracy of a few
+metres. A modern receiver takes a few seconds to locate the satellites, make these
+measurements, and fix its position. And less than five centuries ago humankind could
+not even reliably predict a rare astronomical event.
+In 1992 I had the privilege of visiting one of the Royal Navy's nuclear submarines. It
+had an electronic navigation system that performed similar functions. It occupied an
+entire six foot high rack of electronics, cost a large fraction of a million pounds and
+took five minutes to give a fix with an accuracy of a few hundred metres. One of
+today's hand-held GPS receivers gives a ten times more accurate fix in a hundredth of
+the time at one ten thousandth of the cost. This is a triumph of technology.
+To create technologies like GPS, and indeed to make progress in any advanced
+technology, engineers must be familiar with the full spectrum of technologies and
+know what is hindering further progress. To do this they must be working at the
+frontiers of development. If they are not then they cannot concentrate their resources
+efficiently and their efforts will not be competitive. Working from first principles is
+not effective as it opens up too many alternatives.
+
+Obviously, progress is most rapid when the factors impeding progress are known.
+This does not make the problems easy to solve, and indeed with most modern
+technologies the solution generally requires an intimate knowledge of the science that
+underpins the technology, but without knowledge of these factors focus is lost. Let me
+trace the evolution of electronics as another example.
+Electronics began with J J Thomson's identification of the electron in Cambridge in
+1897. One could go back even earlier and seek the origins of scientific methodology
+but let me start at the time that Thomson proposed that the 'rays' which Europe's
+physicists had been experimenting with for many years were in fact streams of subatomic particles, 'corpuscles', later called electrons. J J Thomson used a glass bottle in
+which he had embedded a cathode from which the electrons would emerge, and an
+anode that attracted them. This was in effect a primitive cathode ray tube as used in
+television sets although there was in fact some residual gas in the tube and there were
+ions as well as electrons, but the simple analogy is none the less useful.
+This primitive electron tube was adapted a few years later by John Fleming and used
+as a 'detector' for weak electromagnetic signals in the earliest experiments in long
+range radio transmission, that had been pioneered by Marconi. Fleming's diode was
+superceded by the triode of De Forest. De Forest's third electrode allowed
+amplification and created a universal electronic amplifier which was to become
+known as the vacuum valve in the UK and the vacuum tube in the US. The
+technology of electronics had been born and it was the vacuum valve that gave rise to
+most of the electronic systems that we are familiar with today, including computers.
+But engineers were not satisfied with the valve and following the second world war a
+search for a better alternative began, which eventually led to the transistor.
+The first transistor was developed by John Bardeen, Walter Brattain, and William
+Shockley at Bell Telephone Laboratories in New Jersey in December of 1947. They
+were seeking an alternative to the vacuum valve that was cheaper, lower power, and
+less fragile: an electronic device that operated like the valve but did not have to
+operate in a vacuum. Their device turned out to be perhaps the most important single
+technological development of the 20th century; but these three pioneers could never
+have imagined what was to come. By early in the twenty first century more transistors
+would have been built than characters printed since the beginning of time. I will bring
+this story up to date in the fourth lecture when I will discuss nanotechnology, which
+had its origins in this laboratory.
+Following the contribution of JJ Thomson, who was clearly motivated by the desire to
+understand the universe, the development of electronics followed the route of most
+successful technological developments. The engineers and scientists who made the
+remarkable breakthroughs were not being driven by science, and a wish to understand
+nature, their aim was to find useful applications for their knowledge.
+Today, the fledgling electronics, that started with the elementary two electrode valve,
+has reached extremes. A chip manufacturing plant costs several billion dollars and if
+you have problems that delay the production of a new chip for six months you may
+have lost 50% of the profit from that chip. And this industry is not alone in its
+magnitude and complexity. The situation is similar in many other fields, certainly in
+
+aerospace and in the automobile industries, and the resources needed to be successful
+in the pharmaceutical industry are just as great and the adherence to schedule even
+more critical.
+By now it should be clear why it is not only difficult but impossible to make progress
+in this sort of high technology if you are not already at the frontiers of development. If
+you are not, then you have no means of knowing where to concentrate you efforts. It
+is possible with a relatively small team to tackle new technologies but only if the team
+is fully aware of the international competitive situation and is linked in with partners
+that have the ability to proceed at a competitive pace. There can be no half-hearted
+commitment
+Advances equivalent to those of past centuries are extremely unlikely to be achieved
+in the same way today, by the separate endeavours of often amateur researchers and
+technologists. James Joule, working in a private laboratory attached to his father's
+brewery; Michael Faraday, brought up as a bookbinder's apprentice and educated
+through studying the books that passed through his hands; Thomas Newcomen, an
+ironmonger and blacksmith: these and other giants of past ages made their
+achievements partly alone and largely by happy chance. Such a course is probably
+impossible today, but the excitement and thrill of achievement are just the same.
+There are few more satisfying activities than the creation of new technologies for the
+benefit of humankind. Creative engineers may not receive the recognition they
+deserve in this country but it rarely troubles them - the satisfaction they derive from
+their jobs is unsurpassed.
+
+

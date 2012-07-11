@@ -1,0 +1,344 @@
+REITH LECTURES 1986: Law, Justice and Democracy
+Lord McCluskey
+Lecture 3: Hard Cases and Bad Law
+TRANSMISSION: 19 November 1986 – Radio 4
+
+In deciding the cases that come before them, judges can and do make law, and
+Parliament is free to accept that judge-made law or to alter it. If Parliament chooses to
+legislate, then there can, at least in theory, be no conflict between the law made by
+Parliament and the law applied in the courts. And if anyone wants to assert that the
+law made by Parliament is of an inferior metal, then the one audience that will not
+listen to that argument is the judiciary.
+But if we are to consider allowing the validity of laws enacted by Parliament to be
+challenged in the courts on the ground of supposed conflict with some fundamental or
+supreme law; if we are to think of allowing the judges’ solutions, based upon their
+interpretation of an entrenched charter of fundamental law, to prevail over those of
+Parliament, then perhaps we ought first to give some thought to the character of law
+made by judges. I shall look at one field of law in which the courts were immensely
+creative and in which the judge-made law inevitably affected the lives of millions
+who had no part in the making of that law, little knowledge of its content, and no
+freedom to contract out of it: the field of law governing the rights of injured persons
+to recover damages in respect of accidental injury. Unlike many other areas of the
+law, such as those concerned with commercial contracts or wills, it was not
+practicable for most of the people affected by the law to study the judge-made rules
+with a view to modifying their behaviour so as to fit it within the rules.
+The fundamental notion that judges developed to govern the making of reparation for
+accidental injury was the notion of wrong, of some fault, some blameworthiness on
+the part of an identified wrongdoer who could be made subject to the effective
+jurisdiction of the court and so be made to pay any damages found due. This is an
+individualistic and moralistic notion. It means that injury itself gives no right to
+compensation: the person who has done the injury must be identified and sued. The
+wrongdoer must be arraigned before the court, not to be punished but to be ordered to
+compensate in money. The victim must obtain evidence to establish that the alleged
+wrongdoer has been guilty of a wrongful act which caused the injury. It is not enough
+that another’s act has caused your injury. It has to be shown that that act was in breach
+of some duty that the law recognised as apt to create rights and obligations. Because
+there had to be proof by acceptable evidence of all the essentials, the victim had to
+have the economic capacity, and the will, to gather the evidence, to finance the
+litigation, to endure, if necessary, the extra legal sanctions that the alleged wrongdoer
+was free to deploy—such as the threat of dismissal from employment—as well as the
+capacity to wait, perhaps for years, for the case to be concluded. There was inevitably
+the risk of failure, but even an apparent success could sometimes be rendered hollow
+by the deduction of legal expenses incurred on the road to that success.
+
+1
+
+And there were other formidable obstacles. Contributory negligence, the judges
+decided, was a complete bar to success: and the employer was not held responsible
+when one employee negligently injured another; each employee was required to take
+the risk of his fellow servant’s negligence, a judge-made doctrine which, though
+gradually modified, left a considerable gap in the rights of employed persons. Other
+claims were defeated by the development of the doctrine that certain people must be
+deemed to have voluntarily accepted risks to which they were exposed. And, by
+creating particular immunities, the judges erected other barriers to the recovery of
+compensation. So the pursuit of compensation was a game of Snakes-and-Ladders, a
+lottery in which the innocence or the hurt of the victim was no guarantee of success.
+Some innocent victims recovered damages. Others did not. The chances of landing on
+a snake were so feared that even those who were able to make a substantial claim
+could seldom take the risk of a fight to the finish to obtain their whole rights. Most
+cases were compromised on the principle that a bird in the hand was worth three in
+the thicket. And even with its successes, limited though they were, the judge-made
+law did little, if anything, to reduce the risk of injury. The courts could take no steps
+to attack the causes of industrial injury: it would have been difficult for judges so to
+develop their powers as to compel the introduction of safer working practices, to
+secure the performance of duty rather than just a payment for its breach.
+It would have been even more difficult for judges to develop a system whereby the
+payment of compensation depended on the need of the injured person rather than
+upon the responsibility of a wrongdoer; because litigation in the civil courts is
+concerned with vindicating the rights of one citizen at the expense of another. If the
+plaintiff wins damages it is because the defendant must pay them. The idea that a
+plaintiff could win a right to compensation without somebody being held responsible
+to pay it just did not make sense in a court of law. Judges could not create a fund to
+enable compensation to be paid to those among the injured or bereaved who could not
+pin the blame upon a solvent wrongdoer. In a court, the idea of no-fault compensation
+was unthinkable. Judges could not reach out from the necessary limitations of the
+system in order to confer rights to compensation based upon need.
+The judges who, over a long period of time, made such law, and then applied it, were
+certainly not operating in one of the law’s unimportant backwaters. It was an area in
+which many people made their only contact with the law, and for many such people
+that contact was all-important. if the law allowed no redress for being blinded or
+crippled and gave no compensation, then they would look in vain elsewhere.
+What are we to make of the body of law that the judges created? Though most people
+would agree that incoherence, illogicality and irrationality would be serious defects in
+the law, few would say that the law was good just because it was coherent, logical and
+based on a clear principle. Judges will very properly aim for these qualities. But in
+themselves, even when achieved, they do not make the law good. The law can be
+considered good only if, being coherent, predictable and principled, it also produces
+results which are socially acceptable. And the results of the judge-made law in the
+field of reparation for personal injury left too much to be desired. For too many there
+was, and is still, no remedy.
+Tickets in a lottery
+
+2
+
+For those for whom the law could provide a remedy, the route to it was slow,
+expensive, hazardous and uncertain. Even from the defendant’s point of view, the law
+was unsatisfactory. The cost of litigation was high. Insuring against the risks of
+litigation became very high. It has recently become clear—especially in America,
+where generally the same legal principles apply—that the fear of being sued, and the
+cost of insuring against that risk, have begun to make serious inroads into the
+availability of vital public services, including medical treatment. When the law,
+properly applied, produces the result that those who need medical treatment cannot
+have it because doctors are afraid of being sued, then it produces a result which is not
+socially acceptable.
+If we end up, as we do, with a body of law which affords remedies which too often
+have the appearance of tickets in a lottery, which threatens to inhibit the provision of
+medical care or other necessary services and which hardly serves to raise standards of
+care, then it is little wonder that some countries have decided to abandon the whole
+judge-made edifice and introduce no-fault compensation.
+It would be wrong to suggest that there was no rhyme or reason to it all; there was. It
+was not necessarily the logic of the judges that was to blame; it was the major
+premises that preceded the adjudication. And quite apart from the constitutional
+inability of our courts to reach out and introduce positive measures designed to
+achieve social justice, the very nature of litigation and of judicial training are such
+that judges cannot calculate or control the long-term effects of the law, which they
+build up painstakingly, one decision at a time. In the United States Supreme Court,
+judges can, and do, select and assemble a whole spectrum of real cases to be
+considered at the one time and can hear representations not just from the interested
+parties but from others who are concerned about the consequences for the law of
+whatever ruling is made. So the judges obtain briefings about the social and economic
+results of formulating the law in a particular way before deciding what the policy of
+the law is to be. But once judges do that, they have ceased to be judges as we know
+them. They have become legislators making informed policy choices. I do not believe
+that our judges can or should be given such tools, or such a role. It is not a role which,
+by tradition, training or experience they are qualified to perform. When we ask judges
+to decide the legal rights and wrongs of litigants we are doing something for which
+there is no tenable alternative. Someone must resolve the disputes. It has to be judges.
+And there is no escape from using, as judges, lawyers whose mental equipment
+includes assumptions and prejudgments which lie outside the letter of the law.
+Equally, we have to accept that as they decide one case after another, some of these
+very assumptions and prejudgments become part of the law, as much, indeed, as if
+they had been enacted by Parliament.
+In a common-law tradition like ours, the judges have to fill the gaps and make law.
+But let us be clear that that is what they are doing. let us understand that society, if it
+does not review the provisional, the necessary, the imperfect law made by judges, is
+abdicating the making of its policy choices to what Lord Devlin called ‘a body of
+elderly men’. It is the proper function of governments and democratically elected
+legislators to consider and make policy choices, not the proper function of judges.
+That in itself is no startling or revolutionary proposition. On the contrary, it has been
+accepted in modern times that an activist Parliament must intervene in order to
+
+3
+
+remake or restate the law which has been evolved by judges. And Parliament must
+fulfil that role not just when the whole thrust of the judge-made law has produced
+results which are notoriously seen to be no longer socially acceptable. It must do so at
+all times to grapple with the classic problem of law in society; the difficulty, some
+would say the impossibility, of writing down the law so that it is certain and its
+application predictable, while at the same time ensuring that it prescribes and achieves
+a fair and just result in individual cases. It is, for the most part, the courts, the judges,
+that have to resolve the so-called ‘hard cases’, the cases in which the law points to a
+result which appears to be unfair, or the cases in which different principles or rules of
+law clash and compel a choice, a choice which determines the result. This problem
+can, of course, arise whether the existing law has been enacted by Parliament or
+created by judges. It will commonly arise if, when the law was laid down, the
+particular problem was not foreseen, perhaps because it could not have been foreseen.
+Thus, for example, the law which defined adultery and held it to be a matrimonial
+offence, giving rise to certain rights in the innocent spouse, had settled down and
+appeared to be comprehensively defined and understood, until science discovered a
+way of impregnating a woman artificially with the semen of a man whom she had
+never met. Until then the law was quite simple. If a man had lived completely apart
+from his wife for a year and then discovered she was pregnant he could divorce her on
+the ground of adultery; the law would hold the pregnancy to be sufficient evidence of
+adultery, and there could be no answer. Then science provided an answer. The wife,
+in a particular case, could say: ‘I haven’t committed adultery; I have been made
+pregnant by artificial insemination.’ Today, she might go further and say: ‘I have
+hired out my womb for a fee and am merely a host for someone else’s fertilised
+ovum.’ So, for the first time, lawyers have to decide if physical intercourse is the
+essential feature of adultery, or whether adultery is committed when a wife conceives
+a child of which her husband is not the father.
+A judge faced with such a question cannot sidestep it by saying: ‘This is an
+unforeseen and unprovided-for situation; let Parliament deal with it.’ He has to
+decide, and some new law is made. Obviously, most advances in technology are
+capable of throwing up unforeseen problems for which the existing law does not
+provide and the old law has to be stretched by judges to furnish answers which will
+fill the gaps until Parliament attempts to fashion a legal structure to regulate the rights
+and responsibilities of those affected by the new state of facts. But even without the
+trigger of technological innovation, gradual changes in the perception of what is fair
+and reasonable can suggest that the old law is inadequate, and cause judges to nurture
+new principles and limit old ones in order to impose restrictions or make available
+remedies that were not available before, This happened in relation to the concept of
+cruelty in matrimonial cases, in which the judges gradually departed from the idea
+that such cruelty had to be physical, and allowed divorce for mental cruelty. Likewise,
+in the field of public order, the courts responded to unwelcomed forms of protest by
+adapting the concept of breach of the peace. And the unfairness of the judge-made
+doctrine of common employment led later judges to modify its excesses; though, until
+Parliament intervened, the law remained unjust.
+Elusive Definitions
+The so-called ‘hard cases’ in which the justice of the case leads to one result, though
+the existing law points to another, do not always produce bad law in the sense that the
+particular results are unfair; but they tend to produce uncertain law. Law which is
+
+4
+
+uncertain is bad in principle, even if the results in particular cases can be justified.
+When long-standing rules can be abandoned, when too many cases divide judicial
+opinion and can be decided either way, then the warning signals should be out.
+Yet despite the wisdom of the judges, despite their independence, despite their
+impartiality, their traditions, their analytical skills, they disagree about what the law is
+or should be. Such disagreement is unlikely to flow from overt political preferences. It
+flows from the fact that where there is uncertainty, there is bound to be disagreement.
+Unanimity is a rare phenomenon when there is room for doubt. And the law, even
+today, contains a surprisingly large number of grey areas.
+That is true even in the criminal law: the recent report of the Fraud Trials Committee,
+sitting under the chairmanship of Lord Roskill, illustrates that even an apparently
+simple concept like dishonesty is one that the law and judges, at least in England,
+cannot readily explain to juries. And a recent well-known case demonstrates a similar
+phenomenon. The case is Regina v Hancock & Another, the case of the two striking
+Welsh miners who killed a taxi driver by dropping concrete on his taxi as he drove
+another miner to work. The facts were simple enough, but the critical question was
+whether the two miners had acted with what the law would recognise as murderous
+intent. That looks like a question of fact. But the trial judge explained the law about
+intent in such terms that after some five hours the jury sent a note to the judge
+indicating that they were perplexed. So the judge gave them further directions in law.
+If they were puzzled the first time, the second direction would not have helped them,
+because the trial judge just repeated to the jury what he had said the first time. That is
+hardly surprising, because he was being extremely careful to give the jury exactly the
+directions which had been prescribed by the House of Lords itself only a short time
+before in the case of Maloney. The jury brought in a verdict of murder against the two
+miners. On appeal, the Court of Appeal quashed the conviction for murder and
+substituted a verdict of manslaughter. They did so on the ground that what the trial
+judge had said was potentially misleading: in other words that the House of Lords had
+got it wrong in the earlier (Maloney) case.
+So the Crown appealed to the Lords, who had then to decide if the guidelines they had
+laid down in Maloney’s case were sound or defective. They agreed that the guidelines
+laid down in Maloney’s case were defective, but they disagreed with the Court of
+Appeal’s suggestions as to what the guidelines ought to be in future cases. Exactly
+where that leaves the trial judge in future cases has yet to be seen. But it must be a
+matter for some dismay that in 1985 and 1986 the judges in the highest courts were
+still at sixes and sevens as to the appropriate formulation of the guidance to be given
+to juries on a matter as basic, as common and as elementary as intent in a murder
+case. There is something wrong when, after considering hundreds of criminal cases
+involving intent, we still cannot produce an agreed and universally accepted statement
+of precisely what the law requires for proof of specific intent.
+No one can criticise the jury in the Hancock case. There is a tendency, which is by no
+means new, to claim that juries cannot be trusted to handle complex criminal cases.
+But if the Hancock saga is evidence of anything, it is that the problem is not in the
+jury but in the remarkable difficulty that judges have in determining and explaining
+the legal principles and rules which juries have to apply.
+
+5
+
+The Lamp of Freedom
+The inevitable result of reducing the role of the jury would be to increase the role of
+the judge. So it is worth glancing at the other half of that remarkable forensic
+partnership.
+The jury is not one unvarying institution, possessing the same character and powers
+wherever it is found. Juries vary in size from six to 15 members. They decide civil
+and criminal cases. Sometimes they have to be unanimous. Sometimes they are
+allowed to deliver a verdict by a simple or a qualified majority. They mostly resolve
+issues of fact, but sometimes must decide mixed questions of fact and law. In some
+jurisdictions they may have a role in the sentencing process, as well as in determining
+guilt or innocence. And the nature of the right to a jury trial in a criminal case varies
+in different countries. I have no wish to provide an index to all varieties of the jury. It
+would be substantial. I merely want to caution against the insular notion that the jury
+is an institution as unvarying in time and character as the Rock of Ages. It is not, even
+when it is embedded, as in America, in a constitution. It is a tool with many different
+uses and dimensions.
+The use of juries has had a profound effect upon court procedures and rules of
+evidence. Juries came to cases totally ignorant of the background; some jurors could
+not read. So the trial took the form of an oral presentation of the facts, with both sides
+having carefully defined rights to present and to challenge evidence before an openminded court. Neither judge nor jury had an inquisitorial role. The rules of evidence
+were fashioned to ensure that juries heard nothing that might prejudice their
+consideration of the narrow issues they had to resolve, and the jury sat mute until it
+pronounced the winners and the losers.
+Learned commentators, here and in America, compared the form of litigation
+resulting from the use of juries to a sporting contest, a boxing match, a fox-hunt. Lord
+Devlin expressed the more traditional view in describing the criminal jury system as
+‘the lamp of freedom ... the beacon that seven centuries have tended’. Lord Denning
+said it was ‘the best guarantee of our freedoms’. I agree with that. But it is best to see
+the jury as it is: an imperfect instrument in an imperfect world, an instrument
+fashioned by history, rather than by any very conscious design, an instrument that
+takes on a local colour in different jurisdictions.
+So what are we to make of Lord Devlin’s assertion that if there were a tyrant in
+Whitehall his first object would be to make Parliament utterly subservient to his will,
+and the next to overthrow or diminish trial by jury? Since he spoke, the Diplock
+courts have replaced jury trials in Northern Ireland in relation to offences from
+murder downwards, and, after public calls by some judges, the Fraud Trials
+Committee, under the chairmanship of Lord Roskill, has proposed that for certain
+fraud cases trial by tribunal should replace trial by jury. These and other changes
+certainly diminish trial by jury. So are there tyrants in Whitehall? I hope not. I think it
+is going too far to suggest that simply altering the jury system is necessarily a giant
+leap towards tyranny. If it were, then Scotland—where there is no automatic right to a
+jury trial in most cases, and where juries can return a verdict by a simple majority—
+must have been in the grip of tyrants for centuries.
+
+6
+
+Too many lawyers take a patronising view of juries. For myself, I have prosecuted
+and defended in complex fraud, corruption and other such trials in Scotland, with
+jurors selected from the voters’ roll, with some of the jurors almost as young as the
+accused in the dock and some almost as old as the judge on the bench, without ever
+feeling that the jury failed to understand by the end what the point was. We should not
+patronise jurors by regarding them as too young, too old, too immature or too stupid
+to understand how an accused person has brought about some definite practical result
+by false pretences. If it really were true that jurors could not, after hearing the
+evidence, understand the types of fraud case listed in the Roskill report, then they
+really have no business to be deciding about murder, rape and arson. If there is
+something wrong with the way in which those who perpetrate frauds are brought to
+justice, or are not brought to justice, then the probability is that those who investigate
+such frauds are not up to the task and those who present the cases to the jury are
+unable to see the wood for the trees.
+I am not persuaded that the system for establishing the guilt or innocence of those
+charged with complex fraud or any other serious crime has broken down. And if it is
+showing signs of stress then I consider that those who lay the blame on the jury are
+firing at the wrong target. If we are to trim the wick of the lamp of freedom, let us do
+it on the basis of evidence that it is necessary, not just because some people suppose
+that judges could make a better job of determining guilt or innocence than a large
+body of properly instructed citizens sitting as jurors. What has to be done is to
+simplify the law, to improve the facilities for juries, to humanise court rituals and
+modernise rules of evidence, and to devise ways to ensure that the cases are presented
+to juries in a manner that is worthy of the high intellectual competence and substantial
+remuneration of the lawyers, including judges, who take part in such trials.
+Of course juries sometimes acquit people who probably have committed the crimes
+with which they have been charged. But the principal reason for that is that under our
+law no person can be convicted of a crime unless his guilt is established beyond
+reasonable doubt, upon the basis of admissible evidence. I would not for one moment
+suggest that we should tamper with the burden or the standard of proof. I ask merely
+that we acknowledge that it is that standard, and not the gullibility of jurors, that
+secures acquittals in most of those cases in which the prosecution fails. If it happens
+too often that the guilty go free, let us rather re-examine the rules and procedures, to
+see if in a civilised society we can properly provide the jury with more pieces of the
+jigsaw of truth.
+I am not sure if the current criticisms of the criminal jury system and how it is seen to
+operate spring from the same attitudes that cause some lawyers to wax lyrical about
+the new activism of judges in judicial review and urge the dramatic change in the
+scope and character of judicial review that enacting a Bill of Rights would effect.
+Certainly, diminishing the role of the jury while enlarging that of the judge would
+achieve a significant shift of power in the whole field of public order. And obviously,
+to diminish the system of trial by jury and at the same time to enact a Bill of Rights is
+to engage judges in highly visible activities, all related to law, order, justice and
+freedom.
+What I question is the true relevance of such changes to the real problems of order
+and justice. To enact a Bill of Rights in noble language and to set judges to apply it to
+
+7
+
+cases would, I suspect, be the modern equivalent of writing and producing a morality
+play. It would be entertaining, even instructive, and would allow us to applaud the
+occasional triumph of those values that the scriptwriters favoured. But it would have
+little effect on how people behaved in the real world.
+
+8
+
+

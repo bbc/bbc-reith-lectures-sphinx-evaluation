@@ -1,0 +1,361 @@
+REITH LECTURES 1984: Minds, Brains and Science
+John Searle
+Lecture 1: A Froth on Reality
+TRANSMISSION: 7 November 1984 – Radio 4
+
+For thousands of years people have been trying to understand their relationship to I
+the rest of the universe. For a variety of reasons many philosophers today are reluctant
+to tackle such big problems. None the less, the problems remain, and in these lectures
+I’m going to attack some of them.
+At the moment, the biggest problem is this: we have a certain commonsense picture of
+ourselves as human beings which is very hard to square with our overall ‘scientific’
+conception of the physical world. We think of ourselves as conscious, free, mindful,
+rational agents in a world that science tells us consist entirely of mindless,
+meaningless physical particles. Now, how can we square these two conceptions?
+How, for example, can it be both the case that the world contains nothing but
+unconscious physical particles, and yet that it also contains consciousness? How can a
+mechanical universe contain intentionalistic human beings - human beings that can
+represent the world to themselves? How can an essentially meaningless world contain
+meanings?
+Such problems also spill over into other, more contemporary sounding issues: how
+shall we interpret recent work in computer science and artificial intelligence - work
+aimed at making intelligent machines? Specifically does the digital computer at last
+give us the right picture of the human mind? And why is it that the social sciences in
+general have not given us insights into ourselves comparable to those that the natural
+sciences have given us into the rest of nature?
+In this first lecture, I want to plunge right in to what many philosophers think of as the
+hardest problem of all: what’s the relation of our minds to the rest of the universe?
+This, I am sure you will recognise, is the traditional mind-body or mind-brain
+problem. In its contemporary version it usually takes the form: how does the mind
+relate to the brain?
+I believe that the mind-body problem has a rather simple solution, one that’s
+consistent both with what we know about neurophysiology and with our
+commonsense conception of the nature of our mental states—pains, beliefs, desires
+and so on. But before presenting that solution, I want to ask why does the mind-body
+problem seem so intractable. Why do we still have in philosophy and psychology,
+after all these centuries, a ‘mind-body problem’ in a way that we do not have, say, a
+‘digestion- stomach problem’? Why does the mind seem more mysterious to us than
+other biological phenomena?
+I’m convinced that pan of the difficulty is that we persist in talking about a 20thCentury problem in an outmoded 17th-century vocabulary. When I was an
+undergraduate, I remember being dissatisfied with the choices that were apparently
+
+1
+
+available in the philosophy of mind: you could be either a monist or a dualist. If you
+were a monist, you could be either a materialist or an idealist. If a materialist, you
+could be either a behaviourist or a physicalist. And so on. One of my aims in what
+follows is to try to break out of these tired categories.
+But vocabulary apart there is still a problem or family of problems. Since Descartes,
+the mind-body problem has taken the following form: how can we account for the
+relationships between two apparently completely different kinds of things? On the one
+hand, there are mental things, such as our thoughts and feelings; we think of them as
+subjective, conscious and immaterial. On the other hand, there are physical things;
+and we think of them as having mass, as extended in space, and as causally interacting
+with other physical things. Most attempted solutions to the mind-body problem wind
+up by denying the existence of or in some way downgrading the status of, one or the
+other of these types of things. Given the successes of the physical sciences, it’s not
+surprising that in our stage of intellectual development the temptation is to downgrade
+the status of mental entities. Most of the recently fashionable materialist conceptions
+of the mind—such as behaviourism, functionalism and physicalism—end up by
+denying implicitly or explicitly, that there are any such things as minds as we
+ordinarily think of them. That is, they deny that we really do intrinsically have
+subjective, conscious, mental states that are as real as anything else in the universe.
+Now, why do they do that? Why is it that so many theorists end up by denying the
+intrinsically mental character of mental phenomena? If we can answer that question, I
+believe that we will understand why the mind-body problem has seemed so intractable
+for so long.
+There are four features of mental phenomena which have made them seem impossible
+to fit into our ‘scientific’ conception of the world as made up of material things. It is
+these four features that have made the mind-body problem really difficult.
+The first and most important of these features is consciousness. I, at the moment of
+writing this, and you, at the moment of reading it are both conscious. It’s just a plain
+fact about the world that it contains such conscious mental states and events, but it’s
+hard to see how mere physical systems could have consciousness. How could such a
+thing occur? How, for example, could this grey and white gook inside my skull be
+conscious?
+I think the existence of consciousness ought to seem amazing to us. Consciousness is
+the central fact of specifically human existence, because without it all of the other
+specifically human aspects of our existence—such as language, love, humour and so
+on—would be impossible. I believe it is, by the way, something of a scandal that
+contemporary discussions in philosophy and psychology have so little of interest to
+tell us about consciousness.
+The second intractable feature of the mind is what philosophers and psychologists call
+Intentionality’, the feature by which our mental states are directed at or about, or refer
+to, or are of objects and states of affairs, in the world other than themselves.
+‘Intentionality’, by the way, doesn’t just refer to intentions, hut also to beliefs, desires,
+hopes, fears, love, hate, lust, disgust, shame, pride, irritation, amusement, and all of
+those menial states (whether conscious or unconscious) that refer to, or are about, the
+world apart from the mind. Now, the question about intentionality is much like the
+question about consciousness. How can this stuff inside my head be about anything?
+
+2
+
+How can it refer to anything? After all, the stuff in the skull consists of ‘atoms in the
+void’, just as all of the rest of material reality consists of atoms in the void. How, to
+put it crudely, can atoms in the void represent anything?
+The third feature of the mind that seems difficult to accommodate within a scientific
+conception of reality is the subjectivity of mental states. This subjectivity is marked
+by such facts as that I can feel my pains, and you can’t. I see the world from my point
+of view; you see it from your point of view. I am aware of myself and my internal
+mental states, as quite distinct from the selves and mental states of other people. Since
+the 17th century we’ve come to think of reality as something which must be equally
+accessible to all competent observers—that is, we think it must be objective. Now,
+how are we to accommodate the reality of subjective mental phenomena with the
+scientific conception of reality as totally objective?
+Finally, there is a fourth problem, the problem of mental causation. We all suppose, as
+part of common sense, that our thoughts and feelings make a difference to the way we
+behave, that they actually have some causal effect on the physical world. I decide, for
+example, to raise my arm and—lo and behold—my arm goes up. But if our thoughts
+and feelings are truly mental, how can they affect anything physical? Are we
+supposed to think that our thoughts and feelings can somehow produce chemical
+effects on our brains and the rest of our nervous system? Do we suppose that the
+thought can wrap itself around the axons and the dendrites or that it can sneak inside
+the cell wall and attack the cell nucleus? How could such things possibly occur?
+But unless some such connection takes place between the mind and the brain, aren’t
+we left with the view that the mind doesn’t matter, that it is as unimportant causally as
+the froth on the wave is to the movement of the wave? If the froth were conscious, it
+might think to itself, ‘What a tough job it is pulling these waves up on the beach and
+then pulling them out again, all day long!’ But we know that the froth doesn’t make
+any important difference. Now why do we suppose our mental life is any more
+important than a froth on the wave of physical reality?
+These four features then, consciousness, intentionality, subjectivity and mental
+causation, are what make the mind-body problem seem so difficult. Yet, I wish to say,
+they are all real features of our mental lives. Not every mental state has all of them.
+But any satisfactory account of the mind and of mind-body relations must take
+account of all four features if your theory ends up by denying any one of them; you
+know you must have made a mistake somewhere.
+The first thesis I want to advance towards ‘solving the mind-body problem’ is this:
+mental phenomena, all mental phenomena, whether conscious or unconscious, visual
+or auditory, pains, tickles, itches, thoughts, indeed all of our mental life, are caused by
+processes going on in the brain. For example, let’s consider pains. Of course, anything
+we say now may seem wonderfully quaint in a generation or so as our knowledge of
+how the brain works increases. None the less, the form of the explanation can remain
+valid even though the details are altered.
+On current views, pain signals are transmitted from sensory nerve endings to the
+spinal cord by at least two types of fibres-Delta A fibres, which are specialised for
+prickling sensations, and C fibres, which are specialised for burning and aching
+
+3
+
+sensations. As the signals go up the spine, they enter the brain by two separate
+pathways—the prickling-pain pathway and the burning-pain pathway. Both pathways
+go through the thalamus, but the prickling-pain pathway is more localised afterwards
+in the somato-sensory cortex, whereas the burning- pain pathway transmits signals,
+not only upwards into the cortex, but also laterally into the hypothalamus and other
+regions at the base of the brain.
+Now, for the purposes of this discussion, the point we need to hammer home is this:
+our sensations of pains are caused by a series of events that begin at free nerve
+endings and end in the thalamus and in other regions of the brain. And, indeed, as far
+as the actual sensations are concerned, the events inside the central nervous system
+are quite sufficient to cause pains—as we know both from the phantom- limb pains
+felt by amputees and the pains caused by artificially stimulating relevant portions of
+the brain. And I want to suggest that what is true of pain is true of mental phenomena
+generally. To put it crudely, and counting all of the central nervous system as part of
+the brain for our present discussion, everything that matters for our mental life, all of
+our thoughts and feelings, are caused by processes inside the brain.
+The crucial step is the one that goes on inside the head, not the external or peripheral
+stimulus. And the argument for this is simple. If the events outside the central nervous
+system occurred, but nothing happened in the brain, there would be no mental events.
+But if the right things happened in the brain, the mental events would occur even if
+there was no outside stimulus.
+But if pains and other mental phenomena are caused by processes in the brain, one
+wants to know: well, what are pains? What are they really? In the case of pains, the
+obvious answer is that they are unpleasant sorts of sensations. But that answer leaves
+us unsatisfied because it doesn’t tell us how pains fit into our overall conception of
+the world.
+Once again, I think the answer to the question is obvious, but it will take some
+spelling out. To our first claim—pains and other mental phenomena are caused by
+brain processes—we need to add a second claim: pains and other mental phenomena
+are features of the brain (and perhaps the rest of the central nervous system).
+Now, one of the primary aims of this lecture is to show how both of these
+propositions can be true together. How can it be both the case that brains cause minds
+and yet minds just are features of brains? If mental and physical phenomena have
+cause and effect relationships, how can one be a feature of the other? Wouldn’t that
+imply that the mind caused itself—the dreaded doctrine of causa sui? But at the
+bottom of our puzzlement is a misunderstanding of causation. It’s tempting to think
+that whenever A causes B, there must be two discrete events; one identified as the
+cause, the other identified as the effect; that all causation functions in the same way as
+billiard balls hitting each other. This crude model of the causal relationships between
+the brain and the mind inclines us to accept some kind of dualism; that events in one
+material realm, the ‘physical’, cause events in another insubstantial realm, the
+‘mental’. But that seems to me a mistake. And the way to remove the mistake is to get
+a more sophisticated concept of causation. To do this, I want to turn away from the
+relations between mind and brain for a moment to observe some other sorts of causal
+relationships in nature.
+
+4
+
+A common distinction in physics is between micro and macro properties of systemsthe small and large scales. Consider, for example, the desk at which I am now sitting,
+or the glass of water in front of me. Each object is composed of micro-particles. The
+micro-particles have features at the level of molecules and atoms as well as at the
+deeper level of subatomic particles. But each object also has certain properties such as
+the solidity of the table, the liquidity of the water, and the transparency of the glass,
+which are surface or global properties of the physical systems. Many such surface or
+global properties can be causally explained by the behaviour of elements at the micro
+level. For example, the solidity of the table in front of me is explained by the lattice
+structure occupied by the molecules of which the table is composed. Similarly, the
+liquidity of the water is explained by the nature of the interactions between H2O
+molecules.
+It seems to me that these rather banal examples provide a perfectly ordinary model for
+explaining the puzzling relationships between the mind and the brain. In the case of
+liquidity, solidity, and transparency, we have no difficulty at all in saying that the
+surface features are caused by the behaviour of elements at the micro-level. At the
+same time we accept that the surface phenomena just are features of the systems in
+question. The clearest way I know of stating this point is to say that the surface
+feature is caused by the behaviour of micro- elements, and at the same time is realised
+in the system that’s made up of the micro- elements. There is, indeed, a cause and
+effect relationship, but at the same lime the surface features are just higher level
+features of the very system whose behaviour at the micro-level causes them.
+Now, in objecting to this one might say that liquidity, solidity, and so on, are really
+identical with features of the micro-structure. So, for example, we might just define
+solidity as the lattice structure of the molecular arrangement. Well, this point seems to
+me correct but not really an objection to the analysis that I am proposing. It is a
+characteristic of the progress of science that an expression that’s originally defined in
+terms of surface features, features accessible to the senses, is subsequently defined in
+terms of the micro-structure that causes the surface features. Thus, to take the
+example of solidity, the table in front of me is solid in the ordinary sense that it’s
+rigid, it resists pressure, it supports books, it’s not easily penetrable by most other
+objects such as other tables, and so on. Such is the commonsense notion of solidity.
+And in a scientific vein, one can then define solidity as whatever micro-structure
+causes these gross observable features. One can then say either that solidity just is the
+lattice structure of the system of molecules, and that solidity so defined causes, for
+example, resistance to touch and pressure. Or one can say that solidity consists of
+such higher level things as rigidity and resistance to touch and pressure and is caused
+by the behaviour of elements at the micro-level.
+If we apply these lessons to the study of the mind, it seems to me there’s no difficulty
+in accounting for the relations of the mind to the brain in terms of the brain’s
+functioning to cause mental states. Just as the liquidity of the water is caused by the
+behaviour of elements at the micro-level, and yet at the same time is a feature realised
+in the system of micro-elements, so, in exactly that sense of ‘caused by’ and ‘realised
+in’, mental phenomena are caused by processes going on in the brain at the neuronal
+or modular level, and they are realised in the very system that consists of neurons.
+And just as we need the micro-macro distinction for any physical system, for the same
+reasons we need the micro-macro distinction for the brain. Though we can say of a
+
+5
+
+system of particles that it’s ten degrees centigrade, or solid or liquid, we can’t say of
+any given particle that this particle is solid, this particle is liquid, this particle is ten
+degrees centigrade. I can’t reach into this glass, pull out a molecule and say this one’s
+wet.
+In exactly the same way, as far as we know anything at all about it, though we can say
+of a particular brain, this brain is conscious or this brain is experiencing thirst or pain,
+we cannot say of any particular neuron, this neuron is in pain, this neuron is
+experiencing thirst. To repeat the point, though there are enormous empirical
+mysteries about how the brain works in detail, there are no logical or philosophical or
+metaphysical obstacles to accounting for the relation between the mind and the brain
+in terms that are completely familiar to us from the rest of nature.
+Well, let’s now return to the four problems that seem to face any attempt to solve the
+mind-brain problem.
+First, how is consciousness possible?
+The best way to show bow something is possible is to show how it actually exists.
+We’ve already given a sketch of how pains are actually caused by neuro-physiological
+processes going on in the thalamus and the sensory cortex. Why is it, then, that many
+people feel dissatisfied with this sort of an answer? I think that by pursuing an
+analogy with an earlier problem in the history of science we can dispel this sense of
+puzzlement. For a long time many biologists and philosophers thought it was
+impossible, in principle, to account for the existence of life on purely biological
+grounds. They thought that in addition to the biological processes some other element
+must be necessary. Some élan vital had to be postulated in order to lend life to what
+was otherwise just dead and inert matter. It’s hard today to realise how intense the
+dispute was between vitalists and mechanists even a generation ago, but today these
+issues are no longer taken seriously. Why not? I think it’s not so much because
+mechanism won and vitalism lost, but because we’ve come to understand better the
+biological character of the processes that are characteristic of living organisms.
+Once we understand how the features have a biological explanation, it no longer
+seems mysterious to us that matter should be alive. And I suggest that exactly similar
+considerations should apply to our discussions of consciousness. It should seem no
+more mysterious, in principle, that this hunk of matter, this grey and white, oatmealtextured substance of the brain, should be conscious than it seems to us mysterious
+that this other hunk of matter, this collection of nucleo-protein molecules stuck on to a
+calcium frame, should be alive. The way, in short, to dispel the mystery is to
+understand the processes. We don’t yet fully understand the processes, but we
+understand that there are certain specific electrochemical activities going on among
+neurons or neuron modules and perhaps other features of the brain, and that these
+processes cause consciousness.
+Our second problem: how can atoms in the void have intentionality? How can they be
+about something?
+As with our first question, the best way to show how something is possible is to show
+how it actually exists. Consider thirst. As far as we know anything about it, at least
+
+6
+
+certain kinds of thirst are caused in the hypothalamus by sequences of nerve firings.
+These firings are in turn caused by the action of angiotensin in the hypothalamus, and
+angiotensin, in turn, is synthesised by renin, which is secreted by the kidneys. Thirst,
+at least of these kinds, is caused by a series of events in the central nervous system,
+principally the hypothalamus and is realised in the hypothalamus. Now, to be thirsty
+is to have, among other things, the desire to drink. Thirst is therefore an intentional
+state: it has content, its content determines under what conditions it’s satisfied, and it
+has all the rest of the features that are common to intentional states.
+As with the ‘mysteries’ of life and consciousness, the way to master the mystery of
+intentionality is to describe in as much detail as we can how the phenomena are
+caused by biological processes while being at the same time realised in biological
+systems. Visual and auditory experiences, tactile sensations, hunger, thirst and sexual
+desire, are all caused by brain processes and realised in the structure of the brain, and
+they are all intentional phenomena.
+Third, how do we accommodate the subjectivity of mental states within an objective
+conception of the real world?
+It seems to me a mistake to suppose that the definition of reality should exclude
+subjectivity. If a scientific account of the world attempts to describe how things are,
+then one of the features of the account will be the subjectivity of mental states, since it
+is just a plain fact about biological evolution that it has produced certain sorts of
+biological systems, namely human and certain animal brains that have subjective
+features. My present state of consciousness is a feature of my brain, but its conscious
+aspects are accessible to me in a way that they are not accessible to you. And your
+present state of consciousness is a feature of your brain, and its conscious aspects are
+accessible to you in a way that they are not accessible to me. Thus, the existence of
+subjectivity is an objective fact of biology.
+It’s a persistent mistake to try to define ‘science’ in terms of certain features of
+existing scientific theories. But once this provincialism is perceived to be the
+prejudice it is, then any domain of facts is subject to systematic investigation. If, for
+example, God existed, then that tact would be a fact like any other. I don’t know
+whether God exists, but I have no doubt at all that subjective mental states exist,
+because I’m now in one and so are you. If the fact of subjectivity runs counter to a
+certain definition of the word ‘science’, then it’s the definition and not the fact that we
+will have to abandon.
+Fourth, the problem of mental causation for our present purpose is to explain how
+mental events can cause physical events. How, for example, could anything as
+‘weightless’, as ‘gaseous’, as ‘ethereal’, as a thought give rise to an action?
+The answer is that thoughts are not weightless, gaseous and ethereal. When you have
+a thought, brain activity is actually going on. Brain activity causes bodily movements
+by physiological processes. Now, because mental states are features of the brain, they
+have two levels of description - a higher level in mental terms, and a lower level in
+physiological terms. The very same causal powers of the system can be described at
+either level.
+
+7
+
+Once again, we can use an analogy from physics to illustrate these relationships.
+Consider hammering a nail with a hammer. Both hammer and nail have a certain kind
+of solidity. Hammers made of cotton wool or butter will be quite useless, and
+hammers made of water or steam are not hammers at all. Solidity is a real causal
+property of the hammer. But the solidity itself is caused by the behaviour of particles
+at the micro-level and is realised in the system of micro-elements.
+The existence of two causally real levels of description in the brain is exactly
+analogous to the existence of two causally real levels of description of the hammer.
+Consciousness, for example, is a real property of the brain that can cause things to
+happen. My conscious attempt to perform an action such as raising my arm causes the
+movement of the arm. At the higher level of description, the intention to raise my arm
+causes the movement of the arm. At the lower level of description, a series of neuron
+firings starts a chain of events that results in the contraction of the muscles. As with
+the case of hammering a nail, the same sequence of events has two levels of
+description. Both of them are causally real, and the higher level causal features are
+both caused by and realised in the structure of the lower level elements.
+To summarise: in my view, the mind and the body interact, but they are not two
+different things since mental phenomena arc features of the brain. One way to
+characterise this solution to the mind-body problem is to see it as an assertion of both
+physicalism and mentalism. Suppose we define ‘naive physicalism’ to be the view
+that all that exists in the world are physical particles with their properties and
+relations. The power of the physical model of reality is so great that it’s hard to see
+how we can seriously challenge naive physicalism. And now let’s define ‘naive
+mentalism’ to be the view that mental phenomena really exist. There really are mental
+states; some of them are conscious; many have intentionality; they all have
+subjectivity; and many of them function causally in determining physical events in the
+world. The thesis of this first Reith lecture can now be stated quite simply. Naive
+mentalism and naive physicalism are perfectly consistent with each other. Indeed, as
+far as we know anything about how the world works, they’re not only consistent,
+they’re both true.
+
+8
+
+

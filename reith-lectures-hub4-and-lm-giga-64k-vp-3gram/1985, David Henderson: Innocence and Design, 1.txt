@@ -1,0 +1,357 @@
+REITH LECTURES 1985: Innocence and Design
+David Henderson
+Lecture 1: The Power of Do-It-Yourself Economics
+TRANSMISSION: 6 November 1985 – Radio 4
+
+John Maynard Keynes's great work, The General Theory of Employment, Interest and
+Money, which was published almost exactly50 years ago, ends with a justly famous
+tribute to the influence of ideas on events:
+The ideas of economists and political philosophers, both when they are
+right and when they are wrong, are more powerful than is commonly
+understood. Indeed the world is ruled by little else. Practical men, who
+believe themselves to be quite exempt from any intellectual influences,
+are usually the slaves of some defunct economist. I am sure that the
+power of vested interests is vastly exaggerated compared with the
+gradual encroachment of ideas…it is ideas, not vested interests, which
+are dangerous for good or evil.
+Not surprisingly, this passage has been quoted many times, and its thesis much
+debated, by economists and economic historians down the years.
+I can still remember the excitement, and the sense of conviction, which I felt on first
+reading it as a student in Oxford just over 40 years ago. Keynes’s words cast for me a
+new light on the world, and on the subject I had begun to try to master.
+The Phenomenon of Do-It-Yourself Economics
+My own views on this have evolved: they have been shaped not just by reading the
+works of scholars, but also—and in fact largely—by personal experience and
+observation. The experience has been of working as a professional economist in a
+number of different roles and countries. I cannot claim to have greatly influenced the
+course of events; and so far as I know, no practical man has ever shown signs of
+becoming my intellectual slave. But from my long years either in or close to official
+bureaucracies, both national and international, I have formed the view that Keynes’s
+famous thesis needs to be amended in at least one respect.
+The broad direction of his arguments was right; there is no doubt that the policies of
+governments have’ been, and still are, strongly influenced by economic ideas. But
+contrary to what Keynes assumed, these have not necessarily been the ideas of
+economists. Over wide areas of policy the judgments of politicians and their officials,
+as also of public opinion in general, have been and still are guided to a large extent by
+beliefs and perceptions about the working of the economic system, and about national
+interests and the welfare of the community, which owe little or nothing to the
+economics profession. In so far as the world is indeed ruled by economic ideas, these
+are often the intuitive ideas of lay people, rather than the more elaborate systems of
+thought which occupy the minds of trained economists. The history of national
+economic policies down the years beam witness not only to the influence of
+
+economists, defunct or alive, but also to the power of what I call ‘do-it-yourself
+economics’.
+I first became aware of this phenomenon - which I may say came as a complete
+surprise to me - in the late 1950s, when I spent a year on leave from Oxford
+University, and went to work as an economic adviser in Her Majesty’s Treasury. This
+was my first glimpse of economic policy-making from the inside. The experience
+changed both my view of the world and the direction of my professional interests. I
+want now to describe what happened, not because I intend to use these lectures as an
+occasion for autobiography, but because it serves to introduce and illustrate my main
+theme.
+Macroeconomics and the Keynesian Ascendancy
+I joined the Treasury at the beginning of September 1957. Up to that time, I had seen
+no reason to doubt the essential truth of what Keynes had said about the relation
+between economists’ ideas and government policies. After all, the very success of his
+own ideas was evidence that he was right. In Britain, and increasingly in other
+countries too, the Keynesian revolution had taken hold. Its doctrines had established
+themselves with remarkable speed, not only within universities, but apparently also as
+the basis for official policy. Like almost everyone in my generation of economists in
+Britain, I approved of this and took heart from it. I assumed, as most of us did, that the
+chief role of those economists who were interested in questions of policy, and who
+wished to influence policy whether as officials within the government machine or as
+commentators outside it, was to ensure that Keynesian ideas were further developed
+and effectively put into practice.
+For some time, what I saw and learned from my new vantage-point in Whitehall
+served only to confirm these beliefs. In the Treasury I became one of a small group of
+economists who made up what was then known as the Economic Section. All of us
+were Keynesians, and very much aware of being so. Moreover, the subjects we were
+concerned with, both in official memoranda and in our discussions with one another,
+the terms of reference of the committees we served on, and indeed the very existence
+of the Economic Section as such, all to my mind bore witness to Keynes’s vision of a
+world shaped by ‘the gradual encroachment of ideas’. They were manifestations of
+the Keynesian ascendancy.
+On the intellectual side, the Keynesian revolution had led to the establishment of
+macroeconomics as a leading, distinctive and unified branch of economic theory,
+which it still remains. ‘Macro’ as distinct from ‘micro’ economics is concerned with
+the properties and functioning of the economic system as a whole. in particular, it tries
+to describe, explain and predict changes over time in output or production,
+employment and unemployment, and the general price level. Its interest is largely in
+the recent past, and in the not too distant future. If you wanted a professional answer
+to the questions. What has been happening to the economy, and where is it going
+now?’, it is to a macroeconomist that you would turn. These were precisely the main
+questions that were put to us in the Economic Section, though we often dealt with
+them as members of substantial teams of officials drawn not only from various parts
+of the Treasury but also from other departments and from the Bank of England. It was
+largely on macroeconomic issues that we were employed in the public service.
+
+Applied macroeconomic work, then as now, covers a wide range of issues and topics.
+These include public sector revenues and expenditures; the main elements of private
+demand—that is, consumers’ expenditure and business investment; then there are
+exports and imports; international financial flows, the balance of payments and the
+exchange rate; there is the money supply, interest rates and financial markets; key
+wage and salary negotiations; and last, though not least, the likely course and impact
+of developments in the world economy generally. But in all this the focus of attention
+is on the national economy as a whole—or in some cases, such as my own department
+within the OECD, a group of national economies and their interactions within an
+international system. Macroeconomics now is less identified with Keynes’s work than
+it was in my far-off Treasury days, and there are deeper professional disagreements
+within it; but its broad subject-matter and concerns remain much the same.
+As to the practical connection between Keynesian macroeconomic theory and
+government policies, this was officially established in Britain in the spring of 1944,
+when the then wartime coalition government issued a White Paper under the title
+‘Employment Policy’. The opening sentence, which today perhaps has rather a sad
+ring about it read as follows: ‘The government accept as one of their primary aims
+and responsibilities the maintenance of a high and stable level of employment after
+the war’. Well, this aim was to be achieved by Keynesian means, through financial
+policies designed to operate on and control the level of demand within the economy—
+that is the flow of public and private expenditure. The chief single task of economic
+policy was now conceived as being the management of demand. In the post-war years
+this conception of policy and of the role of government was adopted by both the main
+political parties, with no major differences between them. By the early 1950s the socalled ‘Keynesian consensus’ had been established, and it was to remain in place until
+well into the 1970s.
+One result of this wider economic role of government was to strengthen the power of
+the Treasury, which was already the senior Whitehall department. To its traditional
+functions the Treasury had now added the primary responsibility for policies affecting
+the economy as a whole and in particular for the management of demand.
+A second result was the establishment in a central position within the British official
+machine of a small group of economists identified as such. Before 1939 no such
+group had existed. But during the war a number of economists were brought into
+Whitehall: Keynes himself was one of them. Some worked as professionals, mainly in
+the Economic Section of the Cabinet Office which was created in 1941. Others were
+assigned to more general administrative tasks. At the end of the war most of them left
+the Civil Service, either to return to universities or to pursue other careers. (Among
+these were Hugh Gaitskell and Harold Wilson, who both entered the House of
+Commons in 1945.) Of those who stayed, some signed on as regular civil servants in
+the Administrative Class. But a small handful, still identified as professionals,
+remained in the Economic Section. For a while, their future was uncertain; but as time
+went on, and financial and more especially budgetary policies became increasingly
+the main single instrument of the government’s economic policy, they found an
+accepted role. In 1953 the Economic Section was transferred from the Cabinet Office
+to the Treasury. This placed it at the centre of the web of economic policymaking.
+
+Now, macroeconomics is not the whole of economics, and there are questions of
+economic policy on which it has little to contribute. But these aspects of theory and
+policy receded into the background as a result of the Great Depression of the 1930s
+and the Keynesian revolution. My own view of the world, at the time when I was still
+a newcomer in Whitehall, was I think widely shared in the profession and by
+informed people outside it. I thought that issues of macroeconomic policy were of
+dominant importance; that dramatic advances had been made in the economic theory
+which bore on these issues; and that thanks to the spread of Keynesian ideas within
+official circles, together with increasing reliance on professional economic advice,
+they were now handled with greater knowledge and competence than before, both in
+Britain and in other developed industrial countries. I was well aware that there were
+other questions in economics, that there existed (so to speak) a second tier of
+economic issues, but my interests were very largely directed towards the first tier, the
+world of macroeconomics. From observation of this world, I saw every reason to
+believe that Keynes was right. It was indeed the ideas of economists, rather than
+vested interests, which largely decided the choices that governments made.
+
+Discovering DIYE
+However, in the life of a temporary and junior civil servant fate was about to deal a
+new hand. I mentioned earlier that in assuming the main responsibility for economic
+management in Britain, the Treasury had enlarged its sphere its traditional functions
+still remained, and these included the control and oversight of public expenditure.
+Here the Treasury divisions concerned carried on an unceasing argument with the
+various spending departments. Since our responsibilities and our professional interests
+too, were very largely on the macroeconomic side, the Economic Section was not
+much involved in this. But every now and then, when a regular Treasury administrator
+felt that he needed some help, one of us would be asked to give an opinion or attend a
+meeting. I was drawn into sonic of this work by accident; and I found it so interesting
+that, with the agreement of my superiors, I decided to make it my main activity. In
+particular, 1 attended the numerous—and often contentious—meetings of two highlevel interdepartmental committees that were appointed at this time to report to
+Ministers on the future of major public expenditure programmes. One was concerned
+with forestry, and the other with government support for the aircraft industry.
+I now found myself in a different world, both administratively and intellectually. For
+one thing, vested interests were involved in an obvious and indeed essential way. The
+very make-up of the official committees, and the lines on which the argument was
+conducted, were evidence of this. Those sitting around the table were there as the
+accredited representatives of the departments and agencies that were interested
+parties. Their role ‘was to articulate and defend either the interests of their own
+organisations or those of outside groups for which departments acted as sponsors or
+advocates within Whitehall. Officials appeared not as individuals, but as it were
+wearing masks, like actors in a Greek drama. Moreover, for some of the interested
+parties the stakes could be high: the Forestry Commission, for instance, felt at the
+time—I think with justice—that its very survival might be in question.
+Another difference was that the second tier of economics was involved. Here was
+dealing with choices relating to particular expenditure programmes, and this meant
+that I had to think about the general criteria, the yardsticks, that ought to be applied in
+
+such choices. I had to go back to the microeconomic theory I had learnt as a student
+and teacher, and set how it could best be brought to bear. As I did so, I was struck by
+the fact that in this second tier of economic policy discussion, even more than in
+macroeconomics, the aspects of the questions that an economist could handle from his
+professional training alone were insufficient to provide the basis for informed
+judgment. Much more than general economic reasoning was needed. Specialised facts
+and figures, past history and current technology, a feel for roles and institutions, all
+these were and are a necessary part of understanding. At the same time, standard
+economic analysis was helpful, more so than I had expected. Lastly - and this
+especially came as a surprise - the use of conventional economic ideas often set me
+apart from other committee members, who revealed themselves as having quite
+different ways of looking at economic aspects of the issues under review. This was
+true not only of the other departments but sometimes of Treasury officials too.
+Thinking of Keynes’s words, I asked myself where these committee-table ideas had
+originated. They did not come from past university economics courses, which in any
+case few of the officials concerned had attended. Nor were they derived from the
+present-day writings of economists outside the official machine, if only because
+Whitehall was—as it remains—very much a self-contained world, generating its own
+information and ideas. (The brilliant Yes Minister series accurately conveys the
+feeling of a private universe of Ministers and officials, where almost any outsider
+appears as either a nuisance or a threat.) Finally, there were very few cases in which
+these ideas could have been picked up from economists within the departments
+concerned, since—as I now began to observe-units corresponding to the Economic
+Section were rare outside the Treasury. It was apparent that economists, whether past
+or present, inside or outside, simply were not involved. The doctrines I was now
+encountering were intuitive and self-generated: those who held them thought that
+what they were saying was plain common sense, which needed no prompting or
+authority.
+Well, I kept thinking about this discovery, both at the Treasury and after my return to
+Oxford; and in the summer of 1960 1 wrote a paper on the subject. 1 called it ‘The
+Use of Economists in British Administration’, but it was really about their non-use. I
+cited for illustrative purposes four cases or areas in which British official policy
+seemed to have been affected by rather crude economic reasoning; and I referred to
+them as examples of ‘economic policy without economics I would now use a different
+phrase. Economic considerations, as I pointed out in the article, had been present,
+even dominant, in all four. But the economics which had been brought to bear was not
+that of the professionals. What I had identified, and perceived as being widespread
+and influential in Whitehall, was do-it- yourself economics (DIYE for short).
+A Universal Empire of Ideas
+Although it was in Her Majesty’s Treasury that I first came to appreciate the strong
+persuasive influence that do-it-yourself economics can exert on politicians and their
+advisers and indeed on public opinion in general, I soon realised that the Whitehall of
+the late 1950s was far from being an unusual case. In fact, the leading ideas of DIYE
+have a universal character: they can be seen across national frontiers and down the
+centuries. They are unchanging, timeless, and often deeply held. They are the
+economics of Everyman.
+
+Now, from a historical point of view, the notion that economic policies can be chosen
+and implemented without benefit of economists is not in the least surprising. After all,
+there are issues of economic policy as old as human society, while economics as a
+systematic body of thought dates only from the late 18th century. For better or for
+wont, the various experts who advised rulers and governments in earlier times could
+not have possessed the kind of expertise which an economic training is designed to
+give. Their ways of thinking, and their perceptions of issues and events, were in this
+sense pre-economic.
+What is striking, however, is the prevalence today of very similar modes of thought for the do-it-yourself economics of 1985, like that of earlier periods, is essentially preeconomic. More than two centuries have passed since the publication of Adam
+Smith’s great treatise The Wealth of Nations; and trained economists are now well
+established, not just in universities and research institutes, but also in business
+enterprises, Civil Services, and the councils of presidents and prime ministers. In
+Whitehall, for example, the situation has been transformed since the days of my
+bureaucratic apprenticeship. Yet DIYE has not become a curiosity of the past. All
+over the world, ideas and beliefs which owe nothing to recognised economics
+textbooks still retain their power to influence people and events.
+This makes economics an unusual case. In most subjects which have become
+established academic disciplines, the professionals have long since driven the
+amateurs from the field. Uninstructed ‘pre-scientific’ notions, where they still survive,
+are a fringe phenomenon without influence on serious opinion. But with economics,
+even now, the situation often resembles a case which I came across some five years
+ago in an article in the Wall Street Journal.
+It concerned an American economist. William Niskanen, whom I had the pleasure of
+meeting last year in Washington, by which time he had become a member of the
+President’s Council of Economic Advisers. Then, however, he had just been
+dismissed from his post as director of economics at the Ford Motor Company,
+because he refused to accept or support the company’s plea for protection against
+imports of cars from Japan. Commenting on the incident to the Wall Street Journal,
+Niskanen described one aspect of his experience at Ford in words which I found
+illuminating, though not at all surprising. He said that:
+In contrast with their attitudes towards lawyers and engineers (whose
+expertise is readily accepted), business managers are quick…to
+override the judgments of economists on economic matters. Basically,
+every senior manager and board member of Ford thinks of himself as
+an economist, as having a democratic right to make his own judgment
+about economic phenomena.
+This account of executive life in Detroit, with every man his own economist,
+describes a common situation. But I am going to add three riders.
+Number one: this state of affairs is not peculiar to business: you will find it in
+government and other walks of life. Number two: my distinction between the two tiers
+of economic discourse has to be borne in mind. Economists are more often asked for
+their views, and more readily listened to when they express them, on some topics than
+
+on others. And, number three: in my experience it is not so much that the views of
+economists are brusquely overridden by laymen, though this can happen. More often,
+it simply does not occur to those who subscribe to intuitive economic ideas that there
+might actually be an alternative view. In dealing with economic questions. their
+typical state of mind is one of innocence.
+I want now to consider the rather surprising persistence of pre-economic ways of
+thought, and to suggest answers to the following groups of questions.
+First, what are the characteristic features and doctrines of do-it-yourself economics?
+How do they contrast with economists’ ways of analysing and assessing the same
+issues? What are the implications for actual economic policies of adopting one
+framework of thinking rather than the other?
+Next, why is it that in some areas of policy the ideas of economists have little
+persuasive power, while in others—to quote again the striking phrase that Keynes
+used half a century ago—’it seems the world is ruled by little else’? Is this striking
+divergence due to some branches of economics having made greater progress than
+others? Alternatively, can it be explained by differences in the extent to which vested
+interests, as distinct from ideas, influence what governments decide? Why have the
+professionals been so unsuccessful in weakening the hold of do-it-yourself
+economics, where its view of the world and theirs are in conflict?
+And finally, how much does it mailer if DIYE continues to hold sway? Would the
+world be a noticeably better place if more distinctively professional views, of the kind
+I will be describing, carried greater weight than they do at present?
+Presenting the Two Systems
+My first task, then, is to sketch out the main ideas of do-it-yourself economics, and
+show how and why they differ from the ideas of people like me. It is not easy to
+present either of these two systems adequately and without distortion in what can only
+be the barest outline. Each of them presents its own problem. In the case of do-ityourself economics there are naturally no manuals or textbooks to go by, so I have
+used my own descriptive labels and categories, which are necessarily subjective. On
+the other side of the fence, the main problem—notoriously—is that economists do not
+speak with one voice: on many of the issues I will refer to the professionals are much
+less united than the amateurs. Some of them simply are not concerned with the kinds
+of question on which intuition and the standard university textbook are apt to diverge:
+their expertise, and their professional interests, lie elsewhere in the subject. Others, on
+some issues at any rate, would actually want to take the side of the amateurs have
+described the characteristic state of mind of do-it-yourself economics as one of
+innocence, and I think this is just; but a significant number of my professional
+colleagues. in response to the arguments I am about to present, might be disposed to
+remind me that in Hans Andersen’s story it was precisely the innocence of the child
+which enabled him to see, and to say out loud, that the emperor had no clothes.
+Let me emphasise, therefore, that the economists’ approach which I will outline
+represents only one tendency, albeit an influential one, within a fragmented and
+divided profession. I will call it the orthodox or establishment view, Its roots lie deep
+in the history of economic thought, and a systematic economic training usually,
+though not always, leads people either to accept it or at least to acknowledge its place
+
+within the subject. But though distinctively professional it is viewed by some of the
+professionals themselves with indifference, lack of enthusiasm or even active
+hostility. I will return to these differences of opinion at a later stage.
+Partly because of them, I do not put forward the orthodox view as the last word in
+wisdom. Perhaps I can best indicate the spirit in which I present it now by referring to
+a comic novel which was published in 1831. It is Crotchet Castle, by Thomas Love
+Peacock and in it there appears an allegedly representative economist. Given the
+period, he is naturally a Scotsman from Edinburgh, the city of David Flume and
+Adam Smith. His name is Mr MacQuedy - Mac Q.E.D., the son of a demonstration—
+and he represents the essence, the spirit, of political economy (as economics was then
+called). In the same way as Peacock, though with more serious intent, I want to
+convey the essence of a particular approach, a characteristic way of viewing and
+assessing events. Accordingly, I imagine Mr MacQuedy restored to the scene, in
+modern dress, with modern orthodox ideas, trying as ever to persuade us to see the
+world through his eyes. Think of him, if you will, as the exponent and representative
+of the orthodox economic doctrine of today, and of me in turn as his interpreter.
+Now I should say straightaway that I am not conjuring up the ghost of Mr MacQuedy
+in order to conceal or retreat from my own point of view. He and I largely agree: we
+are members of the same club. Over the years, my working experience has led me to
+draw closer to the establishment position; and in comparing it now with do-it-yourself
+economics. I do not pretend to be impartial. But I want to distance myself a little from
+him, leaving open the possibility that our views might not always coincide.
+Let me add a further disclaimer. In these lectures I shall be concerned with the uses of
+economics, and by implication therefore with the role of economists; and part of the
+time I shall speak as an advocate. But I make no extravagant claims for my subject.
+Like other experts, economists are sometimes inclined to be condescending in their
+treatment of laymen but I believe that as a profession we have little to be
+condescending about. The professional differences which are so apparent within
+economics have a number of causes, but possibly the main single factor is that the
+behaviour of economic systems is not well understood. In part, that is because these
+systems are subject to a process of unceasing change which is unique in time: in the
+enormously complex economic drama which is continuously being enacted, there are
+some elements of regularity, but there are no repeat performances. Even if economists
+were more agreed on what was likely to happen and why, this would not rule out the
+possibility that future developments would challenge or discredit these accepted
+views.
+Partly, but by no means entirely because of this, economic policy—to adapt a wellknown saying—is too serious a matter to be left to economists. But equally, it seems
+to me, economic policy is too serious a matter to be conducted without reference to
+economists’ ideas; and this is the theme which Mr MacQuedy will be helping me to
+develop in my next three lectures.
+
+

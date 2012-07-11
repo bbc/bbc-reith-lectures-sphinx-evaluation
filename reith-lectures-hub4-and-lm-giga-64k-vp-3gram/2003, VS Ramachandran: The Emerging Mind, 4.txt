@@ -1,0 +1,354 @@
+Vilayanur S. Ramachandran
+Reith Lectures 2003: The Emerging Mind
+Lecture 4: Purple Numbers and Sharp Cheese
+In the 19th century, the Victorian scientist Francis Galton, who was a cousin of
+Charles Darwin, noticed something very peculiar. He found that certain people in the
+normal population who were otherwise perfectly normal had a certain peculiarity and
+that is every time they heard a specific tone, they would experience a specific colour.
+For example, C sharp might be red, F sharp might be blue, another tone might be
+indigo. And this curious mingling of the senses was called synesthesia. Some of these
+people also see colours when they see numbers. Every time they see a black and white
+number like the number five printed on a white page, or a white five on a black page
+for that matter, they would see it tinged red so five might be red, six would be green,
+seven would be indigo, eight would be yellow and so on and so forth. Galton also
+pointed out this condition runs in families and more recently Simon Baron Cohen in
+Cambridge has confirmed this, that it does indeed run in families.
+Now I think it's fair to say that even though people have known about synesthesia for
+over a hundred years, it's been by and large recorded as a curiosity by mainstream
+neuroscience and psychology but what I'd like to do today in fact is suggest that
+anomalies can be extremely important in science. If you know which anomaly to pick,
+you can completely change the direction of your research and generate what you
+would call scientific revolutions. But first let's look at the most common explanations
+that have been proposed to account for synesthesia and in fact there are four of these.
+The first explanation is the most obvious and that is that they're just crazy! Now the
+second explanation is maybe they're just acid junkies or pot heads, they've just been
+on drugs. Now this is not an entirely inappropriate criticism because synesthesia is
+more common among people who use LSD but to me that makes it more interesting,
+not less interesting. Why should some chemicals cause synesthesia, if indeed they do?
+The third idea is that maybe these people are just remembering childhood memories.
+For example maybe they were playing with refrigerator magnets and five was red and
+six was blue and seven was green, and for some reason they're stuck with these
+memories but this never made much sense to me because why would it then run in
+families? You'd have to say they're passing the same magnets down, or the propensity
+to play with magnets runs in families or something like that. Anyway it didn't make
+much sense but it's something you have to bear in mind. The fourth explanation is
+more subtle and it invokes sensory metaphors. If you look at our ordinary language,
+it's replete with synesthetic metaphors, cross-sensory metaphors such as for example
+if you said cheddar cheese is sharp. Well cheese isn't sharp, you can take a piece of
+cheese and rub it on your skin, it's actually soft. So why do you say it's sharp? Well
+you say oh no no, what I mean is it tastes sharp, it's a metaphor. But this is circular why do you use a tactile adjective, touch you know sharp, for a taste sensation?
+Now the problem with this explanation is that in science you can never explain one
+mystery with another mystery. Saying that synesthesia is just a metaphor doesn't
+explain a damn thing because we don't know what a metaphor is or how it's
+represented in the brain. And indeed as we go along, what I'd like to do is to turn it
+
+upside down and suggest the very opposite, that synesthesia is a sensory phenomenon
+whose neural basis you can discover in the brain and that in turn can give you an
+experimental foothold for understanding more elusive aspects of the mind such as
+what is a metaphor, so why has it been ignored? There's an important lesson here in
+the history of science. And I think in general it's fair to say that for a curious
+phenomenon, an anomaly to make it into mainstream science and have an impact, it
+has to fulfil three criteria, and that is first you have to show it's a real phenomenon.
+Second, you have to have a candidate mechanism that explains what it might be. And
+third it has to have broad implications. What's a big deal? So what, who cares? So for
+example if you take telepathy, OK telepathy has vast implications if true so the third
+criterion is fulfilled but the first criterion is not fulfilled, it's not repeatable. We don't
+even know if it's true, it's probably bogus. Another example would be bacterial
+transformation. If you take one species of bacteria - pneumococcus - and you incubate
+it with another species of bacterium, the second species actually becomes transformed
+into the first species and you can do this just extracting the chemical, the DNA, and
+then use that to induce the transformation and this was reliably repeatable. Many
+times it was repeated as published in a prestigious journal but people ignored it. OK
+why did they ignore it? Because nobody could think of a candidate mechanism. How
+can you possibly encode heredity in a chemical until Watson and Crick came along,
+described the double helical structure of DNA, described the genetic code and then
+people started accepting it, and recognised the importance of bacterial transformation.
+So I'd like to do the same thing with synesthesia. First of all I'd like to show it's real,
+it's not bogus. Second, suggest candidate mechanisms, what's going on in the brain.
+And third, so what - why should I care? So I'm going to argue in fact synesthesia has
+very broad implications. It might tell you about things like metaphor and how
+language evolved in the brain, maybe even the emergence of abstract thought that us
+humans, human beings are very good at.
+So first we need to show synesthesia is a real phenomenon. What we did was
+essentially develop a clinical test for discovering closet synesthetes, and how do you
+do that? First of all we found two synesthetes and these people saw numbers as
+colour, for example five as red and two as green, so we produced a computerised
+display on the screen which had a random jumble of fives on the screen and
+embedded among these fives are a number of twos, and the twos are arranged to form
+a shape like a triangle or a square or a circle. Now when you and I, anybody here in
+the audience who is not a synesthete looks at this display, it takes several seconds, as
+much as twenty or thirty seconds before you say oh I see all the twos, they are
+arranged to form a triangle or a square. Now when we showed this sample display to
+the two synesthetes, they immediately or very quickly saw the triangle or the square
+because the numbers are actually coloured for them, they see them conspicuously
+popping up from the background so this demolishes the idea that they're just crazy
+because if they're crazy, how come they're better at it than all of you normals? It also
+suggests that it's a genuine sensory effect because if it's just a memory association or
+something high level, how come they actually see the triangle? So we know the
+phenomenon is real and using this test and other similar tests, we are able to show that
+it's much more common than people have assumed in the past. In fact people have
+claimed that it's one in ten thousand. We find it's one in two hundred, probably two or
+three of you here in the audience who don't want to admit it.
+
+So next what causes synesthesia? Well my students and I, especially Ed Hubbard, he
+and I were looking at brain atlases and we found if you look at a structure called the
+fusiform gyrus in the temporal lobes of the brain, it turns out that the fusiform gyrus
+has the colour area V4 which is described by Semir Zeki. This is the area which
+processes colour information but we were struck by the fact that the number area of
+the brain which represents visual numbers as shown by brain imaging studies, that
+number area is right next to it, almost touching the colour area of the brain so we said
+this can't be a coincidence, how come the most common type of synesthesia is
+number/colour and the number area and colour area are almost touching each other
+right next to each other in the same part of the brain? Maybe what's going on is these
+people have some accidental cross-talk, or cross-wiring, just as in my experiments on
+phantom limbs in my London lecture I showed that the face area becomes crosswired with the hand area in the cortex, except in this case it happens not because of
+amputation but because of some genetic change in the brain. And now we've done
+imaging experiments on people with synesthesia and showed that if you show just
+black and white numbers, they get activation in the colour area.
+Now the next question is why does this cross-wiring or cross-activation occur? Well
+remember I said it runs in families. Well this suggests there's a gene or set of genes
+involved. What might this gene be doing, this bad gene? Well one possibility is we
+are all born with excess connections in the brain. In the foetus there are many more
+redundant connections than you need and then you prune away the excess connections
+to produce the modular architecture characteristic of the adult brain, like
+Michelangelo chipped away everything that doesn't look like David to produce David.
+That's how you generate a brain. So I think what's happened in these people is that
+gene is defective and therefore there's defective pruing so there's cross-activation
+between adjacent areas of the brain - or there could be some kind of chemical
+imbalance that produced cross-activation between adjacent parts of the brain that are
+normally only loosely connected and this produces a hyperconnectivity between these
+parts of the brain.
+Now what we found next was even more amazing. Take the same two synesthetes.
+Instead of showing them Arabic numbers- actually I should call them Indian numbers
+but it doesn't matter - Indian/Arabic numbers, you show them Roman numbers,
+Roman V which looks like a V or a 6. Guess what happens? They say oh I know it's a
+five but it doesn't look coloured, it's black and white so Roman numbers don't give
+colours. Now what does that prove? It's very important because it shows it's not the
+numerical concept that drives the colour but the visual appearance of the
+Indian/Arabic number and it fits with what I'm saying because the fusiform gyrus
+represents the visual appearance of numbers and letters and things like that, not the
+abstract concept of sequence or ordinality.
+Where does that occur, the abstract idea of number? We don't know but a good guess
+is angular gyrus in the left hemisphere. We know that because when that's damaged in
+patients they can no longer - they're fluent in conversation, they are intelligent and all
+of that but they can't do even simple arithmetic. You say what's seventeen minus
+three, he'll say oh is it nine? Gets it completely wrong. So we think that abstract
+number concepts are represented in the angular gyrus and remember this chap's crosswiring, is in the fusiform gyrus but in the visual appearance of a number and the
+colour.
+
+Now, however, we then found this is not true of all synesthetes. All synesthetes are
+not made equal. We then ran into other synesthetes where it's not merely a number
+that evokes colour but even days of the week evoke colours. Monday is red, Tuesday
+is indigo, Wednesday is blue, months of the year evoke colour, December is yellow,
+January is red, February is indigo. No wonder people thought they were crazy! But
+remember, if you're a clinician you know when somebody sounds crazy it usually
+means you're not smart enough to figure it out. He isn't crazy. What do calendars,
+what do days of the week, months of the year and numbers have in common? What
+they all have in common is the abstract idea of sequence or ordinality. So what I am
+claiming is that's represented in the angular gyrus, higher up in the TPO junction,
+temporal parietal occipital junction in the vicinity of the angular gyrus, and guess
+what? The next colour area in the sequence is higher up in the general vicinity of the
+TPO junction, not far from the angular gyrus so what I'm arguing is - in these people
+the cross-wiring is higher up in the angular gyrus. Then you get a higher synesthete,
+so if the faulty gene is selectively expressed in the fusiform gyrus, lower at an earlier
+stage in processing, you get a lower synesthete driven by the visual appearance. If it's
+expressed selectively higher up in the vicinity of the angular gyrus, you get a higher
+synesthete driven by the numerical concept rather than by the visual appearance.
+OK next question - why did this gene survive? One in two hundred people have this
+peculiarity of seeing coloured numbers and it's completely useless so why hasn't it
+vanished from the population and I'm going to suggest it's a bit like sickle cell
+anaemia - there's a hidden agenda. These genes are doing something else important.
+What? Well one of the odd facts about synesthesia which been known for a long time
+and again been ignored, is the fact that synesthesia is much more common among
+artists, poets, novelists, you know flaky types! So now why is it much more common?
+Well one view is that - in fact according to one study it's seven times more common
+among artists poets and novelists and the reason is what do artists, poets and novelists
+all have in common? Just think about it. What they all have in common is they're very
+good at metaphor, namely linking seemingly unrelated concepts in their brain, such as
+if you say "out out brief candle", so it's life, why do you call it a candle? Is it because
+life is like a long white thing? Obviously not. You don't take the metaphor literally,
+although schizophrenics do and we won't go into that. So why do you that? Well it's
+brief like a candle, it can be snuffed out like a candle, it illumines like a candle very
+briefly. Your brain makes all the right links and Shakespeare of course was a master
+of doing this. Now imagine one further assumption - if this gene is expressed more
+diffusely instead of being just expressed in the fusiform or in the angular, if it's
+expressed in the fusiform you get a lower synesthete, in the angular gyrus TPO
+junction you get a higher synesthete. If it's expressed everywhere you get greater
+hyperconnectivity throughout the brain making you more prone to metaphor, links
+seemingly unrelated things because after all concepts are also represented in brain
+maps. This may be seem counter-intuitive but after all a number, there's nothing more
+abstract than a number. You can have five pigs, five donkeys, five chairs - it's
+fiveness - and that's represented in a fairly small region namely the angular gyrus so
+it's possible that concepts are also represented in brain maps and these people have
+excess connections so they can make these associations much more fluidly and
+effortlessly than all of us less-gifted people.
+
+Now, remember I said the third thing you have to do in science is show that this is not
+just some quirk. It has vast implications. Well what implications does synesthesia
+have? I'm going to show all of you that synesthesia is not just a quirk in some people's
+brain. All of you here are synesthetes, and I'm going to do an experiment. I want all of
+you to imagine in front of you, to visualise in front of you a bulbous amoeboid shape
+which looks a bit, has lots of curves on it, undulating curves. And right next to it
+imagine a jagged, like a piece of shattered glass with jagged shapes. And just for fun,
+I'm going to tell you this is Martian alphabet. Just as in English alphabet, A is a, B is
+b, you've got each shape with the particular sound, this is Martian alphabet and one of
+these shapes is kiki and the other is booba, and I want you to tell me which is which.
+How many of you think the bulbous shape is the kiki, raise your hands? Well there's
+one mutation there. In fact what you find is if you do this experiment, 98% of people
+say the jagged shape, the shattered glass is kiki, and the bulbous amoeboid shape is a
+booba. Now why is that? You never learnt Martian and nobody here is a Martian. The
+answer is you're all synesthetes but you're in denial about it. And I'll explain. Look at
+the kiki and look at the sound kiki. They both share one property, the kiki visual shape
+has a sharp inflexion and the sound kiki represented in your auditory cortex, in the
+hearing centres in the brain also has a sharp sudden inflexion of the sound and the
+brain performs a cross-modal synesthetic abstraction saying the only thing they have
+in common is the property of jaggedness. Let me extract that property, that's why
+they're both kiki. So what? Well I'll explain.
+We have taken the same patterns I have just told you about, the booba/kiki, and
+shown them to patients who have damage, very small lesion in the angular gyrus of
+the left hemisphere and guess what? If you show them these two shapes and ask them
+to associate kiki with the two shapes, kiki and booba, they're random and by the way
+we don't use just these two shapes. We have a whole set of them and they cannot do
+this cross-modal associations even though they're fluent in conversation, they're
+intelligent, they seem normal in other respects. This makes perfect sense because the
+angular gyrus is strategically located at the crossroads between the parietal lobe
+(concerned with touch and propriaception) the temporal lobe (concerned with
+hearing), occipital lobe> (concerned with vision) so it is strategically placed to allow
+a convergence of different sense modalities to create abstract modality-free
+representations of things around you. Now think of what this involves. Think of the
+jagged shape and the sound, kiki. They have nothing in common. One is photons
+hitting the retina in parallel, and the other is a sharp sound hitting the hair cells
+sequentially but the brain abstracts the common denominator saying - but jaggedness
+is common, or the property of undulation is common, so what you're seeing here in
+the angular gyrus is the beginnings of a property that we call abstraction that us
+human beings excel in. And another point I'd like to make is why did this ability
+evolve in humans in the first place, cross-modal abstraction? Well it turns out if you
+look at lower mammals, compare them with monkeys, then compare them with the
+great apes and then with humans, there's a progressive enlargement of the TPO
+junction and angular gyrus, almost an explosive development and it's especially large
+in us humans. Why? Well I think this ability evolved because imagine your ancestors
+scurrying up on the treetops trying to grab branches, jumping from branch to branch,
+they've got a visual horizontal branch and then they have to adjust the angle of the
+arm and the fingers so that the proprioceptive map has to match the horizontality of
+the visual appearance and that's why the angular gyrus became larger and larger. But
+once you develop this ability to engage in cross-modal abstraction, that structure in
+
+turn became an exaptation for other types of abstraction that us humans excel in, be it
+metaphor or any other type of abstraction, so that's the claim being made here.
+Now finally I would like to turn to language, how did language evolve? This has
+always been a very controversial topic and the question is look, here we have this
+amazing ability called language with all the nesting of clauses, this hierarchical
+structure of language, this recursive embedding of clauses, our enormous lexicon and
+it's an extraordinarily sophisticated mechanism. How could it possibly have evolved
+through the blind workings of chance through natural selection? How did we evolve
+from the grunts and howls and groans of our ape-like ancestors to all the
+sophistication of a Shakespeare or a George Bush? Now there have been several
+theories about this. Alfred Russell Wallace said the mechanism is so complicated it
+couldn't have evolved through natural selection. It was done by god, divine
+intervention. Maybe he's right but we can't test it so let's throw it away. Next theory
+was by Chomsky. Chomsky said actually something quite similar although he doesn't
+use the word god. He said this mechanism is so sophisticated and elaborate it couldn't
+have emerged through natural selection, through the blind workings of chance but god
+knows what happens if you pack one hundred billion nerve cells in such a tiny space,
+you may get new laws of physics emerging. Aha, that's how you explain language so
+he almost says it's a miracle although he doesn't use the word miracle. Now even if
+that's true we can't test it so let's throw it away. So then what actually happened? How
+did language evolve? I suggest the clue, the vital clue comes from the booba/kiki
+example, from synesthesia and I'd like to replace this idea with what I call the
+synesthetic boot-strapping theory of language origins, and I'll get to that in a minute.
+So the next idea is Pinker's idea and his idea is look there's no big mystery here.
+You're seeing the final result of evolution, of language but you don't know what the
+intermediate steps are so it always looks mysterious but of course it evolved through
+natural selection even though we don't know what the steps were. Now I think he's
+right but he doesn't go far enough because as a biologist, we want the devils and the
+details. We want to know what those intermediate steps are, not merely that it could
+have happened through natural selection. Of course it happened through natural
+selection. There is nothing else so let's take the lexicon, words. How did we evolve
+such a wonderful huge repertoire of words, thousands of words? Did our ancestral
+hominoids sit near the fireplace and say, let's look at that. OK, everybody call it an
+axe, say everybody axe. Of course not! I mean you do that in kindergarten but that's
+not what they did. If they didn't do that, what did they do? Well what I'm arguing is
+that the booba/kiki example provides the clue. It shows there is a pre-existing
+translation between the visual appearance of the object represented in the fusiform
+gyrus and the auditory representation in the auditory cortex. In other words there's
+already a synesthetic cross-modal abstraction going on, a pre-existing translation if
+you like between the visual appearance and the auditory representation. Now
+admittedly this is a very small bias, but that's all you need in evolution to get it started
+and then you can start embellishing it.
+But that's only part of the story, part one. Part two, I'm going to argue, there's also a
+pre-existing built-in cross-activation. Just as there is between visual and auditory, the
+booba/kiki effect, there's also between visual in the fusiform and the motor brocas
+area in the front of the brain that controls the sequence of activations of muscles of
+vocalisation, phonation and articulation - lips, tongue and mouth. How do I know
+
+that? Well let's take an example. Let's take the example of something tiny, say teeny
+weeny, un peu, diminutive - look at what my lips are doing. The amazing thing is
+they're actually physically mimicking the visual appearance of the object - versus
+enormous, large. We're actually physically mimicking the visual appearance of the
+object so what I'm arguing is that also again a pre-existing bias to map certain visual
+shapes onto certain sounds in the motor maps in the brocas area.
+Lastly, the third factor - I think there's also a pre-existing cross-activation between the
+hand area and the mouth area because they are right next to each other in the Penfield
+motor map in the brain and let me give you an example, and I got scooped. Charles
+Darwin first described this. What he showed was when people cut with a pair of
+scissors you clench and unclench your jaws unconsciously as if to echo or mimic the
+movements of the fingers. He didn't explain why but I'd like to give it a name. I call it
+synkinesia - and that's because the hand and mouth areas are right next to each other
+and maybe there is some spill-over of signals. Now so what? Well, imagine your
+ancestral hominids evolving a system of gestures for communication, and this would
+have been important because vocalisation, you can't engage them in your hunting.
+Now the right hemisphere produces guttural emotional utterances along with the
+anterior singular. Now your mouth and tongue are already, there's a pre-existing
+translation of the visual symbols into mouth lip and tongue movements. Combine that
+with guttural utterances coming from the right hemisphere and anterior cingulate,
+what do you get? You get the first words, you get proto-words.
+So now you've got three things in place - hand to mouth, mouth in brocas area to
+visual appearance in the fusiform and auditory cortex, and auditory to visual, the
+booba/kiki effect. Each of these is a small effect but acting together there's a
+synergistic boot-strapping effect going on and an avalanche effect, culminating in the
+emergence of language. Finally you say well what about the hierarchical structure of
+syntax? How do you explain that? Well I think like when you say he knows that I
+know that he knows that I know that I had an affair with his wife. How do you do this
+hierarchic embedding in language? Well partly I think that comes from semantics,
+from the region of the TPO where I said you'd engage in abstraction and I already
+explained how abstraction might have evolved, so partly abstraction feeds into
+syntactic structure, but partly from tool use. Early hominids were very good at tool
+use and especially what I call the sub-assembly technique in tool use where you take a
+piece of flint, make it into a head - step one. Then you haft it onto a handle - step two,
+and then the whole thing becomes one entity which is then used to hit you the subject,
+you hit the object. You do something to the object and this bears a certain operational
+analogy with the embedding of noun clauses. So what I'm arguing is what evolved for
+tool use in the hand area is now exapted and assimilated in the brocas area to be used
+in syntactic hierarchic embedding. So now look, each of these has a small bias but
+acting in conjunction they culminate in language. It's very different from Steve
+Pinker's idea which is that language is a specific adaptation which evolved step by
+step for the sole purpose of communication. What I'm arguing here is no, it's the
+fortuitous synergistic combination of a number of mechanisms which evolved for
+other purposes initially and then became assimilated into the mechanism that we call
+language. This often happens in evolution but it's a style of thinking that has yet to
+permeate neurology and psychology and it's very odd that neurologists don't usually
+think of evolution given that nothing in biology makes any sense except in the light of
+evolution as Dobzhansky once said.
+
+So let me summarise what we've done. We begin with a disorder that's been known
+for a century but treated as a curiosity. And then we showed that the phenomenon is
+real, what the underlying brain mechanisms might be, and lastly spelt out what the
+broader implications of this curious phenomenon might be. So what have we done
+here with synesthesia? Let's take a look. One day we might be able to clone the gene
+or genes, because if you find a large enough family you might be able to do this. Then
+we can go on to the brain anatomy and say look, it's expressed in the fusiform gyrus
+and you get lower synesthesia. You go to angular gyrus you get higher synesthesia. If
+it's expressed all over you get artsy types! Then from the brain anatomy you go to
+detailed perceptual psychophysics. Either the pop-out effect, you know the 2s against
+the 5s which you can measure, and then finally all the way to understanding abstract
+thought and how it might have emerged, metaphor, Shakespeare, even the evolution
+of language - all of this in this one little quirk that people used to call synesthesia. So I
+agree wholeheartedly with what Huxley said in the last century just across the road
+here at the University Museum, contrary to Benjamin Disraeli's views and the views
+of Bishop Wilberforce. We are not angels, we are merely sophisticated apes. Yet we
+feel like angels trapped inside the bodies of beasts, craving transcendence and all the
+time trying to spread our wings and fly off, and it's really a very odd predicament to
+be in, if you think about it.
+Thank you!
+
+

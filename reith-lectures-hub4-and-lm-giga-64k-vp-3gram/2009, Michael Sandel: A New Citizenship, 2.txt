@@ -1,0 +1,541 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST. THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+
+REITH LECTURES 2009: A NEW CITIZENSHIP
+Presenter: Professor Michael Sandel
+Lecture 2: Morality in Politics
+TRANSMISSION: 16th JUNE 2009
+RADIO 4
+
+9.00-9.45
+
+SUE LAWLEY: Hello and welcome to Rhodes House in Oxford for the second in
+this year’s series of BBC Reith Lectures. Designed by Sir Herbert Baker, this is a
+magnificent retreat for the university’s Rhodes scholars: students from around the
+world who’ve been awarded fellowships to study for degrees at Oxford.
+
+The scholarships were set up under the will of that one-man colonial whirlwind, Sir
+Cecil Rhodes. He wanted his legacy to enable students who displayed qualities of
+truth and courage, essential to good public duty. Bill Clinton was a Rhodes scholar,
+and so indeed was our Reith Lecturer this year: Michael Sandel.
+
+And public duty is very much what this year’s four lectures are all about. He’s called
+them ‘A New Citizenship’. He began last week in London by addressing the issue
+surrounding the moral limits of markets. Tonight his subject is one that’s very close to
+public concerns in Britain currently. It’s called ‘Morality in Politics’. Please welcome
+the BBC Lecturer for 2009: Professor Michael Sandel.
+
+(APPLAUSE)
+
+SUE LAWLEY: Just a few words before we begin, Michael. I mean when you were
+here - 1975, wasn’t it - were you a kind of long-haired activist?
+
+MICHAEL SANDEL: Well long-haired, long-haired student.
+1
+
+SUE LAWLEY: (LAUGHS) But you had been an activist, I think, at high school in
+LA, hadn’t you?
+
+MICHAEL SANDEL: I think you’re thinking of the story about when I was
+President of my student body class in high school, yes.
+
+SUE LAWLEY: And you went pursuing the then Governor of California, who was
+one Ronald Reagan.
+
+MICHAEL SANDEL: I went to high school in Pacific Palisades, California, where
+he lived, he had his home. I thought it would be fun to try to bring him to the school
+where almost everyone, all of us, disagreed with his politics. It was a Left Liberal
+student body.
+
+SUE LAWLEY: But how did you persuade him to come?
+
+MICHAEL SANDEL: First I sent a letter, which was ignored. Then my mother
+learned reading a magazine that he liked jelly beans. So I bought six pounds of jelly
+beans, put them in a box with a bow, and delivered them to his house where there
+were state troopers and guard dogs barking. And about a week later, he called the
+school and said he’d come. (LAUGHTER)
+
+SUE LAWLEY: So what happened? Did you really do him over?
+
+MICHAEL SANDEL: Well I prepared … I was a high school debater, Sue, and
+thought I was really very good, and Ronald Reagan held views that were anathema to
+me and my classmates. So I prepared the toughest questions I could muster and for 25
+minutes or so grilled him in front of the 2,000 plus students. And somehow he
+charmed everyone in the room and then left! (LAUGHTER)
+
+SUE LAWLEY: What is the moral of this story: beware the charm of politicians, or
+don’t be bedazzled by celebrity? I mean what went wrong with the grilling you
+2
+
+prepared?
+
+MICHAEL SANDEL: Well either I wasn’t good enough or he was too good.
+(LAWLEY LAUGHS) And he went on, having been Governor of California at the
+moment, to work his charms on the American people.
+
+LAWLEY: Michael, I’m sure you’re good enough for us and I’m sure you’ll work
+your charms on us this evening. Can I invite you to deliver your second lecture?
+Thank you.
+
+MICHAEL SANDEL: Thank you, Sue.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Well thank you, thank you very much. It’s a great pleasure
+being here. Returning to Oxford brings back many fond memories, including one
+related to the subject of my previous lecture about markets and morals. When I was in
+Oxford back in the late 1970s, they still had separate colleges for men and women and
+the women’s colleges had rules against overnight male guests. These rules were rarely
+enforced and easily violated. Or so I was told. (LAUGHTER) Pressure was growing
+to relax these rules, which became a subject of debate at St. Anne’s, which was then
+an all women’s college. Some of the older women on the faculty were traditionalists.
+They opposed allowing male guests. They believed in protecting the moral virtue, as
+they saw it, of their young women students. But times had changed and the
+traditionalists were embarrassed to give the real reasons for their objection, so they
+translated their moral argument into an economic one. “If men stay overnight”, they
+argued, “the costs to the college will increase”. How, you might wonder? “Well”, they
+said, “they’ll want to take baths, and that will use hot water”. (LAUGHTER)
+“Furthermore”, they argued, “we’ll have to replace the mattresses more often”.
+(LAUGHTER) The reformers met these arguments by adopting the following
+compromise: each woman could have a maximum of three overnight guests each
+week provided each guest paid 50 pence a night to defray the costs to the college. The
+next day, the headline in The Guardian read: ‘St. Anne’s girls 50 pence a night’.
+3
+
+(LAUGHTER) So there you have a lesson in the perils of reducing moral
+considerations to economic ones.
+
+My theme in these lectures generally is a new citizenship. In this lecture, my subject
+is morality in politics. I’m not referring here to the morality of politicians. I’m
+referring instead to the role that moral and religious argument should play in political
+discourse and in justifying laws. Many people shudder at the prospect. “Isn’t it
+dangerous?”, they ask, “to bring morality and religion into politics? Isn’t it safer for a
+government to try to be neutral and avoid taking sides on the moral and religious
+convictions its citizens espouse?” I say no, not necessarily, for two reasons. First, it’s
+often not possible for government to be neutral on substantive moral questions; and,
+second, the attempt to do so can make for an impoverished public discourse.
+
+Let me begin where I left off last time with a case about buying and selling. Some
+couples are unable to bear children of their own, but they don’t want to adopt. They
+want a genetically related child, so they provide the egg and sperm and hire a woman
+to carry the pregnancy for them: a surrogate mother. When the surrogate gives birth,
+she turns the child over to the commissioning couple. Commercial surrogacy is illegal
+in the UK and in most European countries. In the United States, some states permit
+the practice and others prohibit it. Even where it’s legal, it’s quite expensive.
+
+Confronted with high costs and legal restrictions, people have turned to a familiar
+solution: paid pregnancy is now outsourced to low cost providers. In 2002, India
+legalised commercial surrogacy in hopes of attracting foreign customers. And in
+Mumbai, an obstetrician recently told the London Evening Standard that she delivers
+on average one baby from a surrogate for a British couple every 48 hours. From the
+standpoint of market efficiency, outsourcing pregnancy to women in the developing
+world makes perfect sense. The money the women earn (around 7500 dollars) is often
+more than they would make in 15 years. For the prospective parents, hiring an Indian
+woman to bear their child is a great bargain. The total cost is about a third of what it
+would be in Britain or in the United States. Everyone gains. And yet there is
+something unsettling about this new global industry. One source of unease may be a
+doubt about consent. Have the women freely chosen to bear other people’s babies for
+4
+
+pay? Or are they driven to it in effect by force of poverty and economic necessity?
+But even if we’re satisfied that the arrangement is not coercive, there remains a
+further moral question - not about consent but about degradation. Does treating babies
+and pregnancies as commodities degrade them? Does it fail to value them in the right
+way?
+
+Elizabeth Anderson, a moral philosopher, has applied a version of this idea to the
+surrogacy debate. She argues that surrogacy contracts degrade women and children by
+treating them as if they were commodities. And by degradation, she means creating
+something in accordance with a lower mode of valuation than is proper to it.
+Commercial surrogacy degrades children, she argues, because it uses them as
+instruments of profit rather than cherishes them as persons worthy of love and care. It
+also degrades women, Anderson argues, by treating their bodies as factories and by
+paying them not to bond with the children they bear. The surrogate labour is
+alienated, Anderson writes, because she must divert it from the end which the social
+practices of pregnancy properly promote; namely an emotional bond with the child.
+
+So this idea that there are certain proper ends or purposes to social practices, this idea
+suggests that to determine the right way of valuing things, we have to figure out the
+purpose, the end of the social practice in question. And this idea is an idea that goes
+all the way back to Aristotle. Let me give you a very brief summary of Aristotle’s
+theory of justice. Justice means giving people what they deserve. That’s it; that’s my
+summary of Aristotle’s theory of justice. (LAUGHTER) Now of course who deserves
+what depends on the kind of thing being distributed, so Aristotle says suppose we’re
+distributing flutes. Who should get the best ones? His answer: the best flute players.
+Why? Well the most obvious reason - you might be thinking - is that this will result in
+the best music, making everybody better off. But this isn’t Aristotle’s reason. He
+thinks the best flute should go to the best flute players because that’s what flutes are
+for: to be played well. The purpose of flutes, and of musical performance generally, is
+to produce excellent music. It’s also to honour and recognise those who are great
+musicians. That’s why the best musicians should get the best flutes. But this case
+seems too easy. Most people would agree that flutes are for the sake of producing
+music. What happens if people disagree about the purpose of the activity in question?
+5
+
+Is it possible to reason about the purpose of social practices in the face of
+disagreement? Aristotle believes that it is, and I think he’s right.
+
+Now let’s shift from flutes to golf. Here is an Aristotelian story about a controversy
+over golf. Casey Martin was a professional golfer with a bad leg. He had a circulatory
+disorder and so walking the golf course for 18 holes caused him considerable pain and
+posed a serious risk of fracture. Despite his disability, Casey Martin was an excellent
+golfer. He asked the PGA, the Professional Golfers Association, for permission to use
+a golf cart during tournaments. They said no. Martin took his case to court. He argued
+that the law about disability accommodation, the Americans With Disabilities Act,
+required reasonable accommodations for people with disabilities, provided (as the law
+said) that the change did not fundamentally alter the nature of the activity. That was
+the law. Some of the biggest names in golf testified in the case. Arnold Palmer, Jack
+Nicklaus, Ken Venturi all defended the ban on carts. They argued that fatigue is an
+important factor in tournament golf and that riding rather than walking would be an
+unfair advantage. Believe it or not, the case went all the way to the United States
+Supreme Court. What’s interesting about the case is that as the justices wrestled with
+it, they found themselves facing an Aristotelian question. The court had to determine
+the essential nature of the activity in question: is walking the course essential to golf
+or merely incidental? To resolve the question about Casey Martin’s rights, the court
+had to determine the purpose or the essential nature of the game. What do you
+suppose they decided? Well the court ruled 7 to 2 that Casey Martin had a right to use
+a golf cart. The court concluded that accommodating his disability by letting him ride
+in a cart would not fundamentally alter the game, which was - the justices concluded mainly about making shots, trying to get the ball into a very small hole.
+(LAUGHTER)
+
+What, after all, was the conflict over the golf cart really about? On the surface, it was
+about fairness. But if fairness were the only thing at stake, there would have been an
+easy and obvious solution: let all golfers use carts in the tournaments. But this
+solution was anathema to professional golf, even more unthinkable than making an
+exception for Casey Martin. Why? Because the dispute was less about fairness than
+about honour and recognition - specifically the desires of the PGA and top golfers that
+6
+
+their sport be recognised and respected as an athletic event. Let me put the point as
+delicately as possible. Golfers are somewhat sensitive about the status of their game.
+(LAUGHTER) It involves no running or jumping and the ball stands still.
+(LAUGHTER) No-one doubts that golf is a demanding game of skill, but the honour
+and recognition accorded great golfers depends on their sport being seen as a
+physically demanding, athletic competition. If the game at which they excel can be
+played while riding in a cart, they’re recog… (LAUGHTER) their recognition as
+athletes could be questioned or diminished. So whoever’s right about the essential
+nature of golf, the federal case over Casey Martin’s cart offers a powerful illustration
+of Aristotle’s point: debates about rights are often unavoidably debates about the
+purpose of social institutions, the goods they allocate, and the virtues they honour and
+reward.
+
+Let’s turn now to a hotly contested contemporary issue: the question of same sex
+marriage. It’s a prominent issue in the United States. Several American states now
+permit gay marriage; many others allow for civil unions or civil partnerships. These
+are arrangements that stop short of marriage but grant legal protections, inheritance
+rights, hospital visitation rights, child custody arrangements and so on to unmarried
+partners of the same sex who live together. So here’s the question: should the state
+recognise gay marriage on the same basis as marriage between a man and a woman?
+Some people say yes and argue for same sex marriage on what they claim are neutral,
+non-judgemental grounds. Whether one personally approves or disapproves of gay
+and lesbian relationships, individuals should be free to choose their marital partners.
+Now if this argument is a sufficient basis for according state recognition to same sex
+marriage, then it’s true - the issue can be resolved without entering into controversies
+about the purpose of marriage and the moral status of homosexual relationships. But
+the case for same sex marriage can’t be made on neutral or non-judgemental grounds.
+Here’s why. The debate over same sex marriage is fundamentally a debate about
+whether gay and lesbian unions are worthy of the honour and recognition that in our
+society state sanctioned marriage confers, so the underlying moral question is
+unavoidable. To see why this is so, it’s important to bear in mind that the state can
+take three possible positions toward marriage, not just two. First, it can recognise
+marriage only between a man and a woman, though perhaps offering gay men and
+7
+
+lesbians civil partnerships, as the UK currently does. That’s policy one. Or policy
+two: it can recognise same sex marriage on an equal basis with heterosexual marriage,
+as my home state of Massachusetts has done. Or three: it could decline to recognise
+marriage of any kind and leave this role to private associations and religious
+communities. Now the third policy is purely hypothetical. As far as I know, no state
+or country has renounced marriage as a government function. But policy three is the
+ideal libertarian solution to the marriage debate. It doesn’t abolish marriage, but it
+does abolish marriage as a state sanctioned institution.
+
+Michael Kinsley, an opinion journalist with libertarian sympathies, defends this
+policy, this third option, as a way out of what he sees as a hopeless argument over
+marriage. The solution, Kinsley writes, is to end the institution of government
+sanctioned marriage or to privatise marriage. Here’s how he puts it. Quote: Let
+churches and other religious institutions continue to offer marriage ceremonies. Let
+department stores and casinos get into the act if they want. And, yes, if three people
+want to get married or one person wants to marry herself and someone else wants to
+conduct a ceremony and declare them married, let ’em. That’s Kinsley. So he
+proposes in effect to replace all state sanctioned marriages, gay and straight, with civil
+partnerships.
+
+Now relatively few people on either side of the same sex marriage debate have
+embraced the disestablishment proposal, but this third option helps us see why
+proponents and opponents of same sex marriage must contend with the substantive
+moral and religious controversy about the purpose of marriage and the virtues it
+honours. Many who defend a right to same sex marriage try to rest their claim on
+neutral grounds to avoid passing judgement on the moral meaning of marriage, and
+this attempt draws heavily on the ideas of non-discrimination and freedom of choice.
+But these ideas can’t by themselves justify the right. If freedom of choice were all that
+mattered, the state would have no grounds for limiting marriage to two persons.
+Consensual, polygamous partnerships would also qualify. And if the state really
+wanted to be neutral and respect whatever choices individuals wish to make, it would
+have to adopt Kinsley’s proposal and get out of the business of conferring recognition
+on any marriages. This would be the equivalent, in the case of marriage, of letting
+8
+
+everyone ride in a golf cart if they chose. The real issue in the gay marriage debate is
+not freedom of choice, but whether same sex unions are worthy of honour and
+recognition by the community, whether they fulfil the purpose of the social institution
+of marriage properly understood.
+
+The Massachusetts Court that became the first court in the United States to require
+recognition of same sex marriage understood this point. Though the court gave a nod
+to neutrality and freedom of choice, it made clear that it did not intend to open the
+way to polygamous marriage, nor to call for the abolition or disestablishment of
+marriage. Chief Justice Margaret Marshall wrote the opinion for the court, and in
+making the case she stepped outside the bounds of liberal neutrality to affirm the
+moral worth of same sex unions and to offer a view about the purpose of marriage
+properly understood. More than a private arrangement between two consenting adults,
+she wrote: marriage is a form of public recognition and approval. In a real sense
+there are three partners to every civil marriage: two willing spouses and an
+approving state.
+
+If marriage is an honorific institution, what virtues does it honour? To ask this
+question is to ask about the purpose of marriage, and this is really the heart of the
+dispute. Opponents of same sex marriage claim that the primary purpose of marriage
+is procreation. Since same sex couples are unable to procreate on their own, the
+opponents argue they don’t have a right to marry. They lack, so to speak, the relevant
+virtue. This line of reasoning is at the heart of the case against same sex marriage and
+Justice Marshall took it on directly. She disputes the claim that procreation is the
+primary purpose of marriage, and she does so by showing that marriage as currently
+practised and regulated by the state does not require the ability to procreate.
+Heterosexual couples who apply for marriage licences are not asked about their
+ability or intention to conceive children. Fertility is not a condition of marriage.
+People who have never consummated their marriage and never plan to may be
+married; people who can’t stir from their death bed may marry. So wrote Justice
+Marshall for the court. And so, she concludes, it’s the exclusive and permanent
+commitment of the married partners to one another, not the begetting of children, that
+is the sine qua non of civil marriage.
+9
+
+So how does the argument work? Part of the argument consists of an interpretation of
+the purpose or essence of marriage as it currently exists. Another part of the argument
+is to ask which interpretation of marriage celebrates virtues worth honouring. What
+counts as the purpose of marriage partly depends on what qualities we think marriage
+should celebrate and affirm. This makes the underlying moral and religious
+controversy unavoidable. What is the moral status of gay and lesbian relationships?
+Marshall is not neutral on this question. She argues in a court opinion that same sex
+relationships are as worthy of respect as heterosexual ones. So the case for same sex
+marriage is not neutral, after all. In order to decide who should quality for marriage,
+we have to think through the purpose of marriage and the virtues it honours, and this
+carries us onto contested moral terrain where we can’t remain neutral toward
+competing conceptions of the good life.
+
+What does all of this tell us? The attempt to detach arguments about justice and rights
+from arguments about the good life is mistaken for two reasons: first, it’s not always
+possible to decide questions of justice and rights without resolving substantive moral
+questions, and this is true whether we’re arguing about surrogacy or about how to
+distribute flutes or political authority or the right to use a golf cart or same sex
+marriage. Arguments about justice and rights are unavoidably arguments about the
+moral meaning of the goods at stake. The second reason is that even where it may be
+possible, it may not be desirable.
+
+And that brings me back to the question of revitalising our public discourse in
+democratic life. But if, as I’ve argued, it’s not possible for government to be neutral
+on these disagreements, is it nonetheless possible to conduct our politics on the basis
+of mutual respect? The answer, I think, is yes. In recent decades, we’ve come to
+assume that respecting our fellow citizens’ moral and religious convictions means
+ignoring them, leaving them undisturbed, conducting our public life in so far as
+possible without reference to them. But this stance of avoidance makes for a spurious
+respect. Often it means suppressing moral disagreement rather than actually avoiding
+it. This in turn provokes backlash and resentment, as we see in the rise of religious
+fundamentalism. A more robust public engagement with our moral disagreements
+could provide a stronger, not a weaker basis for mutual respect. What would that look
+10
+
+like? Well rather than avoid the moral and religious convictions of our fellow citizens,
+we should attend to them more directly - sometimes by challenging and contesting
+them, sometimes by listening and learning from them. It is always possible that
+learning more about a moral or religious doctrine will lead us to like it less, but we
+cannot know until we try. A politics of moral engagement is not only a more inspiring
+ideal than a politics of avoidance. If it’s true, as I’ve tried to argue, that our debates
+about justice are often inescapably arguments about the good life, then a politics of
+moral engagement is also a more promising basis for a just society. Thank you very
+much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Many thanks indeed, Michael Sandel. And now I’d like to open it
+up for questions from the floor here in Rhodes House in Oxford where we have an
+audience certainly of academics, but I think we have politicians, students, and many
+of the good people of the city too. I think you’ve been writing down some questions,
+as we went. Please continue to do so and they’ll be collected. I’ll try and feed them in
+as we go. But in fact I’m going to call the first question because we felt it only fitting
+that we should begin with a Rhodes scholar, and we have one here with us. Her name
+is Kate Brennan and she’s from Australia. Kate Brennan, your question please?
+
+BRENNAN: You’ve spoken of the problem with public debate. Many of the
+traditional forums for debate such as political meetings have been in steep decline for
+decades. How then in a globalised world do you envisage this new public debate
+taking place?
+
+MICHAEL SANDEL: What I think we need to try to do is to try to build institutions
+of civil society that cut across national boundaries and provide ways of debating
+questions that spill across borders. And also to build up those forms of civil society
+that may be closer to citizens than national assemblies are, or national newspapers, so
+that more local particular sites within civil society can contribute to a rejuvenation of
+democratic discourse.
+
+11
+
+SUE LAWLEY: What do you feel about that, Kate? I mean it sounds to me as if
+you’re not acknowledging the existence of the Internet there.
+
+BRENNAN: I think when you talk about bringing these kind of debates closer to
+people, then the Internet probably plays a role in that. So I’d be interested to hear
+what role you think the Internet with its new media could play in that type of process
+and how will it affect democracy?
+
+MICHAEL SANDEL: My hunch is - and I don’t know the answer to this - my hunch
+is that the prospect is mixed. The good news of the Internet is that it provides a cheap
+way to communicate. The not so good news is that the Internet can’t possibly hope to
+replace direct personal engagement. So even as we take advantage of more universal
+forms of political communication such as the Internet, I think there’s going to be a
+growing demand and hunger for more particular forms of political identity and
+communication and association.
+
+SUE LAWLEY: I’m going to call Evan Harris I think, at the back there, who’s a
+local MP here in Oxford, for Oxford West and Abingdon. Evan Harris, your question
+please?
+
+HARRIS: Thank you. I do a lot of public policy on abortion and gay rights and
+assisted dying and embryos, and it seems to me that it’s not the morality that’s
+missing on either side. I come from the non-religious side and I would say that I bring
+morality - the principle of non-discrimination, the principle of not harming someone
+unless there’s evidence that your policy creates harm. Obviously the religious side
+bring their morality. But one side, I think, tends to bring evidence and an acceptance
+that their position might change with evidence; whereas another side, the religious
+side, is much less likely to accept and consider evidence and bring that to the table
+because their moral position is relatively absolute. And so shouldn’t we be arguing
+that we should bring evidence into the moral arguments, where appropriate, not bring
+morality in when it’s already there on both sides?
+
+MICHAEL SANDEL: I agree with what may be the impulse behind your worry,
+12
+
+which is that if people simply assert dogmas rather than offer reasons and listen to the
+reasons given by their interlocutors in public debate, that’s not a very valuable
+contribution. Where I think you and I may disagree is on this. I don’t think that those
+who enter into public discourse and advance moral arguments that may be informed
+by faith traditions, I don’t think they have a monopoly on dogmatic assertions. I think
+there are dogmatic secularists, just as there are dogmatic religious fundamentalists.
+
+SUE LAWLEY: A question here.
+
+NGAIRE WOODS: Hello, I’m Ngaire Woods based here at Oxford University.
+Some would say you know politicians have outsourced morality. When they get a
+difficult moral decision to make, they appoint a commission to advise them. And of
+course when politicians do claim a moral case for their action, I think the public rather
+worries that the politicians might be saying it’s right because it’s right for them, but
+not necessarily because it’s morally right for the nation or for the whole of the good of
+society. I’d love to hear from you where is it that politicians fit in? Would you keep
+them out of your moral discourse? Or if you’re going to put them in, how are you
+going to put them in?
+
+MICHAEL SANDEL: I would make greater demands on them and try to lift them
+up, so that they can make a better contribution than typically they do. But as for
+outsourcing to commissions moral judgements, sometimes the creation of
+commissions to grapple with hard moral questions can actually be not a way of
+sweeping under the rug a serious moral question that arises for policy or law, but a
+way of enlarging public debate and argument about it. As for politicians being very
+bad at making arguments, that’s always going to be true in politics. The question is
+what is the alternative? I think one of the things that so struck and stirred the
+American public about Barack Obama’s campaign is that he, for the first time in quite
+a long time in presidential politics, was actually speaking in a way that resonated to
+people’s hunger for moral and even spiritual discourse and bringing it to bear on
+politics in public life.
+
+SUE LAWLEY: What about Daniel Hermel, a student?
+13
+
+HERMEL: If one of the purposes of politics is to confer recognition upon civic and
+moral virtue, does that mean that we should choose our politicians based on their
+personal moral virtues such as their fidelity to their spouses and their qualities as good
+parents, as well as choosing politicians based on their substantive policy proposals?
+
+MICHAEL SANDEL: I would say that the character of politicians is relevant if we
+think part of the purpose of politics is educative. Now whether the aspect of character
+most relevant to political education and judgement has to do with marital behaviour,
+I’m not so sure because character is a complicated thing. We have learned looking at a
+wide range of politically capable miscreants (LAUGHTER) and policy positions
+alone, I agree, are not a sufficient condition for choosing a good leader or an effective
+leader.
+
+SUE LAWLEY: Julian Savulescu, who’s Professor of Practical Ethics.
+
+SAVULESCU: Thanks, Michael. I want to put pressure on your claim that we should
+give a place to religious moralities and values. Now many values are shared by both
+religious and non-religious people. So the value of love, family, well-being,
+happiness, longevity - these are all values that can be defended in secular and
+religious terms - but when those values have a distinctively religious basis, I don’t
+believe they have any role in public life. So to take your example of same sex
+marriage, you picked out the two values of a loving commitment or the value of
+procreation. Both of those are widely defensible across society, but notice in no place
+in the judgement was there appeal to particular religious authorities or religious
+moralities. So nobody said that homosexuality was a perversion or unnatural or
+against the dictates of some religion. So can you clarify the role of religious values in
+public discourse?
+
+MICHAEL SANDEL: Well, first, the idea that we should only admit those
+arguments that everyone can agree with or everyone can find to be reasonable, I think
+that’s not something we can know or specify in advance. The moral of the story is we
+can’t know in advance what the moral source of a good argument can be, and we may
+learn from arguments that come from surprising sources. And so I’m arguing for a
+14
+
+politics that remains open and hospitable to a range of moral sources, be they based in
+faith or in secular ideologies or reason.
+
+SUE LAWLEY: Right, we’re going to leave that issue there. I’m going to go … Well
+I think this is a change of issue. Just in front here.
+
+HELM: My name’s Dieter Helm and I’m an economist at Oxford. I was struck by
+two parts of your argument. The first part about morality and politics coming
+together, which I find not at all difficult. But take a subject which is burningly
+political and moral: climate change. If I ask myself what’s the moral question to
+which climate change policy is an answer, I can talk about intergenerational equity,
+about neutrality, and that’s enough. I don’t need Aristotle or the good life to engage in
+a moral debate about politics. So can I have the first bit, the morality and the politics,
+and the conventional discussion of neutrality and intergenerational equity and so on
+without having to buy your Aristotelian ethics on top?
+
+SUE LAWLEY: Briefly if you would, Michael.
+
+MICHAEL SANDEL: I’m afraid you can’t, for the following reason. That … Take
+climate change. Yes, there are conventional arguments about intergenerational justice.
+Let me grant you that. Really to deal with the problem of the politics that will deal
+ultimately with climate change will be a politics, I suspect, that changes the wanton
+and profligate attitudes we have toward the natural world and toward the environment
+as well as toward future generations’ enjoyment of it. I have a hunch - and this is only
+a hunch - about the way politics in democratic societies play themselves out, and I
+suppose it’s also a hunch about how important, eventful movements of social and
+political reform take place. They take place when people are persuaded by their
+circumstance and by the arguments and debates they hear around them, about the need
+to question and change their attitudes and their ways of life. And I think that the
+politics of the environment, maybe more clearly than any other politics we confront
+today, requires a more ambitious engagement with what the good life is and how we
+should regard our relation to the planet we share.
+
+15
+
+SUE LAWLEY: Michael, thank you very much indeed. My thanks also to all of you.
+Next week we’ll be broadcasting from the Centre for Life in Newcastle where
+Michael will be talking about genetics and morals - the issues surrounding designer
+babies, designer athletes and so-called smart pills, which could bring about even
+designer students. Can we, should we check our impulses to achieve such
+“perfection”? That’s the same time next week. For now, from Oxford, Michael
+Sandel, Reith Lecturer 2009, thank you very much indeed. Thank you.
+
+MICHAEL SANDEL: Thank you, Sue.
+
+(APPLAUSE)
+
+16
+
+

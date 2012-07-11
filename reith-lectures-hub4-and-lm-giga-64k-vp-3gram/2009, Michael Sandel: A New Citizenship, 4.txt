@@ -1,0 +1,622 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST. THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+
+REITH LECTURES 2009: A NEW CITIZENSHIP
+Presenter: Professor Michael Sandel
+Lecture 4: A New Politics of the Common Good
+TRANSMISSION: 30th JUNE 2009
+RADIO 4
+
+9.00-9.45am
+
+SUE LAWLEY: Hello and welcome to Washington D.C. Tonight, for the fourth and
+last of this year’s BBC Reith Lectures, we’re in the capital of the United States at the
+George Washington University.
+
+Our subject, appropriately, is New Politics. Here in America, and in Britain too, the
+phrase ‘New Politics’ is on everyone’s lips. Barack Obama is six months into his
+historic presidency, and the world is watching and waiting to see what changes to the
+world’s problems his new approach will bring. In Britain, revelations of how MPs
+spend public money to support their lifestyles has undermined the country’s
+parliamentary system. Politicians in the public are calling for reform. It seems that the
+time is right for - as the title of our lecture has it - a New Politics of the Common
+Good. Ladies and gentlemen, will you please welcome the BBC Reith Lecturer for
+2009: Professor Michael Sandel.
+
+(APPLAUSE)
+
+SUE LAWLEY: Michael, you said at the outset of these lectures that you might have
+been a politician, you might have been a political journalist. In fact, at the age of 21 some time ago now, well in fact we can date it - you were present at the impeachment
+of Richard Nixon, were you not, in the role of the journalist. How come you were in
+such a pole position at such a young age?
+
+1
+
+MICHAEL SANDEL: Well I was very interested in politics and in political
+journalism and I was able, by sheer luck, to get an internship that summer in the
+Washington bureau of the Houston Chronicle. I’m not from Houston. I hadn’t been
+there, and I still have never been to Houston. (LAUGHTER) But this was Washington
+in the summer of 1974 when the Supreme Court was hearing arguments over the
+Nixon tapes and whether he would have to give them over, and when the House
+Judiciary Committee was deliberating about the impeachment of Richard Nixon. It
+was a dream come true.
+
+SUE LAWLEY: Indeed. And you were in that room, 35 years ago next month, when
+the vote was taken and he was impeached. Does the drama of that moment stay with
+you?
+
+MICHAEL SANDEL: It does. The room, I remember powerfully, was hushed when
+they took that vote. It wasn’t quite the way it was later when they impeached Bill
+Clinton when there was a partisan edge to it. There was a sense of constitutional
+moment and the members, as they called the roll, their voices trembled as they gave
+their votes - on both sides.
+
+SUE LAWLEY: It’s difficult to understand then, when you experienced the thrill of
+being absolutely at the heart of a story that was rocking the world, that you didn’t
+carry on and become a journalist.
+
+MICHAEL SANDEL: I was tempted, but at the end of the summer - and I was
+hoping that the impeachment would take its course in the Senate - but I soon had to go
+back to college, the term was about to begin, so I began hoping for a resignation,
+which was the only way I would see it to completion. And Richard Nixon obliged me.
+(LAUGHTER) He resigned just before I had to go back to college. At the end of the
+summer, I was talking with my boss, the bureau chief, about what an experience this
+had been. And he said - he was a man I suppose in his late 50s - he said that he was
+thinking of retiring because there would never be a story like this again. So I asked
+him, “Well you’re thinking of retiring because it will never be this good again. What
+am I at age 21 supposed to think?” (LAUGHTER) I didn’t wind up going into
+2
+
+political journalism, but it was a fantastic summer.
+
+SUE LAWLEY: And you didn’t wind up becoming a politician either. You became a
+political philosopher. What would you say to people who said you took the easier
+option; that it’s easier to be high-minded in theory than in practice?
+
+MICHAEL SANDEL: I think that being in elective politics, being a politician is an
+extremely demanding job. And so for all of the shenanigans and misdeeds of
+politicians, I do think that they are engaged in what potentially is a noble exercise and
+they do, most of them, make great sacrifices to engage in it.
+
+SUE LAWLEY: Well 35 years ago you were a cub reporter. We’re looking forward
+to hearing what it is you’ve learned since then about politics and people. Michael, the
+floor is yours.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Well thank you, Sue, very much. It’s a great pleasure to be
+here for this fourth Reith Lecture.
+
+Over the course of these lectures, I’ve been arguing that we need to reframe the terms
+of political argument in two ways. First, we need a public debate about the moral
+limits of markets. And, second, we need a more robust public discourse - one that
+engages more directly with moral and even spiritual questions.
+
+In this lecture, I’ll try to connect these themes and show how they can form the
+starting point for a new politics of the common good.
+
+First, markets. For three decades, the governing philosophy of the United States and
+Britain was defined by the faith that markets are the primary instrument for achieving
+3
+
+the public good. The financial crisis has put this faith in question.. The era of market
+triumphalism has come to an end. But we have yet to find our way to a new governing
+philosophy. Even President Obama has yet to articulate one.
+
+One obstacle to a new public philosophy is a persisting assumption from the age of
+market faith. It’s what I’d like to call “market mimicking governance.” It’s the idea
+that the primary purpose of government is to correct what economists call “market
+failure”.
+
+It’s the idea that government should try to replicate the outcomes that competitive
+markets would produce if all goods and resources were properly priced.
+
+Consider environmental policy. If air and water are “free” - that is unpriced - then
+companies and consumers will produce too much pollution. So government’s job is to
+set regulations to correct for this market failure - through cap and trade, for example,
+or a carbon tax.
+
+To do this, the policymakers have to ask how much pollution is too much. And to
+answer this question, they have to figure out what value to place on clean air, clean
+water, and the resulting health benefits. Here’s where “market-mimicking
+governance” comes into play. In order to make these calculations, regulators often use
+“cost-benefit analysis”: they place a monetary value on the benefits of clean air and
+water, compare them with the costs, and set regulations accordingly.
+
+It sounds perfectly sensible. What’s wrong with comparing the costs and benefits of
+government regulation? Nothing - if by comparing costs and benefits you simply
+mean assessing the advantages and disadvantages of a given policy.
+
+But cost-benefit analysis aspires to scientific rigour. It tries to assign a monetary value
+to costs and benefits. It tries to mimic the market. And here’s where it goes wrong.
+4
+
+Many of the benefits of public policy involve values that can’t be captured in
+monetary terms - most notably, the value of human life. Let me offer a few examples.
+
+The first involves smoking. In the Czech Republic, many people smoke. Philip
+Morris, the tobacco company, sells a lot of cigarettes there. Some years ago, the
+Czech government considered raising taxes on cigarettes. Philip Morris wasn’t happy
+about this. So the company commissioned a cost-benefit analysis of the effects of
+smoking on the Czech national budget.
+
+The study found that the government actually makes more money than it loses from
+smoking. Although it’s true that smokers impose higher medical costs on the budget,
+while they are alive, they die early and so save the government considerable sums in
+pensions, housing, and healthcare for the elderly. (LAUGHTER) According to the
+study, the so-called “positive effects” of smoking, once taken into account, lead to a
+net gain to the Czech treasury of $147 million per year. So lung cancer, it turns out,
+has its fiscal advantages.
+
+Now you might say that the cost-benefit analysis, callous though it was, was simply
+incomplete; it failed to calculate the cost - to the smokers - of their early and painful
+demise. But how might such costs be calculated?
+
+A few years ago, the U.S. Environmental Protection Agency tried to do this. In
+presenting a cost-benefit analysis of new air pollution standards, the agency assigned
+a monetary value to human life: $3.7 million per life saved, except for people over the
+age of 70 whose lives were valued at $2.3 million. Lying behind the different
+valuations was a market-mimicking assumption: younger people, with more years still
+to live, would presumably pay more to save their lives than older people would pay to
+save theirs. Advocates for the elderly didn’t see it that way. They bitterly protested
+the “senior citizen discount”. (LAUGHTER)
+
+The difficulty of placing a monetary value on human life and other non-market goods
+is one problem with cost-benefit analysis. Another is that monetising all costs and
+benefits makes for a spurious science that shifts decision-making from democratic
+5
+
+politics to technocrats.
+
+Consider cell phones: should it be illegal to talk on the phone while driving? A few
+years ago, the Harvard Center for Risk Analysis did a cost-benefit analysis to find out.
+It concluded that crashes caused by cell phone use while driving cost about $43
+billion
+
+per year in medical costs and loss of life. A sizeable sum. But the study
+
+found, by strange coincidence, that the economic benefits of cell phone use while
+driving also amounted to $43 billion, making it a break-even proposition.
+(LAUGHTER)
+
+But if you look at the assumptions behind the numbers, you find that they are hardly
+scientific. The study assumes that cell phones cause 2600 deaths per year. But it
+admits that the actual number of such deaths per year is somewhere between 800 and
+8,000! So depending on which number you choose, the benefits of a ban on cell
+phones while driving is either $9 billion or $193 billion per year! Or maybe
+somewhere in between. So there’s nothing scientific to the conclusion that the costs
+and benefits of cell phone use while driving are equal. The market-mimicking
+calculus is no better than a hunch.
+
+An even better example of the spurious science of cost-benefit analysis is one offered
+by Richard Posner, a prominent U.S. legal scholar and judge and the founder of the
+law and economics movement. Posner analysed the costs and benefits of a powerful
+particle accelerator built at Brookhaven, Long Island, a federal research facility. He
+wanted to weigh the benefits of the research against the very slight but rather alarming
+risk that the particle accelerator would destroy the earth. Posner estimated the value of
+the research to be $250 million per year, and the risk that the thing would destroy the
+earth to be one in ten million. To decide whether it was worth it, he assigned a
+monetary value to the potential extinction of the human race - (LAUGHTER) $600
+trillion dollars. Doing the math, he calculated that the cost of the project outweighed
+the benefit by $100 million. And so, he concluded, it shouldn’t be built.
+(LAUGHTER)
+
+Cost-benefit analysis is one instance of what I’m calling “market-mimicking
+6
+
+governance.” It’s objectionable on two grounds: First, it puts a price tag on goods including human life - whose value can’t be captured in monetary terms. Second, by
+claiming to be a science of public choice, it elevates technocratic decision-making at
+the expense of democratic deliberation.
+
+But cost-benefit analysis is only one expression of market-mimicking governance.
+Another is the broader idea that the primary purpose of government is to correct for
+“market failure.” Economists have long recognised that markets don’t produce
+efficient outcomes in certain circumstances: when economic activity produces
+externalities (effects on third parties, such as pollution). Or when it would be
+impossible for a private company to collect payment from everyone who uses a
+service. These are classic market failures that require government intervention.
+
+But the idea that correcting for market failure is the main rationale for government,
+that idea has emerged only recently. It was the way that centre left parties, on the
+defensive after the Reagan-Thatcher era, tried to restate the case for government. For
+a time, it seemed to succeed - with New Labour in the U.K. and with Bill Clinton and
+the New Democrats in the United States.
+
+As a governing philosophy, however, the task of correcting market failures is too
+humble and too narrow. Democratic governance is radically devalued if reduced to
+the role of handmaiden to the market economy. Democracy is about more than fixing
+and tweaking and nudging incentives to make markets work better.
+
+The purpose of markets is to organise productive activity, so as to maximise consumer
+welfare. But democratic governance is about much more than maximising GDP, or
+satisfying consumer preferences. It’s also about seeking distributive justice;
+promoting the health of democratic institutions; and cultivating the solidarity, and
+sense of community, that democracy requires.
+
+Market-mimicking governance - at its best - can satisfy us as consumers. But it can do
+nothing to make us democratic citizens.
+
+7
+
+Why then have we drifted - on both sides of the Atlantic - away from older traditions
+of solidarity and civic virtue and toward more market-oriented ways of conceiving
+public life?
+
+The answer does not lie simply in the market fundamentalism of the Reagan-Thatcher
+years. Or in the heady economic times of the 1990s and the years before the crash.
+
+Market-mimicking governance is appealing because it seems to offer a way of making
+political choices without making hard and controversial moral choices. It seems to be
+non-judgemental. So, for example, rather than engage in a morally charged debate
+about the proper way of valuing the environment, or about the attitudes toward nature
+we should try to cultivate - rather than do this, we try to set environmental policy by
+working from people’s market preferences. So we ask people how much they would
+pay to save the spotted owl; or we try to determine the monetary value people
+implicitly place on their lives when they accept risky jobs. And then we crank the
+dollar value of human life - or of spotted owls - into a cost-benefit analysis, and we do
+the math.
+
+Actually, we don’t do the math. Experts and technocrats do it for us. The
+non-judgemental impulse is also an anti-democratic impulse. This brings me back to a
+theme that has run through these lectures. The attempt to empty politics of moral
+controversy may seem to be a way of respecting our differences, but it is actually
+corrosive of democratic life.
+
+The flight from moral judgement and moral argument in politics predates the era of
+market triumphalism. It found expression - on both sides of the Atlantic - beginning in
+the 1950s and 60s, partly as a reaction against fascist and communist ideologies, and
+partly as an attempt to spare politics from becoming embroiled in religious strife. And
+it also reflected a growing faith in economics as a value-neutral science.
+
+Harold Macmillan expressed this sensibility when he said in 1963: “If people want a
+sense of purpose, they should get it from their archbishop. They should certainly not
+get it from their politicians.” And John F. Kennedy, a very different kind of politician,
+8
+
+articulated a similar sentiment: “Most of the problems that we now face”, Kennedy
+said in 1962, “are technical problems, are administrative problems. They are very
+sophisticated judgements which do not lend themselves to the great sort of ‘passionate
+movements’ which have stirred this country so often in the past.”
+
+Kennedy was referring to the economy, not to the Civil Rights Movement - a
+passionate movement if ever there was one - in a powerful example of a
+morally-contentious and spiritually-inspired form of politics.
+
+The renunciation of moral and religious argument in politics, in the decades following
+World War II, prepared the way for the market triumphalism of the past three
+decades.
+
+But times have changed. The financial crisis has discredited market triumphalism in
+both its laissez-faire and Neoliberal versions. And the election of Barack Obama has
+given powerful expression to the hunger for a public life of larger meaning that
+engages more directly with moral and spiritual questions. All of which suggests that
+the time may be right for a new kind of politics - a politics of the common good.
+
+What might such a politics look like? Unlike market-driven politics, a politics of the
+common good invites us to think of ourselves less as consumers, and more as citizens.
+Here’s why this matters. Market-mimicking governance takes people’s preferences as
+given and fixed. But when we deliberate as citizens, when we engage in democratic
+argument, the whole point of the activity is critically to reflect on our preferences, to
+question them, to challenge them, to enlarge them, to improve them.
+
+Every successful movement of social or political reform has done more than change
+the law. It has also changed attitudes and dispositions, what Tocqueville called the
+“habits of the heart.”
+
+Political leaders should bear this in mind when making the case for change. Consider
+health. Britain was able to create a taxpayer financed National Health System because
+of a widely shared sense of social solidarity that said access to health care should not
+9
+
+depend on a person’s ability to pay. The United States has not yet been able to
+summon that solidarity. If President Obama succeeds in getting universal health care,
+it will not only be because people conclude that the present system is too costly and
+inefficient. It will happen if and when Americans are persuaded that providing for the
+health of everyone is among the mutual responsibilities of citizenship.
+
+Consider the environment. If the countries of the world are able to change patterns of
+energy use and bring about a meaningful reduction in greenhouse gas emissions, it
+will not be because emissions trading schemes allow countries to buy and sell the
+right to pollute. Market mechanisms can be useful instruments. But real change will
+depend on changing people’s attitudes toward nature, and rethinking our
+responsibilities toward the planet we share. This is a moral and spiritual project, not
+only an economic one.
+
+Finally, consider an issue that doesn’t get much attention in our politics these days:
+inequality. In the United States, as in most countries, the gap between rich and poor
+deepened during the decades of market triumphalism. Inequalities of income and
+wealth are now at levels not seen since the 1930s.
+
+Politicians find it difficult to talk about inequality. Even Barack Obama’s modest
+proposal to return income tax rates to where they stood in the 1990s prompted charges
+during the campaign that he was a dangerous socialist who wanted to spread the
+wealth. Part of the problem, I think, is that we tend to talk about inequality as if the
+problem were how to redistribute access to private consumption. But the real problem
+with inequality lies in the damage it does to the civic project, to the common good.
+
+Here’s why. Too great a gap between rich and poor undermines the solidarity that
+democratic citizenship requires. As inequality deepens, rich and poor live increasingly
+separate lives. The affluent send their children to private schools (or to public schools,
+as we call them in the United States) in wealthy suburbs, leaving urban public schools
+to the children of families who have no alternative. A similar trend leads to the
+withdrawal by the privileged from other public institutions and facilities. Private
+health clubs replace municipal recreation centres and swimming pools. Affluent
+10
+
+residential communities hire private security guards and rely less on public police
+protection. A second or third car removes the need to rely on public transportation.
+And so on.
+
+This trend has two bad effects: one fiscal, the other civic. First, public services
+deteriorate as those who no longer use them become less willing to support them with
+their taxes. Second, public institutions such as schools, parks, playgrounds and
+community centres cease to be places where citizens from different walks of life
+encounter one another. Institutions that once gathered people together and served as
+informal schools of civic virtue have become few and far between. The hollowing out
+of the public realm makes it difficult to cultivate the sense of community that
+democratic citizenship requires.
+
+So rather than focus on access to private consumption, a politics of the common good
+would make the case for rebuilding the infrastructure of civic life; public schools to
+which rich and poor alike would want to send their children; public transportation
+systems reliable enough to attract commuters from all walks of life; public health
+clinics, playgrounds, parks, recreation centres, libraries and museums that would,
+ideally at least, draw people out of their gated communities and into the common
+spaces of a shared democratic citizenship.
+
+In the course of these lectures, I’ve argued for a greater role for a moral argument in
+public life, and for the need to keep markets in their place. I would like to conclude by
+anticipating one possible objection. The distinguished economist Kenneth Arrow once
+wrote - and I quote: Like many economists, I do not want to rely too heavily on
+substituting ethics for self-interest. I think it is best on the whole that the requirement
+of ethical behaviour be confined to those circumstances where the price system breaks
+down. We do not wish, he said, to use up recklessly the scarce resources of altruistic
+motivation.
+
+The notion that ethics, altruism and fellow-feeling are scarce resources, whose supply
+is fixed once and for all and depleted with use, this idea seems to me outlandish outlandish but deeply influential. My aim in these lectures has been to call this idea
+11
+
+into question. I’ve tried to suggest that the virtues of democratic life - community,
+solidarity, trust, civic friendship - these virtues are not like commodities that are
+depleted with use. They are rather like muscles that develop and grow stronger with
+exercise.
+
+A politics of moral and civic renewal depends, it seems to me, on a more strenuous
+exercise of these civic virtues. Thank you very much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Michael Sandel, thank you very much indeed. I’m now going to
+invite questions from the audience here at George Washington University. I want to
+begin with a student here at the George Washington University. His name is Brandon
+Heinz and he’s Chairman of the Republican Group.
+
+BRANDSON HEINZ: You say we have a choice between being consumers and
+citizens, and that now is the time for us to be citizens because free market
+consumerism in your view has failed. Republicans believe this is a false choice. We
+are always citizens because we believe in America and what it represents - free
+market capitalism, the free exchange of ideas, and the freedom to choose your own
+destiny. Why does the only solution lie in the hands of government intervention and
+the invention of a state where more and more of its citizens rely on government?
+
+MICHAEL SANDEL: Well I’m tempted to put a question back to Brandon. Am I
+allowed to do that?
+
+SUE LAWLEY: You can do that.
+
+MICHAEL SANDEL: Do you think, Brandon, that the freedom of the citizen is
+realised in market relations, or do you think that it requires a stronger civic
+engagement?
+
+12
+
+BRANDON HEINZ: I believe that the choice between being a consumer and a
+citizen is a false choice. I think it’s both: you have to be a citizen but you’re also a
+consumer, and you have that right to choose your own destiny as an entrepreneur or
+whatever you choose to be in our system. And that’s what is different about every
+other country on the face of the planet, in my opinion - is that you can come here with
+nothing and you have the freedom to choose your own destiny and to go out and
+pursue your dreams.
+
+MICHAEL SANDEL: I think actually pursuing one’s dreams, that is a larger
+freedom than merely consumerist or market freedom. I’m not sure I would agree that
+only in the United States are people free to pursue their dreams. But I would say that
+that way of describing your ideal of freedom does begin to take us to a larger moral
+vision that may be not identical to the one that I’ve been proposing, but it does take
+one important step away from the idea that all freedom consists in is the right to be a
+consumer in the marketplace.
+
+SUE LAWLEY: I’m going to call in now Toby Harnden, if I may, just up there. He
+is the U.S. Editor of the Daily Telegraph.
+
+TOBY HARNDEN: The MP scandal in the UK has prompted a desire for a new kind
+of politics, and I feel there’s the same desire here in the U.S. but also the same
+widespread dissatisfaction with politicians. How do you change the politics without
+changing the politicians? And if you can’t do that, how do you change the politicians?
+
+MICHAEL SANDEL: I think that you have to try to change both - so you need
+reform to clean up the kind of corruption that your newspaper exposed in Britain, but
+that’s not sufficient, I don’t think. If you cleaned up the system of expenses, that
+would not be enough to answer the public desire for a kind of political argument and
+debate that really addresses the things that they care about most. It wouldn’t. Which is
+why one has also to attend to what I’ve here called the terms of political discourse, the
+shape of the political agenda, the way we argue about politics.
+13
+
+SUE LAWLEY: I can see E.J. Dionne. He is of course the Washington Post
+journalist and political commentator.
+
+E.J DIONNE: Well I just want to come back by going to the part of your lecture
+where you talked about the role of expertise.
+
+MICHAEL SANDEL: Right.
+
+E.J. DIONNE: And while it’s easy to make fun of cost-benefit analysis that involves
+the destruction of the entire planet, I’d like you to talk about where is expertise
+legitimately used in a democratic society and what is the role of experts to inform this
+democratic choice?
+
+MICHAEL SANDEL: I think that in so far as experts exert influence and authority,
+they have a responsibility and public institutions should encourage that the experts
+themselves be participants in public deliberation about those questions. So that they’re
+not just people in a back room cranking out cost-benefit analysis calculations, but that
+the experts themselves - be they scientists or economists, whomever they may be join in a public debate, argument, and not only answer questions but address
+challenges that may be put to them by their fellow citizens.
+
+SUE LAWLEY: I’m going to move on. I’m going to call Stuart Butler.
+
+STUART BUTLER: I direct research at an institution here called the Heritage
+Foundation. My reaction to your lecture was while I agree very much with your
+emphasis on solidarity, on the way we think about politics, I think you set up
+somewhat of a straw man in suggesting that it’s sort of either that or markets, or that
+we’ve gone through an era where markets in some way have pushed aside these other
+important ways of looking at politics. Markets I think come into the picture more as a
+tool, as a factor in how we think about these things. When we look at something like
+education, markets enter the picture as an argument that in fact the public institutions
+here have let down the very people they were supposed to serve and that we can use
+forms of markets of choice, of empowerment with financial power to beef up these
+14
+
+institutions, to force them to do the job that they were supposed to do that they’ve not
+been doing.
+
+SUE LAWLEY: Okay. Michael, comment on that?
+
+MICHAEL SANDEL: I certainly agree that markets can be effective mechanisms.
+The challenge for democratic politics is to keep markets in their place. Where we may
+disagree is in the estimation of the extent to which markets have reached beyond their
+proper role over the last few decades. In the war in Iraq, to take one very conspicuous
+example, by 2007 there were more private military contractors in Iraq than there were
+U.S. military troops. Now that may or may not be a good thing. My point is we never
+had a debate about whether we wanted to outsource war to private, paid military
+contractors or not, and yet it happened. And that is fateful for the condition of a
+democracy. We never had that debate.
+
+SUE LAWLEY: I’m going to bring in Robin Sproul next. She is the Bureau Chief of
+ABC News here in Washington.
+
+ROBIN SPROUL: Thank you. Professor Sandel, since the 1960s American public
+discourse has often been quite divisive - particularly over issues like abortion, same
+sex marriage, evolution versus creationism - which has led us to this you’re with us or
+you’re against us political mentality. And I’m curious how you think we can move
+beyond some of those divides towards a more civil discourse, and do you think we
+need to in this country?
+
+MICHAEL SANDEL: I do think we need to, and I think the way to do it is actually
+to be more willing to engage, to listen, and even to argue about the competing moral
+and religious convictions that citizens bring to public life.
+
+SUE LAWLEY: Where is Maeve Duggan? You’re a student here at George
+Washington University.
+
+15
+
+MAEVE DUGGAN: My question is do you think that this attitude of politics for the
+common good can really be reconciled with this economic crisis and
+market-mimicking governance because really innovation comes not in times of
+necessity but in times of peace when all of your basic needs are met?
+
+MICHAEL SANDEL: Alright, it’s a really good question. I’m not sure I agree with
+the last bit because sometimes political innovation and change can come about during
+times of great pressing necessity. Think of FDR and the New Deal, for example. I do
+think there does seem to be a lack of fit, or at least a tension, between the promise of
+moral and civic renewal that so moved the country during the Obama campaign and
+dealing with the financial crisis essentially by trying to give enticements and subsidies
+to the same investment bankers who had gotten us into this mess. So I do think that
+you are right to point to this way in which the treasury and the administration went
+about trying to use private markets to solve a credit crisis, which may or may not
+work.
+
+SUE LAWLEY: We’ve moved back towards politics and we have, I see in our
+audience here, Tom Friedman, the author and Pulitzer prize-winning journalist. Mr
+Friedman, your question if you would?
+
+TOM FRIEDMAN: In many ways, the Bill Clinton-Tony Blair Third Way
+Neoliberal model was kind of Thatcherism-Reaganism lite, and by the previous
+questioner one might wonder whether President Obama really is following that path.
+Do you think he really is in the Clinton-Blair mould ultimately? And if he isn’t, what
+would be the sign? What would his approach to this financial crisis look like, from
+your point of view, if he were indeed a radical departure?
+
+MICHAEL SANDEL: The jury is out on what the political identity of the Obama
+presidency will ultimately be, and the handling of the financial crisis does give reason
+for pause, hesitation, and even, I would say, some concern. So what would another
+approach look like? Well some people say that nationalising the banks in the public
+16
+
+interest would have been a better, more frontal, and ultimately simpler, cleaner way of
+doing it. It would have had one advantage, which would be to make explicit that the
+purpose here is the public purpose and however we resolve the financial crisis, we
+should do so in a way that minimises the unfair advantage to be enjoyed by bankers
+and investors whose conduct of their companies got us into this mess in the first place.
+And nationalising would at least send that message in a way that a complex,
+public-private partnership involving yet more leverage doesn’t.
+
+SUE LAWLEY: Tom Friedman?
+
+TOM FRIEDMAN: Would you be ready to do that even if, just to be provocative,
+the experts told you that the net result would be a poorer society with less risk taking?
+
+MICHAEL SANDEL: Whether I would trust those experts would partly depend on
+whether they, too, might not have been implicated in the deregulation that led to this
+problem. (LAUGHTER)
+
+SUE LAWLEY: I’m going to call Elliot Gerson.
+
+ELLIOT GERSON: I wonder, Michael, what makes you think that market
+triumphalism is dying or has passed some kind of inflection point? I wonder if we
+really are seeing a change?
+
+MICHAEL SANDEL: I think we’re at a point where it could go either way, and
+what lessons we learn from this experience will go a long way toward shaping the
+political possibilities, including the possibility for a politics of the common good.
+That’s the hope.
+
+SUE LAWLEY: Michael, we talked just briefly earlier on about whether this was the
+right moment, whether the moment was ripe for change. And maybe do you feel that
+17
+
+when people are uncomfortable and when the systems on which they have depended
+for so long suddenly collapse underneath them, is this an idea that’s found its
+moment?
+
+MICHAEL SANDEL: We’ll have to see. I don’t think that the financial crisis by
+itself is the primary source of hope for a more morally engaged public life. So much
+of political leadership on this level is in the doing. In 1932, when he ran for President,
+Franklin Roosevelt did not run on the platform of the New Deal. His platform was we
+have to balance the budget.
+
+SUE LAWLEY: But great leaders seize that moment. Great leaders corral a feeling
+that’s coming from the public as a whole, don’t they? Whether it’s Churchill in the
+Second World War, whether it was Lincoln after the Civil War, suddenly they are
+actually reflecting - corralling that emotion and reflecting it and putting it into
+operation. That’s really what you’re hoping, you’re saying, is happening today?
+
+MICHAEL SANDEL: Yes. And they rearticulate their purposes in governing vision.
+When the Civil War began, Lincoln’s purpose was to save the union. Only later, after
+the enormous sacrifice at Gettysburg and elsewhere, did Lincoln redefine the purpose
+of the Civil War, which was now freedom, not union. So great leaders, they have to
+begin with a certain moral and political imagination and depth, but they deploy those
+resources and that creativity by articulating as they go, by making sense to the public
+the full measure of the meaning of the events as they unfold.
+
+SUE LAWLEY: Michael Sandel, thank you very much indeed. Thank you for four
+lectures that have explored with great clarity and depth the moral issues implicit in
+many aspects of our everyday lives. They’ve provoked great interest and debate is
+surrounding them. It will undoubtedly go on. But for now, we finish. My thanks to
+our hosts here at George Washington University and to all of you who’ve either
+attended or listened to our programmes. From Washington and the BBC Reith
+Lectures 2009, goodbye.
+
+(APPLAUSE)
+18
+
+MICHAEL SANDEL: Thank you.
+
+19
+
+

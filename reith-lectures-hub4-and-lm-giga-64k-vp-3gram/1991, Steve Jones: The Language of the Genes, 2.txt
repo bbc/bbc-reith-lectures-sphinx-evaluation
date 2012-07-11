@@ -1,0 +1,369 @@
+REITH LECTURES 1991: The Language of the Genes
+Steve Jones
+Lecture 2: Change or Decay
+TRANSMISSION: 20 November 1991 – BBC Radio 4
+
+By the time you’ve finished listening to this talk, you will be a different person. I do
+not mean by this that your views about your life, or even about genes, will be
+modified - although perhaps they may. What I have in mind is simpler. In the next
+half-hour or so your genes, and your life, will be changed by mutation, by errors in
+your personal genetic message. Mutation - change - is happening all the time, within
+ourselves and over the generations. We are constantly being corrupted by it. All
+religions share the idea that humanity is in decline, a decayed remnant of what was
+once perfect, and that it must be returned to a higher plane by a process of salvation,
+of starting again from scratch.
+This lecture is about genetic change, the perpetuation of error, and how progress can
+emerge from decay. Mutation is at the heart of human experience. It leads to old age
+and death - but also to sex, to rebirth and to evolution. Mutation has within itself the
+answer to the universal question of faith, our own decline but humanity’s salvation.
+The first life - and the first genes - appeared 3,000 million years ago as short strings of
+molecules capable of making rough copies of themselves. At a reckless guess, the
+original molecule in life’s first course, the primeval soup, has passed through 3,000
+million ancestors before ending up in you or me - or in a chimp or an oak tree.
+The message from our ancestors coded in our genes is liable to be garbled during
+transmission. When I was a boy I was greatly amused by the tale of the order given
+down the line of command to soldiers in the trenches: “Send reinforcements, we’re
+going to advance” changed to “Send three and fourpence, we're going to a dance” as it
+passed from man to man. This simple tale illustrates mutation and evolution. It shows
+“descent with modification”, which was Darwin's own summary of what evolution is
+all about.
+The ancestral message from the dawn of life has grown to an instruction manual
+containing 3,000 million letters coded into DNA. Each of us has a unique edition of
+the manual, which differs in millions of ways from that of our fellows. All this
+diversity comes from mutation - from accumulated errors in copying the first genetic
+message.
+Like random changes to a watch, some mutations are harmful. But most have no
+effect, and a few may even be useful. There are 5,000 different inborn diseases which
+are due to mutation. Some show themselves when there is only one change in the
+DNA; some when two identical mutations are passed down, one from each parent;
+and some when we inherit a number of changes in different places in the genetic
+message. Now that medicine has almost conquered infectious disease, mutations have
+become more important. About one child in 30 born in Britain has an inborn error of
+1
+
+some kind; and about a third of all hospital admissions of young children involve a
+genetic disease. Some of the damaged genes descend from mutations which happened
+long ago, but others are mistakes in the sperm or eggs of the parents themselves.
+Each of us carries single copies of two or three different mutated genes inherited from
+ancestors long-dead which, if two copies of the same one were present, would kill us.
+None of us is perfect; everyone has at least one skeleton in their genetical cupboard.
+Because there are so many different genes, the chance of seeing a new mutation in
+any one of them is small. But there are a few cases where newly arisen mutations can
+be spotted. I will concentrate on just one. Before Queen Victoria, the genetic disease
+haemophilia - a failure of blood clotting - had never been seen in the Royal Family.
+However, several of her descendants have suffered from it. The mutation took place
+in one of her parents.
+Haemophilia has an unusual pattern of inheritance. It is on the X-chromosome.
+Females have two X-chromosomes and males just one. To be a haemophiliac a male
+needs to inherit only one copy of the gene, and a female two. The disease is hence
+commoner among boys than girls. This was known to the Jews 3,000 years ago. A
+mother was allowed not to circumcise her son if his older brother had bled badly at
+the operation and, more remarkably, if her sister’s sons had had the same problem.
+Several of Queen Victoria’s grandsons were haemophiliacs; she herself said that: “our
+poor family seems persecuted by this disease, the worst I know”. The most famous
+sufferer was Alexis, the son of Tsar Nicholas of Russia and Queen Alexandra,
+Victoria’s granddaughter. One reason for Rasputin’s malign influence on the Russian
+court may have been his ability to calm the unfortunate Alexis. The gene has
+disappeared from the British Royal Family, although there may still be some
+haemophiliacs among the 300 descendants of Queen Victoria alive today.
+Somewhat incidentally, there is a claim that another British monarch, George III,
+carried a different mutant gene - that causing porphyria, which can lead to mental
+illness; the madness of George III. One of the King’s less successful appointments
+was his Prime Minister, Lord North, who was responsible for the loss of the American
+colonies. It is odd to reflect that both the Russian and the American revolutions and
+both Presidents Gorbachev and Bush may result from mutations in Royal DNA.
+Until about five years ago, the study of human mutation was largely one of frustration
+- slightly ameliorated by anecdotes like these. It has been turned on its head by the
+astonishing advances of molecular biology. In the old days, the early 1980s, the only
+way to study any human gene was to identify a patient with a mutation and to try to
+work out what had gone wrong in the machinery which makes proteins. The nature of
+the change in the DNA was quite unknown.
+This was true for haemophilia as much as for any other gene. In fact, haemophilia
+seemed a rather simple mutation; although different patients had slightly different
+symptoms, the mode of inheritance was straightforward and they nearly all seemed to
+share the same inherited error. Now, whole sections of DNA from normal and mutant
+families can be compared to tell us exactly what has happened and things have got
+much more complicated.
+To see what mutations can do at the DNA level, we need to understand something
+about how human genes are organised. Nobody working 20 years ago would have
+predicted the extraordinary structure of the human genome. There are about 3,000
+2
+
+million DNA bases of four different kinds - A, G, C and T for short. Only a few
+percent of the DNA produces proteins, the substance from which our bodies are made.
+What the rest does, we have no idea. Perhaps it is just junk. Although it is dangerous
+to dismiss something because we cannot understand it, it is clear that functioning
+genes make up only a tiny proportion of our DNA.
+We can get an idea of how human DNA is organised and how it can be damaged with
+a simple analogy. Imagine the journey along the whole of your own DNA as being
+equivalent to one from Land’s End to John o’Groats via London - about 1,000 miles
+altogether. To fit in all the DNA letters on this scale, there have to be 50 DNA bases
+per inch; or about three million per mile. On the way, we pass through 23 counties of
+different sizes; divisions which, conveniently enough, are the same in number as the
+23 chromosomes into which our own DNA is packaged. The “Human Genome
+Project” hopes to complete the journey by the year 2005, but so far all they have
+covered is a distance equivalent to a short walk between Land’s End and the village of
+Sennen a couple of miles away. There is a long way to go yet.
+The scenery for most of the trip is very tedious. Like much of modern Britain, it
+seems to be totally unproductive, and it is littered with the corpses of abandoned
+genes, sometimes the same one again and again. About a third of the whole distance is
+covered by tens of thousands of repeats of the same short message - often just the two
+letters C and A repeated thousands of times. After many miles of dull and repetitive
+DNA terrain, we begin to see places where something is being made. There are about
+50,000 of these gene factories altogether, many in groups making related products.
+Which ones are working depends on the tissue we take the DNA from. In the brain,
+more than half of them are producing something. What, we usually don’t know. In
+other tissues, far fewer are active. Nearly all the DNA in the cells which give rise to
+red blood cells is switched off. However, one small group of genes is tremendously
+busy. As a result, they are better known than any other, and much of our
+understanding of human molecular biology comes from work on this particular
+genetic industrial centre: the beta-globin genes as they are known.
+These genes are about half-way along the total length of our DNA - about half-way to
+John o’Groats in Leeds, let us say. They make some of the globins, the proteins
+involved in carrying oxygen. The globin industrial estate contains about half-a-dozen
+genes making closely related products. That for making part of the haemoglobin
+molecule is small, about three feet long on our scale. A few feet away is another one,
+which makes a globin found only in the embryo. Close to that is the rusting hulk of
+some equipment which looks as if it once could produce a protein, but stopped
+working years ago. The globin factory covers about 100ft altogether, most of which
+seems to be unused space between functional genes. It co-operates with another one, a
+long way away - near London on our mythical map - which produces a related
+protein. Joined together, the two make haemoglobin, the red-blood pigment.
+Blood clotting is genetically even more complex than the transport of oxygen. A
+dozen or more different genes scattered all over the genome make a production line to
+manufacture the various factors needed. The one which usually goes wrong in
+haemophilia is the gene responsible for making Factor VIII. The Factor VIII machine
+has an odd structure. On our scale of 50 bases to the inch, this single gene is about
+100ft long, far larger than most; but for most of its length does not produce any
+3
+
+protein at all. Instead the machinery is divided into dozens of different working
+sections, separated by bits of DNA which don’t code for anything. Bizarrely enough,
+there even seems to be a gene within a gene, which makes something quite different
+in the Factor VIII machinery.
+Not surprisingly, the haemophilia mutation - which once seemed to be a simple
+genetic change - turns out to be much more complicated. All kinds of mistakes can
+happen. Sometimes, just one important letter in the working part of the gene has
+changed; usually a different letter in different haemophiliacs. The bits of the
+machinery which join the functional pieces of the product together seem to be
+particularly susceptible to accidents. In some haemophiliacs part - or even the whole of the Factor VIII region has disappeared.
+Most remarkably, it seems that a few patients have suffered from the insertion of an
+extra segment of DNA into the machinery, a segment whose own message looks like
+one carried by a virus. Another odd thing about haemophilia, which we still do not
+fully understand, is that there are many more new mutations in males than in females,
+possibly because there are more chances for things to go wrong when the millions of
+sperm are produced.
+If the rate of mutation to haemophilia is typical, there is about one new mutation in a
+functional gene - one which makes a protein in sperm or egg - per five generations in
+humans: that is, about 10 million new mutations in working genes per generation in
+Britain, which is not a small number. The actual incidence of harmful mutations may
+be even higher. Hormonal changes early in pregnancy suggest that eight out of ten
+fertilised eggs are spontaneously aborted, usually without the woman knowing
+anything about it. Many of these carry lethal mutations.
+Just why there are so many mutations, we do not know. There seem to be lots of ways
+of increasing the rate. In animals, radiation - such as X-rays - has a dramatic effect. At
+the end of the war, the Americans sent a team of scientists - the Atomic Bomb Control
+Commission - into Hiroshima and Nagasaki. It tested whether the children of
+irradiated survivors of the bombs had any new mutations. The work took 40 years;
+and the final report has just appeared. A million genes were looked at. Three
+mutations were found in children whose parents were in the cities when the bombs
+fell, and three among children of those outside the fallout zone. Although these people
+have had more radiation than any other in history, their mutation rate does not seem to
+have increased.
+Nevertheless, there is enough evidence from other animals to make radiation a real
+cause for concern. The biggest avoidable source in Britain is radon gas, which leaks
+from granite. Some people living in granite houses in Cornwall may be exposed to
+more excess radiation than those working in nuclear power stations.
+Chemicals are also important. The number of chromosome mutations in nuclear
+power-station workers is slightly greater than that of the general public, but the
+number in those working in coal-fired stations is even higher, probably because of the
+noxious chemicals which come from burning coal. Some chemicals - like those once
+used in hair dyes - have been found to be powerful mutagens, and have been banned.
+Many others - such as those in black pepper or in some pesticides - also cause
+4
+
+mutations. Some of the most potent are perfectly natural and cynics have argued that
+organic foods may be more dangerous than food which has been sprayed because of
+the mutagens found in the moulds which grow on them. Even an increase in
+temperature can increase the mutation rate, and to cool the nether regions by wearing
+the kilt in the granite city of Aberdeen is probably more than enough to reverse any
+effects of radon gas.
+There is a constant input of mutations as one generation succeeds another. Most have
+no effect on those who carry them as they happen in parts of the DNA which do not
+contain any meaningful instructions. They take place pretty much at random and
+accumulate over the years. Some are lost because, by chance, those who carry them
+do not have children; but they are replaced as new mutations come along. This
+balance between gain and loss means that the genetic make-up of any lineage changes
+with time.
+The same thing is at work with language; as words are passed from parents to
+children, errors creep in. Sometimes the changes are scarcely noticeable. In
+Shakespeare’s As You Like It, the court jester makes a speech which causes great
+amusement. Looking at his watch, he says: “Thus we may see how the world wags.
+T’is but an hour ago since it was nine. And after one hour more tw’ill be eleven. And
+so from hour to hour, we ripe and ripe, and then from hour to hour we rot and rot. And
+thereby hangs a tale”. Just why this should be so funny is lost on modern audiences
+unless they realise that in Shakespeare’s time the word ‘hour’ sounded almost the
+same as the word ‘whore’.
+Changes like this are small, but can make a big difference. Languages as distinct as
+Bengali and English are related. They owe their existence to the accumulation of tiny
+changes to a common ancestor spoken long ago. English and Bengali are not of
+course decadent survivors of a noble but extinct language. Mutation has led to
+divergence, not to decay.
+Take the word used to describe kings and queens. In Sanskrit, this was raj, in Latin
+rex, in old Irish ri, in French roi, Spanish rey, and English royal. There have been
+different transmission errors in the pathway leading to each language. If such
+mistakes build up regularly we can guess at how languages split from each other. If
+we know the date of the split we can make a linguistic clock. In Europe, this ticks at a
+rate which means that two languages still share about 80 per cent of their words 1,000
+years after they split.
+The language clock is an imperfect one. Some words scarcely change while others
+shift more quickly. Nevertheless, it can be used to trace the origin of modern tongues
+even though their ancestral speakers are long dead. We can compare genes in the
+same way, to give a “molecular clock”. If we assume that mutations take place
+regularly we can draw a tree of relatedness between animals, just as we can between
+languages. If we know from fossils when creatures last shared a common ancestor, we
+can estimate the rate at which the molecular clock ticks, and work out from this the
+date of splitting of other evolving lineages.
+The idea of a molecular clock driven by mutation is beautifully simple. As usual, the
+more we learn, the more complicated it gets. The clock speeds up and slows down;
+5
+
+and ticks at different rates for different genes. An equivalent confusion once led the
+Linguistic Society of Paris to ban discussion of the origin of languages. There
+certainly have been some spectacular failures by molecular clockmakers to see the
+biological wood for the evolutionary trees. However, they have also had some
+triumphs. One of these is, by sad accident, bound up with the story of haemophilia.
+In haemophilia the Factor VIII gene is not working properly. A few years ago it
+became possible to treat haemophiliacs with Factor VIII from donated blood. In
+Britain, this was bought from the United States. The American blood-donation system
+is a commercial one. Many of those involved are drug addicts who sell their blood,
+some of which was contaminated with the Aids virus. In the US, about 15,000
+haemophiliacs treated in this way were infected. The number is much smaller in
+Britain, but some have already died.
+The Aids virus is tiny, with a genetic message of only about 10,000 letters. The first
+American cases of Aids began to appear in the late 1970s. The disease was certainly
+around before then; the DNA in a pickled specimen from a sailor who died in
+Manchester in 1959 shows that his death, then a mystery, was in fact due to Aids.
+Since then, millions of people have been infected and millions more are certain to die.
+Where did the Aids virus come from, and when did it first begin to attack us?
+The answer comes from mutation and the molecular clock. The virus reproduces so
+quickly that its evolution can be studied over quite short periods. Its DNA sequence
+can even change within a single person during the course of infection. If we use the
+DNA from Aids patients in different parts of the world to make a tree of relatedness,
+it seems that the ancestral virus came from Africa, and spread via Haiti to the United
+States and then to Europe. Because we know when the first infections appeared in
+each place, we can set the rate at which the Aids molecular clock ticks. As many as 50
+mutations accumulate in each lineage each year.
+Comparing the genes of the Aids virus with those of others shows that it is related to
+some viruses which infect monkeys without causing too much damage. Its closest
+relative attacks the sooty mangabey, a West African monkey. The mutational clock,
+based on comparing genes in human Aids viruses with those in the monkey virus,
+suggests that the most important agent of Aids split off from its ancestor and invaded
+humans in the 19th century. Why, we do not know.
+Languages, viruses - and people - change over the generations by accumulating
+mutations, but they make this change without degenerating: as far as we can see, life
+progresses, it does not decay. But every individual is mortal; as we age, our
+machinery decays until it finally breaks down.
+Part of this decadence comes from mutation within our own bodies. To make a human
+being from a fertilised egg involves making lots of copies of the genetic message,
+with plenty of chances for mistakes. Most cells continue to divide - red blood cells are
+renewed every four months or so, for example. As a result, each of us accumulates
+millions of new mutations in our body cells during our lives. This means that
+everyone is an individual evolving system whose identity changes from day to day.
+Some of these mutations can lead to disaster. Many cancers result from genetic
+accidents, mutations, similar to those which lead to inborn disease. We all have 100 or
+so specialised genes which control the growth of cells. When they mutate, cells may
+multiply uncontrollably. Just as in haemophilia, all kinds of mistakes can happen. A
+6
+
+single DNA base may change, or whole sections of the message be lost. Occasionally,
+and amazingly, viruses carry cancer genes similar to those of humans and insert them
+into our own DNA.
+Age itself may reflect the same process. As our bodies are in a constant fever of DNA
+replication, the older we are the more divisions there have been, and the more chances
+for mistakes. The cells of a newborn baby are separated by only a few hundred
+divisions from the egg, but mine are distanced from it by thousands. My genes have
+had more chances to mutate, which is why cancer is largely a disease of old people.
+The biological identity crisis which we define as old age and which is solved by death
+happens when the genetic message has become so degenerate that the instructions no
+longer make sense.
+Just like making a series of photocopies, one from the other, a little information is lost
+each time a cell divides. Parts of the message disappear with time. Our DNA is
+packaged into units called chromosomes. Each has a specialised length of DNA at its
+end. This gets shorter with age; in a baby it is about 20,000 letters long, while in a 60year-old it is less than half this. About four letters are dropped from this section of the
+message each time a cell divides, so that an old body is working from an imperfect
+instruction manual, full of printing errors.
+Age may be due to the accumulation of genetic accidents. Human cells in culture age
+more quickly when they carry a defect which increases the mutation rate; and some
+children who inherit a tendency towards cancer also grow old more rapidly. It seems
+that the decay of our ageing selves is due to mutation.
+Age also increases the number of mutations in sperm and egg. It is more than an
+accident that Victoria’s father, Leopold, Duke of Albany - within whose august
+testicles the haemophilia mutation probably took place - was more than 50 when she
+was born. The effects of age can be striking. The chromosome mutation which gives
+rise to Down’s syndrome is 30 times commoner among mothers older than 45
+compared to those under 21.
+All this adds a certain irony to the claims of one institution devoted to reversing the
+decay of the human race: The Centre For Germinal Choice in California, in which
+Nobel Prize winners make genetic deposits for hopeful mothers. The depositors may
+once have approached genetic perfection, but because they’re elderly that perfection
+has been marred by age.
+Why, if our genes change and decay through our lives, does the human race not
+degenerate as one generation succeeds another? The answer lies, it seems, in sex. To
+define sex is simple; it is a way of enabling genes from different ancestors to be
+brought together in the same person. There are plenty of creatures which have given it
+up. Take the humble potato, for example. Every potato of a particular variety - let us
+say the King Edward to preserve our royal theme - is identical to every other, and
+each one of them has the same set of genes as the hoary ancestor of all potatoes
+bearing that name. This is very convenient for the farmer and the grocer, which is
+why sex is not encouraged among potatoes. King Edward himself was a very different
+kettle of fish: half his genes came from his mother, and half from his father, and he
+was a new and unique genetic mixture who combined some of the qualities of the
+7
+
+two; and of an ever widening pool of more distant ancestors.
+That is what sex is, but why is it there? There is certainly a lot of it about. Very few
+animals have given up sex: the odd lizard or fish, but none of our close relatives. Even
+creatures like greenfly, which manage without it for most of the time, feel the need for
+a bout of sex once a year or so. The frank answer is that we do not really know what
+sex is for. It must be important, as it is so expensive. It means that a female must
+waste her time producing sons, who carry only half her genes. If she gave up sex she
+might be able to produce just daughters who carry them all. There would then be no
+biological reason to have males at all; we still do not know what is the point of being
+a man.
+One theory about why life is not female has to do with mutation. If a sexless organism
+has a harmful mutation, it will be carried by all her descendants unless it is reversed
+by another one - which is unlikely. In time, another change will occur in a different
+gene in the family line; and a decay of the genetic message will set in as one
+generation succeeds another, just like the decay that takes place within our ageing
+bodies.
+We can see this happening in creatures which have given up sex. Nearly all sexless
+plants can only be used for a few years before they become so loaded with genetic
+damage that they no longer thrive. Potatoes are a good example. The Irish potato
+famine happened because the potatoes used nearly all belonged to an old and sexless
+variety, which suddenly became susceptible to disease and was destroyed. Nowadays,
+plants with new sets of genes are tried every few years to stop this happening.
+Sex means that new combinations of genes arise all the time. Each generation
+produces successful individuals who have been dealt a favourable hand of mutations,
+while others inherit a less advantageous mixture and fail to pass them on. George
+Bernard Shaw illustrated this in a hackneyed, but biologically accurate phrase. When
+an actress asked if she could bear his child, who might have her body and his brains,
+Shaw pointed out the danger of producing an infant with her brains and his body. Sex
+reshuffles life’s cards: it produces beautiful geniuses who survive, and ugly fools who
+do not.
+Every generation thousands of new mutations appear. Some are harmful, some not.
+Sex is a convenient way of bringing together the best, and purging the worst. It is a
+kind of redemption, which, in each generation, reverses the biological decay which
+arises by mutation. In some ways, sex is the key to immortality, the fountain of eternal
+youth - not for the individuals who indulge in it, but for the genes they carry.
+Nearly every novel, play, or work of art revolves around the eternal triangle of sex,
+age and death. All three of them and our very existence are aspects of the same thing:
+of errors in the transmission of genes, of mutation. Humanity is not a decayed
+remnant of a noble ancestor. Rather we are the products of evolution, a set of
+successful mistakes. Genetics has provided the solution to one of our oldest questions:
+why people decay but humanity does not. In one sense, at least, our salvation lies in
+our genes.
+
+8
+
+

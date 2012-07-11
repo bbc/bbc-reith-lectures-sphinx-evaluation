@@ -1,0 +1,229 @@
+Lord Broers
+Reith Lectures 2005: The Triumph of the Technology
+Lecture 3: Innovation and Management
+When Ralph Waldo Emerson reputedly and memorably said that the world would beat
+a path to the door of a person who made a better mousetrap, he was perhaps being
+unduly optimistic, but at least he realised that the mousetrap had to be made and that
+it would not be sufficient merely to have an idea, or even a patent, for a better mouse
+trap. Ideas have to be proven to be useful, and the world told about them, before any
+paths are beaten. Profound changes have taken place in the development of ideas and
+their translation in to the market place and in my third Reith lecture I argue that this
+innovation revolution demands a new approach to research and product development.
+To illustrate this story I go back to the beginning of my research career. I was drawn
+to Britain from the sunshine of Australia in 1959 because Britain led the world in
+making the best domestic electronics, especially the high fidelity sound systems that
+had fascinated me since I was a boy. I had formed a little company in Melbourne today we would call it a start-up - that made hi fi systems for rich farmers, and all the
+equipment that we used was British, including the electronic components, so my
+ambition was to come to England and work on their further development.
+But by the time I had finished my PhD in 1965 the excitement in electronics had
+moved to transistors and the newly emerging integrated circuits, and my PhD research
+had taken me strongly in this direction. Some of the important concepts for integrated
+circuits had emerged in Britain, in particular at the Royal Signals and Radar
+Establishment in Malvern, but the most exciting research was being pursued in the
+laboratories of the large American technology companies. There was a great demand
+for PhD graduates in electronics and related fields and the 'brain drain' from the UK to
+the USA was at full flow. There was no doubt in anybody's mind at that time that the
+ideal model for technology development was the large, well funded, industrial
+research laboratory staffed with talented PhD graduates from the world's leading
+universities. Fundamental research could go on in universities but it was only in the
+large industrial or government funded research laboratories that the really important
+practical advances were made. If I wanted to work on the creation of new
+technologies - on the evolution of the better mousetrap - then I would have to go to
+such a laboratory. This was not only the case in computers and communication but in
+the transport, chemical and pharmaceutical industries also.
+The most famous of the industrial research laboratories was the great A T & T Bell
+Telephone Laboratory that had dominated the world of communications for decades,
+but there were many other fine laboratories. General Electric, Hewlett Packard,
+Hughes Aircraft, Westinghouse, General Motors and so on, all maintained large
+research facilities and relied on them to provide the ideas and technologies for their
+new products. I chose the new IBM Research Laboratory because IBM led in
+computer technology and they were running some projects where I could apply my
+PhD research directly. And besides the IBM laboratory was housed in a magnificent
+new Eero Saarinen building surrounded by 70 acres of beautiful grounds in the
+country 50 minutes north of New York City and everyone was talking about it. As I
+
+have said this was the era when the industrial research laboratories dominated the
+world of innovation.
+But that was forty years ago and much has changed since then, and it is the way things
+have changed that I discuss this evening. The domination of the large industrial
+research laboratory has largely come to an end, and in all fields except perhaps
+pharmaceuticals, those that remain no longer operate in the same manner. They have
+become far more focussed on product development. It is the way this has happened,
+and what has replaced these large institutions which once seemed so dominant and
+impregnable, that interests me.
+Industrial research laboratories were, and are, extraordinarily expensive, and to an
+extent, speculative. The payback is the new products that they enable. Their task is to
+take advances in science, or novel uses and combinations of existing technologies,
+and demonstrate that they can be used to produce useful commercial products. In the
+larger companies the research laboratories were not required to produce finished
+products - that was left to 'development' laboratories - their task was to demonstrate
+that it was in principle possible to make the product. But they did much more than
+this. They were also charged with carrying out fundamental research to underpin the
+activities of the parent company. They provided the reservoir from which most, if not
+all, of the fundamental advances from which products were to be developed, would be
+drawn.
+By no means all innovative research carried out in industrial laboratories succeeded
+commercially - who has now heard of Remington-Rand computers. Neither was
+everything taken up by the parent company - the ubiquitous icons that we see on
+personal computer screens were first proposed by workers in Xerox' research
+laboratory and yet Xerox never made computers in large volumes. But up until the
+1980s it was the industrial research laboratories that acted as the well-springs from
+which most successful new products were drawn. In addition to providing the
+scientific underpinning to a range of products, researchers were rewarded for making
+contributions to fundamental science, even if it was unrelated to the company's
+business. I remember scientists in the IBM Research laboratory working on gravity
+waves, the formation of galaxies, and fractals, subjects of importance to science, but
+that bore little relation to IBM's products. Achievements in science were considered
+as important as solutions that enabled new products to be successful.
+In retrospect it becomes obvious that this support of fundamental science was in effect
+a philanthropic activity and could be afforded because the companies that practiced it
+on a significant scale were in fact monopolies. Some thought that they owed it to
+society. This has now changed. Very little fundamental research remains in corporate
+research laboratories.
+The world has become more competitive and there are now few, if any, companies in
+any country that exercise an effective monopoly. The world of technology and science
+has also expanded so much that it is no longer possible, even for the largest
+companies, to sustain a research effort that can cover all the disciplines used in their
+products. Finally, leading research is going on all over the world and it is less and less
+likely that the important new ideas will emerge in a company's own laboratory. It is
+better to put in place mechanisms that draw on the global research output, which
+
+incidentally is no longer confined to Europe, Japan and North America but is
+emerging rapidly in the East. The aim must be to draw upon the entire world of
+science and technology.
+So given this transformation, where is it best to pursue basic research and how should
+companies manage and organize the creation of new products? It is relatively easy to
+answer the first of these questions. Fundamental research is best carried out in
+universities. Universities allow researchers to set long-range goals - they are free to
+further humankind's understanding of the universe. It also makes them good at the
+type of research that used to be the domain of the industrial research laboratory. They
+have critical mass through the support of governments and can sustain breadth across
+the disciplines including the social sciences, and in some cases also the arts and
+humanities. Successful academics are active participants in the international
+community and are in a position to discuss their work without constraint with their
+peers around the world. They live in an environment that is continually refreshed by
+the intake of new students, and provided the faculty are motivated to remain active in
+areas of current interest, they remain agile and creative. It is the scope and variety of
+interdisciplinarity and the constant renewal brought by new, young minds, which
+underpin the achievements of university research. Government funded research
+laboratories are also in a good position to sustain strong fundamental research,
+although they are more likely to lose creativity as their membership ages.
+The principal challenge for any research organization, when their aim is to pursue
+research which underpins technology, is to find ways to transfer their ideas into
+practical advances - in other words to be effective in technology transfer. This is
+especially the case for universities. Universities have made significant advances in
+recent years through the setting up of what are called 'incubators' and by supporting
+work that takes ideas to the point of initial feasibility. They have shown that they can
+be effective in providing the input to the product development process, especially
+when new scientific concepts are involved.
+When it comes to product development, however, academics have difficulty in being
+sufficiently single-minded. They have to teach and examine, and tend nowadays to be
+evaluated on their output of original research. The product development process, on
+the other hand, requires focused dedication to product aims. Important scientific
+advances are made along the path to the product but these usually become valuable
+intellectual property and their creators will not be motivated, nor even allowed, to
+publish them. Academics who have been involved in the research phase of technology
+development, however, make valuable consultants and their involvement in the
+product development process is hugely beneficial.
+The creation of new products is therefore only effectively carried out by dedicated
+teams who can devote one hundred percent of their time to the activity. To be
+successful the innovators will almost certainly need an intimate knowledge of the
+science that underlies the technology, but their aim will not be to further the science.
+They will use their knowledge to break down the barriers that stand in the way of
+practical application. The resources needed to innovate are typically greater than those
+needed in research: As Thomas Edison famously said, the process is 'one per cent
+inspiration and ninety-nine per cent perspiration', and the energy and effort called for
+to take the idea of our better mousetrap successfully through to the sales floor is
+
+immense. This is partly because the process becomes a race against competitors, and
+the team must be large enough to get to their goal in time; and partly because there is
+an over-riding need to demonstrate that there are means reliably to manufacture the
+product in high volumes.
+Although there will be different ways to organize the creation of products in different
+industries some general needs can be identified. Innovation today is global so
+innovators must be familiar with what is going on all over the world - they should be
+members of the international community in their subject, or at least be in close contact
+with those who are, such as leading academics. For large companies with adequate
+resources this can be accomplished through collaborative research programmes with
+universities. In such programmes the goals of the research should be jointly set by the
+academics and industrialists so that everyone is familiar with the needs of the product
+or process programmes as well as with the research agenda. Such joint projects are
+also effective in transferring technology that has had its origins in universities. It is
+not effective for industry merely to 'contract out' their research needs to universities.
+In small and medium sized companies, where the resources are not great enough to
+fund large-scale research in universities, technology is best transferred by the
+academics moving out of their universities and devoting their full energies to the
+product development process. Many venture capitalists require this before they will
+fund a start-up. If they are not prepared to devote full time to the project themselves
+they will have to find others who will, and then act as advisors. This is not the best
+way to do things but it is a common model.
+It is also important to realize that the original ideas of the founding entrepreneurs
+usually only form the core of the what will be required. The rest of the creative input
+will have to come from all over the world. It is therefore important for small
+companies to be in touch with all sources of expertise; with universities, large
+companies, government funded establishments etc.... feeding off their ideas and using
+the larger organisations' resources to lever their own activities. In recent years in
+Britain it has been the small companies that have worked alongside large companies
+in a complementary way, such as ARM whose microprocessors power more than
+three quarters of the world's mobile phones, that have succeeded. Competing with the
+technological giants head-on normally ends in failure, or in selling out at their terms
+as the giants turn their blow-torch on the small company's niche.
+To understand the degree to which product development has changed and become
+global, one only has to examine the aerospace, mobile telephone or automobile
+industries. The components that make up these systems are no longer made by single
+companies. Technologies are brought together from around the world and integrated
+in to the final product. The indispensable modern cellular telephone drew on
+technology developed in Finland, Sweden, Japan, and the United States, and many of
+the most advanced phones are designed in the UK. The components of a modern
+airliner like the Airbus 380 have been drawn from hundreds of locations in Europe,
+the USA and the Far East as are the components of modern cars. The innovation is
+distributed and international and perhaps the most powerful minds of all are those at
+the centre who have to decide which technologies to select and how they will be
+brought together. The situation is similar in the chemical and pharmaceutical
+industries and in the building of large computer software systems.
+
+In cases where the product is to be mass-produced, as with most consumer products,
+the development of a commercially competitive manufacturing process is similarly
+global and takes even greater resources And again there is an interface, this time
+between development and manufacturing, where collaboration and the transfer of
+people is once more the key to success. As already mentioned, the resource needed to
+develop the manufacturing process can be ten times greater than that in development,
+or one hundred times that in research.
+Throughout all of what I have been talking about, the handling of intellectual property
+is key. The intellectual property must be sound and the ownership of patents clear and
+capable of withstanding challenge. Multiple ownership makes patents difficult to
+manage internationally and should, if possible, be avoided. Professionalism is
+essential. This is not the territory of the gifted amateur, even if many still cling to this
+romantic idea. Losing one's own and everyone else's money through unprofessional
+protection of intellectual property is not romantic.
+Leadership in the creation of new technology, is of prime importance and nobody will
+be surprised to hear that there are tensions between the ambitions of the creative
+engineer, the demands of the market, and the availability of resources. This is one
+area where the vast increase in the technology base and the spreading of this base
+around the globe has not changed things. I believe that technology based businesses
+should always be led by those who understand and have most experience of the
+market. Creative technologists provide the ideas for the new products and the
+expertise for manufacturing them, and may of necessity have to carry a new company
+through its early stages, but only the exceptional amongst them are able to develop a
+realistic view of the market for their ideas. In a small company, the ideal leadership
+team consists of a chief executive who has extensive experience of the market and
+good business sense, the creative engineer who stands at the chief executive's right
+hand and provides knowledge and contacts that spread throughout the entire technical
+spectrum, and the chief financial officer who acts as the disciplinarian. In large
+companies the team should retain the same characteristics and hierarchy although the
+capabilities will be distributed over the layers of the organisation. What has changed
+over the last few years is that everyone now has to have an international perspective,
+and preferably international working experience.
+The world of product and process creation has become wholly international. To be
+only nationally competitive is to be not competitive. The pace has also accelerated to
+the extent that those who do not thrive in a stressful environment had better find
+something else to do. In the oft quoted words of Andy Grove, the past head of Intel "Only the paranoid survive". This is a fast moving and ultra-competitive world. In the
+last decade of the 20th century we lived through what was in effect a new industrial
+revolution. Companies ceased to make entire products themselves and became
+assemblers of the world's best, and to do this they had to know the world - both its
+technologies and its peoples. And these trends are only going to accelerate as the
+emerging powers of India and China enter the world of innovation as powerfully as
+they entered high technology manufacturing. It is immensely exhilarating to be a
+player but there are no places reserved for amateurs.
+
+

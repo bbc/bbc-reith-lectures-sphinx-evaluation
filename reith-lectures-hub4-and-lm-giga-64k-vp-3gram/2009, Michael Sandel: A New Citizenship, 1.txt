@@ -1,0 +1,637 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A PROGRAMME AS IT WAS BROADCAST.
+THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+
+REITH LECTURES 2009: A NEW CITIZENSHIP
+Presenter: Professor Michael Sandel
+Lecture 1: Markets and Morals
+TRANSMISSION: 9th JUNE 2009
+RADIO 4
+
+9.00-9.45
+
+SUE LAWLEY: Hello and welcome to the Radio Theatre in Broadcasting House for
+the first in this year’s series of Reith Lectures. Their title is ‘A New Citizenship’,
+addressing the prospect of a new politics for the common good. There could probably
+be no better time to tackle such a challenging subject. In America, a new President,
+very different from his predecessor, is trying to give new direction to a country that
+many people feel had begun to flounder beneath the complexities it faces. In Europe,
+the financial crisis, tinged in Britain by recent revelations of parliamentary
+misbehaviour, has felt as though it might undermine the whole structure of
+government.
+
+This year’s lecturer believes we need to think afresh about what we mean by ‘the
+common good’; to think about whether we need to foster deeper moral and spiritual
+values in our public life. Our social, sexual, economic and scientific freedoms throw
+up many difficult ethical questions. How, he asks, should we develop the moral
+systems we need to cope with them? He’s one of today’s most eminent philosophers
+and political thinkers. His course on justice at Harvard University is one of the most
+oversubscribed in the history of the place. And his books have received worldwide
+acclaim. So I ask you, please, ladies and gentlemen, to welcome the BBC Reith
+Lecturer for 2009: Michael Sandel.
+
+(APPLAUSE)
+
+1
+
+SUE LAWLEY: Welcome, Michael. First, and most importantly of all, I gather you
+have been the inspiration for a character in The Simpsons?
+
+MICHAEL SANDEL: Have you checked for sure, Sue? You know that it’s true?
+
+SUE LAWLEY: (over) I’ve checked for sure, and I know it’s one of the nastiest,
+most unjust, amoral characters called Montgomery Burns. Is that right?
+(LAUGHTER)
+
+MICHAEL SANDEL: Thank you for pointing that out. (LAUGHTER) What a great
+way to begin. This is …
+
+SUE LAWLEY: (over) But why you?
+
+MICHAEL SANDEL: This is urban legend. Its rumours among the students. But it
+is true that a lot of the writers for The Simpsons went to Harvard. Many of them took
+the course. So if they took liberties with their professors - or this one - maybe that’s
+how it happened.
+
+SUE LAWLEY: That’s how you ended up in there. But 15,000 students have taken
+your course over the past 30 years at Harvard. I mean it’s difficult to ask you to
+answer this without you know sounding immodest, but why do you think a course on
+justice has been so popular, is so popular?
+
+MICHAEL SANDEL: It’s a chance for students not just to read what philosophers in
+the history of ideas said, but to challenge their own ideas about morality and politics
+and justice. There’s something dangerous in that, but also exhilarating, and I think
+that’s at the heart of the appeal.
+
+SUE LAWLEY: But you’ve told me that you might have been a journalist, you
+might have been a politician. You were thinking about, as you were becoming an
+academic, of studying Economics further; and then you decided, you decided it was
+2
+
+“a spurious science”. Your words. Why?
+
+MICHAEL SANDEL: Economics.
+
+SUE LAWLEY: Why, why?
+
+MICHAEL SANDEL: It’s a spurious science in so far as it is used to tell us what we
+ought to do because questions of what we ought to do in politics or as a society are
+unavoidably moral and political, not merely economic questions, and so they require
+democratic debate about fundamental values. Economists can inform us about
+possible implications of policy choices, but they can’t tell us - and they don’t really
+claim to tell us - what’s right and wrong, what’s just and unjust. So I decided to veer
+into that line of work.
+
+SUE LAWLEY: But we’re hoping that’s what you’re going to tell us during the
+course of these lectures. Hence, your first salvo: markets and morality. Michael, can I
+invite you to deliver Lecture number one? Thank you.
+
+MICHAEL SANDEL: Well, I’ll give it a try.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Well thank you, thank you very much. Thanks to you, Sue,
+and what a great pleasure and honour it is to be here. The Reith Lectures have a
+storied tradition of bringing together the world of ideas and the public realm, and so
+it’s really a great privilege to join you in this tradition.
+
+We live in a time of financial crisis and economic hardship - everybody knows that but we also live in a time of great hope for moral and civic renewal. We saw this hope
+in the election of Barack Obama as President of the United States. In many
+democracies around the world, there’s a similar hope, a restless impatience with
+politics as it is. In Britain, the public has been outraged by revelations that Members
+3
+
+of Parliament have claimed reimbursement for inappropriate housing expenses.
+Whatever reforms may emerge, one thing is clear: the better kind of politics we need
+is a politics oriented less to the pursuit of individual self-interest and more to the
+pursuit of the common good. That at least is the case I shall try to make in these
+lectures.
+
+A new politics of the common good isn’t only about finding more scrupulous
+politicians. It also requires a more demanding idea of what it means to be a citizen,
+and it requires a more robust public discourse - one that engages more directly with
+moral and even spiritual questions. And so in the course of these lectures, I’ll explore
+the prospect of a new citizenship and I’ll be asking what a more morally engaged
+public life might be like.
+
+If we’re to reinvigorate public discourse, if we’re to focus on big questions that
+matter, questions of moral significance, one of the first subjects we need to address is
+the role of markets, and in particular the moral limits of markets. Which brings me to
+the topic of this first lecture. We’re living with the economic fallout of the financial
+crisis and we’re struggling to make sense of it. One way of understanding what’s
+happened is to see that we’re at the end of an era, an era of market triumphalism. The
+last three decades were a heady, reckless time of market mania and deregulation. We
+had the free market fundamentalism of the Reagan-Thatcher years and then we had
+the market friendly Neo-Liberalism of the Clinton and Blair years, which moderated
+but also consolidated the faith that markets are the primary mechanism for achieving
+the public good. Today that faith is in doubt. Market triumphalism has given way to a
+new market scepticism. Almost everybody agrees that we need to improve regulation,
+but this moment is about more than devising new regulations. It’s also a time, or so it
+seems to me, to rethink the role of markets in achieving the public good. There’s now
+a widespread sense that markets have become detached from fundamental values, that
+we need to reconnect markets and values. But how? Well it depends on what you
+think has gone wrong. Some say the problem is greed, which led to irresponsible risk
+taking. If this is right, the challenge is to rein in greed, to shore up values of
+responsibility and trust, integrity and fair dealing; to appeal, in short, to personal
+virtues as a remedy to market values run amuck.
+4
+
+We might call this diagnosis ‘the greed critique’. But the greed critique is flawed or,
+at best, partial. Markets have always run on self-interest. From the standpoint of
+economics, there is no real difference between self-interest and greed. Greed is a vice
+in personal relations, but the whole point of markets is to turn this vice into an
+instrument of the public good. This is the moral alchemy that markets are said to
+perform. We learn this from Adam Smith who said, “It is not from the benevolence of
+the butcher, the brewer or the baker that we expect our dinner, but from their regard to
+their own self-interest”. “We address ourselves not to their humanity”, Smith said,
+“but to their self-love. Nobody but a beggar chooses to depend chiefly upon the
+benevolence of his fellow citizens”. This was Adam Smith. So it’s tempting to say
+that all we need to do is rein in greed and restore integrity among bankers and
+business executives and politicians, but this response is mainly hortatory: comforting
+for a time, but not really much help in rethinking the role that markets play in our
+societies. So what’s the alternative? The alternative is to re-think the reach of markets
+into spheres of life where they don’t belong. We need a public debate about what it
+means to keep markets in their place. And to have this debate, we have to think
+through the moral limits of markets. We need to recognise that there are some things
+that money can’t buy and other things that money can buy but shouldn’t.
+
+Looking back over three decades of market triumphalism, the most fateful change was
+not an increase in the incidence of greed. It was the expansion of markets and of
+market values into spheres of life traditionally governed by non-market norms. We’ve
+seen, for example, the proliferation of for profit schools, hospitals and prisons; the
+outsourcing of war to private military contractors. We’ve seen the eclipse of public
+police forces by private security firms, especially in the US and the UK where the
+number of private guards is more than twice the number of public police officers. Or
+consider the aggressive marketing of prescription drugs to consumers in the United
+States. If you’ve ever seen the television commercials in America on the evening
+news, you could be forgiven for thinking that the greatest health crisis in the world is
+not malaria or river blindness or sleeping sickness, but a rampant epidemic of erectile
+dysfunction. (LAUGHTER) Or consider some recent proposals to use market
+incentives to solve social problems. Some New York City schools are trying to
+improve academic performance by paying children 50 dollars if they get good scores
+5
+
+on standardised tests. In Dallas, they’re trying to encourage reading by paying
+children 2 dollars for each book they read.
+
+Or consider the vexed issue of immigration policy. Gary Becker, the Nobel Prize
+winning free market economist at the University of Chicago, has a solution: to resolve
+the contentious debate over whom to admit, the US, he says, should simply set a price
+and sell American citizenship for 50,000 dollars, or perhaps 100,000. Immigrants
+willing to pay a large entrance fee, Becker reasons, would automatically have
+desirable characteristics. (LAUGHTER) They are likely to be young, skilled,
+ambitious, hardworking; and, better still, unlikely to make use of welfare or
+unemployment benefits. (LAUGHTER) Becker also suggests that charging admission
+would make it easier to decide which refugees to accept - namely those sufficiently
+motivated to pay the price. Now you might say that asking a refugee fleeing
+persecution to hand over 50,000 dollars is callous. So consider another market
+proposal to solve the refugee problem, one that doesn’t make the refugees themselves
+pay out of their own pockets. An American law professor proposed the following: that
+an international body assign each country a yearly refugee quota based on national
+wealth. Then let nations buy and sell these obligations among themselves. So, for
+example, if Japan is allocated 20,000 refugees per year but doesn’t want to take them,
+it could pay Poland or Uganda to take them in. According to standard market logic,
+everyone benefits: Poland or Uganda gains a new source of national income; Japan
+meets its refugee obligations by outsourcing them; and more refugees are rescued than
+would otherwise find asylum. What could be better?
+
+There is something distasteful about a market in refugees, even if it’s for their own
+good, but what exactly is objectionable about it? It has something to do with the fact
+that a market in refugees changes our view of who refugees are and how they should
+be treated. It encourages the participants - the buyers, the sellers and also those whose
+asylum is being haggled over - to think of refugees as burdens to be unloaded or as
+revenue sources rather than as human beings in peril. What this worry shows is that
+markets are not mere mechanisms. They embody certain norms. They presuppose, and
+also promote, certain ways of valuing the goods being exchanged. Economists often
+assume that markets are inert, that they do not touch or taint the goods they regulate.
+6
+
+But this is a mistake. Markets leave their mark. Often market incentives erode or
+crowd out non-market incentives.
+
+Let’s go back to the case of cash for kids who make good test scores. Why hesitate to
+pay a child for getting good marks or for reading a book? The goal, after all, is to
+motivate the child to study or to read, and the payment is an incentive to promote that
+end. Economics teaches that people respond to incentives, and while some children
+may be motivated to read books for the love of learning, others may not. So why not
+use money to add a further incentive? Economic reasoning would suggest that two
+incentives work better than one, but it could turn out that the monetary incentive
+undermines the intrinsic one, leading to less reading rather than more, or to more
+reading in the short-run but for the wrong reason. On this scenario, the market is an
+instrument but not an innocent instrument. What begins as a market mechanism
+becomes a market norm. The obvious worry is that the payment may habituate
+children to think of reading books as a way of making money, and so erode or crowd
+out or corrupt the intrinsic good of reading.
+
+A study of some Israeli childcare centres offers a good real world example of how
+market incentives can crowd out non-market norms. The centres faced a familiar
+problem - parents sometimes came late to pick up their children, and so a teacher had
+to stay with the children until the tardy parents arrived. To solve this problem, the
+childcare centres imposed a fine for late pick-ups. What do you suppose happened?
+Late pick-ups actually increased. Now if you assume that people respond to
+incentives, this is puzzling. You would expect, wouldn’t you, the fine to reduce, not
+increase the incidence of late pick-ups? So what happened? Introducing the fine
+changed the norms. Before, parents who came late felt guilty; they were imposing an
+inconvenience on the teachers. Now parents considered a late arrival a service for
+which they were willing to pay. Rather than imposing on the teacher, they were
+simply paying her to stay longer.
+
+Part of the problem here is that the parents treated the fine as a fee. It’s worth
+pondering the distinction. Fines register moral disapproval, whereas fees are simply
+prices that imply no moral judgement. When we impose a fine for littering, we’re
+7
+
+saying that littering is wrong. Tossing a beer can into the Grand Canyon not only
+imposes clean-up costs; it reflects a bad attitude that we want to discourage. Suppose
+the fine is 100 dollars and a wealthy hiker decides it’s worth the convenience. He
+treats the fine as a fee and tosses his beer can into the Grand Canyon. Even if he pays
+up, we consider that he’s done something wrong. By treating the Grand Canyon as an
+expensive dumpster, he’s failed to appreciate it in an appropriate way.
+
+Now the distinction between a fine and a fee is relevant to the debate over how to
+reduce greenhouse gases and carbon emissions. Should government set limits on
+emissions and fine companies that exceed them? Or should government create
+tradable pollution permits? The second approach says in effect that emitting pollution
+is not like littering; it’s simply a cost of doing business. But is that right, or should
+some moral stigma attach to companies that spew pollutants into the air? To decide
+this question, we have to do more than simply calculate costs and benefits. We have
+to decide what attitudes toward the environment we want to encourage.
+
+At the Kyoto conference on global warming in 1997, the United States insisted that
+any mandatory emission standards would have to include a trading scheme, allowing
+countries to buy and sell the right to pollute. So, for example, the US could fulfill its
+obligations either by reducing its own greenhouse gas emissions, or by paying to
+reduce some other countries’ emissions. Rather than tax gas-guzzling Hummers at
+home, it could pay to restore an Amazonian rainforest or modernise an old
+coal-burning factory in a developing country.
+
+At the time, I wrote an opinion piece in the New York Times arguing against the
+trading scheme. I worried that letting countries buy the right to pollute would be like
+letting people pay to litter. We should try to strengthen, not weaken the moral stigma
+attached to despoiling the environment, I thought. I also worried that if rich countries
+could buy their way out of the duty to reduce their own emissions, we would
+undermine the sense of shared sacrifice necessary to future global cooperation on the
+environment.
+
+After my piece ran, The Times was flooded with scathing letters - mostly from
+8
+
+economists (LAUGHTER), some from my own university. I utterly failed to
+understand the virtue of markets, they said, or the efficiencies of trade, or even the
+most elementary principles of economic rationality. Amidst the torrent of criticism, I
+did receive a sympathetic email from my old college Economics Professor. He
+understood the point I was trying to make, he wrote, but could he ask a small favour:
+would I mind not publicly revealing the identity of the person who had taught me
+Economics? (LAUGHTER)
+
+I’ve since reconsidered my views about emissions trading to some extent, but I
+continue to think that in addressing this question most economists miss the crucial
+point: norms matter. In deciding how best to get global action on climate change, we
+have to cultivate a new environmental ethic, a new set of attitudes toward the planet
+we share. We’re unlikely to foster the global cooperation we need if some countries
+are able to buy their way out of meaningful reductions in their own energy use.
+
+Perhaps the best-known example of market norms eroding or crowding out
+non-market norms involves the case of blood donation. The sociologist Richard
+Titmuss compared the United States system, which permitted the buying and selling
+of blood for transfusion, with the system in the UK which banned financial incentives
+and relied wholly on donated blood. Titmuss found that rather than improve the
+quality and supply of blood, the commercialisation of blood led to shortages,
+inefficiencies and a greater incidence of contaminated blood. His explanation: putting
+a price on blood turned what had been a gift into a commodity. It changed the norms
+associated with blood donation. Once blood is bought and sold in the market, people
+are less likely to feel a moral obligation to give it out of altruism.
+
+The late pick-ups at childcare centres and the bad blood brought about by the use of
+market incentives are cautionary tales. They remind us that markets leave their mark
+on social norms. This does not by itself establish that marketising goods always
+changes norms for the worse. To decide where the market belongs and where it
+should be kept at a distance, we have to decide how goods and social practices are
+properly valued. How to think about this will be the subject of my next lecture.
+
+9
+
+My general point is this. Some of the good things in life are corrupted or degraded if
+turned into commodities, so to decide when to use markets, it’s not enough to think
+about efficiency; we have also to decide how to value the goods in question. Health,
+education, national defence, criminal justice, environmental protection and so on these are moral and political questions, not merely economic ones. To decide them
+democratically, we have to debate case by case the moral meaning of these goods in
+the proper way of valuing. This is the debate we didn’t have during the age of market
+triumphalism. As a result, without quite realising it, without ever deciding to do so,
+we drifted from having a market economy to being a market society. The hope for
+moral and civic renewal depends on having that debate now. It is not a debate that is
+likely to produce quick or easy agreement. To argue about the right way of valuing
+goods is to bring moral and even spiritual questions into public discourse. Is it
+possible to bring moral and religious disagreements into public life without
+descending into intolerance and coercion? That is the question I’ll turn to in the next
+lecture. Thank you very much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Michael Sandel, thank you very much indeed. Now I want to open
+up the subject to the floor and invite questions from the audience. Would you like to
+ask a question, sir?
+
+OLIVER KAMM: My name is Oliver Kamm. I’m a leader writer for The Times. Is
+it not simply a more pragmatic way of approaching debates over market provision to
+ask the question of efficiency? Both food and the provision of medical care are
+essential to public health, yet we distribute these goods differently - food by the
+market and health care in the UK by public provision regardless of ability to pay.
+
+MICHAEL SANDEL: I don’t think that efficiency is the only thing that we take into
+account even in the two cases that you mention. In the case of food, we do in most
+welfare societies have provision that those who are without means and who would
+otherwise go hungry should be provided some form of subsidy or support for food.
+That’s a moral decision. It’s true there are more externalities perhaps in the case of
+10
+
+public health, but there are lots of ways of trying to sequester or cabin the public
+health effects of ill health that wouldn’t require a full-scale commitment to provide
+for the basic health of all citizens.
+
+SUE LAWLEY: Do you want to come back quickly on that?
+
+OLIVER KAMM: My point is that moral values are incommensurable. They are not
+necessarily judged on the same scale. Arguments about efficiency are easier to come
+by and, thus, easier to come to a social consensus about.
+
+SUE LAWLEY: What would have happened in your example of blood donation,
+which you say was counterproductive; you know the market mechanism worked
+against it?
+
+MICHAEL SANDEL: Right.
+
+SUE LAWLEY: What would have happened if the market mechanism had improved
+the supply of blood?
+
+MICHAEL SANDEL: If it turned out that commercialised blood was a more
+efficient system, then you would have a straightforward moral choice to make: do you
+sacrifice some efficiency for the sake of preserving a certain value? The refugees case
+brings this out most starkly because the way of testing this idea is to say suppose it
+were true? Suppose it actually found more homes for more refugees than muddling
+along the way we do it now? Would you be willing to do it? Even if we decided, Sue,
+to do it, we should do it fully acknowledging that we’ve made a devil’s bargain. Or
+we may decide the other way, that the devil’s bargain isn’t worth taking.
+
+SUE LAWLEY: (over) What does our audience think of that?
+
+OWEN …………: Yeah hi, my name is ………………, a citizen of Great Britain.
+My question would be that Australia tried that policy where they paid the Pacific
+11
+
+Islands to take refugees that they weren’t prepared to take themselves.
+
+MICHAEL SANDEL: How did it work out? Do you know?
+
+OWEN ………….: Well it worked out very well for Australians. (LAUGHTER) But
+not so sure for the refugees though.
+
+MICHAEL SANDEL: There are two questions to be asked of that policy. One is,
+how was it for the refugees and did their treatment reflect having been turned into
+objects or commodities? And the broader question would be what would be the longer
+term effect on the public culture and on the norms surrounding refugee policy more
+generally?
+
+SUE LAWLEY: What’s your answer on the refugee issue?
+
+MICHAEL SANDEL: Prima facie, I find it appalling. But if some experiment were
+done of this kind, then I would want not only to count the number of refugees who
+were given asylum under the new policy as against the old. I would also want to know
+more about the public culture in the societies that received the refugees, that refused
+to receive the refugees, the attitude toward immigrants, the quality of life and the
+self-esteem of the refugees and of immigrants. Those are among the things that I
+would want to look at.
+
+SUE LAWLEY: We’ve got a hedge fund manager here, Hugh Hendry. Where is he?
+
+HUGH HENDRY: Michael, hi. Clearly I welcomed your comments in dismissing
+the greed of critique. I think you were concluding to say greed is good. Now if that’s
+the case …
+
+SUE LAWLEY: Were you saying greed is good?
+
+MICHAEL SANDEL: I was saying if greed is useful, let’s use it provided we can
+12
+
+very carefully keep it in its place, and we’ve not done a very good job of doing that
+lately.
+
+SUE LAWLEY: Okay, Mr Hendry?
+
+HUGH HENDRY: So greed is good then. Erm … (LAUGHTER)
+
+MICHAEL SANDEL: (LAUGHS) Not exactly, but …
+
+HUGH HENDRY: I want to put to you: if my presumption that greed is good, is
+altruism bad? And I say that in the context of the capitalism which is under fire today.
+The reviled bankers of today, their mistake is that they showed no prejudice. You
+could have no job, no income, no assets, and bankers said yes. We had a generation of
+bankers that were benevolent, and that’s why we have the losses of today.
+(LAUGHTER/AUDIENCE REACTION)
+
+MICHAEL SANDEL: I don’t think so, I don’t quite agree.
+
+SUE LAWLEY: The bankers of the last few years have been highly moral and
+deeply altruistic then?
+
+MICHAEL SANDEL: Yes. Now to say that they gave loans to people who wouldn’t
+normally or properly qualify for the loans may be true enough, but to conclude
+therefore that they were acting benevolently (APPLAUSE) I think is rather a threat.
+What they were doing, the reason they were doing that - and you know this better than
+I do - the reason they were doing that was not out of some sudden benevolence or
+altruism. It was because they knew they would not have to hold those mortgages.
+They could bundle them, chop them up into very small pieces, sell them off to other
+people and never have to bear the consequences. It was that, not benevolence, and
+surely you know that.
+
+SUE LAWLEY: But why do you think there is a need to do any of this? I mean the
+13
+
+implication is that you think we have, for want of a better phrase, lost our moral
+compass.
+
+MICHAEL SANDEL: The public life of democratic societies is not going all that
+well and there is a tremendous frustration - a frustration with politics and with
+politicians - and the debates we have in public life are really not about the things that
+matter most.
+
+SUE LAWLEY: And why is that because we used to have such debates? Why are
+you suggesting that is?
+
+MICHAEL SANDEL: I think it has partly to do with the momentum and the appeal
+of markets and the promise of delivering the goods, which was intoxicating over the
+three decades …
+
+SUE LAWLEY: (under) Sure.
+
+MICHAEL SANDEL: … when markets were triumphant and largely un-criticised. I
+think that’s part of it. Another is a worry that’s been voiced in some of the questions
+here. If we try explicitly to engage in public debate with hard, contested moral issues,
+we’re going to have disagreement. Democracy is not neat and systematic. It’s messy,
+it’s contentious, it’s argumentative - at its best.
+
+SUE LAWLEY: Talking about looking back across the past few decades and how
+we’ve arrived here, sitting here is Shirley Williams, Baroness Williams, who of
+course has been a very active politician during all of that time. Your point?
+
+BARONESS WILLIAMS: Let me roll back for a minute in history, back to the 18th
+century. You have largely private police. The Peelers didn’t come in until 1840. All
+schools were either charitable or private independent schools which were fee-paying.
+Most health was in the same category. The public service isn’t a concept that means
+very much. Now the Victorians in Britain and Bismarck’s groups in Germany
+14
+
+produced the concept, I think, in the modern sense of public service; and in doing so,
+they underpinned societies. The question I want to ask, therefore, is this: do you think
+there’s any chance of creating what one might call the underpinning of democratic
+societies without having the sense of public service revived? And, if so, does that
+imply that you would only get the kind of balanced society you want to see by
+essentially regarding all markets as being subject in the end to ethical principles?
+
+SUE LAWLEY: Would you want a re-moralised politics?
+
+MICHAEL SANDEL: I do. My answer, Shirley, is yes I do want all markets to be
+answerable to ethical principles and to principles of social justice.
+
+BARONESS WILLIAMS: Well I think what we’re looking at is the dissolution of
+professional ethical standards. Bankers used to be thoughtful grandfathers who told
+you you couldn’t afford this kind of thing. They aren’t anymore. Politicians used to be
+people that you thought would look after our interests. Now nobody thinks they do.
+And so it goes. It’s the micro professional ethics as well as the societal ethics that
+seem to me to have begun to disappear.
+
+SUE LAWLEY: But that is an ambition to put the genie back in the bottle, isn’t it
+Michael?
+
+MICHAEL SANDEL: Are we sure, Sue? I would like to add one other resource. It
+has something to do with the project of building a common life, of shared citizenship.
+A lot of our public institutions - public libraries, public transportation, public parks
+and recreation centres - are only partly for the sake of looking after those who
+couldn’t afford those services left on their own. They are also traditionally sites for
+the cultivation of a common citizenship, so that people from different walks of life
+encounter one another and so acquire enough of a shared … sense of a shared life that
+we can meaningfully think of one another as citizens in a common venture.
+
+SUE LAWLEY: I see sitting over there David Willetts MP, Shadow Innovation,
+Universities and Skills. Mr Willetts, your question?
+15
+
+WILLETTS: I just wanted to come back to your argument about this moral
+framework that we should judge everything by because for me, personally, I think
+where we’re failing is properly valuing the future - properly valuing the interests of
+our children and grandchildren and the sustainability of the way we live. But you can
+actually capture that in an economic argument that we’re not properly putting a price
+and a cost on the environmental degradation or the exploitation of future generations;
+and I wonder if that, even if it sounds less noble, isn’t actually the best way of
+winning the argument?
+
+MICHAEL SANDEL: Why do you want or should we want to price the environment
+in a way that takes account of the interests of future generations, people we will never
+know? I think there’s no good answer to that question that doesn’t draw on some
+notion of intergenerational justice. So the price mechanism there, as I hear it, is
+precisely in the service of a certain conception of justice that’s been missing from
+current policy. Would you disagree with that?
+
+DAVID WILLETTS: I accept that there is a moral framework to markets, but I think
+you have to recognise the power of the market is one of the most effective ways
+we’ve got of measuring the use of resources and putting a value on them.
+
+SUE LAWLEY: We’ve got somewhere here the Secretary of State. Where is he? Ed
+Miliband, where are you? Secretary of State for Energy and Climate Change. Where
+is he? Oh there he is. I’m sure you might care to comment?
+
+ED MILIBAND: What I find in my work is that lots and lots of people in the private
+sector want companies that live by their values, and their values go far beyond market
+values. But I wondered if you’d comment on people in this because I think people
+have a yearning for the kinds of things you’re talking about and we see it in people in
+the private sector and in the public sector and elsewhere?
+
+MICHAEL SANDEL: I think that vis-à-vis the economists and the economistic
+thinkers I’m criticising, I’m more optimistic about human nature than they are in the
+following respect. Altruism, civic spirit, benevolence, fellow feeling - there is not a
+16
+
+fixed supply of these sentiments. To the contrary. I think those moral sentiments are
+less like scarce resources that are drawn down with use than like muscles that are
+increased and strengthened with exercise. And that’s a fundamental difference, I
+think, between the way I view the moral psychology of markets and the way most
+defenders of economic reasoning do.
+
+SUE LAWLEY: It’s a wonderfully reassuring thought. I’m going to take just a
+couple of quick questions because we’re coming to the end of our time now. Woman
+in red in the middle there.
+
+NICOLE MARTIN: Nicole Martin. I’m a student. There’s been all this talk about
+spheres of life where markets shouldn’t be and markets are separate from morality.
+Here’s another view. Markets aren’t just a mechanism which we can judge in virtue of
+their consequences. They’re how we should do morality in the first place. In a free
+market, nobody’s coerced and we’re held responsible for our decisions. Even in a
+hypothetical situation where everybody had a decent standard of living and we all had
+roughly equal resources to begin with, I still think there would be something
+objectionable with treating markets as we do morality?
+
+MICHAEL SANDEL: If we had a perfectly equal society, would my objections to
+markets fall away? Is that what you’re asking?
+
+NICOLE MARTIN: Yes. (LAUGHTER)
+
+SUE LAWLEY: Are you sure?
+
+MICHAEL SANDEL: Go ahead! If I’ve got it wrong …
+
+NICOLE MARTIN: Well, yeah, that’s basically my question. If we had a perfectly
+equal society, do you think there’s anything more to morality than just markets …?
+
+MICHAEL SANDEL: (over) Yes, yes I do.
+17
+
+NICOLE MARTIN: … and people making decisions between each other?
+
+MICHAEL SANDEL: Yes. Even in an equal society, equality and distributive
+justice and fairness are very important values, but they are not the only values.
+
+SUE LAWLEY: I’m not going to come back because we’re pressed on time. I’ve got
+one more question - what we call in cricket a googly - but I’ll tell you what that is in a
+minute.
+
+MICHAEL SANDEL: (over) Does that mean an easy question?
+
+SUE LAWLEY: No, it means the opposite. (LAUGHTER) No, it doesn’t come from
+me. It comes from someone called Roz. Where is Roz? Has she deserted us? It says
+Roz here - R.O.Z. There is no Roz. They now think it’s Rod and it’s a man at the
+back! (LAUGHTER) Man at the back called Rod - for heaven’s sake, stand up. He’s
+chickened out. Okay, how immoral of him. Let me put this to you. ‘Love has become
+a major market nowadays. Valentine’s Day, dating sites and the controversial market
+in foreign brides are helping people and contributing to their finding somebody. If
+love is not out of bounds, how do we decide what is?’ (LAUGHTER)
+
+MICHAEL SANDEL: It’s an interesting question (LAUGHTER) whether it’s
+possible - never mind moral - whether it’s possible if you’re friendless to buy a friend.
+And we’ve been talking in this lecture and discussion about things that arguably
+money should not buy. What this question about love raises is whether there are some
+things that money can’t possibly buy.
+
+SUE LAWLEY: Money can’t buy me love.
+
+MICHAEL SANDEL: Maybe. But actually the distinction between the question of
+what money can’t buy (like maybe love) and what money shouldn’t buy (like maybe
+kidneys for transplantation) is actually a subject that intrigues me a lot because I think
+they’re connected. And believe it or not, Sue, I’m going to try to take that up in the
+18
+
+next lecture. (LAUGHTER)
+
+SUE LAWLEY: Michael, thank you very much indeed. Thank you to you all. Next
+week we’ll be in Oxford where Professor Sandel was a Balliol man back in the
+mid-70s, and there he’ll be discussing morality in politics. I hope you’ll tune in then.
+For now, Michael Sandel, Reith Lecturer 2009, thank you very much indeed. Thank
+you.
+
+(APPLAUSE)
+
+19
+
+

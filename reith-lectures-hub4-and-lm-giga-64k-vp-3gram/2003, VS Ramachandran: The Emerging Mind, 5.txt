@@ -1,0 +1,342 @@
+Vilayanur S. Ramachandran
+Reith Lectures 2003: The Emerging Mind
+Lecture 5: Neuroscience - The New Philosophy
+The main theme of our lectures so far has been the idea that the study of patients with
+neurological disorders has implications far beyond the confines of medical neurology,
+implications even for the humanities, for philosophy, maybe even for aesthetics and
+art. Today I'd like to continue this theme and take up the challenge of mental illness.
+The boundary between neurology and psychiatry is becoming increasingly blurred
+and it's only a matter of time before psychiatry becomes just another branch of
+neurology. I'll also touch on a few philosophical issues like free will and the nature of
+self.
+Now if you look at ideas on mental illness, there've been traditionally two different
+approaches to mental illness. The first one tries to identify chemical imbalances,
+changes in transmitters and receptors in the brain - and attempts to correct these
+changes using drugs. And this approach has revolutionised psychiatry. It's been
+phenomenally successful. Patients who used to be put in straight jackets or locked up
+can now lead relatively normal lives. The second approach we can loosely
+characterise as the so-called Freudian approach. It assumes that most mental illness
+arises from your upbringing - maybe your mother. In this lecture what I'd like to do is
+propose a third approach which is radically different from either of these but in a
+sense complements them.
+My point is if you really want to understand the origins of mental illness it's not
+enough to merely say that some transmitter has changed in the brain. You want to
+know how the change in the transmitter produces the bizarre symptoms that it does why patients have those specific symptoms which you see and why the symptoms are
+different for different types of mental illness. That's our agenda here. And what I'd
+like to do is to try and explain the symptoms you see in mental illness in terms of the
+known function and the known anatomy and neural structures in the brain. And that
+will be the goal of this lecture. And I'll suggest that many of these symptoms and
+disorders will seem less bizarre when viewed from an evolutionary standpoint, that is
+from a Darwinian perspective. So let's give this discipline a new name - and I'd like to
+call this discipline evolutionary neuro-psychiatry.
+Let's take the classic example of what people think of as a purely mental disorder,
+psychological disturbance - hysteria. Now I'm using the word here in the strictly
+medical sense, not somebody becoming hysterical and shouting and screaming. In the
+strictly medical sense, the word means that here is a patient who suddenly develops a
+paralysis of an arm or a leg, but if you examine this patient neurologically there are no
+deficits, brain MR scan reveals that the brain is apparently completely normal, there
+are no identifiable lesions, there's no damage. So the symptoms are dismissed as being
+purely psychological in origin.
+But recent brain-imaging studies using PET scans and functional Magnetic Resonance
+imaging have dramatically changed our understanding of hysteria. Using PET scans
+and NMR, we can now find what parts of the brain are active or inactive, for example
+
+when a patient does some specific action or some mental process. And you can find
+out what parts of the brain light up when he does it - for example when you do
+arithmetic, mental arithmetic, what part of the brain lights up? (It's usually the left
+angular gyrus, it turns out). Or when I prick you with a needle and there's pain, what
+part of the brain lights up, what are the pathways involved? And this tells you that that
+particular pathway that's lighting up is somehow involved in mediating that function.
+If I take anyone of you here and ask you to wiggle your finger and I do a PET scan to
+see what parts of the brain light up (and Kornhuber and Libet actually did this some
+decades ago) what I find is that two areas light up in the brain. One is called the motor
+cortex, which is actually sending messages to execute the appropriate sequence of
+muscle twitches to wiggle your finger. But also another area in front of it called the
+pre-frontal cortex that prepares you to move your finger. So there's an initial area
+which prepares you to move your finger and then there's the motor cortex that
+executes the motor programmes to make you wiggle your finger.
+OK, fine. But what if you now try this experiment on an hysterical patient, who's
+hysterically paralysed? He says his arm isn't moving but there are no neurological
+abnormalities. What if you did a PET scan in his brain and you asked him to move his
+so-called paralysed arm. He says, No I can't do it. You say, Try anyway - and do a
+PET scan. And this was done by Chris Frith and Frackowiak and Peter Halligan and
+John Marshall and others. And what they found was when a person with hysterical
+paralysis tries to move his arm, again the pre-motor area lights up. And this means
+he's not faking it. He's intending to move the arm. But in addition to that there's
+another area that lights up. And that is the anterior cingular and the ventromedial
+frontal lobes, parts of the frontal cortex. This means he has every intention of moving
+it, but the anterior cingular and parts of the frontal lobes are inhibiting or vetoing this
+attempt to move the arm in the hysterical patient. And this makes sense because the
+anterior cingular and parts of the frontal lobes are intimately linked to the limbic
+emotional centres in the brain. And we know that hysteria originates from some
+emotional trauma that's somehow preventing him from moving his arm - and his arm
+is paralysed.
+So we've talked about hysterical patients with hysterical paralysis. Now let's go back
+to normals and do a PET scan when you're voluntarily moving your finger using your
+free will. A second to three-fourths of a second prior to moving your finger, I get the
+EEG potential and it's called the Readiness Potential. It's as though the brain events
+are kicking in a second prior to your actual finger movement, even though your
+conscious intention of moving the finger coincides almost exactly with the wiggle of
+the finger. Why? Why is the mental sensation of willing the finger delayed by a
+second, coming a second after the brain events kick in as monitored by the EEG?
+What might the evolutionary rationale be? The answer is, I think, that there is an
+inevitable neural delay before the signal arising in the brain cascades through the
+brain and the message arrives to wiggle you finger. There's going to be a delay
+because of neural processing - just like the satellite interviews on TV which you've all
+been watching. So natural selection has ensured that the subjective sensation of wiling
+is delayed deliberately to coincide not with the onset of the brain commands but with
+the actual execution of the command by your finger, so that you feel you're moving it.
+
+And this in turn is telling you something important. It's telling you that the subjective
+sensations that accompany brain events must have an evolutionary purpose, for if it
+had no purpose and merely accompanied brain events - like so many philosophers
+believe (this is called epiphenomenalism) - in other words the subjective sensation of
+willing is like a shadow that moves with you as you walk but is not causal in making
+you move, if that's correct then why would evolution bother delaying the signal so
+that it coincides with your finger movement?
+So you see the amazing paradox is that on the one hand the experiment shows that
+free will is illusory, right? It can't be causing the brain events because the events kick
+in a second earlier. But on the other hand it has to have some function because if it
+didn't have a function, why would evolution bother delaying it? But if it does have a
+function, what could it be other than moving the finger? So maybe our very notion of
+causation requires a radical revision here as happened in quantum physics. OK,
+enough of free will. It's all philosophy!
+I'd now like to remind you of a syndrome we discussed in my first lecture, the
+Capgras delusion. So, the patient has been in a head injury, say a car accident. He
+seems quite normal in most respects, neurologically intact, but suddenly starts saying
+his mother is an impostor. She's some other woman pretending to be my mother. Now
+why would this happen, especially after a head injury? Now remember, he's quite
+normal in all other respects.
+Well, it turns out in this patient the wire that goes from the visual areas to the
+emotional core of the brain, the limbic system and the amygdala, that's been cut by
+the accident. So he looks at the mother and since the visual areas in the brain
+concerned with recognising faces is not damaged, he says, Hey it looks just like my
+mother. But then there is no emotion because that wire taking that information to the
+emotional centres is cut. So he says, If this is my mother how come I don't experience
+any emotions? This must be some other strange woman. She's an impostor. Well, how
+do you test this?
+It turns out you can measure the gut-level emotional reaction that someone has to a
+visual stimulus - or any stimulus - by measuring the extent to which they sweat.
+Believe it or not, all of you here - if I show you something exciting, emotionally
+important, you start sweating to dissipate the heat that you're going to generate from
+exercise, from action. And I can measure the sweating by putting two electrodes in
+your skin, changes in skin resistance - and if skin resistance falls, this is called the
+Galvanic Skin Response. So every time anyone of you here looks at tables and chairs,
+there's no Galvanic Skin Response because you don't get emotionally aroused if you
+look at a table or a chair. If you look at strangers there's no Galvanic Skin Response.
+But if you look at lions and tigers and - as it turns out - if you look at your mother,
+you get a huge, big Galvanic Skin Response. And you don't have to be Jewish, either.
+Anybody here, looking at your mother, you get a huge, big Galvanic Skin Response
+when you look at your mother.
+Well, what happens to the patient? We've tried this on patients. The patient looks at
+chairs and tables, nothing happens. But then we show him a picture of his mother on
+the screen, no Galvanic Skin Response. It's flat - supporting our idea that there's been
+a disconnection between vision and emotion.
+
+Now the Capgras delusion is bizarre enough, but I'll tell you about an even more
+bizarre disorder. This is called the Cotard's syndrome, in which the patient starts
+claiming he is dead. I suggested that this is a bit like Capgras except that instead of
+vision alone being disconnected from the emotional centres in the brain, all the
+senses, everything, gets disconnected from the emotional centres. So that nothing he
+looks at in the world makes any sense, has any emotional significance to this person,
+whether he sees it or touches it or looks at it. Nothing has any emotional impact. And
+the only way this patient can interpret this complete emotional desolation is to say,
+Oh, I'm dead, doctor. However bizarre it seems to you, it's the only interpretation that
+makes sense to him.
+Now Capgras and Cotard are both rare syndromes. But there's another disorder, a sort
+of mini-Cotard's that's much more commonly seen in clinical practice (those of you
+here who are psychiatrists know this, or psychologists). It's called Derealisation and
+Depersonalisation. It's seen in acute anxiety, panic attacks, depression and other
+dissociative states. Suddenly the world seems completely unreal - like a dream. Or
+you may feel that you are not real - Doctor, I feel like a zombie. Why does this
+happen? As I said, it's quite common.
+I think it involves the same circuits as Capgras and Cotard's. You've all heard of the
+phrase, playing possum. An opossum when chased by a predator suddenly loses all
+muscle tone and plays dead. Why? This is because any movement by the possum will
+encourage the predatory behaviour of the carnivore - and carnivores also avoid dead
+infected food. So playing dead is very adaptive for the possum.
+Following the lead of Martin Roth and Sierra and Berrios, I suggested Derealisation
+and Depersonalisation and other dissociative states are an example of playing possum
+in the emotional realm. And I'll explain. It's an evolutionary adaptive mechanism.
+Remember the story of Livingstone being mauled by a lion.
+
+Dr. Livingston, (picture courtesy of John Murray, Publishers)
+
+He saw his arm being ripped off but felt no pain or even fear. He felt like he was
+detached from it all, watching it all happen. The same thing happens, by the way, to
+soldiers in battle or sometimes even to women being raped. During such dire
+emergencies, the anterior cingular in the brain, part of the frontal lobes, becomes
+extremely active. This inhibits or temporarily shuts down your amygdala and other
+limbic emotional centres, so you suppress potentially disabling emotions like anxiety
+
+and fear - temporarily. But at the same time, the anterior cingular makes you
+extremely alert and vigilant so you can take the appropriate action.
+Now of course in an emergency this combination of shutting down emotions and
+being hyper-vigilant at the same time is useful, keeping you out of harm's way. It's
+best to do nothing than engage in some sort of erratic behaviour. But what if the same
+mechanism is accidentally triggered by chemical imbalances or brain disease, when
+there is no emergency. You look at the world, you're intensely alert, hyper-vigilant,
+but it's completely devoid of emotional meaning because you've shut down your
+limbic system. And there are only two ways for you to interpret this dilemma. Either
+you say the world isn't real - and that's called Derealisation. Or you say, I'm not real, I
+feel empty - and that's called Depersonalisation.
+Epileptic seizures originating in this part of the brain can also produce these dreamy
+states of Deralisation and Depersonalisation. And, intriguingly, we know that during
+the actual seizure when the patient is experiencing Derealisation, you can obtain a
+Galvanic Skin Response and there's no response to anything. But once he comes out
+of the seizure, fine, he's normal. And all of this supports the hypothesis that I'm
+proposing.
+OK, finally let's talk about another disorder, the one that jumps into people's minds
+when they think of madness - namely schizophrenia. These are patients who have
+bizarre symptoms. They hallucinate, often hearing voices. They become delusional,
+thinking they're Napoleon - or George Bush. Or they're convinced the CIA has
+planted devices in their brain to control their thoughts and actions. Or that aliens are
+controlling them.
+Psycho-pharmacology has revolutionised our ability to treat schizophrenia, but the
+question remains: why do they behave the way they do? I'd like to speculate on this
+based on some work we've done on anosognosia (denial of illness) - which you see in
+right-hemisphere lesions - and some very clever speculations by Chris Frith and Sarah
+Blakemore. Their idea is that unlike normal people, the schizophrenic can't tell the
+difference between his own internally-generated images and thoughts versus
+perceptions that are evoked by real things outside.
+If anyone of you here conjures up a mental picture of a clown in front of you, you
+don't confuse it with reality partly because your brain has access to the internal
+command you gave. You're expecting to visualise a clown, that's why you see it and
+you don't hallucinate. But if the mechanism in your brain that does this becomes
+faulty, then all of a sudden you can't tell the difference between a clown you're
+imagining and a clown you're actually seeing there. In other words, you hallucinate.
+You can't tell the difference between fantasy and reality.
+Similarly, you and I momentarily entertain the thought it would be nice to be
+Napoleon. But in a schizophrenic this momentary thought becomes a full-blown
+delusion instead of being vetoed by reality.
+What about the other symptoms of schizophrenia - the fact that aliens are controlling
+you? When you move your finger voluntarily, you know you sent the command, the
+motor centres in the brain sent the command. So you experience willing the
+
+movement. You don't say, Oh the finger moved on its own. But if the mechanism that
+performs this comparison is flawed, you no longer experience YOU willing the
+movement. So you come up with this bizarre interpretation. You say your movements
+are controlled by aliens or brain implants - and of course that's what paranoid
+schizophrenics do. How do you test a theory like this?
+I want you all now to try an experiment. I mean that. I want you to try an experiment
+on yourselves. Using your right index finger - all of you try it - tap repeatedly your
+left index finger, keeping your left index finger steady and inactive. So you're all
+tapping your left index finger using your right index finger - left index finger is
+perfectly steady. Now you'll feel the tapping only on the left finger, very little on the
+right finger. OK, how many of you feel that? Yes, raise your hands. OK, 99 per cent
+of you. There are a few mutants, but we won't pursue that.
+Now why is that? That's because the brain has sent a command from the left
+hemisphere to the right hand saying, Move. So the brain knows, it's tipped off the
+sensory areas of the brain, saying, Look you're going to move your right finger up and
+down so it's going to get some touch signals. But ignore them. It's not important. On
+the other hand, the left hand is perfectly steady so you feel the sensation only on the
+left finger, even though the tactile input is exactly the same.
+Now try it the other way. Hold the right finger steady. Tap with the left finger. And
+you should now feel it mostly on the right, not on the left. Now the prediction is, if a
+schizophrenic tries this experiment, since he does not know the difference between
+internally generated actions and externally generated sensory stimuli, he will feel the
+sensations equally in both the fingers. It's a five-minute experiment - nobody's ever
+tried it.
+Another prediction. I can come here and tickle anyone of you and you start laughing.
+Now interestingly, you can't tickle yourself. Try as hard as you want, you cannot
+tickle yourself. That's because your brain knows you're sending the command.
+Prediction: a schizophrenic should be able to tickle himself.
+OK, it's time to conclude now. I hope that I've convinced you that even though the
+behaviour of many patients with mental illness seems bizarre, we can now begin to
+make sense of the symptoms using our knowledge of basic brain mechanisms. You
+can think of mental illness as disturbances of consciousness and of self, two words
+that conceal depths of ignorance. Let me try to summarise in the remaining five or ten
+minutes what my own view of consciousness is. There are really two problems here the problem of the subjective sensations or qualia and the problem of the self. The
+problem of qualia is the more difficult one.
+The question is how does the flux of ions in little bits of jelly in my brain give rise to
+the redness of red, the flavour of marmite or mattar paneer, or wine. Matter and mind
+seem so utterly unlike each other. Well one way out of this dilemma is to think of
+them really as two different ways of describing the world, each of which is complete
+in itself. Just as we can describe light as made up of particles or waves - and there's no
+point in asking which is correct, because they're both correct and yet utterly unlike
+each other. And the same may be true of mental events and physical events in the
+brain.
+
+But what about the self? The last remaining great mystery in science, it's something
+that everybody's interested in - and especially if you're from India, like me. Now
+obviously self and qualia are two sides of the same coin. You can't have free-floating
+sensations or qualia with no-one to experience it and you can't have a self completely
+devoid of sensory experiences, memories or emotions. For example as we saw in
+Cotard's syndrome, sensations and perceptions lose all their significance and meaning
+- and this leads to a dissolution of self.
+What exactly do people mean when they speak of the self? Its defining characteristics
+are fourfold. First of all, continuity. You've a sense of time, a sense of past, a sense of
+future. There seems to be a thread running through your personality, through your
+mind. Second, closely related is the idea of unity or coherence of self. In spite of the
+diversity of sensory experiences, memories, beliefs and thoughts, you experience
+yourself as one person, as a unity.
+So there's continuity, there's unity. And then there's the sense of embodiment or
+ownership - yourself as anchored to your body. And fourth is a sense of agency, what
+we call free will, your sense of being in charge of your own destiny. I moved my
+finger.
+Now as we've seen in my lectures so far, these different aspects of self can be
+differentially disturbed in brain disease, which leads me to believe that the self really
+isn't one thing, but many. Just like love or happiness, we have one word but it's
+actually lumping together many different phenomena. For example, if I stimulate your
+right parietal cortex with an electrode (you're conscious and awake) you will
+momentarily feel that you are floating near the ceiling watching your own body down
+below. You have an out-of-the-body experience. The embodiment of self is
+abandoned. One of the axiomatic foundations of your Self is temporarily abandoned.
+And this is true of each of those aspects of self I was talking about. They can be
+selectively affected in brain disease.
+Keeping this in mind, I see three ways in which the problem of self might be tackled
+by neuroscience. First, maybe the problem of self is a straightforward empirical
+problem. Maybe there is a single, very elegant, Pythagorean Aha! solution to the
+problem, just like DNA base-pairing was a solution to the riddle of heredity. I think
+this is unlikely, but I could be wrong.
+Second, given my earlier remarks about the self, the notion of the self as being
+defined by a set of attributes - embodiment, agency, unity, continuity - maybe we will
+succeed in explaining each of these attributes individually in terms of what's going on
+in the brain. Then the problem of what is the self will vanish or recede into the
+background.
+Third, maybe the solution to the problem of the self won't be a straightforward
+empirical one. It may instead require a radical shift in perspective, the sort of thing
+that Einstein did when he rejected the assumption that things can move at arbitrarily
+high velocities. When we finally achieve such a shift in perspective, we may be in for
+a big surprise and find that the answer was staring at us all along. I don't want to
+sound like a New Age guru, but there are curious parallels between this idea and the
+Hindu philosophical view that there is no essential difference between self and others
+or that the self is an illusion.
+
+Now I have no clue what the solution to the problem of self is, what the shift in
+perspective might be. If I did I would dash off a paper to Nature today, and overnight
+I'd be the most famous scientist alive. But just for fun let me have a crack at it, at what
+the solution might look like.
+Our brains were essentially model-making machines. We need to construct useful,
+virtual reality simulations of the world that we can act on. Within the simulation, we
+need also to construct models of other people's minds because we're intensely social
+creatures, us primates. We need to do this so we can predict their behaviour. We are,
+after all, the Machiavellian primate. For example, you want to know was what he did
+a wilful action. In that case he might repeat it. Or was it involuntary in which case it's
+quite benign. Indeed evolution may have given us the skill even before self-awareness
+emerged in the brain. But then once this mechanism is in place, you can also apply it
+to the particular creature who happens to occupy this particular body, called
+Ramachandran.
+At a very rudimentary level this is what happens each time a new-born baby mimics
+your behaviour. Stick your tongue out next time you see a new-born-baby and the
+baby will stick its tongue out, mimicking your behaviour, instantly dissolving the
+boundary, the arbitrary barrier between self and others. And we even know that this is
+carried out by a specific group of neurons in the brain, in your frontal lobes, called the
+mirror neurons. The bonus from this might be self-awareness.
+With this I'd like to conclude this whole series of lectures. As I said in my first
+lecture, my goal was not to give you a complete survey of our knowledge of the brain.
+That would take fifty hours, not five. But I hope I've succeeded in conveying to you
+the sense of excitement that my colleagues and I experience each time we try to tackle
+one of these problems, whether you're talking about hysteria, phantom limbs, free
+will, the meaning of art, denial, or neglect or any one of these syndromes which we
+talked about in earlier lectures. Second, I hope I've convinced you that by studying
+these strange cases and asking the right questions, we neuroscientists can begin to
+answer some of those lofty questions that thinking people have been preoccupied with
+since the dawn of history. What is free will? What is body image? What is the self?
+Who am I? - questions that until recently were the province of philosophy.
+No enterprise is more vital for the wellbeing and survival of the human race. This is
+just as true now as it was in the past. Remember that politics, colonialism,
+imperialism and war also originate in the human brain.
+Thank you.
+
+

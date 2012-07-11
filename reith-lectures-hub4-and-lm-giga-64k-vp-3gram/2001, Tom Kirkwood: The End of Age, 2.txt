@@ -1,0 +1,247 @@
+Tom Kirkwood
+Reith Lectures 2001: The End of Age
+Lecture 2: Thread of Life
+
+We sometimes say, in extremis, that a person's life hangs by a thread. In fact, all our
+lives hang by a thread all the time. The thread in question is DNA, the medium
+through which we inherit our genetic destiny. DNA directs our growth and all of the
+vital processes on which we depend for survival. DNA is the thread of life, but is it
+also the thread of death? Does DNA control our end as it controls our beginning?
+In my first lecture, I described the revolution in human longevity that has taken place
+over the last few generations. Tonight, I shall look at the companion revolution in the
+life sciences - a revolution that has unfolded with breathtaking speed over the last half
+century and which has accelerated greatly of late. It is this revolution that will allow
+us to understand the role of DNA in the ageing process.
+When the first draft of the human genome was announced on 26 June last year, the
+world's press rejoiced in the prospect of continuing, even accelerating, the
+postponement of death that had been the great success story of the 20th century. This
+enthusiasm was reflected in reports of a telephone call between President Clinton and
+Prime Minister Blair, in which the President congratulated the Prime Minister that his
+baby son Leo had, at a stroke, gained 25 years in life expectancy. Politicians' promises
+are not always the best arbiters of future reality, but the personal nature of the
+President's message suggests he was sincere. Was he right? And what are we to make
+of claims that even longer life spans are just around the corner?
+DNA plays a dual role in our lives. Like Theseus of old, it combines power and
+vulnerability - it is both master and servant of fate. On the one hand, DNA is the
+medium in which our genetic endowment is written. It is the information coded in our
+personal DNA sequence which we can probe for the presence or absence of particular
+gene variants - or polymorphisms - that might affect our future. Seen in this light,
+DNA plays a fixed role in each of our lives.
+Our interest is in the differences between one person's DNA and another's and in what
+these tell us about biological individuality. But our personal DNA is by no means as
+constant as we might wish. DNA is a working molecule to which our cells refer
+continually. It is not some dusty tome tucked away in the reference section of the cell
+but a hive of activity, more akin to a busy internet web site. Just like a web site, it
+experiences a continual stream of hits.
+Most of these hits are harmless requests for data, involving simply a readout out of a
+genetic string of A's, C's, G's and T's, like the bit strings of zeroes and ones that are
+downloaded from web sites. But some are real hits by agents of damage which result
+in lasting harm. It is these latter hits that cause the information coded in our DNA to
+become corrupted with the passage of time, and it may be these hits that cause us to
+age.
+
+If we look first at the vulnerable side of DNA, the bad news, I am afraid, is that even
+as I speak your DNA is in trouble. As I spoke the last sentence, the DNA in your body
+experienced literally billions of damaging hits. The attack rate on DNA has been
+estimated at 10,000 damaging hits per cell per day. Your body comprises about one
+hundred thousand billion cells, so the carnage is considerable.
+We have growing reason to believe that it is the oxidative damage caused by free
+radicals which plays an important role in ageing.
+Lest you worry unduly, let me assure you at once that even as each hit lands, your
+cellular emergency services are on the lookout for trouble and putting it right. But,
+good as these systems are, they are not perfect and some of the damage will persist.
+During the lecture tonight you will use up about one ten thousandth part of one per
+cent of your life expectancy. It is not a lot, and you will not feel it, but another grain
+of sand will have passed through the hourglass of your life.
+The villain that is doing most of this damage to your DNA is oxygen. We tend to
+think of oxygen as friend rather than foe, but it is dangerous stuff. When I light my
+fire on a cold winter evening, it is the chemical reaction of oxygen with carbon that
+makes the coals glow hot. But if a spark were to escape from the fire, the same
+oxygen might burn the house down. Inside the cells of our bodies thousands of minute
+structures called mitochondria use oxygen to produce energy, and the same oxygen
+also produces a kind of spark. The inside of the cell is wet, of course, so the burning
+is, in reality, a damp kind of affair, but the sparks, called "free radicals", are no less
+destructive for being surrounded by water. Free radicals damage whatever they touch,
+including our DNA. We have growing reason to believe that it is the oxidative
+damage caused by free radicals which plays an important role in ageing.
+Not all of the damage to DNA is caused by oxygen, of course. There are other factors
+that regularly damage DNA, like sunlight or tobacco smoke. Nor is DNA the only
+target for free radicals - our membranes and proteins get hit too. But hits to our DNA
+are liable to have a lasting effect, because the occasional hit that fails to get repaired
+correctly can lead to a permanent alteration in the DNA sequence. In this respect, the
+very zeal with which the DNA repair systems guard against change can be our
+undoing, since once the sequence is changed, it is the new but erroneous sequence that
+becomes the object of protection.
+When I was a child, the game of Chinese whispers was popular at parties. I expect
+you know it. The first player makes up a story and whispers it into the second player's
+ear. The second player whispers it in the third player's ear, and so on. By the time the
+message has gone around, the original tale of how Lucy's cat got shut in the coal shed
+might well be an account of a blue hat that got stuck on a goat's head. DNA plays its
+own version of Chinese whispers all the time. It is quite possible that there is no
+longer a single cell in your body that has exactly the same DNA sequence as that
+which was in you when you began your life as a fertilised egg.
+Thus goes the story of vulnerability - of how the slings and arrows of outrageous
+fortune beat relentlessly at our DNA. But DNA is also master of its destiny. A few
+moments ago I assured you that most of the DNA damage currently causing mayhem
+in your cells will be put right. It will be put right because encoded in your genome are
+
+instructions for extremely sophisticated DNA repair. You might reasonably ask why,
+if your DNA is so smart, it does not keep you going for ever. The humbling answer is,
+it just can't be bothered.
+As we saw in my previous lecture, our evolutionary ancestors lived at a time when life
+was typically brutish and short. In such circumstances, the body was likely to die soon
+from an accidental cause, rendering any idea of potential immortality somewhat
+hypothetical. Maintenance does not come cheap and reproduction was more
+important, so your DNA, in its role as master of your fate, skimped on the
+maintenance and treated your body as disposable. It is galling to think that we age
+because our ancestral genes attached limited importance to our individual survival,
+but we can at least take comfort from the fact that we live a good deal longer than
+most of our companion species on this planet. Those of us who keep pets soon grow
+used to a succession of hamsters, budgies, cats or dogs in our lives. It is only the giant
+tortoises in our zoos that get the chance to feel the same way about their keepers.
+The disparity in the life spans of species is scientifically very valuable for we can test
+ideas about genetic factors that control the rate of ageing by comparing species that
+age fast with species that age more slowly. Pioneering work in the mid-1970's found
+that cells from long-lived species are better at DNA repair than cells from short-lived
+animals. It has since been confirmed in many laboratories, including my own, that
+cells from the long-lived animals are generally better at maintaining and protecting
+themselves.
+There are strong indications that a search for genetic determinants of human longevity
+will not be fruitless.
+During the last decade we have seen exciting work being done with simple organisms
+like fruitflies and roundworms, which has shown that long-lived mutants in these
+species generally gain their extended longevity from genetic alterations that increase
+the capacity to resist or repair damage. It is attractive to think that what a mutant
+roundworm can do, we might be able to do for ourselves. But before we let our
+imaginations run away with the possibilities of boundless extension of life, it is worth
+thinking about just how we might go about it. One place to start will be by trying to
+identify the genetic determinants of human longevity from among the vast array of
+data now emerging from the human genome project.
+We have convincing evidence that life expectancy can be inherited. Twin research that favourite tool of the human geneticist - has shown that monozygotic twins, with
+all of their genes in common, have life spans that are more similar than those of
+dizygotic twins, who share just 50% of their genes. Other kinds of study, like a recent
+report based on analysis of the entire population of Iceland, have come to similar
+conclusions. But these studies also reveal that life span is not inherited in as clear-cut
+a manner as blood groups or the colours of Gregor Mendel's famous peas. The genetic
+studies show that the inheritance of human life span is not that strong. It appears that
+our genes account for about a quarter of what determines the lengths of our lives.
+There is a common misconception that as soon we begin to trawl the gene pool for
+genes that affect the ageing process, we will fish out genes for ageing, genes for
+Alzheimer's disease, genes for osteoarthritis, and so on. The reality is that we are most
+
+unlikely to discover genes for any of these traits. The idea that there exist genes for
+ageing was knocked on the head half a century ago by the Nobel laureate, Peter
+Medawar, but it is taking a long time to die. Or rather, like Count Dracula, it keeps
+rising from the dead. The reality is that the vast majority of wild animals die young.
+Therefore, there is neither need to evolve genes for ageing, for example to control
+population size, nor is there opportunity to do so.
+To understand the real, underlying causes of conditions like Alzheimer's and
+osteoarthritis we must probe for the weak links in gene networks that probably
+evolved to do us good and not harm.
+Far from evolving genes for ageing, animals evolved genes for longevity. As animals
+became better adapted to their environments and thus able to avoid some of the
+dangers therein, it became worthwhile to invest in things like better DNA repair. Once
+we recognise that the genes we must seek are genes for longevity, not ageing, our task
+becomes more realistic but at the same time more complicated. We can expect tens, or
+even hundreds, of genes to be involved in the networks of maintenance systems that
+keep us alive. Working them out is going to require the very newest gene technologies
+and some highly sophisticated computation.
+What is true for ageing is also true for the diseases of later life. It makes no sense to
+think in terms of genes for Alzheimer's disease, except in rare families where
+particular mutations produce unusually early onset. Even in these cases, the genes
+which are mutated probably do not cause the disease but merely accelerate its
+progression. To understand the real, underlying causes of conditions like Alzheimer's
+and osteoarthritis we must probe for the weak links in gene networks that probably
+evolved to do us good and not harm.
+Whether a gene is good or bad depends on the circumstances. This is strikingly
+illustrated by the gene that codes for the sickle cell variant of haemoglobin. In
+malarial West Africa, the sickle cell gene conferred protection against fever on those
+who inherited just one copy, but at the cost of imposing a crippling blood disorder on
+those who inherited two. In circumstances where the risk of infection with malaria
+was high, the scales of natural selection were tipped in favour of maintaining a
+relatively high frequency of the sickle cell gene within the population.
+There is a growing belief among those who study cellular ageing that the gradual loss
+of DNA from our telomeres - and whatever this may do to age us - is a price that our
+genome agreed to pay in order to protect us better from cancer.
+But times change and people of West African origin who live now in non-malarial
+regions, run the risk of sickle cell disease as an unfortunate legacy of past
+evolutionary advantage. Much the same may be true of genes which predispose us to
+late-life diseases. A prime example can be found if we turn our attention to the very
+tips of the thread of life.
+One of the processes that we believe may have a role to play in ageing is the gradual
+loss of DNA sequence from the ends of our chromosomes - our telomeres - as cells
+divide. We know in principle how to arrest this decline by the throw of a genetic
+switch, but we also know that throwing this particular switch is one of the things that
+
+a deranged cell does when it becomes malignant. There is a growing belief among
+those who study cellular ageing that the gradual loss of DNA from our telomeres and whatever this may do to age us - is a price that our genome agreed to pay in order
+to protect us better from cancer. In past times, when life expectancy was short we
+reaped the benefits without paying the price. In the future, we may have to choose.
+But before we can make an informed choice we need to discover the rules of the
+game.
+I said at the beginning of this lecture that there are two sides to the character of DNA its power and its vulnerability. But, as the Greek storytellers knew full well, a key
+ingredient of any tale is the interplay between the strengths and weaknesses of its
+hero.
+It is clear that an important facet of the genetics of ageing is the interaction between
+DNA damage and the genetic control of DNA repair. Nowhere is this more starkly
+illustrated than in the rare genetic disorder known as Werner's syndrome, where
+mutation in a gene that controls a part of the DNA repair machinery leads to a twofold acceleration of many features of the ageing process and a drastic shortening of
+life span.
+The cells in a person with Werner's syndrome show abnormally heavy burdens of
+DNA damage. But the vulnerability of the genetic message in all of us extends
+beyond mere damage to the DNA sequence. Not only are there errors in how DNA is
+copied and repaired, but there are all kinds of hiccups and random variations in how
+the genetic instructions are translated into proteins, in how proteins are transported
+around the cells, in how genes get turned on and off, in how cells interpret signals
+from other cells, and so on. The system works because evolutionary pressure has
+ensured that that the ensuing muddle is well enough contained that it does not
+interfere with our vital functions during the all-important early years. This is what
+mattered in our ancestral past. But variations that do not affect us until middle and
+later life are relatively unconstrained.
+As we look deeper, we find that our genetic blueprint is not so deterministic after all.
+Genes do not specify the end of our lives with any precision. They do not shepherd us
+towards some preordained goal like the guidance system of a cruise missile. They
+merely point us in a certain direction and do their best to keep us ticking along until
+muddle gains the upper hand. What determines where we each end up is a threefold
+blend of nature, nurture and chance.
+In these heady days of rapid scientific advance, it is perhaps natural that our
+imaginations should run wild with the new possibilities unfolding before us. Designer
+babies with the brains of Einstein, the looks of Bridget Bardot, and the longevity of
+Methusaleh? But the hard realities of life have a habit of reasserting themselves. We
+can conceive, in principle, of gene therapy that could alter human ageing. But as yet
+we have neither a clear picture of the genes we would wish to change, nor do we
+know if changing them would do more harm than good. We have not even cracked the
+much simpler problem of delivering effective gene therapy for single gene disorders
+like cystic fibrosis. In the case of cystic fibrosis, we have long known what we want
+to do. Would that we could do it.
+
+Another approach that holds great promise to intervene in the ageing process is to
+unlock the regenerative potential of the DNA contained in our cells. Stem cell
+research - the subject of the conference here now at the Cold Spring Harbor
+Laboratory- may enable us to replace cells that have been damaged by the
+degenerative processes that lie at the heart of ageing. But we must be careful not to
+raise false expectations. A bitter blow was dealt recently to those hoping for a cure for
+Parkinson's disease. Transplanted foetal cells, which had shown great early promise,
+were found to produce excessive amounts of the neurochemical dopamine, leaving
+recipients in a worse state than before.
+The difficulties of stem cell research lie in taming the power of DNA and in
+controlling its vulnerability to damage. It is too simplistic just to say that stem cells
+contain the genetic blueprint to become any kind of specialized cell within the body.
+Embryo stem cells proceed through a complex series of developmental stages to form
+the cells of the adult. These stages involve sequential alterations in gene expression,
+modulated by interactions with neighbouring cells. If we want to put early stem cells
+into mature tissue we need to discover whether they can sufficiently recapitulate the
+normal developmental process, or if some key step might inadvertently be left out.
+On the other hand, if we use adult stem cells we should recognize that these cells may
+be damaged by age. In recent research on the stem cells of the lining of the gut, my
+colleagues and I have shown that these cells are altered by ageing in ways that
+significantly compromise their function, probably because their DNA is damaged.
+President Clinton promised Leo Blair an extra 25 years of life. Given the time that it
+takes to translate groundbreaking new research into effective application, it's a tough
+challenge for science. Nevertheless, the President's prediction might just be right.
+Science is on track to discover the deep secrets of ageing. From these insights will
+assuredly come new strategies to attack the underlying causes of age-related diseases
+like Alzheimer's, osteoporosis and macular degeneration. If we can assure greater
+quality of life in old age, it may be that we can slip in some extra years as well.
+
+

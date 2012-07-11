@@ -1,0 +1,363 @@
+REITH LECTURES 1984: Minds, Brains and Science
+John Searle
+Lecture 6: The Freedom of the Will
+TRANSMISSION: 12 December 1984 – Radio 4
+
+In these lectures I have tried to answer what are to me some of the most worrisome
+questions about how we as human beings fit into the rest of the universe. Our
+conception of ourselves as free agents is fundamental to our overall self-conception.
+Now, ideally, I would like to be able to keep both my commonsense conceptions and
+my scientific beliefs. In the case of the relation between mind and body, for example,
+1 was able to do that. But when it comes to the question of freedom and determinism,
+I am—like a lot of other philosophers—unable to reconcile the two.
+One would think that after over 2,000 years of worrying about it, the problem of the
+freedom of the will would by now have been finally solved. Well, actually, most
+philosophers think it has been solved. They think it was solved by Thomas Hobbes
+and David Hume and various other empirically-minded philosophers whose solutions
+have been repeated and improved right into the 20th century. I think it has not been
+solved. In this lecture I want to give you an account of what the problem is, and why
+the contemporary solution is not a solution, and then conclude by trying to explain
+why the problem is likely to stay with us.
+On the one hand we’re inclined to say that since nature consists of particles and their
+relations with each other, and since everything can be accounted for in terms of those
+particles and their relations, there is simply no room for freedom of the will. As far as
+human freedom is concerned, it doesn’t matter whether physics is deterministic, as
+Newtonian physics was, or whether it allows for randomness or indeterminacy at the
+level of particle physics, as contemporary quantum mechanics does. Indeterminism at
+the level of particles in physics is really no support at all to any doctrine of the
+freedom of the will; because, first, the statistical indeterminacy at the level of particles
+does not show any indeterminacy at the level of the objects that matter to us, human
+bodies, for example. And secondly, even if there is an element of indeterminacy in the
+behaviour of physical particles—even if they are only statistically predictable—still,
+that by itself gives no scope for human freedom of the will, it doesn’t follow from the
+fact that particles are only statistically determined that the human mind can force the
+statistically determined particles to swerve from their paths.
+The strongest image for conveying this conception of determinism is still that
+formulated by Laplace: if an ideal observer knew the positions of all the particles at a
+given instant and knew all the laws governing their movements, he could predict and
+retrodict the entire history of the universe. Some of the predictions of a contemporary
+quantum mechanical Laplace might be statistical, but they would still allow no room
+for freedom of the will.
+So much for the appeal of determinism. Now let’s turn to the argument for the
+freedom of the will.
+
+1
+
+As many philosophers have pointed out, if there is any fact of experience that we are
+all familiar with, it’s the simple fact that our own choices, decisions, reasonings and
+cogitations seem to make a difference to our actual behaviour. There are all sorts of
+experiences that we have in life where it seems just a fact of our experience that,
+though we did one thing, we know, or at least think we know, perfectly well that we
+could have done something else. We know we could have done something else
+because we chose one thing for certain reasons. But we were aware that there were
+also reasons for choosing something else and, indeed, we might have acted on those
+reasons and chosen that something else.
+Another way to put this point is to say: it’s just a plain empirical fact about our
+behaviour that it isn’t predictable in the way that the behaviour of objects rolling
+down an inclined plane is predictable. And the reason it isn’t predictable in that way is
+that we could often do otherwise than we in fact did. Human freedom is just a fact of
+experience. And if we want some empirical proof of this fact, we can simply point to
+the further fact that it’s always up to us to falsify any predictions that anybody might
+care to make about our behaviour. If somebody predicts that I’m going to do
+something, I might just damn well do something else. Now, that sort of option is
+simply not open to glaciers moving down mountainsides or balls rolling down
+inclined planes or the planets moving in their elliptical orbits.
+This is a characteristic philosophical conundrum. On the one hand, a set of very
+powerful arguments force us to the conclusion that free will has no place in the
+universe. On the other hand, a series of powerful arguments based on facts of our own
+experience inclines us to the conclusion that there must be some freedom of the will
+because we all experience it all the time.
+There’s a standard solution to this philosophical conundrum. According to this
+solution, free will and determinism are perfectly compatible with each other. Of
+course, according to this solution, everything in the world is determined, but some
+actions are none the less free. To say that they are free is not to deny that they are
+determined; it’s just to say that they are not constrained. We’re not forced to do them.
+So, for example, if a man is forced to do something at gunpoint, or if he is suffering
+from some psychological compulsion, then his behaviour is genuinely unfree. But if,
+on the other hand, he freely acts, if he acts as we say, of his own free will, then his
+behaviour is free. Of course, it’s also completely determined, since every aspect of his
+behaviour is determined by the physical forces operating on the particles that compose
+his body, as they operate on all of the bodies in the universe. So, according to this
+view, free behaviour exists, but it’s just a small corner of the determined world—it’s
+that corner of determined behaviour where certain kinds of force and compulsion are
+absent.
+Now, because this view asserts the compatibility of free will and determinism, it’s
+usually called simply ‘compatibilism’. I think it’s inadequate as a solution to the
+problem, and here’s why.
+The problem about the freedom of the will is not about whether or not there are inner
+psychological reasons that cause us to do things as well as external physical causes
+and inner compulsions. Rather, it’s about whether or not the causes of our behaviour,
+whatever they are, are sufficient to determine the behaviour so that things have to
+
+2
+
+happen the way they do happen. And there’s another way to put this problem. is it
+ever true to say of a person that he could have done otherwise, all other conditions
+remaining the same? For example, given that a person chose to vote for the Tories,
+could be have chosen to vote for one of the other parties, all other conditions
+remaining the same?
+Now, compatibilism doesn’t really answer that question in a way that allows any
+scope for the ordinary notion of the freedom of the will. What it says is that all
+behaviour is determined in such a way that it couldn’t have occurred otherwise, all
+other conditions remaining the same. Everything that happened was indeed
+determined. It’s just that some things were determined by certain sorts of inner
+psychological causes (those which we call our ‘reasons for acting’) and not by
+external forces or psychological compulsions. So, we’re still left with a problem. Is it
+ever true to say of a human being that he could have done otherwise? Compatibilism,
+in short, denies the substance of free will while maintaining its verbal shell.
+Well, then, let’s try to make a fresh start. I said that we have a conviction of our own
+free will simply based on the facts of human experience. But perhaps our belief that
+such experiences support the doctrine of human freedom is illusory. Consider this sort
+of example. A typical hypnosis experiment has the following form. Under hypnosis
+the patient is given a posthypnotic suggestion. You can tell him, for example, to do
+some fairly trivial, harmless thing, such as, let’s say, crawl around on the floor. Now,
+after the patient comes out of hypnosis, he might be engaging in conversation, sitting,
+drinking coffee, when suddenly he says so me thing like ‘What a fascinating floor in
+this room!’ or ‘I want to check out this rug’ or ‘I’m thinking of investing in floor
+coverings and I’d like to investigate the coverings on this floor’. And he then
+proceeds to crawl around on the floor.
+The interest of these cases is that the patient always gives some more or less adequate
+reason for doing what he does. That is, be seems to himself to be behaving freely. We,
+on the other hand, have good reasons to believe that his behaviour isn’t free at all, that
+the reasons he gives for his apparent decision to crawl around on the floor are
+irrelevant, that his behaviour was determined in advance, that he is, in short, in the
+grip of a post-hypnotic suggestion. Now, one way to pose the problem of
+determinism, or at least one important aspect of the problem of determinism, is: ‘Is all
+human behaviour like that?’
+But if we take that example seriously, it looks as if it proves to be an argument for the
+freedom of the will and not against it. The agent thought he was acting freely, though
+in fact his behaviour was determined. But it seems empirically very unlikely that all
+human behaviour is like that. Sometimes people are indeed suffering from the effects
+of hypnosis, and sometimes we know that they’re in the grip of unconscious urges
+which they cannot control. But are they always like that? Is all human behaviour
+determined by such psychological compulsions?
+The thesis of psychological determinism is that prior psychological causes determine
+all of our behaviour in the way that they determine the behaviour of the hypnosis
+subject or the heroin addict. On this view, all behaviour, in one way or another, is
+psychologically compulsive. But the available evidence suggests that such a thesis is
+false.
+
+3
+
+We do indeed normally act on the basis of our intentional states—our beliefs, hopes,
+fears, desires, and so on—and in that sense our mental states function causally. But
+this form of cause and effect relation is not deterministic. We might have had exactly
+those mental states and still not have done what we did. Instances of hypnosis and
+psychologically compulsive behaviour on the one hand are usually pathological and
+easily distinguishable from normal free action on the other. So, psychologically
+speaking, there does seem to be scope for human freedom.
+But is this solution really an advance on compatibilism? Aren’t we just saying, once
+again, yes, all behaviour is determined, but what we call free behaviour is the sort
+determined by rational thought processes? Sometimes the conscious, rational thought
+processes don’t make any difference, as in the hypnosis case, and sometimes they do,
+as in the normal case. But of course those nominal rational thought processes are as
+much determined as anything else. So, once again, don’t we have the result that
+everything we do was entirely written in the book of history billions of years before
+we were born, and therefore nothing we do is free in any philosophically interesting
+sense? If we choose to call our behaviour free, that’s just a matter of adopting a
+traditional terminology. Just as we continue to speak of ‘sunsets’, even though we
+know perfectly well that the sun doesn’t literally set, so we continue to speak of
+‘acting of our own free will’, even though there is no such phenomenon.
+One way to examine a philosophical thesis - or any other kind of thesis, for that
+matter - is to ask: ‘What difference would it make? How would the world be any
+different if that thesis were true, as opposed to how the world would be if that thesis
+were false?’
+Now, part of the appeal of determinism, I believe, is that it seems to be consistent
+with the way the world in fact proceeds, at least as far as we know anything about it
+from physics. That is, if determinism were true, then the world would proceed pretty
+much the way it does proceed, the only difference being that certain of our beliefs
+about its proceedings would be false. But if libertarianism—that is, the thesis of free
+will—were true, it appears we would have to make some really radical changes in our
+beliefs about the world. In order for us to have radical freedom, then, it looks as if we
+would have to postulate that inside each of us was a self that was capable of
+interfering with the causal order of nature. That is. it looks as if we would have to
+contain some entity that was capable of making molecules swerve from their paths. I
+don’t know if such a view is even intelligible, but it’s certainly not consistent with
+what we know about how the world works from physics. And there’s not the slightest
+evidence to suppose that we should abandon physical theory in favour of such a view.
+So far, then, we seem to be getting exactly nowhere in our effort to resolve the
+conflict between determinism and the belief in the freedom of the will. Science seems
+to allow no place for freedom of the will, and indeterminism in physics offers no
+support for the freedom of the will. On the other hand, we seem to be unable to give
+up the belief in the freedom of the will. So let’s investigate both of these points a bit
+further.
+Why, exactly, is there no room for the freedom of the will on the contemporary
+scientific view of the universe? Our basic explanatory mechanisms in physics work
+
+4
+
+from the bottom up. That is to say, we explain the behaviour of surface features of a
+phenomenon such as the transparency of glass or the liquidity of water in terms of the
+behaviour of micro particles such as molecules. And the relation of the mind to the
+brain is an example of such a relation.
+But we get causation from the mind to the body; that is, we get top-down causation
+over a passage of time. And we get top-down causation over time because the top
+level and the bottom level go together. So, for example, suppose I want to cause the
+release of the neurotransmitter acetylcholine at the axon end-plates of my
+motorneurons: I can do it by simply deciding to raise my arm and then raising it. Here
+the mental event, the intention to raise my arm, causes the physical event, the release
+of acetylcholine and that’s a case of top-down causation if ever there was one.
+But such cases of top-down causation only work because the mental events are
+grounded in the neurophysiology to start with. So, corresponding to the description of
+the causal relations that go from the top to the bottom, there’s another description of
+the same series of events where the causal relations bounce entirely along the bottom;
+that is, they are entirely a matter of neurons and neuron firings at synapses, and so on.
+As long as we accept this conception of how nature works, it doesn’t seem that there’s
+any scope for the freedom of the will because, on this conception, the mind can only
+affect nature in so far as it is already a part of nature. But, if so, then, like the rest of
+nature, its features are determined at the basic microlevels of physics. This is actually
+an absolutely fundamental point in this lecture, so let me repeat it.
+The form of determinism that is ultimately worrisome is not psychological
+determinism. The idea that our states of mind are sufficient to determine everything
+we do is probably just false. The worrisome form of determinism is more basic and
+fundamental. Since all of the surface features of the world are entirely caused by and
+realised in systems of micro- elements, then the behaviour of micro-elements is
+sufficient to determine everything that happens. Such a ‘bottom-up’ picture of the
+world allows for top-down causation (our minds, for example, can affect our bodies).
+But the top- down causation only works because the top level is already caused by
+and realised in the bottom level.
+Let’s turn to the next obvious question. What is it about our experience that makes it
+impossible for us to abandon the belief in the freedom of the will? If freedom is an
+illusion, why is it an illusion we seem unable to abandon? The first thing to notice
+about our conception of human freedom is that it is essentially tied to consciousness.
+We only attribute freedom to conscious beings. Suppose, for example, somebody built
+a robot which we believed to be totally unconscious: in such a case we would never
+feel any inclination to call it free. Even if we found its behaviour random and
+unpredictable, we would not say that it was acting freely in the sense that we think of
+ourselves as acting freely. If, on the other hand, somebody built a robot that we
+became convinced bad consciousness, in the same sense that we do, then it would at
+least be an open question whether or not that robot had freedom of the will.
+The second point to note is that it is not just any state of consciousness that gives us
+the conviction of human freedom. If life consisted entirely of the reception of passive
+perceptions, then it seems to me we would never so much as form the idea of human
+freedom. If you imagine yourself totally immobile, totally unable to move, and unable
+
+5
+
+to determine even the course of your own thoughts, but still receiving stimuli—for
+example, say, periodic mildly painful sensations—there would not in such a case be
+the slightest inclination to conclude that you had freedom of the will.
+I said earlier that most philosophers think that the conviction of human freedom is so
+me- how essentially tied to the process of rational decision-making. But I think that’s
+only partly true. In fact, weighing up reasons is only a very special case of the
+experiences that give us the conviction of freedom. The characteristic experience that
+gives us the conviction of human freedom—and it is an experience from which we are
+unable to strip away the conviction of freedom—is the experience of engaging in
+voluntary, intentional human actions. Now, it’s that sort of experience which is the
+foundation stone of our belief in the freedom of the will. Why?
+Reflect very carefully on the character of the experiences you have as you engage in
+normal, everyday ordinary human actions. You will sense the possibility of alternative
+courses of action built into these experiences. If you raise your arm or walk across the
+room or take a drink of water, you will see that at any point in the experience you
+have a sense of alternative courses of action open to you.
+If one tries to express it in words, the difference between the experience of perceiving
+and the experience of acting is that in perceiving one has the sense This is happening
+to me’, while in acting one has the sense ‘I am making this happen’. But the sense that
+‘I am making this happen’ carries with it the sense ‘I could be doing something else’.
+In normal behaviour, each thing we do carries the conviction, valid or invalid, that we
+could be doing something else right here and now—that is, all other conditions
+remaining the same. And this, I submit, is the source of our unshakeable conviction in
+our own free will. It is perhaps important to emphasise that I am discussing normal
+human action. If one is in the grip of a great passion, for example, if one is in the grip
+of a great rage, one loses this sense of freedom and one can even be surprised to
+discover what one is doing.
+Once we notice this feature of the experience of acting, a great deal of the puzzling
+phenomena I mentioned earlier is easily explained. Why, for example, do we feel that
+the man in the case of post-hypnotic suggestion is not acting freely in the sense in
+which we are, even though he might think that he is acting freely?
+Well, the reason is that, in an important sense, he doesn’t know what he’s doing. His
+actual intention-in-action is totally unconscious. The options that he sees as available
+to him are irrelevant to the actual motivation of his behaviour. Notice also that the
+compatibilist examples of so-called ‘forced’ or compelled behaviour still, in many
+cases, involve the experience of freedom. If, for example, I’m instructed to walk
+across the room at gunpoint, still part of the experience is that I sense that it’s literally
+open to mc at any step to do something else. The experience of freedom is thus an
+essential component of any case of acting with an intention.
+Again, you can see this if you contrast the normal case of action with the Penfield
+cases, where stimulation of the motor cortex produces an involuntary movement of
+the arm or leg. In such a case the patient would experience the movement passively,
+as he would experience a sound or a sensation of pain. Unlike intentional actions,
+there are no options built into this experience.
+
+6
+
+To see this point clearly, try to imagine that a portion of your life was like the
+Penfield experiments on a grand scale. Instead of walking across the room, you
+simply find that your body is moving across the room; instead of speaking, you
+simply hear and feel words coming out of your mouth. Imagine your experiences are
+those of a purely passive but conscious puppet and you will have imagined away the
+experience of freedom. But in the typical case of intentional action, there’s no way we
+can carve off the experience of freedom. It is an essential part of the experience of
+acting.
+This also explains, I believe, why we cannot give up our conviction of freedom. We
+find it easy enough to give up the conviction that the earth is flat as soon as we
+understand the evidence for the heliocentric theory of the solar system. Similarly,
+when we look at a sunset, in spite of appearances we do not feel compelled to believe
+that the sun is setting behind the earth; we believe that the appearance of the sun
+setting is simply an illusion created by the rotation of the earth.
+In each case it is possible to give up a commonsense conviction, because the
+hypothesis that replaces it both accounts for the experiences that led to that conviction
+in the first place as well as explaining a whole lot of other facts that the commonsense
+view is unable to account for. That’s why we give up the belief in a flat earth and
+literal ‘sunsets’ in favour of the Copernican conception of the solar system. But we
+can’t similarly give up the conviction of freedom, because that conviction is built into
+every normal, conscious intentional action. And, indeed, we use this conviction in
+identifying and explaining actions.
+We can now draw the conclusions that are implicit in this discussion. First, if the
+worry about determinism is a worry that all of our behaviour is in fact psychologically
+compulsive, then it appears that the worry is unwarranted. In so far as psychological
+determinism is just an empirical hypothesis like any other, then the evidence we
+presently have available to us suggests that it is false. So this does give us a modified
+form of compatibilism. It gives us the view that psychological libertarianism is
+compatible with physical determinism. Secondly, it even gives us a sense of ‘could
+have’ in which people’s behaviour, though determined, is such that in that sense they
+could have done otherwise: the sense is simply that, as far as the psychological factors
+were concerned, they could have done otherwise. The notions of ability, of what
+we’re able to do, and what we could have done, are often relative to some such set of
+criteria. For example, I could have voted for Carter in the 1980 American election,
+even if I didn’t; but I could not have voted for George Washington. He was not a
+candidate. So there’s a sense of ‘could have’ in which there was a range of choices
+available to me, and, in that sense, there were a lot of things I could have done, all
+other things being equal, which I did not in fact do. Similarly, because the
+psychological factors operating on me do not always, or even in general, compel me
+to behave in a particular fashion, I often, psychologically speaking, could have done
+something different from what I did in fact do.
+But, third, this form of compatibilism still does not give us anything like the
+resolution of the conflict between freedom and determinism that our urge to radical
+libertarianism really demands. As long as we accept the bottom-up conception of
+physical explanation—and it’s a conception on which the past 300 years of science
+
+7
+
+are based—then psychological facts about ourselves, like any other higher level facts,
+are entirely causally explicable in terms of, and entirely realised in systems of
+elements at the fundamental micro-physical level. Our conception of physical reality
+simply does not allow for radical freedom.
+Fourth, and finally, for reasons that I don’t really understand, evolution has given us a
+form of experience of voluntary action where the experience of freedom—that is to
+say, the experience of the sense of alternative possibilities—is built into the very
+structure of conscious, voluntary, intentional human behaviour. For that reason, I
+believe, neither this discussion nor any other will ever convince us that our behaviour
+is unfree.
+My aim in these lectures has been to try to characterise the relationships between the
+conception that we have of ourselves as rational, free, conscious, mindful agents and a
+conception that we have of the world as consisting of mindless, meaningless physical
+particles. It’s tempting to think that, just as we have discovered that large portions of
+common sense do not adequately represent how the world really works, so we might
+also discover that our conception of ourselves and our behaviour is entirely false. But
+there are limits on this possibility.
+The distinction between reality and appearance cannot apply to the very existence of
+consciousness. For if it seems to me that I’m conscious, then I am conscious. We can
+discover all kinds of startling things about ourselves and our behaviour, but we cannot
+discover that we do not have minds, that they do not contain conscious, subjective,
+intentionalistic mental states; nor can we discover that we do not at least try to engage
+in voluntary intentional actions.
+The problem I’ve set myself is not to prove the existence of these things but to
+examine their status and their implications for our conceptions of the rest of nature.
+My general theme has been that, with certain important exceptions, our commonsense
+conception of ourselves is perfectly consistent with our conception of nature as a
+physical system.
+
+8
+
+

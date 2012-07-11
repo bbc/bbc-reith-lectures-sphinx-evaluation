@@ -1,0 +1,390 @@
+REITH LECTURES 1984: Minds, Brains and Science
+John Searle
+Lecture 4: Walk to Patagonia
+TRANSMISSION: 28 November 1984 – Radio 4
+
+The purpose of this lecture is to explain the structure of human action. I need to do
+that for several reasons. I need to show how the nature of action is consistent with my
+account of the mind-body problem and my rejection of artificial intelligence, both of
+which I discussed in earlier lectures. I need to explain the mental component of action
+and show how it relates to the physical component. I need to show how the structure
+of action relates to the explanation of action. And I need to lay a foundation for the
+discussion of the nature of the social sciences and the possibility of the freedom of the
+will, both of which I’ll discuss in my last two lectures.
+I hope in the end that what I say will seem like a commonsense account of the
+structure of action. If I am right, what I say should seem obviously tight. But, as
+usual, common sense is no, simple. In fact, it is remarkably complicated. And
+historically, what I think of as the commonsense account of action has not seemed
+obvious. For one thing, the behaviourist tradition in philosophy and psychology has
+led many people to neglect the mental component of actions. Behaviourists wanted to
+define actions, arid indeed all of our mental life, in terms of sheer physical
+movements. Somebody once characterised the behaviourist approach, justifiably in
+my view, as feigning anaesthesia. The opposite extreme in philosophy has been to say
+that the only acts we ever perform are inner mental acts of volition. On this view, we
+don’t, strictly speaking, ever raise our arms. All we do is volit that our arms go up. If
+they do go up, that’s so much good luck, but not really our action. Another problem is
+that until recently the philosophy of action was a somewhat neglected subject. The
+Western tradition has persistently emphasised knowing as more important than doing.
+The theory of knowledge and meaning has been more central to its concerns than the
+theory of action.
+I want now to try to draw together both the mental and the physical aspects of action,
+in such a way as to show both how ‘physical’ actions have a mental component and
+how the mental component functions causally in producing the physical component.
+If we think about human actions, we immediately find some striking differences
+between them and other events in the natural world. At first, it’s tempting to think that
+types of actions or behaviour can be identified with types of bodily movements. But
+that’s obviously wrong. For example, one and the same set of human bodily
+movements might constitute a dance, or signalling, or exercising, or testing one’s
+muscles, or none of the above. Furthermore, just as one and the same set of types of
+physical movements can constitute completely different kinds of actions, so one type
+of action can be performed by a vastly different number of types of physical
+movements.
+
+1
+
+Think, for example, of sending a message to a friend. You could write it out on a
+sheet of paper. You could type it. You could send it by messenger or by telegram. Or
+you could speak it over the telephone. And indeed, each of these ways of sending the
+same message could be accomplished in a variety of physical movements. You could
+write the note with your left hand or your right hand, with your toes, or even by
+holding the pencil between your teeth. Furthermore, another odd feature about actions
+which makes them differ from events generally is that actions seem to have preferred
+descriptions.
+If, for example, I’m going for a walk to Hyde Park, there are any number of other
+things that are happening in the course of my walk, but their descriptions do not
+describe my intentional action, because in acting, what Cm doing depends in large
+part on what I think I’m doing. So, for example, I’m also moving in the general
+direction of Patagonia, shaking the hair on my head up and down, wearing out my
+shoes, and moving a lot of air molecules. However, none of these other descriptions
+seems to get at what is essential about this action.
+A third related feature of actions is that a person is in a special position to know what
+he’s doing. He doesn’t have to observe himself or conduct an investigation to see
+which actions he is performing, or at least is trying to perform. So, if you say to me,
+‘Are you trying to walk to Hyde Park or trying to get closer to Patagonia?’, I have no
+hesitation in giving an answer, even though the physical movements that I make
+might be appropriate for either answer.
+It’s also a remarkable fact about human beings that, quite effortlessly, we’re able to
+identify and explain the behaviour of ourselves and of other people. I believe that this
+ability rests on an unconscious mastery of a certain set of principles, just as our ability
+to recognise something as a sentence of English rests on our having an unconscious
+mastery of the principles of English grammar.
+I believe there is a set of principles that we presuppose when we say such ordinary
+commonsense things as that, for example, Basil voted for the Tories because he
+thought that they would cure the problem of inflation, or Sally moved from
+Birmingham to London because she thought the job opportunities were better there, or
+even such simple things as that the man over there making such strange movements is
+in fact sharpening an axe, or polishing his shoes.
+It’s quite common for people who recognise the existence of these theoretical
+principles to sneer at them by saying that they’re just a folk theory and that they
+should be supplanted by some more scientific account of human behaviour. I am
+suspicious of this claim, just as I would be suspicious of a claim that said we should
+supplant our implicit theory of English grammar, the one we acquired by learning the
+language. And the reason for my suspicion in each case is the same: using the implicit
+theory is part of performing the actions, in the same way that using the rules of
+grammar is part of speaking. So, though we might add to it or discover all sorts of
+interesting additional things about language or about behaviour, it’s very unlikely that
+we could replace that theory which is implicit and partly constitutive of the
+phenomenon by some external ‘scientific’ account of that very phenomenon.
+
+2
+
+Aristotle and Descartes would have been completely familiar with most of our
+explanations of human behaviour, but not with our explanations of biological and
+physical phenomena. The reason usually given for this is that Aristotle and Descartes
+had both a primitive theory of biology and physics on the one hand, and a primitive
+theory of human behaviour on the other, and that while we’ve advanced in biology
+and physics, we’ve made no comparable advance in the explanation of human
+behaviour. I want to suggest an alternative view. I think that Aristotle and Descartes,
+like ourselves, already had a sophisticated and complex theory of human behaviour. I
+also think that many supposedly scientific accounts of behaviour, such as Freud’s, for
+example, in fact employ rather than replace the principles of our implicit theory of
+human behaviour,
+To summarise, then, what I’ve said so far: there’s more to types of action than
+physical movements; actions have preferred descriptions, people know what they’re
+doing without observation, and the principles by which we identify and explain action
+are themselves part of the actions; that is, they’re partly constitutive of actions. I now
+want to give a brief account of what we might call the structure of behaviour.
+In order to explain the structure of behaviour, I need to introduce one or two technical
+terms. The key notion in the structure of behaviour is the notion of intentionality. To
+say that a mental state has intentionality simply means that it is about something. For
+example, a belief is always a belief that such and such the case, or a desire is always a
+desire that such and such should happen or be the case intending, in the ordinary
+sense, has no special role in the theory of intentionality. Intending to do something is
+just one kind of intentionality, along with believing, desiring, hoping, fearing, and all
+the rest.
+An intentional state like a belief, or a desire, or an intention in the ordinary sense,
+characteristically has two components. It has what we might call its ‘content’, which
+makes it about something, and its ‘psychological mode’ or ‘type’. Now, the reason we
+need this distinction is that you can have the same content in different types. So, for
+example, I can want to leave the room, I can intend to leave the room and I can
+believe that I will leave the room. In each case, we have the same content, that I will
+leave the room; but in different psychological modes or types: belief, desire, and
+intending respectively.
+Furthermore, the content and the type of state will serve to relate the mental state to
+the world. That, after all, is why we have minds with mental states; to represent the
+world to ourselves; to represent how it is, how we’d like it to be, how we fear it may
+turn out, what we intend to do about it, and so on. Now, this has the consequence that
+our beliefs will be true if they match the way the world is, false if they don’t; our
+desires will be fulfilled or frustrated, our intentions carried out or not carried out.
+In general then, intentional states have what we might call ‘conditions of satisfaction’.
+Each state itself determines under what conditions it’s true (if, say, it’s a belief) or
+under what conditions it’s fulfilled (if, say, it’s a desire) and under what conditions
+it’s carried out (if it’s an intentions). In each case the mental state represents its own
+conditions of satisfaction.
+
+3
+
+A third feature to notice about such states is that sometimes they cause things to
+happen. For example, if I want to go to the movies, and I do go to the movies,
+normally my desire will cause the very event that it represents, my going to the
+movies. In such cases there is an internal connection between the cause and the effect,
+because the cause is a representation of the very state of affairs that it causes. The
+cause both represents and brings about the effect. I call such kinds of cause-and-effect
+relations cases of ‘intentional causation’.
+Intentional causation, as we will see, will prove crucial both to the structure and to the
+explanation of human action. It is in various ways quite different from the standard
+textbook accounts of causation, where, for example, one billiard ball hits another
+billiard ball, and causes it to move. For our purposes the essential thing about
+intentional causation is that in such cases the mind brings about the very state of
+affairs that it has been thinking about.
+To summarise this discussion of intentionality, there are three features that we need to
+keep in mind in our analysis of human behaviour: first, intentional states consist of a
+content in a certain mental type. Second, they determine their conditions of
+satisfaction; that is, they’ll be satisfied or not depending on whether the world
+matches the content of the state. And third, sometimes they cause things to happen, by
+way of intentional causation to bring about a match—that is, to bring about the state
+of affairs they represent, and what they represent are the very states of affairs that
+have to happen for them to be satisfied: their own conditions of satisfaction.
+Using these ideas I’ll now turn to the main task of this lecture. I promised to give a
+very brief account of what might be called the structure of action, or the structure of
+behaviour. By behaviour here, I mean voluntary, intentional human behaviour. I mean
+such things as walking, running, eating, making love, voting in elections, getting
+married, buying and selling, going on a vacation, working on a job. I don’t mean such
+things as digesting, growing older or snoring. But even restricting ourselves to
+.intentional behaviour, human activities present us with a bewildering variety of types.
+We need to distinguish between individual behaviour and social behaviour, between
+collective social behaviour and individual behaviour within a social collection,
+between doing something for the sake of something else, and doing something for its
+own sake. Perhaps most difficult of all we need to account for the melodic sequences
+of behaviour through the passage of time. Human activities, after all, are not like a
+series of still snapshots, but something more like the movie of our life. I obviously
+can’t try to answer all of these questions in this lecture, but I can give you a sketch of
+the basic structure of action. An account of the structure of behaviour can be best
+given by stating a set of principles. These principles should explain both the mental
+and physical aspects of action. In presenting them I won’t be discussing where our
+beliefs and desires and so on come from. But I will be explaining how they figure in
+our behaviour.
+I think the simplest way to convey these principles is just to state them and then try to
+defend them. So here goes. Principle number 1: actions characteristically consist of
+two components, a mental component and a physical component. Think, for example,
+of pushing a car. On the one hand there are certain conscious experiences of effort
+when you push. If successful, those experiences will result in the movement of your
+body and the corresponding movement of the car. If you are unsuccessful, you will
+
+4
+
+still have had at least the mental component; that is, you will still have had an
+experience of trying to move the car with at least some of the physical components.
+There will have been muscle tightenings, the feeling of pressure against the car, and
+so on.
+And this leads to Principle number 2: the mental component is an intention. It has
+intentionality—it is about something. It determines what counts as success or failure
+in the action; and, if successful, it causes the bodily movement which in turn causes
+the other movements, such as the movement of the car, which constitute the rest of the
+action.
+In terms of the theory of intentionality that we just sketched, the action consists of two
+components—a mental component and a physical component. If successful, the
+mental component causes the physical component and it represents the physical
+component. ‘This form of causation I just called ‘intentional causation’.
+The best way to see the nature of the different components of an action is to carve
+each one off and examine it separately. And in fact, in a Laboratory, it’s easy enough
+to do that. We already have, in neurophysiology experiments done by Wilder Penfield
+of Montreal, where by electrically stimulating a certain portion of the patient’s motor
+cortex; he could cause the movement of the patient’s limbs. Now, the patients were
+invariably surprised at this, and they characteristically said such things as: ‘I didn’t do
+that—you did it.’ In such a case we have carved off the bodily movement without the
+intention. Notice that in such cases the bodily movements might be exactly the same
+as they are in an intentional action, but it seems quite clear that there’s a difference.
+Well, what is the difference?
+We also have experiments going back as far as William James, where we can carve
+off the mental component without the corresponding physical component of the
+action. In the William James case, a patient’s arm is anaesthetised and it is held at his
+side in a dark room, and he is then ordered to raise it. He does what he thinks is
+obeying the order, but is later quite surprised to discover that his arm didn’t go up.
+Now, in that case, we carve off the mental component, that is to say, the intention
+from the bodily movement. For the man really did have the intention. That is, we can
+truly say of him, he genuinely did try to move his arm.
+In the normal case these two components come together. We usually have both the
+intention and the bodily movement, but they’re not independent. What our first two
+principles try to articulate is how they are related. The mental component as part of its
+conditions of satisfaction has to both represent and cause the physical component.
+Let’s turn now to Principle number 3: the kind of causation which is essential both to
+the structure of action and the explanation of action is intentional causation. The
+bodily movements in our actions are caused by our intentions. Intentions are causal
+because they make things happen; but they also have contents and so can figure in the
+process of logical reasoning. They can be both causal and have these logical features,
+because the kind of causation that we’re talking about is mental causation or
+intentional causation. And in intentional causation mental contents affect the world.
+The whole apparatus works because it’s realised in the brain, in the way that I
+explained in the first lecture.
+
+5
+
+The form of causation that we’re discussing here is really quite different from the
+standard form of causation as described in philosophical textbooks. It’s not a matter of
+regularities or covering laws or constant conjunctions. In fact, I think it’s much closer
+to our commonsense notion of causation where we just mean that something makes
+something else happen. What is special about intentional causation is that it is a case
+of a mental state making something else happen, and that something else is the very
+state of affairs represented by the mental state that causes it.
+Principle number 4: in the theory of action, there’s a fundamental distinction between
+those actions which are premeditated, which are the result of some kind of planning in
+advance, and those actions which are spontaneous, where we do something without
+any prior reflection. And, corresponding to this distinction, we need a distinction
+between prior intentions, that is, intentions formed prior to the performance of an
+action, and intentions in action, which are the intentions we have while we are
+actually performing an action.
+A common mistake in the theory of action is to suppose that all intentional actions are
+the result of some sort of deliberation, that they are the product of a chain of practical
+reasoning. But, obviously, many things we do are not is like that! We simply do
+something without any prior reflection. For example, in a normal conversation, one
+doesn’t reflect on what one is going to say next, one just says it. In such cases, there is
+indeed an intention, but it’s not an intention formed prior to the performance of the
+action. I call it an intention in action.
+In other cases, however, we do form prior intentions. We reflect on what we want and
+what’s the best way to achieve it. This process of reflection (Aristotle called it
+‘practical reasoning’ by the way), characteristically results either in the formation of a
+prior intention, or, as Aristotle also pointed out, sometimes it results in the action
+itself.
+Principle number 5: the formation of prior intentions is, at least generally, the result of
+practical reasoning. And practical reasoning is always reasoning about how best to
+decide between conflicting desires. The motive force behind most human (and
+animal) action is desire. Beliefs function only to enable us to figure out how best to
+satisfy our desires.
+So, for example, suppose I want to go to Paris, and I believe that the best way, all
+things considered, is to go by plane. I then form the intention to go by plane. Now,
+that’s a typical and common sense piece of practical reasoning. But practical
+reasoning differs crucially from theoretical reasoning, from reasoning about what is
+the case, in that practical reasoning is always about how best to decide among various
+conflicting desires that we have, in a way that theoretical reasoning is not
+characteristically about how to decide between conflicting beliefs. So, for example,
+suppose I do want to go to Paris, and I figure that the best way to go is to go by plane.
+Still, there’s no way I can do that without frustrating a large number of other desires
+that I have. I don’t want to spend the money, I don’t want to stand in queues at
+airports, I don’t want people to put their elbow where I’m trying to put my elbow; and
+so on indefinitely. None the less, in spite of all the desires that will be frustrated if I
+go to Paris by plane, I may still reason that it’s best, all things considered, to go to
+
+6
+
+Paris by plane. This is not only typical of practical reasoning, but I think it’s universal
+in practical reasoning that practical reasoning concerns the adjudication of conflicting
+desires.
+Well, the picture that emerges from these five principles, then, is that the mental
+energy that powers action is an energy that works by intentional causation. It’s a form
+of energy whereby the cause, either in the form of desires or intentions, represents the
+very state of affairs that it causes.
+Now let’s go back to some of those points about action that I made at the beginning,
+because I think we’ve assembled enough pieces to explain them. We noticed that
+actions have preferred descriptions, and that, in fact, common sense enabled us to
+identify what the preferred descriptions of actions were. Now we can see that the
+preferred description of an action is determined by the intention in action. What the
+person is really doing, or at least what he’s trying to do, is entirely a matter of what
+the intention is that he is acting with. For example, I know that I’m trying to get to
+Hyde Park and not trying to get close to Patagonia, because that’s the intention with
+which I’m going for a walk.
+This, furthermore, explains some of the logical features about the explanations that we
+give of human action. To explain an action is to give its causes. Its causes are
+psychological states. Those states relate to the action either by being steps in the
+practical reasoning that led to the intentions or by being the intentions themselves.
+The most important feature of the explanation of action, however, is worth statement
+as a separate principle, so let’s call it Principle number 6: the explanation of an action
+must have the same content as was in the person’s head when he performed the
+action, or when he reasoned toward his intention to perform the action. The content
+that causes behaviour by way of intentional causation must be identical with the
+content in the explanation of the behaviour.
+Now, in this respect actions differ from other natural events in the world and,
+correspondingly, their explanations differ. When we explain an earthquake or a
+hurricane, the content in the explanation only has to represent what happened and why
+it happened. It doesn’t actually have to cause the event itself. But in explaining human
+behaviour, the cause and the explanation both have contents and the explanation only
+explains because it has the same content as the cause.
+Well, so far we’ve been talking as if people just had intentions out of the blue. But, of
+course, that’s very unrealistic. And we need to now to introduce some complexities
+which will get our analysis at least a bit closer to the affairs of real life. No one ever
+just has an intention just like that by itself. For example, suppose I have an intention
+to drive to Oxford from London; I might have that quite spontaneously, none the less I
+must still have a series of other intentional states. I must have a belief that I have a
+car, and a belief that Oxford is within driving distance. Furthermore I will
+characteristically have a desire that the roads won’t be too crowded and a wish that
+the weather won’t be too bad for driving. Also— and here we get a little closer to the
+notion of the explanation of action—I will characteristically not just drive to Oxford,
+but drive to Oxford for some purpose. And if so, I will characteristically engage in
+practical reasoning—that form of reasoning that leads not to beliefs or conclusions of
+
+7
+
+arguments but to actual behaviour. And when we understand this form of reasoning
+we will have made a great step toward understanding the explanation of actions.
+Let’s call all the other intentional states that give the original intentional state the
+particular meaning that it has ‘the network of intentionality’. And we can say by way
+of a general conclusion (let’s call this Principle number 7): any intentional state only
+functions as part of a network of other intentional states. And by ‘functions’ here, I
+mean that it only determines its conditions of satisfaction relative to a whole lot of
+other intentional states.
+Now, when we begin to probe the details of the network, we discover another
+interesting phenomenon. And that is simply that the activities of our minds cannot
+consist in mental states, so to speak, right down to the ground. Rather, our mental
+states only function in the way they do because they function against a background of
+capacities, abilities, skills, habits, ways of doing things, and general stances toward
+the world that do not themselves consist in intentional states. In order for me so much
+as to form the intention to drive to Oxford I have to have the ability to drive. But the
+ability to drive doesn’t itself consist in a whole lot of other intentional states. It takes
+more than a bunch of beliefs and desires and so on in order to be able to drive. I
+actually have to have the skill to do it. This is a case where my knowing how is not
+just a matter of knowing that.
+Now, let’s call the set of skills, habits, abilities and so on, against which intentional
+states function, ‘the background of intentionality’. And to the thesis of the network,
+namely the thesis that any intentional state only functions as a part of a network, let us
+add the thesis of the background. Call it Principle number 8: the whole network of
+intentionality only functions against a background of human capacities that are not
+themselves mental states.
+I said that many supposedly scientific accounts of behaviour try to escape from or
+surpass this commonsense model that I’ve been sketching. But, in the end, there’s no
+way I think they can do that, because these principles don’t just describe the
+phenomena, they themselves partly go to make up the phenomena. Consider, say,
+Freudian explanations.
+When Freud is doing his metapsychology, that is, when he’s giving us a theory of
+what he’s doing, he often uses scientific comparisons. There are a lot of analogies
+between psychology on the one hand and electromagnetism and hydraulics on the
+other, and we’re to think of the mind as functioning on the analogy of some sort of
+hydraulic principles. But when he’s actually examining a patient, and actually
+describing the nature of some patient’s neurosis, it is surprising how much the
+explanations he gives are commonsense explanations. So Dora behaves the way she
+does because, for example, she’s in love with Hen K. or because she’s imitating her
+cousin who’s gone off to Mariazell. Now, what Freud adds to common sense is the
+observation that often the mental states that cause our behaviour are unconscious;
+indeed, they’re repressed. We’re often resistant to admitting to having certain
+intentional states because we’re ashamed of them or for some other reason.
+And secondly, Freud also adds a theory of the transformations of mental states—how
+one sort of intentional state can be transformed into another. But with the addition of
+
+8
+
+these and other such accretions, the Freudian form of explanation is very much the
+same as the commonsense form. And I suggest that common sense is likely to persist
+even as we acquire other, more scientific accounts of behaviour. Since the structure of
+the explanation has to match the structure of the phenomena explained, improvements
+in explanation are not likely to have new and unheard-of structures.
+In this lecture I’ve tried to explain how and in what sense behaviour both contains and
+is caused by internal mental states. It may seem surprising that many psychologists
+and cognitive scientists have tried to deny these relations. The reasons for this derive
+from a certain conception they have of science. They think a scientific account of
+human behaviour should not be founded on a commonsense conception of mental
+states. They think that a scientific account of human behaviour cannot be based on
+such subjective mental phenomena as beliefs, desires, hopes, fears, and so on. I have
+argued that an account of action must be based on these phenomena if it is to succeed.
+
+9
+
+

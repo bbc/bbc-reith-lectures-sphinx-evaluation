@@ -1,0 +1,640 @@
+THIS TRANSCRIPT IS ISSUED ON THE UNDERSTANDING THAT IT IS
+TAKEN FROM A LIVE PROGRAMME AS IT WAS BROADCAST. THE
+NATURE OF LIVE BROADCASTING MEANS THAT NEITHER THE BBC
+NOR THE PARTICIPANTS IN THE PROGRAMME CAN GUARANTEE THE
+ACCURACY OF THE INFORMATION HERE.
+
+REITH LECTURES 2009: A NEW CITIZENSHIP
+Presenter: Professor Michael Sandel
+Lecture 3: Genetics and Morals
+TRANSMISSION: 23rd JUNE 2009
+RADIO 4
+
+9.00-9.45am
+
+SUE LAWLEY: Hello and welcome to the Centre for Life in Newcastle on Tyne. It’s
+a place dedicated to a greater public understanding of science, and it brings together
+leading authorities from all over the world to discuss issues arising out of medical
+research. So it really is an ideal venue for the third of this year’s BBC Reith Lectures,
+the subject of which is Genetics and Morals.
+
+Last week’s lecture outlined the case for a more robust moral and spiritual debate in
+our broad political life. Today, we’re looking at the ethics of genetic technology.
+Ladies and gentlemen, please will you welcome the BBC’s Reith Lecturer for 2009:
+Professor Michael Sandel.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Thank you, thank you.
+
+SUE LAWLEY: Michael, just a relevant bit of background before we start. I know
+that you were on George Bush, President Bush’s Bioethics Committee from 2002 for
+about four years, weren’t you? Was there vigorous debate on that committee, or were
+they a rather conservative lot?
+
+MICHAEL SANDEL: On the whole, it was a conservative group, which is to be
+expected since it was appointed by President Bush. I was surprised when I was invited
+1
+
+to be a part of it. (LAWLEY LAUGHS) I think they knew I wasn’t among his
+foremost supporters, but I think they did want - and they ultimately did get - a range
+of views.
+
+SUE LAWLEY: And what about different religious persuasions because we know
+that George Bush’s opinions were very much informed, are very much informed by
+his Methodist faith. You’re of the Jewish faith. Did your religious opinions come into
+it at all? Were they put on the table?
+
+MICHAEL SANDEL: Not directly, but I think it’s fair to say that there were a range
+of religious backgrounds as well as professional backgrounds represented. There were
+people who came from theology; others who came from science, from law, from
+public policy, and from philosophy.
+
+SUE LAWLEY: But in the end, you found yourself in the minority, didn’t you? You
+lost the debate as it were?
+
+MICHAEL SANDEL: Well I did on the part of the debate that consumed six months
+of our work, which was the most politically contested area; and that had to do with the
+use of cloning technologies for embryonic stem cell research, and I did find myself
+among the dissenters. I was in favour of this kind of research going forward and the
+majority voted for at least a moratorium, if not a ban, on that procedure.
+
+SUE LAWLEY: But you’ve pointed out since that George Bush said on several
+occasions that he regarded embryonic stem cell research - and I quote - as “the taking
+of innocent human life”, and he didn’t want public money spent on it. But he didn’t
+stop private money being spent on it, so what does the moral philosopher say about
+that position?
+
+MICHAEL SANDEL: I think if the reason for refusing federal funding for
+embryonic stem cell research is the thought, as some people conscientiously hold, that
+the early embryo is morally equivalent to a person - if one holds that view, then I
+think in consistency one should ban the practice, not just refuse to fund it.
+2
+
+SUE LAWLEY: Michael, we look forward to hearing what you have to say about the
+whole landscape of genetics and morals. The floor is yours.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Well thank you, Sue, and thanks to all of you for coming. It’s
+a great pleasure to be with you here in Newcastle. My topic in this lecture, as Sue has
+said, is the use of genetic engineering. Is it ethical, for example, to create genetically
+enhanced bionic athletes? I understand that Newcastle United is looking to buy a few.
+(LAUGHTER)
+
+But let me begin with parents and children. A few years ago, a couple decided that
+they wanted to have a child, preferably a deaf one. Both parents were deaf, and
+proudly so. Like others in the deaf pride community, the couple considered deafness a
+cultural identity, not a disability.
+
+The prospective parents were a lesbian couple, so they had in any case to find a sperm
+donor. In hopes of conceiving a deaf child, they sought out a sperm donor with five
+generations of deafness in his family. And they succeeded. Their son was born deaf.
+
+The couple was surprised when the story brought widespread condemnation. Most of
+the outrage focused on the charge that they had deliberately inflicted a disability on
+their child. But the parents denied that deafness is a disability. They argued they
+simply wanted a child like themselves.
+
+Is it wrong to make a child deaf by design? If so, what makes it wrong - the deafness
+or the design? Suppose, for the sake of argument, that deafness is not a disability, but
+a distinctive identity. Is there still something wrong with the idea of parents picking
+and choosing the kind of child they will have? Or do parents do that all the time, in
+their choice of mate and, these days, in their use of new methods of assisted
+3
+
+reproduction?
+
+Breakthroughs in genetics present us with a promise and a predicament. The promise
+is that we may soon be able to treat and prevent a host of debilitating diseases. The
+predicament is that our newfound genetic knowledge may also enable us to
+manipulate our own nature - to enhance our muscles, memories, and moods; to choose
+the sex, height, and other genetic traits of our children”. Most people find at least
+some forms of genetic engineering disquieting. But it’s not easy to explain what’s
+wrong with it.
+
+In order to grapple with the ethics of enhancement, we need to confront questions
+largely lost from view in the modern world - questions about the proper stance of
+human beings toward the given world. Since these questions verge on theology,
+modern philosophers and political theorists tend to shrink from them. But our new
+powers of biotechnology make these questions unavoidable.
+
+Consider muscles. Everyone would welcome a gene therapy to alleviate muscular
+dystrophy. But what if the same therapy were used to produce genetically altered
+athletes? Researchers have developed a synthetic gene that, when injected into the
+muscle cells of mice, makes muscles grow and prevents them from deteriorating with
+age. These genetically altered, bulked-up mice have already attracted the attention of
+athletes. Although the therapy is not yet approved for human use, the prospect of
+genetically enhanced weightlifters, cyclists, and sprinters is easy to imagine.
+
+So should the International Olympic Committee, should professional sports leagues
+ban genetically-altered athletes, and if so, on what grounds? The two most obvious
+reasons for banning drugs in sports are safety and fairness: steroids, for example, have
+harmful side effects. But suppose, for the sake of argument, that muscle-enhancing
+gene therapy turned out to be safe. Would there still be a reason to ban it? There is
+something unsettling about the spectre of genetically-altered athletes lifting SUVs or
+running a 3-minute mile. But what really is troubling about these scenarios? Is it
+simply that we find such super-human spectacles too bizarre to contemplate, or does
+our unease point to something of ethical significance?
+4
+
+Now you might be thinking that a genetically enhanced athlete would have an unfair
+advantage over his un-enhanced competitors. But the fairness objection can easily be
+met: if gene-doping were safe, it could be made available to everyone. So, if genetic
+enhancement in sports is morally objectionable, it must be for reasons other than
+fairness.
+
+Genetic enhancement is possible for brains as well as brawn. Researchers have
+produced super-smart mice by inserting extra copies of a memory-related gene into
+mouse embryos. The altered mice learn more quickly and remember things longer
+than ordinary mice.
+
+Today, biotech companies are in hot pursuit of memory-enhancing drugs, or
+“cognition enhancers” - as they call them - for human beings. One obvious market for
+such drugs consists of those who suffer from serious memory disorders, such as
+Alzheimer’s or dementia. But the companies also have their sights on a bigger market:
+us baby boomers over fifty who will soon begin to encounter the natural memory loss
+that comes with age. Meanwhile, drugs such as Ritalin and Adarol, prescribed for
+Attention Deficit Order, are increasingly used by college students seeking to boost
+their performance on exams.
+
+As with muscles, so with cognition, the question is this: Should we devote our
+biotechnological ingenuity to curing disease and repairing injury, or should we also
+seek to improve our lot by re-engineering our bodies and our minds?
+
+Perhaps the most alluring non-medical use of bioengineering is sex selection. For
+centuries, parents have been trying to choose the sex of their children. Aristotle
+advised men who wanted a boy to tie off their left testicle before intercourse. Other
+recommended methods have involved timing conception in relation to the phases of
+the moon. But today, biotech succeeds where folk remedies failed.
+
+One technique of sex selection arose with prenatal tests using amniocentesis and
+5
+
+ultrasound. These medical technologies were developed to detect genetic
+abnormalities. But they can also reveal the sex of the foetus, allowing for the abortion
+of a foetus of the undesired sex.
+
+Another sex selection technique is embryo screening. For couples undergoing in vitro
+fertilisation (IVF), it is possible to choose the sex of the child before the fertilised egg
+is implanted in the womb.
+
+And the latest technology of sex selection is sperm sorting. It makes it possible to
+choose the sex of your child even before it’s conceived. There’s a for-profit fertility
+clinic in the United States that offers the procedure. It turns out it’s possible to sort the
+X-bearing and Y-bearing sperm according to their weight. And the fertility centre
+licensed the technology from the U.S. Department of Agriculture, which had
+developed a process for breeding cattle.
+
+Now one objection to sex selection is that it is an instrument of sex discrimination,
+typically against girls. In China, there are now 120 boys for every 100 girls. In parts
+of Northern India, the ratio of boys to girls is 140 to 100. But suppose sex selection
+techniques were employed in a society that didn’t favour boys over girls, and that
+wound up with a balanced sex ratio. Would it then be unobjectionable? And what if it
+became possible to select not only for sex but also for height, eye colour, skin colour?
+What about sexual orientation, IQ, musical ability, athletic prowess?
+
+There is something troubling about these scenarios of genetic manipulation. But what
+exactly is wrong with using genetic engineering to turn ourselves into bionic athletes,
+or our offspring into designer children?
+
+Some people say the problem is that genetic engineering is a shortcut that undermines
+effort. An athlete who goes in for gene-doping evades the hard work that goes with
+rigorous training. Suppose we learn that the achievements of our favourite football
+star were due to genetic alteration? Our admiration for the athlete would surely be
+6
+
+diminished.
+
+But the problem with genetic enhancement is not simply that it undermines effort. The
+deeper danger is that it represents a kind of hyper agency - a Promethean aspiration to
+remake nature, including human nature, to serve our purposes and satisfy our desires.
+What this drive to mastery misses is an appreciation of the gifted character of human
+powers and achievements.
+
+To acknowledge the giftedness of life is to recognise that our talents and powers are
+not wholly our own doing, despite the efforts we expend to develop them. An
+appreciation of the gifted aspect of life constrains the Promethean project and
+conduces to a certain humility. It is, in part, a religious sensibility. But its resonance
+reaches beyond religion.
+
+Consider parenting. To appreciate children as gifts is to accept them as they come, not
+as objects of our design or products of our will or instruments of our ambition.
+Parental love should not be contingent on the talents and attributes the child happens
+to have. We choose our friends and spouses at least partly on the basis of qualities we
+find attractive. But we do not choose our children. Their qualities are unpredictable,
+and even the most conscientious parents can’t be held wholly responsible for the kind
+of child they have. This is why parenthood, more than other human relationships,
+teaches what the theologian William F. May calls an “openness to the unbidden”.
+
+This resonant phrase, an “openness to the unbidden”, helps us see that the deepest
+moral objection to enhancement lies less in the perfection it seeks than in the human
+disposition it expresses and promotes. The problem is not that the parents usurp the
+autonomy of the child they design. (After all, it’s not as if the child could otherwise
+choose her genetic traits for herself.) The problem lies in the hubris of the designing
+parents. Even if this disposition doesn’t make parents tyrants to their children, it
+disfigures the relation of parent and child. And it deprives the parent of the humility
+and of the enlarged human sympathies that an “openness to the unbidden” can
+7
+
+cultivate.
+
+In caring for the health of their children, parents don’t cast themselves as designers or
+convert their children into products of their will. The same can’t be said of parents
+who pay large sums to select the sex of their child or who aspire to bioengineer their
+child’s intellectual endowments or athletic abilities.
+
+Today’s debates about genetic engineering and enhancement are reminiscent of an
+older debate about eugenics - the misbegotten attempt to improve the so-called gene
+pool of humankind. Critics of genetic engineering argue that the quest for designer
+children is nothing more than “privatised” or “free market” eugenics. Defenders of
+enhancement reply that genetic choices freely made aren’t really eugenic, at least not
+in the pejorative sense that term conveys. Traditional eugenic policies were
+repugnant, they argue, only because they were coercive - involving forced sterilisation
+laws, for example.
+
+This defence seems to me mistaken. Yes, the Nazis gave eugenics a bad name. But
+eugenics is repugnant even when it’s not genocidal and coercive.
+
+Consider a recent eugenics policy that stops short of coercion. In the 1980s, Lee Kuan
+Yew, the Prime Minister of Singapore, worried that well-educated Singaporean
+women were producing fewer children than less-educated ones. Subsequent
+generations, he feared, would become “depleted of the talented”. So to stave off what
+he saw as this insipient decline, he instituted policies to encourage college graduates
+to marry and have children. Here were some of the policies enacted - a state-run
+computer dating service, financial incentives for educated women to bear children,
+courtship classes in the undergraduate curriculum (LAUGHTER) And free love boat
+cruises for unmarried college graduates. At the same time, low-income women who
+lacked a high school degree, they were offered something too: $4,000 as a down
+payment on a low-cost apartment - provided they were willing to be sterilised.
+
+Singapore’s policy gave eugenics a free market twist; rather than force disfavoured
+citizens to undergo sterilisation, it paid them to do so. But Singapore’s voluntary
+8
+
+eugenics policy is objectionable, nonetheless. Even where no outright coercion is
+involved, there remains something troubling with the ambition to control the genetic
+characteristics of the next generation. These days, this ambition is less likely to be
+found in state-sponsored eugenics policies than in procreative practices that enable
+parents to pick and choose the kind of children they will have.
+
+In the age of the genome, the language of eugenics is making a comeback, not only
+among critics but also among defenders of enhancement. An influential school of
+Anglo-American political philosophers calls for a new “liberal eugenics”, as they call
+it, by which they mean non-coercive genetic enhancements that don’t restrict the
+autonomy of the child. “While old-fashioned authoritarian eugenicists sought to
+produce citizens out of a single centrally designed mould”, writes Nicholas Agar,
+“the distinguishing mark of the new liberal eugenics is state neutrality.” The idea is
+that government may not tell parents what sort of children to design, and parents may
+engineer in their children only those traits that improve their capacities without
+biasing their choice of life plans.
+
+But removing the coercion does not lay to rest the moral objection. The problem with
+eugenics and genetic engineering is that both represent the one-sided triumph of
+wilfulness over giftedness, of dominion over acceptance. Now why, you may wonder,
+why should we worry about this triumph? Why not shake off our unease with
+enhancement as so much superstition? What would be lost if biotechnology dissolved
+our sense of giftedness?
+
+From the standpoint of religion, the answer is clear. To believe that our talents and
+powers are wholly our own doing is to misunderstand our place in creation. It’s to
+confuse our role with God’s. But religion is not the only source of reasons to care
+about giftedness. The moral stakes can also be described in secular terms. If the
+genetic revolution erodes our appreciation for the gifted character of human powers
+and achievements, it will transform three key features of our moral landscape humility, responsibility, and solidarity.
+
+Let me explain. In a social world like ours that prizes mastery and control, parenthood
+9
+
+is a school for humility. That we care deeply about our children, and yet can’t choose
+the kind we want, teaches parents to be open to the unbidden. Such openness is a
+disposition worth affirming, not only within families, but in the wider world as well.
+It invites us to abide the unexpected, to live with dissonance, to reign in the impulse to
+control.
+
+It’s sometimes thought that genetic enhancement erodes human responsibility by
+overriding effort. But the real problem is the explosion, not the erosion of
+responsibility. As humility gives way, responsibility expands to daunting proportions.
+We attribute less to chance and more to choice. Parents become responsible for
+choosing, or failing to choose, the right traits for their children. Athletes become
+responsible for acquiring, or failing to acquire, the talents that will help their team
+win.
+
+One of the blessings of seeing ourselves as creatures of nature, or God, or fortune is
+that we aren’t wholly responsible for the way we are. The more we become masters of
+our genetic endowments, the greater burden we bear for the talents we have and the
+way we perform. Today, when a basketball player misses a rebound, his coach can
+blame him for being out of position. Tomorrow, the coach may blame him for being
+too short.
+
+Paradoxically, the explosion of responsibility for our own fate, and that of our
+children, may diminish our sense of responsibility with those less fortunate than
+ourselves. The more alive we are to the chanced nature of our lot, the more reason we
+have to share our fate with others.
+
+Why, after all, do the successful owe anything to the least advantaged members of
+society? One compelling answer to this question leans heavily on the notion of
+giftedness: the natural talents that enable the successful to flourish are not their own
+doing but, rather, their good fortune - a result of the genetic lottery. If our genetic
+endowments are gifts, rather than achievements for which we can claim credit, it’s a
+10
+
+mistake and a conceit to assume that we are entitled somehow to the entire bounty our
+talents reap in a market economy. We therefore have an obligation to share this
+bounty with those who, through no fault of their own, may lack comparable gifts.
+
+So here’s the connection between solidarity and giftedness: a lively sense of the
+contingency of our gifts - an awareness that none of us is wholly responsible for his or
+her success - this saves a meritocratic society from sliding into the smug assumption
+that success is the crown of virtue, that the rich are rich because they are more
+deserving than the poor.
+
+If genetic engineering enabled us to override the results of the genetic lottery, to
+replace chance with choice, the gifted character of human powers and achievements
+would recede and, with it, perhaps, our capacity to see ourselves as sharing a common
+fate. The successful would become even more likely than they are now to view
+themselves as self-made and self-sufficient. The meritocracy, less chastened by
+chance, would become harder, less forgiving.
+
+It is tempting to think that bioengineering our children and ourselves for success in a
+competitive society is an exercise of freedom. But changing our nature to fit the
+world, rather than the other way around, is actually the deepest form of
+disempowerment. It distracts us from reflecting critically on the world. It deadens the
+impulse to social and political improvement. So I say rather than bioengineer our
+children and ourselves to fit the world, let’s instead create social and political
+arrangements more hospitable to the gifts and the limitations of the imperfect human
+beings that we are. Thank you very much.
+
+(APPLAUSE)
+
+SUE LAWLEY: Michael, thank you very much indeed. I’m now going to invite
+questions from the audience here at the Centre for Life in Newcastle. We’ve also been
+taking some written questions, as the lecture’s been going on, so I hope to be feeding
+in some of those too. I’m going to start by inviting Matt Ridley here, the science
+writer and journalist. Matt Ridley, your question if you would?
+11
+
+MATT RIDLEY: In the past, more harm has come from the top down nationalising
+of reproductive decisions (as eugenics did) than from the individualising of them (as
+test tube babies did). Yet it seems to me you’re apparently suggesting that decisions
+about genetic disease prevention be left to families, while decisions about genetic
+enhancement be effectively nationalised. Who will appoint the nationalised committee
+that decides, say, whether a mother of two boys may choose to have a girl as her third
+baby?
+
+MICHAEL SANDEL: I do think this should be collectively, which is to say
+democratically, deliberated and decided. If we turn parenting into a kind of extension
+of the consumer society, then the shape and tone in the moral culture will be different.
+That’s a big decision to make and it shouldn’t be made by the market alone. It should
+be made democratically. How exactly to work it out - whether by an Act of
+Parliament or through the creation of commissions - would be a further question. I
+don’t want to leave it to the market.
+
+SUE LAWLEY: Matt Ridley, I mean do you believe that we should be able to
+choose the sex of our offspring?
+
+MATT RIDLEY: On the whole, yes. I don’t myself see these large social
+disadvantages. But my main issue is how we take the decision as to whether
+something is an enhancement or a cure.
+
+SUE LAWLEY: Let’s have a show of hands. Who in this room believes we should
+be able to choose the sex of our offspring if we want to? I think very, very few people
+- 5% in this room. Thank you very much, Matt Ridley. I’m going to move onto Alison
+Murdoch, who’s Professor of Reproductive Medicine at Newcastle University. And in
+fact it was her team, Michael, which created the UK’s first cloned human embryo in
+2005. Professor Murdoch?
+
+PROFESSOR MURDOCH: Many of the potential interventions that you’ve
+described are actually already prohibited in UK law …
+
+12
+
+MICHAEL SANDEL: Yes.
+
+PROFESSOR MURDOCH: … such as sex selection, for social reasons, and genetic
+modification of an embryo. Others that you’ve talked of, I think perhaps slightly more
+comfortably fit with science fiction. I mean my great worry is that we actually end up
+restricting the availability of new technologies that have proven benefit because of
+sort of scientific fantasy that makes an interesting philosophical debate.
+
+SUE LAWLEY: Which were the fantasies, you felt, that Michael mentioned in his
+lecture?
+
+PROFESSOR MURDOCH: I think when you’re talking about muscle enhancement
+and you’re talking about intelligence or not, intelligence is far more important than
+just genes.
+
+SUE LAWLEY: And lifting SUV’s.
+
+MICHAEL SANDEL: Right.
+
+PROFESSOR MURDOCH: Yes. (LAUGHS)
+
+SUE LAWLEY: Michael?
+
+MICHAEL SANDEL: Right, intelligence - I agree - is something that’s very remote
+from being real life genetically, though there are other forms of cognition
+enhancement that are feasible. Muscle enhancement in mice has already taken place.
+But I think what you said at the beginning comes close to the point that I would like to
+make, which is the regulatory system that the UK has, which restricts sex selection
+and other forms of genetic technologies that do not have a medical purpose, I think we
+in the United States would do well to emulate. Because what happens is in the
+absence of a regulatory system, it’s easy to generate political opposition to legitimate
+science, including stem cell research.
+13
+
+SUE LAWLEY: Professor Murdoch?
+
+PROFESSOR MURDOCH: If you look at the issue say of sex selection again,
+which you talked about - yes it’s banned for social reasons in the UK, but that actually
+doesn’t stop people selecting the child. As you mentioned, it’s quite possible to have
+an amniocentesis and a scan, find it’s the wrong sex, and then go and have an
+abortion, or to go abroad and have it done where it’s not banned.
+
+SUE LAWLEY: So it’s a kind of free market eugenics?
+
+PROFESSOR MURDOCH: And that potentially is driving down an even worse
+route than doing sex selection of an embryo before it’s put back. And it only gives
+that option to people who can afford to pay.
+
+MICHAEL SANDEL: Well let me give you a very concrete illustration of how some
+regulation actually helps science. In the United States, there is no ban on human
+reproductive cloning, which is to say cloning to create babies. And the reason there
+isn’t is that the opponents of embryonic stem cell research insisted that the two issues
+be linked because they know that politically the best chance they have for restricting
+the research that I’m in favour of, and that you carry out in stem cell research, is to
+connect it with the spectre, the fear of cloning to make babies. So having that ban will
+create more political support, not less, for responsible science - including embryonic
+stem cell research.
+
+SUE LAWLEY: Let me call Heather Ging. You’ve put in a written question. Would
+you like to tell us what it is?
+
+GING: It’s said that we have a growing underclass. Can enhancement of the kind you
+describe be used for them on their behalf?
+
+14
+
+MICHAEL SANDEL: It’s a good question. If I really thought that the way societies
+like ours work would lead new and expensive biotechnologies to lift up those at the
+bottom rather than simply serve the consumer preferences of those at the top, then I
+would hesitate a little before arguing against their use. But I think this prospect is
+actually the biggest science fiction scenario that we’ve discussed tonight.
+
+SUE LAWLEY: Steve Gater, you’ve put a written question in.
+
+STEVE GATER: It’s my experience that most parents want the very best for their
+offspring, so how can we deny them that if genetic engineering could actually provide
+that in some way?
+
+MICHAEL SANDEL: I do think there’s a problem, even before we get to high-tech
+genetic engineering of children - I think there may be reason to question some of the
+low-high, high-stress, high-pressure, hyper-parenting that actually is already taking
+place in our society. So my worry about using the genetic engineering is not that it’s
+radically different from what we already do, but that it actually will accentuate a
+troubling tendency already present in our culture.
+
+SUE LAWLEY: The problem would be, surely, if it were available - that kind of
+genetic engineering to make your child better at football or whatever it was - if one set
+of parents decided to take advantage of it and another didn’t? And then of course you
+know your child would not be nagging you for a new set of trainers. It would be
+nagging you to say, “Why can’t I have what his daddy’s given him?”
+
+MICHAEL SANDEL: I don’t think that’s the main objection though. There’s
+another problem if you look at the collective effect. If parents went in let’s say for
+height enhancement - and human growth hormone is already available to parents and
+paediatricians who want their children to be taller - even if they don’t suffer from a
+hormonal deficiency, if you imagine people buying their way to taller kids, what you
+would get would be a changing standard of what counts as tall. Instead of having to be
+6’5 to make the basketball team, you would have to be 6’11 or 7’, and there would be
+a kind of hormonal arms race that in the end could be self-defeating.
+15
+
+SUE LAWLEY: We have an athlete here actually. Charlie Spedding is over this side.
+He’s a former Marathon runner. He won bronze in the LA Olympics in the Marathon
+and he was the winner of the London Marathon in 1984. I think he still holds the
+record actually, Charlie, don’t you?
+
+SPEDDING: Yes, I’m pleased to say I do still hold the English record.
+
+SUE LAWLEY: Your question?
+
+SPEDDING: Where would you draw the line between the useful and the perhaps
+abhorrent use of genetics?
+
+MICHAEL SANDEL: I would basically draw the line at health, at a medical
+purpose. And I agree that at the boundary, there can be disagreement, there can be
+close calls about what’s for the sake of health and what’s for the sake of satisfying
+consumer preferences or competitive desire. But I would say health is the basic
+principle. I wanted to hear your thought. What about the use of either drugs or gene
+doping for runners? What do you think?
+
+SPEDDING: Well I am completely against it. It took me 16 years of hard work to
+reach my Olympic Games and if someone had just turned up having had an injection
+and beat me, I wouldn’t be very happy about it. (LAUGHTER) I’m completely
+against it. I feel that it completely takes away the point of sport. I think the greatest
+thing in sport is when David defeats Goliath. And if everyone’s Goliath, how will that
+ever happen?
+
+MICHAEL SANDEL: Right, right.
+
+SUE LAWLEY: I’m going to call Sebastian Sethe.
+
+SEBASTIAN SETHE: We have umbrellas, we have clothing, we have houses,
+various means of sheltering from the elements. Why is it a gift to submit to the lottery
+16
+
+of the genes, but not a Promethean aspiration to shelter from the elements?
+
+MICHAEL SANDEL: Cars and umbrellas and houses - useful as they are - they are
+objects. Children aren’t. So there’s the risk that treating children as objects of our
+design and ingenuity will change the relation, the norms that govern the relation
+between parents and children. That’s my worry.
+
+SUE LAWLEY: Loss of humility, the hubris?
+
+MICHAEL SANDEL: Yes.
+
+SUE LAWLEY: That concerns you more than perhaps even what we might do to
+ourselves?
+
+MICHAEL SANDEL: Yes.
+
+SUE LAWLEY: It is that we should not in fact behave badly?
+
+MICHAEL SANDEL: Yes. My worry about the erosion of humility as a social norm
+that informs our practice is a worry that springs from a certain idea of character and
+what a good character and a good life look like. And what I’m trying to do is to open
+up this part of our moral vocabulary without saying you must or you must not enter
+this discussion from the standpoint of religion.
+
+SUE LAWLEY: But you are saying that we must leave these things to fate, we must
+not interfere with that which is the gift, that which we are. We must really be a slave,
+as Sebastian Sethe was saying, to the randomness of our genes, the genetic lottery.
+
+MICHAEL SANDEL: Well I wouldn’t say we should be a slave to the randomness
+because that buys into the idea that to be free is to be able to exert a kind of, I would
+say, consumer freedom, even with respect to the kind of children we have. I think
+that’s a spurious idea of freedom, and I would argue here that the freedom of the
+17
+
+consumer is only one small part of what it means to be free.
+
+SUE LAWLEY: Now we have someone here we must hear from. He’s a former
+Reith Lecturer. He’s Tom Kirkwood, Director of the Institute of Ageing Health, and
+he was our Reith Lecturer in 2001. Tom?
+
+KIRKWOOD: You’ve said that you don’t have much difficulty in accepting the need
+for enhancement where it is to overcome diseases. Now actually we live in an
+interesting world of enhancement because we’re enhancing life expectancy day by
+day. The rate of increase is an astonishing five hours increase per day. So this is a
+journey where we are seeing dramatic change coming, and I think what I’d be
+interested to hear from you is what you see the end of this process?
+
+MICHAEL SANDEL: To increase the lifespan, meaning the maximum lifespan, is
+not something that we should aim at as such - mainly because what we could very
+well wind up doing is create more years in increasingly debilitating conditions. That
+doesn’t seem to me worth aiming at as a society. Our focus should be, in dealing with
+the question you raise, we have to have a public debate about what a good life
+consists in and not simply assume that longer is better.
+
+SUE LAWLEY: And I’m going to ask for a question from Linda Conlon, who’s the
+Chief Executive of the Centre for Life here where we’re broadcasting from, here in
+Newcastle.
+
+CONLON: I wonder if you could look into your genetics crystal ball and
+fast-forward about fifty years or so and describe to us what you think society would
+look like if parents actually could choose the characteristics of their children because I
+feel perhaps it could be argued that we all like different things now and it might just
+be as varied in fifty years as it is today?
+
+MICHAEL SANDEL: Here’s a test to see whether that scenario is right. Now you
+might think well people who go in for cosmetic surgery - everyone is different,
+everyone has different taste, different standards of beauty, so you would expect on
+18
+
+that theory that people would go for vastly different looks. But if we actually look at
+what people go for in cosmetic surgery, it’s really an instrument of cultural
+enforcement, of images of beauty that are promulgated in the consumer society and on
+billboards and by movie stars. Everyone wants ‘the look’ of the movie star, the
+celebrity of the day. I worry that there would be no more diversity and pluralism in
+the choice of genetically enhanced traits fifty years from now than we see today in the
+looks that people seek when they go in for cosmetic surgery.
+
+SUE LAWLEY: They’d all be potential television presenters, would they?
+(SANDEL LAUGHS) Michael, it’s fascinating stuff. Thank you very much indeed.
+And thank you, too, to our hosts here at the Centre for Life in Newcastle.
+
+Next week we’re in Washington where Professor Sandel will be joining together the
+threads that he’s woven through these past three lectures and telling us why and how
+he believes we should strive towards what he’s called A New Politics of the Common
+Good. That’s next week from Washington D.C. I hope you’ll tune in then. Until then,
+goodbye from Newcastle.
+
+(APPLAUSE)
+
+MICHAEL SANDEL: Thank you.
+
+19
+
+

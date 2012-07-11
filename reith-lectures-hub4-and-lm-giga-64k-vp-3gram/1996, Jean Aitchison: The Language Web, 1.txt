@@ -1,0 +1,330 @@
+REITH LECTURES 1996: The Language Web
+Jean Aitchison
+Lecture 1: A Web of Worries
+TRANSMISSION: 6
+
+February 1996 – BBC Radio 4
+
+Is our language sick? You might think so, judging from complaints in newspapers:
+“The standard of speech and pronunciation in England has declined so much . . . that
+one is almost ashamed to let foreigners hear it.” “The language the world is crying out
+to learn is diseased in its own country.” “We are plagued with idiots on radio and
+television who speak English like the dregs of humanity, to the detriment of our
+children.”
+But why? At a time when English is a major world language, is it really in need of
+hospital treatment? A wide web of worries; a cobweb of old ideas ensnares people as
+they think about language - any language, and this must be swept away. But clearing
+the cobwebs is only the first stage. The Language Web is the title of all these lectures.
+Webs, especially cobwebs, may entangle. But webs themselves are not a tangle. They
+have a preordained overall pattern, though every one is different in its details. Nature
+forces humans to weave the language web in a particular way, whatever language they
+speak. We are free only within a preset framework, so liberty within limits will be a
+major theme. I will be looking at some key topics: how language changes, how it
+began, how children learn it, and how we remember words.
+But first, the cobweb of worries must be removed. This envelops all of language,
+though especially language change. Yet humpbacked whales alter their songs every
+year and no-one has complained.
+Naturally language changes all the time; this is a fact of life. In the 14th century,
+Geoffrey Chaucer noted that: “in forme of speche is chaunge” (language changes),
+and the same is true today. But change is one thing; decay is another. Is British
+English really changing for the worse, as some people argue?
+Of course it isn’t. Over 100 years ago, linguists - people who work on language realised that different styles suit different occasions, but that no part of language is
+ever deformed or bad. People who dispute this are like cranks who argue that the
+world is flat. Yet flatter views about language are still widespread. As the Swiss
+linguist Ferdinand de Saussure said over 75 years ago: “No other subject has spawned
+more absurd ideas, more prejudices, more illusions or more myths”. Things haven’t
+changed very much since then. On inspection, the web of worries surrounding change
+turns out to be largely traditional, somewhat like the worries that each new generation
+of parents has about its offspring. Laments about language go back for centuries.
+A 14th century monk complained that the English practised strange stammering,
+chattering, snarling and grating tooth-gnashing: “strange wlaffyng, chytering, harryng,
+and garryng grisbittyng”. And the complaints continued. “Tongues, like governments,
+
+1
+
+have a natural tendency to degeneration,” wrote the lexicographer Samuel Johnson, in
+the preface to his famous Dictionary of the English Language published in 1755.
+Eighteenth century worries are perhaps understandable. Around 1700, the seemingly
+fixed grammar of Latin aroused great admiration, at a time when English itself was in
+a fairly fluid state. Many people hoped to lay down similar firm precepts for English,
+and assumed that somebody, somewhere, knew what “correct” English was. Jonathan
+Swift wrote a famous letter to the Lord Treasurer in 1712 urging the formation of an
+academy to regulate language usage. He complained that many “gross improprieties”
+could be found in the language of even the “best authors”. But “correct English” was
+as hard to define then as it is now. In practice upper and middle class speech was
+often praised as “good”, artificially supplemented by precepts from logic and
+imitations of various Latin usages. These invented rules often get confused with
+genuine language rules.
+All languages have their own “rules” in the sense of recurring subconscious patterns.
+In English, we usually place the verb inside the sentence, and say: “The spider caught
+the fly”. In Welsh, the verb comes first: “Caught the spider the fly”, and in Turkish it
+comes last, “The spider the fly caught” or “A bottle of good wine I want”. Without
+these genuine rules, communication would break down. “Henry ate an octopus” does
+not mean the same as “An octopus ate Henry”.
+But genuine “rules” or “patterns” need to be distinguished from artificially imposed
+ones. For example, an old and illogical belief that logic should govern language has
+led in English to a ban on the double negative, as in “I don’t know nothing”, which is
+now standardly: “I don’t know anything”. This is odd, because in most languages of
+the world, the more negatives, the stronger the negation.
+This was true in 13th century English. Chaucer in The Canterbury Tales said of the
+courteous knight roughly: “He never said no bad thing to nobody”. In Chaucer’s
+words:
+He nevere yet no vileyene ne sayde
+In all his lyf unto no maner wight
+He was a verray, parfit gentil knyght.
+The prohibition on double negatives may have begun with Robert Lowth, an 18th
+century Bishop of London, who wrote A Short Introduction to English Grammar.
+Perhaps his high status as a bishop led people to believe that his strictures on language
+were divinely inspired. The ban stuck. In the late 19th century, for example, an
+educator commented: “The student is instructed how contrary to reason is a double
+negative”. Yet it never entirely disappeared. It is still found in some varieties of
+English, as in the old music hall song: “I don’t not know no-one who don’t want no
+nine inch nails. I don’t not know no-one who don’t want no nine inch nails. I know
+the King, I know the Queen, I know the Prince of Wales, but I don’t not know no-one
+who don’t want no nine inch nails.
+Another artificially imposed rule involves “different to”. “I am irritated by the
+frequent use of the words ‘different to’ on radio and other programmes,” ran a letter to
+a daily paper. “In my schooldays of 50 years ago we were taught that things were
+2
+
+alike to and different from. Were our teachers so terribly ignorant?” Well, different to
+is found even in the 17th century. “How much different art thou to this curs’d spirit
+here,” said the dramatist Thomas Dekker in 1603. The imposition of “different from”
+is a misguided attempt to make English behave more like Latin. But it is pointless to
+judge one language by the standards of another. Some of these old invented
+prohibitions remind one of Alice in Wonderland: “That’s not a regular rule. You
+invented it just now,” Alice complained to the King.
+Moving onto the 19th century, proper behaviour was a major concern to a lot of
+people. Etiquette books were popular and precepts about language were issued
+alongside advice about table manners. Consider some of the instructions in Don’t, a
+manual of mistakes and improprieties more or less prevalent in conduct and speech,
+which was published around 1880. Don’t drink from your saucer; don’t wear
+diamonds in the morning; don’t neglect the small hairs that project from the nostrils
+and grow about the apertures of the ears; don’t say gents for gentlemen, nor pants for
+pantaloons. These are inexcusable vulgarisms. Don’t say transpire when you mean
+occur. Don’t say “loads of time” or “oceans of time”. Say “ample time” or “time
+enough”. Don’t use a plural pronoun when a singular is called for. “Everybody put on
+their hats” illustrates a prevalent error. Don’t say “It is him.” Say “It is he” … and so
+on and so on. Some of these artificial rules have been passed down from generation to
+generation. Their main effect is to make people insecure, to worry that they might not
+be using the right phrase, just as they might get anxious that they are not using the
+right type of spoon for soup.
+Again and again etiquette, morals and speech are confused. Groombridges’ Annual
+Reader, a manual of recitation for the use of schools, said in 1867: “Speech is a gift of
+God, and the habit of speaking correct English next to good morals is one of the best
+things in the world”. We might laugh at this quaint confusion of morals and speech,
+except that it is still found nowadays. In 1985, bad English, whatever that might be,
+was even linked to crime by Lord Tebbit, then a key government figure. He said: “If
+you allow standards to slip to the stage where good English is no better than bad
+English, where people turn up filthy . . . at school . . . all those things tend to cause
+people to have no standards at all, and once you lose standards then there’s no
+imperative to stay out of crime.”
+
+This tangled web of worries around language shows that many people, including
+some of those who rule our country, are back in the dark ages over understanding how
+it works.
+But it is oversimple to lump all language worries together, and just dismiss them. The
+different strands of worry need to be teased out. Above all, three overlapping
+accusations recur, which can be called the “damp spoon” syndrome, the “crumbling
+castle” view, and the “infectious disease” assumption.
+The “damp spoon” image comes from a newspaper writer, who has a “queasy
+distaste” for the “vulgarity” of some current usages, “precisely the kind of distaste I
+feel at seeing a damp spoon dipped in the sugar bowl or butter spread with the breadknife”. She implies that sloppiness and laziness cause much of language change.
+
+3
+
+The notion that change is due to laziness has been around for a long time. In the last
+century, many people had a romantic notion of primitive tribes as noble savages. The
+linguist Max Muller, for example, argued that there’s “a laziness inherent in
+civilisation, so that sophisticated people no longer use the forceful articulatory
+movements required for primitive tongues, which are a preference for relatively easy
+sounds produced fairly far forward in the mouth.” But this is rubbish; sounds move
+back in the mouth as well as forwards. One that has moved back is the increasingly
+common pronounciation of bu’er with a glottal stop in place of older butter. But Be’y
+’ad a bi’ of bi’er bu’er requires a lot of muscular tension and cannot be regarded as a
+lazy development.
+The only truly lazy speech is drunken speech, where alcohol affects co-ordination,
+and English is not getting like drunken speech. Some years ago researchers at the
+University of Texas checked this out. They plied student volunteers with slugs of neat
+whiskey every twenty minutes for six hours; and before each new drink, they asked
+the students to read a word list and chat. They found that the bumbles and mumbles of
+drunkards were fairly unlike the alterations in normal change. Drunken people keep
+vowels much the same, but lengthen consonants which get dragged out. They are also
+likely to pronounce ‘s’ and ‘ch’ as ‘sh’. These effects are due to a temporary lack of
+muscular coordination and are not happening in English as a whole.
+CLIP: EXAMPLE OF DRUNKEN SPEECH
+The omission in spoken speech of past tense endings is also sometimes claimed to be
+laziness, as in “Pamela jump back” rather than "Pamela jumpED back”. “Peter
+climbed carefully down” rather than “Peter climbED carefully down”. But these
+omissions enable speech to be speeded up, and are unlikely to destroy the meaning.
+So there is a trade off between smooth, fast speech and slow, careful, jerky speech.
+Faster speech involves more words per minute and cannot be classed as laziness. Of
+course fast speech forms occur mostly in casual conversation. But informal speech is
+not intrinsically “worse” than formal speech. It is just different. Humans naturally
+adapt their speech to suit the situation: they slow it down for babies and strangers, and
+they speed it up for friends. Eventually, some of these changes found in fast speech
+will creep into all types of spoken language. Only actors pronounce handbag as it is
+written.
+CLIP: THE IMPORTANCE OF BEING EARNEST
+Lady Bracknell: Where did the charitable gentleman who had a first class ticket for
+this seaside resort find you?
+Jack Worthing: In a handbag.
+Lady Bracknell: A handbag?
+Almost everybody else says “hambag”. Once a change of this type has occurred,
+hearers often judge the older, outmoded form to be pedantic and less streamlined.
+But let’s move on to the “crumbling castle” view. This treats the English language as
+a beautiful old building with gargoyles and pinnacles which need to be preserved
+intact, as implied in statements by the writer John Simon: Language, he argues,
+should be treated like “parks, national forests, monuments, and public utilities . . .
+available for properly respectful use but not for defacement or destruction”.
+4
+
+This view itself crumbles when examined carefully. It implies that the castle of
+English was gradually and lovingly assembled until it reached a point of maximum
+splendour at some unspecified time in the past. Yet no year can be found when
+language achieved some peak of perfection, like a vintage wine. Nor have those who
+claim that English is declining ever suggested what this date might have been.
+And the “beautiful building” notion presupposes that rigid systems, once assembled,
+are better than changing ones. This is untrue. In the animal world, flexibility is a great
+advantage, and animals which adhere to fixed systems often lose out. Consider the
+blue-footed booby, a seabird which lives on the Galapagos Islands. This gannet
+behaves according to a rule of thumb: in the nest feed it; out of the nest ignore it. So if
+a young booby falls out of its nest, it inevitably dies - even when the nest is at ground
+level. A less rigid system might allow the parent boobies to assess whether or not the
+squawking displaced youngster was one of their own; and, if so, push it back into the
+nest. But the booby’s rigid system doesn’t allow for this.
+The ever-shifting nature of language keeps it flexible, so it can cope with changing
+social circumstances, as with the rush of new words relating to cars in the 20th
+century, such as the recent “autochondria” - from “automobile” and “hypochondria” someone with excessive concern for the health of their car.
+“Crumbling castle” supporters might argue that such additions are trivial and
+allowable, as long as older forms are preserved as well. But in the long run this is
+impossible, as shown by the increasing loss of old past tense forms, which provide a
+clear example of how earlier forms get whittled away. First, the old irregular forms
+gradually get forgotten, especially when the verbs are rarely used ones. In this
+century, “gelded” and “girded” have mostly replaced “gelt” and “girt” as the past
+tense forms of “geld” and “gird”, and many people don’t even realise a change has
+occurred. Replacement can happen even with better known verbs. The clothes
+designer Donna Karan, discussing the letters she received, said: “Anything that beared
+my name, I’d open”. Second, new uses of old forms tend to acquire regular endings as
+in “shoot up” of drugs: “Someone passed me this syringe and I shooted up,” said a
+drug taker in the Guardian. Third, any new forms receive regular inflections as in the
+word “bland out” - “become conformist”. “Those that didn’t burn out, blanded out”,
+according to a writer in the New Musical Express. So more and more old forms are
+wiped away, as new, regular forms flood in. But this is not disintegration. Sweeping
+up old oddments is good housekeeping, or rather, good language-keeping. Gradual
+neatening up of patterns is inevitable and essential. In this way, the mind avoids
+becoming overloaded with unpredictable oddments.
+Neatening up also happens with nouns. Houses were once housen and shoes were
+shooen, parallel to oxen. Imported words get tidied up, too. The Italian word graffito,
+“scratch”, has been in use in English for well over a century, usually in the plural
+graffiti, meaning “scratches or scribbles on walls”. Recently this plural has begun to
+be treated as if it were the singular. “Graffiti is disgusting,” proclaimed an official
+notice on a London bus. Not everyone likes this. “The solecism a graffiti is surprising
+and distressing”, according to a letter in the Daily Telegraph. But most English plurals
+now end with ‘s’, so the treatment of graffiti as singular is in line with the general
+5
+
+tidying up process, which has been going on for centuries. Language is not crumbling
+away. It is maintaining itself pretty efficiently.
+But let’s move on to the “infectious disease” view. In an article entitled Polluting Our
+Language, the writer expressed a widespread view that we somehow “catch” changes
+from those around us, and that we ought to fight such diseases: “The wholesale spread
+of corruption may surely be ascribed to mere infection, to the careless, unthinking
+assimilation of the floating germs which envelop us.” Change is indeed brought about
+through social contact, so the catching notion is not entirely wrong. But the “disease”
+metaphor falls down. People pick up changes because they want to. They want to fit
+in with social groups, and they adapt their hairstyle, clothes, and language, to those of
+people they admire, as with the Jocks and Burnouts, teenagers in a suburban high
+school in Detroit. Jocks were regular guys who joined in school sports and wanted to
+conform. Burnouts were rebels who took drugs and behaved unconventionally. The
+speech of these two groups showed clear differences with the Jocks imitating the
+standard adult pattern, but the Burnouts moving away from it. Adapting to those
+around is normal human behaviour. In Northern Ireland, East Belfast men and West
+Belfast women both showed a tendency to pronounce “grass” as “grawss” at a time
+when, in theory, the two halves of Belfast barely talked to one another. What could
+have been happening? The mind boggles. But the explanation was quite simple. East
+Belfast men sometimes visited a city-centre store staffed by mainly West Belfast
+women. It’s well known that shop assistants match their speech to that of their
+customers, and this is what was happening. The shop assistants were then transferring
+the pronunciation to their friends.
+But changes aren’t random. They take hold only if the language is predisposed to
+move in a particular direction. Social contact can trigger a change only if it was
+already likely to happen. The predisposition factor is often overlooked. At any time,
+in any language, a number of potential change-points exist. Anomalies tend to get
+smoothed out, as with the tidying up of past tenses and plurals. Human ears and the
+human vocal tract cause others. Consonants at the end of words are a weak spot in
+languages, since ends of words are pronounced with less force than beginnings: it’s
+Kick, not kiCK. In British English, “t” at the end of words is eroding, moving from
+street to stree(t) and in the long run, it will be stree. The change is found in so-called
+Estuary English, around the Thames Estuary. It’s also found in Scotland around
+Glasgow.
+CLIP: BILLY CONNOLLY: A lot of kids like me. They don’t come to the concerts
+or shows; but in Glasgow, in the stree(t), the kids all shout at me and things.
+Over time, end-of-word consonants may largely disappear, as has happened in some
+dialects of Chinese, several Polynesian languages, and, nearer at hand, in French and
+Italian, where most words now end in vowels: Una bottiglia di vino bianco, “a bottle
+of white wine”. Oddly, people who dislike this change often praise languages such as
+Italian as being “beautiful” even though many Italian words are simply Latin without
+their endings: Italian vino, “wine”, was once Latin vinum.
+Changes are normally triggered by personal contact, as with the Belfast shop
+assistants, and not via the media. The media are often blamed for change, but their
+role is indirect. Newspapers can popularise new words such as “bonk”, “yomp” and
+6
+
+“wimp”, and radio and television can influence attitudes towards language. These
+days, they send the sensible but indirect message that it’s all right to talk in different
+ways. Janet Street-Porter, Lenny Henry, Cilla Black and others show that variety is
+the spice of linguistic life.
+JANET STREET PORTER: Take a look at this. Elementary certificate. That’s a laugh
+because I couldn’t swim. If you imagine me swimming without my glasses on. I mean
+that is a real laugh.
+LENNY HENRY: And then she worked for several years. And then I was born in ‘58
+and then I sort of lived in and around Dudley and grew up with a West Midlands
+accent, which is really weird.
+CILLA BLACK: Anybody in the audience tonight remember me when I first started?
+(shouts of “yes”) Oh gosh, you’re older than ya look. You are indeed.
+Their different accents, like their different clothes, are a mark of individuality.
+Variety is the key to language change. Earlier in the century, an old mutation
+viewpoint prevailed, that some sounds slowly turned into others, like tadpoles
+gradually changing into frogs. This is now outmoded. According to a newer view,
+variant forms arise, each used in a different area or speech style. Then one of the
+newcomers gets used more and more often and gradually ousts the older form, like a
+young cuckoo heaving an existing bird out of the nest. In some situations, a whole
+nestful of young cuckoos compete with each other and with older forms. They may
+squabble for a long time until one wins out.
+This process is clearest in the case of vocabulary. It happened with the word
+“partner”, which is now the standard word for life-companion. But at one time
+numerous words competed: live-in lover, mate, and for heterosexuals, posslq, an
+acronym for “persons of opposite sex sharing living quarters”. Then the word
+“partner” gradually pushed the other terms aside.
+
+The young cuckoo process also happens with pronunciation as with the butter and
+bu’er variants which are competing in British English. They’re likely to co-exist,
+maybe for a longish time. Eventually bu’er may well win out, as these examples
+show. No change can occur without variation, though variation can sometimes exist
+without change.
+Variation in speech is the norm. Our linguistic wardrobe contains a range of speech
+styles, which we suit to the occasion. Bus-conductors, bosses and babies need to be
+addressed in different ways. Change often happens when one particular variant
+expands its usage. But which variants should be used where and when still causes
+arguments as sharp as barbed-wire, especially as nowadays being “matey” is often
+more important than being “proper”, resulting in increasing approval of informal
+styles of speech, including swearing. I will return to this question in the third lecture.
+Meanwhile, the tangled web of worries around language shows how little most people
+know about it. Next week I'll go right back to the beginning and discuss the origin of
+7
+
+language in the human species. A web of deceit and a web of friendship combine to
+produce the real web: the web of language.
+But finally, I would like to stress again that we need to understand language, not try to
+control it. Samuel Johnson said this better than anyone else in 1755 in the preface to
+his dictionary: When we see men grow old and die … we laugh at the elixir that
+promises to prolong life to a thousand years; and with equal justice may the
+lexicographer be derided … who shall imagine that his dictionary can embalm his
+language … With this hope, however, academies have been instituted to guard the
+avenues of their languages … but their vigilance and activity have hitherto been in
+vain … to enchain syllables and to lash the wind are equally the undertakings of pride.
+
+8
+
+

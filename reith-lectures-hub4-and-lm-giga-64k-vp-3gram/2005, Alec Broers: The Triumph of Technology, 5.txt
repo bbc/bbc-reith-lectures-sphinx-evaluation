@@ -1,0 +1,241 @@
+Lord Broers
+Reith Lectures 2005: The Triumph of the Technology
+Lecture 5: Risk and Responsibility
+Almost exactly 93 years ago tonight, on 15 April 1912, over two thousand terrified
+and bewildered people found themselves with little warning drifting or drowning in
+the ice-cold North Atlantic. Only 712 of them survived that night. They were, of
+course, the passengers, officers, and crew of the White Star steamship Titanic, and
+they were in a sense victims of 'failures' of technology.
+The Titanic disaster was in the main a result of over-reach, of a gap between the
+achievements of some technologies and the shortcomings of others; and of managerial
+failures on the part of those who used the available technology. Although Titanic had
+a radio communications system - and it was an important factor in directing rescue
+vessels to her - it was a system still in its infancy. Although the technology of
+shipbuilding already embraced double skins and water-tight bulkheads, these fell far
+short of the completeness that we now expect. Those navigating this huge vessel were
+in some important respects no further advanced than the Vikings who had sailed these
+same seas ten centuries before: they could locate themselves only by means of stellar
+observation and dead reckoning, and they had only their eyes to see what lay ahead and this was less than a hundred years ago.
+The managerial failures were perhaps worse. The ship's officers were warned of ice
+by radio messages, which they ignored. They hadn't carried out safety drills or trained
+the ship's company. The ship was speeding blindly into a known danger area in order
+to meet her scheduled arrival time in New York. Accidents, by definition, happen. But
+more diligent officers, properly-trained crew, and a sufficiency of lifeboats, could
+have saved the majority of those lost to the depths on that dreadful April night.
+What does this long-ago catastrophe have to say to us today? Its from such appalling
+experiences, avoidable perhaps only with hindsight, that we learn how to progress
+more safely, and it is this process of trial and error by which medicine, aviation, safety
+in transportation have been transformed in the lifetimes of many of us here tonight.
+If technology is to continue to triumph, ,however, and I am convinced that the future
+well-being of our planet and all its inhabitants requires that it should, then
+technologists must seriously address themselves to the fundamental issues bearing on
+their work What we must not do is either complacently to ignore risks, as the
+managers of the White Star Line did before 1912, or to submit unthinkingly to false
+terrors of their possible consequences. There has been great progress in making our
+lives safer, and my hope is that over the next century we may achieve as much
+progress for the planet we live in. After all our lives and those of generations to come
+depend on the health of our environment.
+In this final Reith lecture I am making a green argument. As a technologist this should
+not be surprising, but because of the gap in understanding that has developed, it may
+be beyond the grasp of many people to realise that the solutions to the problems
+created by technology will themselves be technological. What we engineers have to
+
+do is to be seen to have codes of acceptable behaviour and to be living up to those
+standards. And we must communicate more and better, be more transparent in what
+we do, and be prepared patiently to debate public concerns, even if we believe that
+these concerns are based upon prejudice or ignorance. It is time now as a matter of
+urgency and for the sake of saving our planet, and thus safeguarding the future of the
+human race, to move away from the old concept of 'the public understanding of
+science' to a new more dynamic 'public engagement'. We must work harder to
+understand what drives the public's concerns and anticipate the technological
+developments that are likely to be of concern, for example, the approach to
+nanotechnology was good, but we failed properly to join the GM debate.
+It is not just the engineers and scientists that are to blame. Intelligent public debate
+demands a broader understanding on the part of everybody and standing in the way of
+this broader understanding is the specialization encouraged by our schooling system.
+It is still possible in England at least, for young people from the age of fifteen to study
+only mathematics and physics, or on the other hand to do no science or mathematics
+at all. This depresses me greatly . Let engineers and scientists learn their Shakespeare
+and play the violin; and arts graduates should be ashamed rather than proud to be
+ignorant of technology. And we still have much to do on gender balance.
+I make no distinction between someone who does not know the difference between
+electric current and voltage, and someone who knows nothing of Byron. Why is it that
+we accept the former and despise the latter? Neither is satisfactory, we should strive
+for a cultural balance. We need those with understanding of history and the arts to
+enable technology to be used for good. And we still have much to do on gender
+balance. In our schools, girls now outperform boys in all subjects, and yet most girls
+are frequently brought up to assume that engineering and many of the sciences are
+male subjects. The wasted potential is vast.
+In an earlier lecture I talked about the industrial revolution that occurred in the closing
+decades of the last century as globalization became practicable and products were
+assembled from the world's best components no matter where they were made. There
+was also a revolution in our understanding of the need to do things in a way that
+preserved our precious resources. Advanced instrumentation brought us data on the
+condition of the biosphere and we became aware of the damage that was being done
+to the ozone layer and the effects of excessive production of carbon dioxide.
+Engineers reacted to these data with a plethora of potential solutions, just as they did
+in the 1960s when air pollution in the world's largest cities reached unacceptable
+limits and anti-pollution devices were needed for cars. But the situation now, as then,
+is not simply technological. Solutions require political decisions that depend on public
+debate and bring us back to the question of public engagement.
+Let me start with travel. I travel a lot, as many of us do, probably too much for the
+sake of the planet. For example, I am conscious every time I fly to the Far East or
+Australia and back that one ton of aviation fuel is consumed for myself and each one
+of my fellow passengers - and that assumes that the plane is full. This is bad enough
+but at least the fuel is used to carry passengers to their destinations and is not wasted.
+The lack of planning that has left our airports in the overburdened state we find them
+today is another matter. Following last week's Reith lecture I flew from Glasgow to
+
+Heathrow in the middle of the day, which is not a particularly busy time from the
+point of view of airline traffic. The flight took less than an hour, but because
+Heathrow could not handle the traffic, we were placed in a stack for 30 minutes
+before we could land. We were up there wasting fuel, polluting the atmosphere and
+getting increasingly annoyed. The next time I flew out of Heathrow, the plane was on
+the ground with its engines running for forty minutes before we were able to take off.
+This profligate waste is a result of the inability of our public decision making process
+to implement in time what our business and technical experts have been telling us for
+years about the growth in airline traffic. We have our heads in the sand on these
+issues, or at best are in denial about projections of growth. Technology is the great
+leveller. It is allowing more and more people to enjoy what was once only for the
+wealthy. Technology too can provide solutions to these problems but only if people
+choose to implement them. And this is why I decided to give these Reith lectures.
+Technology can solve our problems but only if the public engage with it.
+The situation with our road traffic is even worse. It is estimated that the cost of traffic
+congestion in the UK is £15 billion per year, the highest cost per capita in Europe. But
+the cost is not the only issue. Almost all the road vehicles have their engines running
+while they are stopped in traffic jams, wasting fuel and polluting the atmosphere. This
+is another example of the lack of adequate planning and acceptance of the projections
+of experts. Several first world countries have built railways that are clear winners in
+terms of time and convenience for journeys up to about five hundred miles. According
+to Professor Roger Kemp of Lancaster University, domestic airline flights use more
+than three times the energy of a Shinkansen train running at 275 km/hour, and the
+train's energy can be produced by non-polluting sources, such as wind turbines and
+nuclear power, rather than fossil fuels. For a country that claims to be putting global
+warming high on its agenda, it is incredible that we allow air travel to expand
+especially as research has shown that emissions at a high altitude are much more
+damaging to the environment than emissions at ground level. And yet in this mad
+world, aircraft fuel is untaxed. Why on earth was it faster for me, even with the delay,
+to fly from Glasgow to London rather than take a train?
+Our means of generating and consuming energy are also unnecessarily wasteful. Let
+me start with consumption. Our houses are inadequately insulated and sealed - both
+our houses and our building regulations are full of holes. Average householders have
+little idea how much energy they are using, nor how they could reduce their
+consumption. Many do not even read their consumption meters themselves and a huge
+number pay estimated bills because no one is reading the meters on a regular basis.
+Technology could supply simple solutions to this difficulty, for example by providing
+meters that could be located in kitchens, or over back doors, that gave the householder
+a real time indication of the amount of power they were using - in terms of money and
+green house gas production - and by enabling people to see immediately the effect of
+turning off unnecessary appliances. The installation of such meters could even be
+regulated, but the idea has been considered too expensive although such a meter
+would be trivial in complexity compared to a £50 DVD recorder.
+When it comes to power generation we have at least made some progress. We have
+realised that global warming is real and that we need to switch to technologies that are
+sustainable. But a lack of realism remains in terms of how much this will cost, and
+how long it will take to implement. Much progress has been made with wind, wave
+
+and tidal generators but these technologies are not free from controversy and it is
+unlikely that they can provide more than about a fifth of our power requirements in
+the next twenty years, and even then the cost is likely to be much higher than, for
+example, present natural gas fired generators.
+We need not be in this situation. France already generates 90% of its power in a green
+house gas free manner - 77% nuclear and 13% hydro. We are going to have to
+reexamine the nuclear option. There has been great progress since we built our present
+nuclear plants, not only in the technology of generation but also in the disposal of
+nuclear waste. I am pleased that we are examining the options for nuclear waste in a
+process that does engage the public. But public assessment of risk, and trust, or lack
+of trust, in technologists has nevertheless brought us to an impass that endangers our
+planet. The growth of naive green politics is itself endangering future generations as
+we reject technological solutions that could perhaps save us. Which brings me to the
+whole subject of the public's understanding of risk and how this has changed in recent
+times.
+We have only to consider the central role of electricity in our society to see how wideranging risks have developed. Our dispersed, personal use of electricity is dependent
+on a single, highly centralised system that may be victim to natural or malign attack
+and is jeopardised by the depletion of fuel reserves. The responsibilities on the
+shoulders of engineers are huge. Explaining and understanding those risks is, I
+believe, a paramount necessity. For who amongst us will accept power failures, which
+not only plunge us into darkness but shut down our heating, refrigeration and
+communications systems and put at risk most of our transport and medical support
+systems. And yet security of supply is seldom quoted as a primary need when we
+enter the emotional debates about sustainable sources of power.
+These are not only issues for our comfortable First World. The most idealistic
+amongst us will surely accept that application of some technologies is the likeliest,
+even the only, means by which the endemic poverty, disease, and desperation in
+which a majority of the world's population live can be alleviated.
+But the risks of pollution and contamination are not straightforward. If we are to
+realise acceptable world-wide reductions in the production of carbon dioxide and
+pollution the developing world needs to join the developed world in changing to
+sustainable technologies. Without help they cannot do this - they have neither the
+technology nor the money and there is little sense in the rich world banning processes
+and procedures and imposing a heavy and expensive burden of regulation even if it
+had the power to do so.
+The controversies I have mentioned involve established technologies. Ethical issues
+become still more complex when associated with new technologies and processes.
+The pace of innovation and change is astonishing. A celebrated reference in a history
+of science written in 1964 points out that 'if this book were planned according to the
+volume of scientific discovery, everything before 1800 would be contained on the
+first page'. Bearing in mind the developments of the last forty years, that first page of
+summary would now be reduced to one paragraph. New technologies provide
+immense opportunities, but also undeniable risks and open the question as to whether
+their development should be regulated.
+
+In my opinion it is better for companies, institutions, universities to develop their own
+sets of ethical guideline rather than for governments to regulate. I recognize, however,
+that commercial pressures can lead to unacceptable behaviour and there are instances
+where governments do have to regulate. But they should do reluctantly and only after
+engagement with the public. We need fast advances to deal with our problems and
+over-regulation is itself a risk to our future.
+And when it comes to risk, everyone would benefit from a better understanding. We
+should all think more about how we decide what is acceptable risk? Why are some
+afraid to fly but happy to drive a car despite its hugely higher risk of injury or death,
+and perversely to drive aggressively and dangerously? Why do we accept a greater
+likelihood of accident at home than we do at work? These are some of the key
+questions discussed in a series of reports of the Royal Academy of Engineering that
+have generated considerable debate.
+One crucial recommendation emerges. That the investigation of accidents should
+concentrate on finding the cause of the accidents not the person or persons to blame.
+The latter only leads to defensiveness and cover up. The investigation should seek the
+cause of the accident so that it may be eliminated in the future. The airline industry's
+remarkable safety record is thought by some to be because the investigators seek the
+cause of accidents rather than hunt down the person to blame.
+Now as I conclude my Reith lecture series, I want to indulge in the most dangerous of
+activities - the prediction of what technology is likely to achieve in the years ahead.
+And you should be aware that we technologists frequently overestimate what will
+happen in the next five years, while completely missing the revolutions that can occur
+in 20 years. I have chosen just three areas in which I believe and hope that technology
+will continue to triumph and to change our lives dramatically.
+The first is in our ability to solve larger and larger problems, for example, to improve
+our ability to forecast the weather, better to control national or regional economies, to
+design better drugs, or to improve the management of more and more complex
+organisations, for example, hospitals or even health systems, or entire complex
+businesses, even to control and automate traffic flow. The challenge is to create even
+larger and more complex computer systems of the type that at present have such a
+mixed reputation, with many ending in fiasco as schedules slip and budgets overrun. I
+believe that slowly but certainly we are learning from our mistakes and are going to
+succeed in many of these endeavours - 95% accuracy in weather forecasting, hospitals
+in which mistakes are almost never made, the alleviation of poverty, further
+reductions in accident rates on the roads and railways. This is a glimpse of what we
+might be able to do.
+Technology will increasingly be able to identify objects and people. Success with
+radio frequency tags may eliminate the manual check-out in our supermarkets and
+shops, keys and money as we know them will become curiosities of the past, and we
+will enjoy more security for ourselves and our possessions. These of course raise
+serious matters for public engagement.
+
+The final area of advance will be in medical technologies, not an area in which I am
+expert, but one where I am confident that vast strides will be made - in the control of,
+and perhaps even in the curing of AIDS and some forms of cancer. The creation of
+prosthetics, such as hip and knee joints, that will last a lifetime, perhaps through the
+nanostructuring of their surfaces as I learned at Glasgow university when I was
+delivering the last Reith lecture there. All these and many more are giving rise to
+remarkable increases in life expectancy and this is expected to continue with
+significant social consequences.
+No matter where we look, technology is changing and shaping our lives. I hope I have
+convinced you over the last five weeks that technology is our friend. We must engage
+with it as a society and use it to push forward. In the last century we learned a great
+deal from our disasters, and hugely increased the number of people enjoying the
+myriad benefits of technology. Now we are at risk of permanently endangering our
+planet. Our aim for this century should be to make comparable progress in protecting
+our environment. Technology will truly triumph if we succeed.
+
+

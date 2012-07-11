@@ -1,0 +1,242 @@
+Lord Broers
+Reith Lectures 2005: The Triumph of the Technology
+Lecture 4: Nanotechnology and Nanoscience
+Since time immemorial people have been entranced by structures of great size. From
+the Colossus of Rhodes and the Great Pyramid, themselves no mean technical
+achievements, to the mighty Cunard 'Queens' built here in Glasgow, and whichever is
+transiently the tallest building in the world, beholders have gaped at the gigantic. One
+simple attraction has been that of comparative scale, so many times the size of a man
+or a horse or of Nelson's column, as popular illustrations used to show. It was easy for
+the bystander immediately to apprehend the vast size of these objects.
+In some of these instances, big was beautiful: the sole purpose of size was to inspire
+awe. But, increasingly, in other cases there was an important practical purpose, the
+superior functionality of a large steamship or aircraft, for instance, which would outperform its smaller rivals. Starting with that greatest of engineers, I.K.Brunel, increase
+in size, whether of ships or railway locomotives, became an important technical
+aspiration.
+We had to wait for the age of electronics, however, for miniaturization to become an
+important achievement in its own right - until the same kind of awe could be inspired
+by the very small. Over the centuries artisans painstakingly wrote prayers on the
+heads of pins, painted portraits so small that the detail is scarcely discernible, and
+carved ivory figures so tiny that one can but marvel at the dexterity of the sculptors.
+Collectors treasured these works as examples of remarkable human skill, but few if
+any practical applications were found for them and to most people they were, quite
+literally, invisible. Even in our great grandparents' day, the most advanced technology
+easily accessible to ordinary people was probably the pocket watch, in its day a
+triumph of miniaturization.
+Electronics changed all of this. Electronics becomes better and more useful in almost
+every respect as it is miniaturized. Less than a lifetime ago, radio technology was
+awkward and cumbersome partly because it relied on vacuum valves to amplify the
+tiny radio signals. These 'valves' were not only bulky and fragile but they needed heat
+in order to work, so that a source for that heat was required, and the system had to be
+cooled. As I have already discussed in an earlier lecture, the development of the
+transistor after the Second World War changed all of that. Beginning with the original
+point-contact transistor, a family of devices was developed which superseded the
+thermionic valve, because they were faster, cheaper, and consumed less energy.
+Crucially, they were also smaller, so much so that eventually thousands of millions of
+them could be crowded on to a piece of silicon no larger than a postage stamp. When
+this vast assembly of electronic switches is brought into action, its computational
+power rivals that of the human brain. It is a technology that has changed the way we
+live.
+In my view, this was the original thread in the tapestry that has become
+nanotechnology and nanoscience. There are now dozens of threads of many colours
+that have been woven in to this tapestry and in this fourth Reith lecture I explore their
+
+origins and articulate a view about this suddenly so fashionable branch of science and
+technology. As in the history of any human endeavour, the weaving of the tapestry
+has not been without diversions and distractions and some of the more extravagant
+and exaggerated threads have had to be unpicked. I will also use the relationship
+between nanotechnology and nanoscience to illustrate the more general relationship
+between science and technology. It is rich with examples of the different ways in
+which scientists and technologists are motivated and go about their professions.
+As I have said, the founding thread was the electronic chip. The concept of the chip
+emerged in the late 1950s when it was first realised that it would be possible to
+integrate all the elements of an electronic circuit onto a single piece of silicon. As a
+result, it was no longer necessary slavishly to follow the route that been used with
+valve electronics, where circuits were built up with physically separated components,
+that were linked together with wires. Instead it became possible to fabricate all the
+elements simultaneously in a single piece of silicon using 'microlithography', a
+process that had its roots in the art of lithography. Microlithography is used first to
+fabricate the transistors in the silicon and then to pattern the multilayer maze of wires
+on top of the transistors that interconnect them. For the first two decades of this
+miniaturization revolution, the prefix 'micro' seemed adequate, but when we managed
+to make an 8 nm wire at IBM in 1976, and even wrote USA 1976 in 10 nm gold
+letters, we decided that it was time to replace 'micro', or one millionth, with 'nano'
+meaning one billionth. The electron beam method we used was derived from one that
+I had used in Cambridge in the early 1960s to make 50 nm metal structures. It would
+have taken about a hundred million of the 8 nm diameter wires to form a cable the
+size of a human hair and we decided that the term microlithography was no longer
+adequate, so we introduced the term nanolithography. This was the first technology to
+adopt the 'nano' prefix.
+Initially we said that to be a 'nanostructure' the structure had to be smaller than10 nm,
+but over the years, because too few useful artificial structures of this size were made,
+the definition was relaxed to 100 nm. The early nanostructures were not used in
+integrated circuits because nobody knew how to design a transistor that small. In fact
+for many years it was thought that transistors would not operate properly when their
+dimensions were reduced below a micron, or 1000 nanometres, but these pessimists
+proved resoundingly wrong. In a modern transistor, the 'gate length', which is
+approximately the distance the electrons have to travel, is only about 40 nanometres.
+Although the nanostructures were not immediately useful to integrated circuits, there
+was a surge of interest in them because they allowed quantum phenomena to be
+observed - they were so small that electrons passing through them behaved as waves
+as well as particles and it was hoped that this behaviour might be used in devices and naturally the techniques used to make them were also used by those exploring the
+limits of transistor fabrication. One of the leading laboratories in the world in this
+field, especially in the fabrication of very fast transistors, is here at Glasgow
+University.
+The wonderful progress that has been made in miniaturizing electronics, and which
+was accurately predicted by Gordon Moore forty years ago, has now reached the point
+where 'microelectronics' has become 'nanoelectronics', and electronic chips are now
+without doubt amongst the most useful of the nanotechnologies.
+
+The second thread that makes up the nanotechnology tapestry had its origin in 1981 in
+the development of the scanning tunnelling microscope, known as the STM, a striking
+new scientific instrument that won its creators, Gerd Binnig and Heinrich Rohrer, a
+share in the 1986 Nobel Prize in Physics. The STM and a number of instruments that
+operate in a similar way, are simple in concept but have proved capable of producing
+immense quantities of original scientific data about surfaces and molecules, and a
+version of the STM was used in the late 1980s to produce the ultimate in
+nanofabrication - the placement of single atoms. The STM truly works at the
+nanoscale and the scientific information it produced comprises the oeuvre that became
+'nanoscience'.
+The scanning tunnelling microscope consists of a tiny metal wire that is scanned
+across the surface to form an image of the surface - in the same way that the spot
+scans across the screen to form a television image, but more slowly. The tip is brought
+so close to the surface that electrons tunnel across the gap, and the tip is raised and
+lowered to keep this tunneling current constant. The instrument is so sensitive that the
+tip has to be raised and lowered to pass over individual atoms, and as it moves up and
+down, the brightness or colour of the image changes. The microscope 'sees' atoms as
+arrays of adjacent spheres, rather like oranges packed in a crate.
+Interestingly, it was another scanning instrument, the scanning electron microscope,
+that uses a tiny beam of electrons rather than a metal tip, that we used to fabricate the
+8 nm wire in 1976, and Ernst Ruska, the designer of the first electron microscope,
+shared the Nobel prize with Binnig and Rohrer. In terms of ultimate capability the
+STM was able to place individual atoms, which are some forty times smaller than the
+8 nm wire so it might be thought that the STM would be an ideal tool for fabricating
+electronic devices, and that it would immediately make it possible to make transistors
+with atomic proportions. Unfortunately, this is not the case; the process of placing
+atoms is far too slow to be economically practicable.
+In contrast, the microlithography process that I described earlier is immensely fast. A
+modern microlithography camera exposes in one second a pattern that contains the
+elements of billions of transistors. The pattern has the complexity of a million high
+definition television images, so the camera has an effective exposure rate of about a
+trillion pixels per second. It is because billions of transistors are produced
+simultaneously that they become individually so cheap. The cost of a transistor has
+been reduced by a factor of more than ten million times since I was an undergraduate
+in Melbourne in the 1950s. To expose a pattern of this complexity using the same
+technique used to place single atoms in the STM would take tens of thousands of
+years. To overcome this constraint, researchers have been using arrays of thousands of
+tips to increase the speed of the process but so far the shortfall in writing speed
+remains immense. This is a classic example of the difficulty often encountered in
+bridging between science and technology. Technology by necessity must be
+practicable and economically sensible. With science, discovery is sufficient.
+The next thread in the tapestry had its roots in mechanical engineering, in the ability
+to make precise components for a wide variety of products. It was in effect the skill
+underlying watch-making more than two centuries ago. In recent times the precision
+required in the components of jet engines, car engines, electric motors, cameras,
+
+telescopes, etcetera has reached the nanometre level. To meet this demand machines
+such as lathes and milling machines have themselves become examples of nanometre
+precision. Lathes have their cutting tools positioned with laser interferometers that are
+accurate to nanometres, and the cutting edges are made from diamond so that they do
+not wear. Laser controlled diamond machining in effect became a nanotechnology
+more than twenty years ago, and as such was one of the earlier of the new array of
+technologies to do so.
+Another early example of the use of nanometre size elements was catalysis, where
+nanometre particles are used to 'catalyse' chemical processes. A well-known example
+is the catalytic converter used in car exhausts systems that has been so effective in
+reducing the pollution produced by vehicle engines. There are many other areas where
+the boundaries between chemistry, chemical engineering and nanotechnology become
+blurred.
+The next series of threads arose from what had previously been known as thin film
+technology. It has long been possible to deposit, or grow, very thin films on surfaces
+to improve the properties of the surface for a variety of purposes, for example to
+increase resistance to corrosion and wear. Such films have been used extensively on
+the metal components of engines of all kinds producing great increases in lifetime and
+performance. Thin films on window glass reflect the suns rays and keep buildings
+cool in summer, or reject contaminants and keep the windows clean. Pilkington's selfcleaning glass is a striking example of what can be achieved. Thin film coatings have
+been used for almost a hundred years on the elements of lenses used in microscopes,
+telescopes, binoculars and cameras where they reduce scattered light by eliminating
+reflections and thereby increase the contrast in the image. Very often these thin layers
+are less than 1000 nanometres in thickness and hence their use can correctly be called
+a nanotechnology.
+Another large group of threads arose from material science, especially composite
+materials. Composite materials have been around for decades, but recently the fibres
+and particles that are imbedded in these materials have become small enough to be
+classed as nanostructures and hence the whole subject becomes a nanotechnology.
+The outstanding examples in this category are the carbon fibre reinforced materials,
+especially those that use carbon nanotubes that are only few nanometres in diameter,
+and the sun screens that include nanometre particles to increase the absorption of
+ultra-violet radiation.
+It is in the use of these nanoparticles and nanotubes that concern has most plausibly
+been expressed about the risks and dangers of nanotechnology. It is suggested that
+these particles may enter living cells more easily than larger particles and trigger
+unforeseen processes, and it is known that particles of this size may be more active
+chemically than larger particles of the same material. The air is full of nanometresized particles which we breathe in and out all the time but past experience teaches us
+to be cautious. Asbestos, cigarette smoke and carbon particles emitted by diesel
+engines come to mind. The two particular nanoparticles that have gained attention are
+titanium oxide nanoparticles that have been used in sun screens to filter out damaging
+ultra-violet radiation; and carbon nanotubes that may be used in composite materials
+to add strength, or as elements in electronic devices.
+
+The recent report of the Royal Society and the Royal Academy of Engineering on
+Nanoscience and Nanotechnologies recommends that these nanoparticles should be
+carefully monitored, which would seem to be a very sensible precaution and I am
+pleased that it has gained wide support. The report does not see other areas as posing
+threats and even with nanoparticles there is no risk when the particles are embedded
+rather than discrete. It would seem wise to me to be cautious about the use of any new
+materials, whether of nanometre size or not, especially when they are to be brought in
+to contact with people and animals.
+There is another aspect of nanotechnology that has gained a lot of attention as a
+potential threat but which is perhaps at most speculative and unproven. This is
+molecular manufacturing, which is the name given to the concept of using an
+'assembler' to build up structures atom by atom to form molecular machines. It has
+been suggested by the proponent of this technology, Eric Drexler, that these machines
+could replicate in an uncontrollable manner to form what has been called 'grey goo'.
+But to date there has been no experimental verification that such machines could be
+built or that there are mechanisms by which they could replicate. There are not even
+proven ways to model such structures. As the report of the Royal Society and the
+Royal Academy of Engineering said "Our experience with chemistry and physics
+teaches us that we do not have any idea how to make an autonomous self-replicating
+machine at any scale."
+There are of course biological systems that do replicate, and some of these, such as
+the bacterial viruses, are about 100 nm in size. However, they have to attach to a
+bacterium in order to replicate and we are far from understanding the details of the
+way in which they do this.
+Which leads me to the group of threads that surprised me most when it became part of
+the nanotechnology tapestry; the group that has its roots in biochemistry and
+molecular biology. But having accepted that nanotechnologies were to do with
+structures and phenomena that have nanometre dimensions, as indeed we suggested
+more than thirty years ago, I should not have been surprised. DNA molecules and
+proteins have dimensions of nanometres and, as molecular biologists can manipulate
+the molecular structure of proteins and DNA, they can surely call themselves
+nanotechnologists, should they wish to do so.
+But at this point I feel that the descriptive net may have been spread too far, and I
+have only had time this evening to mention a selection of threads that make up the
+tapestry of nanoscience and nanotechnology - others include the micro-electromechanical devices (MEMS), especially sensors, ceramics, light emitting diodes,
+nanofiltration membranes, drug discovery, compact disks, and on and on. Inclusion of
+molecular biology along with all of these means that nanotechnology covers almost
+all modern technologies, and the term becomes so unspecific that its usefulness is
+limited and it can be confusing to people. However, there are clearly advantages to the
+adoption of the labels 'nanotechnology' and 'nanoscience'. There is the excitement
+created by what is a new and exciting group of technologies, even if individually its
+members had perfectly satisfactory names, and those that take on the title gain the
+glamour of the most successful, and more importantly make themselves eligible for
+any funding that is allocated by government and private sources. On the other hand it
+is unfortunate for the majority of nanotechnologies that they should be linked with the
+
+potential dangers of the few that involve discrete nanoparticles, or with the unrealistic
+speculation that has accompanied nano-robots and self-replication.
+Centuries ago, the watchmaker and instrument-maker with his eye-glass was working
+at the limit of then-available technology, in fabricating mechanisms which could
+hardly be seen by the naked eye. His was the technique which prefigured the almost
+infinitely-smaller technologies of today that have been enabled by the broad range of
+new microscopes and analytical tools.
+But to go back to where I started this evening, I celebrate the fact that as the last
+century came to a close we saw the small catch up with the large in terms of practical
+significance to the human race. It would have been difficult to persuade Brunel that
+the ability to design and fabricate at the nanometre scale was going to have as much
+impact upon people as the ability to build bridges and railways, but I believe that this
+is now the case. Humankind stands to benefit as much - or more - from the brilliant
+array of nanotechnologies I have described as it did from the giant engineering
+achievements of a century or more ago.
+
+

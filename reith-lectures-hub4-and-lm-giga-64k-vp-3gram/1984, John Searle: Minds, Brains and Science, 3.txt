@@ -1,0 +1,360 @@
+REITH LECTURES 1984: Minds, Brains and Science
+John Searle
+Lecture 3: Grandmother Knew Best
+TRANSMISSION: 21 November 1984 – Radio 4
+
+We feel perfectly confident in saying things like ‘Basil voted for the Tories because
+he liked Mrs Thatcher’s handling of the Falklands affair’, but we have no idea how to
+go about saying things like Basil voted for the Tories because of a condition of his
+hypothalamus.’ That is, we have common sense explanations of people’s behaviour in
+mental terms, in terms of their desires, wishes, fears, hopes, and so on. And we
+suppose that there must also be a neurophysiological sort of explanation of people’s
+behaviour in terms of processes in their brains. The trouble is that the first of these
+sorts of explanation works well enough in practice but is not scientific. Whereas the
+second is certainly scientific but we have no idea how to make it work in practice.
+Now, that leaves us apparently with a gap, a gap between the brain and the mind. And
+some of the greatest intellectual efforts of the 20th century have been attempts to fill
+this gap, to get a science of human behaviour which was not just commonsense
+grandmother psychology, but was not scientific neurophysiology either.
+Up to the present time, without exception, the gap-filing efforts have been failures.
+Behaviourism was the most spectacular failure, but in my lifetime I have lived
+through exaggerated claims made on behalf of, and eventually disappointed by, games
+theory, cybernetics, information theory, structuralism, socio-biology, and a bunch of
+others. To anticipate a bit, I am going to claim that all the gap-filling efforts fail
+because there isn’t any gap to fill.
+The most recent gap-filling efforts rely on analogies between human beings and
+digital computers. On the most extreme version of this view, which I call ‘strong
+artificial intelligence’ or just ‘strong AI’, the brain is a digital computer and the mind
+is just a computer program. Now, that’s the view I refuted last week. The latest
+attempt to fill the gap is often called ‘cognitivism’, because it derives from work in
+cognitive psychology and artificial intelligence, and it forms the mainstream of a new
+discipline of ‘cognitive science’. Like strong AI, it sees the computer as the right
+picture of the mind, and not just a metaphor. But unlike strong AI, it does not, or at
+least it doesn’t have to, claim that computers literally have thoughts and feelings.
+If one had to summarise the research program of cognitivism it would look like this:
+thinking is processing information, but information processing is just symbol
+manipulation. Computers do symbol manipulation. So the best way to study thinking
+(or, as they prefer to call it, ‘cognition’) is to study computational symbolmanipulating programs, whether they are in computers or in brains. On this view,
+then, the task of cognitive science is to characterise the brain, not at the level of nerve
+cells, or at the level of conscious mental states, but rather at the level of its
+functioning as an information-processing system. And that’s where the gap gets filled.
+
+1
+
+Now, I really can’t exaggerate the extent to which this research project has seemed to
+constitute a major breakthrough in the science of the mind. Indeed, according to its
+supporters, it might even be the breakthrough that will at last place psychology on a
+secure scientific footing now that it has freed itself from the delusions of
+behaviourism.
+I am going to attack cognitivism in this lecture, but I want to begin by illustrating its
+attractiveness. We know that there is a level of naive, commonsense, grandmother
+psychology and also a level of neurophysiology—the level of neurons and neuron
+modules and synapses and neurotransmitters and boutons and all the rest of it. So why
+would anyone suppose that between these two levels there is also a level of mental
+processes which are computational processes? And, indeed, why would anyone
+suppose that it’s at that level that the brain performs those functions that we regard as
+essential to the survival of the organism—namely, the functions of information
+processing? Well, there are several reasons. First of all let me mention one which is
+somewhat disreputable but I think it’s actually quite influential. Because we don’t
+understand the brain very well, we’re constantly tempted to use the latest technology
+as a model for trying to understand it.
+In my childhood we were always assured that the brain was a telephone switchboard
+(‘what else could it be?). And I was amused to see that Sherrington, the great British
+neuroscientist, thought that the brain worked like a telegraph system. Freud often
+compared the brain to hydraulic and electromagnetic systems. Leibniz compared it to
+a mill, and now, obviously, the metaphor is the digital computer. And this, by the
+way, fits in with the general, exaggerated guff that we hear nowadays about
+computers and robots. We’re frequently assured by the popular press that we’re on the
+verge of having household robots that will do all the housework, babysit for our
+children, amuse us with lively conversation, and take care of us in our old age. This,
+of course, is so much nonsense. We are nowhere near being able to produce robots
+that can do any of these things. And, indeed, successful robots have been confined to
+very restricted tasks, in very limited contexts such as automobile production lines.
+Well, let’s get back to the serious reasons that people have for supposing that
+cognitivism is true. First of all, they suppose that they actually have some
+psychological evidence that it’s true. I don’t intend to say very much about this
+evidence, because I think everyone would agree that it’s quite inconclusive, and
+subject to a lot of different interpretations. However, underlying the computational
+interpretation of the evidence is a deeper, and I believe more influential, reason for
+accepting cognitivism. The second reason goes like this: because we can design
+computers that follow rules when they process information, and because, apparently,
+human beings also follow rules when they think, then there is some unitary sense in
+which the brain and the computer are functioning in a similar—and indeed maybe the
+same— fashion.
+The third assumption that lies behind the cognitive research program is an old one. It
+goes back as far as Leibniz and probably as far as Plato. It’s the assumption that a
+mental achievement must have theoretical causes. It’s the assumption that if the
+output of a system is meaningful, in the sense that, for example, our ability to learn a
+language or our ability to recognise faces is a meaningful cognitive ability, then there
+must be some theory, internalised somehow in our brains, that underlies this ability.
+
+2
+
+Well, what shall we make of these arguments for cognitivism? I don’t believe that I
+have a knockdown refutation of cognitivism in the way that I do believe I have one
+for strong AI. But I believe that if we examine the arguments that are given in favour
+of cognitivism, we will see that they are very weak indeed. And, in fact, an exposure
+of their weaknesses will enable us to understand several important differences
+between the way human beings behave and the way computers function.
+Let’s start with the notion of rule-following. We are told that human beings follow
+rules, and that computers follow rules. But I want to argue that there’s a crucial
+difference. In the case of human beings, whenever we follow a rule, we are being
+guided by the actual content or the meaning of the rule. In the case of human rulefollowing, meanings cause behaviour. Now, of course, they don’t cause the behaviour
+all by themselves, but they certainly play a causal role in the production of the
+behaviour.
+So consider the rule: drive on the left-hand side of the road in Great Britain. Now,
+whenever I come to Britain I have to remind myself of this rule. How does it work?
+To say that I’m obeying the rule is to say that the meaning of that rule—that is, its
+semantic content—plays some kind of causal role in the production of what I actually
+do. Notice that there are lots of other rules that would describe what’s happening. But
+they are not the rules that I happen to be following. So, for example, assuming that
+I’m on a two-lane road and that the steering-wheel is located on the right-hand side of
+the car, then you could say that my behaviour is in accord with the rule: drive in such
+a way that the steering-wheel is nearest to the centre line of the road. Now, that is, in
+fact, a correct description of my behaviour. But that’s not the rule that I follow in
+Britain. The rule I follow is: drive on the left-hand side of the road.
+I want to make this point completely clear, so let me give you another example. When
+my children went to the Oakland Driving School, they were taught a rule for parking
+cars. The rule was: manoeuvre your car towards the curb with the steering-wheel in
+the extreme right position until your front wheels are even with the rear wheels of the
+car in front of you. Then turn the steering-wheel all the way to the extreme left
+position. Now, notice that if they’re following this rule, then its meaning must play a
+causal role in the production of their behaviour. I was interested to learn this rule
+because it’s not a rule that I follow. In fact, I don’t follow a rule at all when I park a
+car. I just look at the curb and try to get as close to the curb as I can without bashing
+into the cars in front of and behind me. But, notice, it might turn out that my
+behaviour viewed from outside, viewed externally, is identical with the behaviour of
+the person who is following the rule. The formal properties of the behaviour are not
+sufficient to show that a rule is being followed. In order that the rule be followed, the
+meaning of the rule has to play some causal role in the behaviour.
+Now, the moral of this discussion for cognitivism can be put very simply: in the sense
+in which human beings follow rules (and, incidentally, human beings follow rules a
+whole lot less than cognitivists claim they do), in that sense computers don’t follow
+rules at all. They only act in accord with certain formal procedures. The program of
+the computer determines the various steps that the machinery will go through; it
+determines how one state will be transformed into a subsequent state. And we can
+speak metaphorically as if this were a matter of following rules. But in the literal
+
+3
+
+sense in which human beings follow rules, computers do not follow rules; they only
+act as if they were following rules. Now, such metaphors are quite harmless, indeed
+they’re both common and useful in science, We can speak metaphorically of any
+system as if it were following rules; the solar system, for example. The metaphor only
+becomes harmful if it’s confused with the Literal sense. It’s okay to use a
+psychological metaphor to explain the computer. The confusion comes when you take
+the metaphor literally and then try to use the computer to explain the psychology.
+So we have two senses of rule-following: a literal and a metaphorical. And it’s very
+easy to confuse the two. Now, I want to apply the lessons of this example to the
+notion of information processing.
+I believe the notion of information processing embodies a similar massive confusion.
+The idea is that since I process information when I think, and since my calculating
+machine processes information when it takes something as input, transforms it, and
+produces information as output, then there must be some unitary sense in which we
+are both processing information. But that seems to me obviously false. The sense in
+which I do information processing when I think is the sense in which I am
+consciously or unconsciously engaged in certain mental processes.
+But in that sense of information processing, the calculator doesn’t do information
+processing since it doesn’t have any mental processes at all. It simply mimics, or
+simulates, the formal features of the mental processes that I have. That is, even if the
+steps that the calculator goes through are formally the same as the steps that I go
+through, it wouldn’t show that the machine does anything at all as I do, for the very
+simple reason that the calculator has no mental phenomena. In adding 6 and 3, it
+doesn’t know that the numeral ‘6’ stands for the number six, and that the numeral ‘3’
+stands for the number three, and that the plus sign stands for the operation of addition,
+and that’s for the very simple reason that it doesn’t know anything. Indeed, that’s why
+we have calculators. They can do calculations faster and more accurately than we can,
+without having to go through any mental effort to do it. In the sense in which we have
+to go through information processing, they don’t.
+We need, then, to make a distinction between two senses of the notion of information
+processing. Or, at least, two radically different kinds of information processing. The
+first kind, which I will call ‘psychological information processing’, involves mental
+states. To put it at its crudest: when people perform mental operations, they actually
+think, and thinking characteristically involves processing information of one kind or
+another. But there’s another sense of information processing in which there are no
+mental states at all. In these cases, there are processes which are as if there were some
+mental information processing going on. Let’s call these second kinds of cases of
+information processing ‘as if’ forms of information processing. It’s perfectly harmless
+to use both of these two kinds of mental ascriptions, provided we do not confuse
+them. However, what we find in cognitivism is a persistent confusion of the two.
+Now, once we see this distinction clearly, we can see one of the most profound
+weaknesses in the cognitivist argument. From the fact that I do information
+processing when I think, and the fact that the computer does information processing—
+even information processing which may simulate the formal features of my thinking it simply doesn’t follow that there is anything psychologically relevant about the
+
+4
+
+computer program. In order to show psychological relevance, there would have to be
+some independent argument that the ‘as if computational information processing is
+psychologically relevant. The notion of information processing is being used to mask
+this confusion because one expression is being used to cover two quite distinct
+phenomena. In short, the confusion that we found about rule-following has an exact
+parallel in the notion of information processing.
+However, there’s a deeper and more subtle confusion involved in this notion of
+information processing. Notice that in the ‘as if’ sense of information processing, any
+system whatever can be described as if it were doing information processing and,
+indeed, we might even use it for gathering information, So it isn’t just a matter of
+using calculators and computers. Consider, for example, water running downhill.
+Now, we can describe the water as if it were doing information processing. And we
+might even use it to get information. We might use it to get information about the line
+of least resistance in the contours of the hill. But it simply doesn’t follow from that
+that there’s anything of any psychological relevance about water running downhill.
+There’s no psychology at all to the action of gravity on water. But we can apply the
+lessons of this point to the study of the brain. It’s an obvious fact that the brain has a
+level of real psychological information processes.
+To repeat, people actually think, and thinking goes on in their brain. Furthermore,
+there are all sorts of thing going on in the brain at the neurophysiological level that
+actually cause our thought processes. But many people suppose that in addition to
+these two levels, the level of naive psychology and the level of neurophysiology, there
+must be some additional level of computational information processing. Now, why do
+they suppose that? I believe it’s because they confuse the psychologically real level of
+information processing with the possibility of giving ‘as if’ information processing
+descriptions of the processes that are going on in the brain. So if you talk about water
+rolling downhill, everyone can see that it is psychologically irrelevant. But it’s harder
+to see that exactly the same point applies to the brain. What is psychologically
+relevant about the brain are the facts that it contains psychological processes and that
+it has a neurophysiology that causes and realises those processes. But the fact that we
+can then describe other processes in the brain from an ‘as if’ information processing
+point of view, by itself provides no evidence that these are at all psychologically real
+or even psychologically relevant. Once we’re talking about the inside of the brain, it’s
+harder to see the confusion, but it’s exactly the same confusion.
+The next assumption to examine is the idea that behind all meaningful behaviour there
+must be some internal theory. One finds this assumption in many areas and not just in
+cognitive psychology. So, for example, Chomsky’s search for a universal grammar is
+based on the assumption that if there are certain features common to all languages and
+if these features are constrained by common features of the human brain, then there
+must be an entire complex set of rules of universal grammar in the brain. But a much
+simpler hypothesis would be that the physiological structure of the brain constrains
+possible grammars without the intervention of an intermediate level of rules or
+theories. Not only is this hypothesis simpler, but also the very existence of universal
+features of language constrained by innate features of the brain suggests that the
+neurophysiological level of description is enough to do the job. You don’t need to
+suppose that there are any rules on top of the neurophysiological structures.
+
+5
+
+A couple of analogies I hope will make this clear. It’s a simple fact about human
+vision that we can’t see infra-red or ultraviolet. Now, is that because we have a
+universal rule of visual grammar that says ‘Don’t see infra-red or ultraviolet’? No, it’s
+obviously because our visual apparatus simply is not sensitive to these two ends of the
+spectrum. Or, to take another example, if we tried to do a theoretical analysis of the
+human ability to stay in balance while walking, it might look as if there were some
+more or less complex mental processes going on, as if taking in cues of various kinds
+we solved a series of quadratic equations, unconsciously, of course, and these enabled
+us to walk without falling over. But we actually know that this sort of mental theory is
+not necessary to account for the achievement of walking without falling over. In fact,
+it’s done in a very large part by fluids in the inner ear that simply do no calculating at
+all. If you spin around enough so as to upset (he fluids, you are likely to fall over.
+Now, I want to suggest that a great deal of our cognitive achievements may well be
+like that. The brain just does them. We have no good reason for supposing that in
+addition to the level of our mental states and the level of our neurophysiology there is
+some unconscious calculating going on.
+Consider face-recognition. We all recognise the faces of our friends, relatives and
+acquaintances quite effortlessly; and indeed we now have evidence that certain
+portions of the brain are specialised for face-recognition. How does it work? Well,
+suppose we were going to design a computer that could recognise faces as we do. It
+would carry out quite a computational task, involving a lot of calculating of
+geometrical and topographical features. But is that any evidence that the way we do it
+involved calculating and computing? Notice that when we step in wet sand and make
+a footprint, neither our feet nor the sand does any computing. But if we were going to
+design a program that could calculate the topology of a footprint from information
+about differential pressures on the sand, it would be a fairly complex computational
+ask. The fact that a computational simulation of a natural phenomenon involves
+complex information processing does not show that the phenomenon itself involves
+such processing. And it may be that facial recognition is as simple and as automatic as
+making footprints in the sand.
+Indeed, if we pursue the computer analogy consistently, we find that there are a great
+many things going on in the computer that are not computational processes either. For
+example, in the case of some calculators, if you ask, ‘How does the calculator
+multiply seven times three?’, the answer is ‘It adds three to itself seven times.’ But if
+you then ask, ‘And how does it add three to itself?’ there isn’t any computational
+answer to that; it’s just done in the hardware. So the answer to the question is ‘It just
+does it.’ And I want to suggest that for a great many absolutely fundamental abilities,
+such as our ability to see or our ability to learn a language, there may not be any
+theoretical mental level underlying those abilities; the brain just does them. We are
+neurophysiologically so constructed that the assault of photons on our photo-receptor
+cells enables us to see, and we are neurophysiologically so constructed that the
+stimulation of hearing other people talk and interacting with them will enable us to
+learn a language.
+Now, I am not saying that rules play no role in our behaviour. On the contrary, rules
+of language or rules of games, for example, seem to play a crucial role in the relevant
+behaviour. But I am saying that it’s a very tricky question to decide which parts of
+
+6
+
+behaviour are rule governed and which are not. And we can’t just assume that all
+meaningful behaviour has some system of rules underlying it.
+I want to conclude this lecture on a more positive note by saying what the
+implications of this approach are for the study of the mind. As a way of countering the
+cognitivist picture, let me present an alternative approach to the solution of the
+problems besetting the social sciences. Let’s abandon the idea that there is a computer
+program between the mind and the brain. Think of the mind and mental processes as
+biological phenomena which are as biologically based as growth or digestion or the
+secretion of bile.
+Think of our visual experiences, for example, as the end-product of a series of events
+that begin with the assault of photons on the retina and end somewhere in the brain.
+Now, there will be two gross levels of description in the causal account of how vision
+takes place in animals. There will be first a level of the neurophysiology; a level at
+which we can discuss individual neurons, synapses and action potentials. But within
+this neurophysiological level there will be lower and higher levels of description. It
+isn’t necessary to confine ourselves solely to neurons and synapses. We can talk about
+the behaviour of groups or modules of neurons, such as the different levels of types of
+neurons in the retina or the columns in the cortex; and we can talk about the
+performance of the neurophysiological systems at much greater levels of complexity,
+such as the role of the striate cortex in vision, or the role of zones 18 and 19 in the
+visual cortex, or the relationship between the visual cortex and the rest of the brain in
+processing visual stimuli. So within the neurophysiological level there will be a series
+of levels of description, all of them equally neurophysiological.
+Now, in addition to that, there will also be a mental level of description. We know, for
+example, that perception is a function of expectation. If you expect to see something,
+you will see it more readily. We know, furthermore, that perception can be affected
+by various mental phenomena. We know that mood and emotion can affect how and
+what one perceives. And again, within this mental level, within this level of
+intentionality, there will be different levels of description. We can talk not only about
+how perception is affected by individual beliefs and desires, but also about how it
+is affected by such global mental phenomena as the person’s background abilities or
+his general world outlook. But in addition to the level of the neurophysiology, and the
+level of intentionality, we don’t need to suppose there’s another level; a level of
+digital computational processes. And there’s no harm at all in thinking of both the
+level of mental states and the level of neurophysiology as information processing,
+provided we do not make the confusion of supposing that the real psychological
+information processing is the same as the ‘as if’ form of information processing.
+To conclude, then, where are we in our assessment of the cognitivist research
+program? Well, I have certainly not demonstrated that it is false. It might turn out to
+be true. I think its chances of success are about as great as the chances of success of
+behaviourism 50 years ago. That is to say, I think its chances of success are virtually
+nil. What I have done to argue for this, however, is simply the following three things:
+first, I have suggested that once you have laid bare the basic assumptions behind
+cognitivism, their implausibility is quite apparent. But these assumptions are, in large
+part, very deeply seated in our intellectual culture; some of them are very hard to root
+out or even to become fully conscious of. My first claim is that once we fully
+
+7
+
+understand the nature of the assumptions, their implausibility is manifest. The second
+point I have made is that we don’t actually have sufficient empirical evidence for
+supposing that these assumptions are true, since the interpretation of the existing
+evidence rests on an ambiguity in certain crucial notions such as the notion of
+information processing or rule-following.
+And, third, I’ve presented an alternative view, both in this lecture and the first lecture,
+of the relationship between the brain and the mind; a view that does not require us to
+postulate any intermediate level of algorithmic computational processes mediating
+between the neurophysiology of the brain and the intentionality of the mind. The
+feature of that picture which is important for this discussion is that in addition to a
+level of mental states, such as beliefs and desires, and a level of neurophysiology,
+there is no other level; no gap-filler is needed between the mind and the brain because
+there’s no gap to fill. The computer is probably no better and no worse as a metaphor
+for the brain than earlier mechanical metaphors. We learn as much about the brain by
+saying it’s a computer as we do by saying it’s a telephone switchboard, a telegraph
+system, a water pump or a steam engine.
+My overall objective in these lectures is to try to answer some of the most puzzling
+questions about how human beings fit into the rest of the universe. In my first lecture
+I tried to solve the ‘mind-body problem’. In the second I disposed of some extreme
+claims that identify human beings with digital computers. In this one I have raised
+some doubts about the cognitivist research program. I now want to turn my attention
+to explaining the structure of human actions, the nature of the social sciences, and the
+problem of the freedom of the will.
+
+8
+
+
