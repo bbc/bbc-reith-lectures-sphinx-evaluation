@@ -16,6 +16,7 @@ Getting started
 Start by downloading the dataset using the provided script.
 
 > $ cd reith-lectures
+
 > $ ../get-reith-lectures-dataset.sh
 
 Create a configuration file pointing to your acoustic and language models. 
