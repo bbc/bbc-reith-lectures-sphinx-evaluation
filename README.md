@@ -17,11 +17,7 @@ Dependencies
 The evaluation script relies on [SoX](http://sox.sourceforge.net/) being installed, and the
 Sphinx3 python bindings. The latter can be installed using the install-sphinx.sh script, e.g. on Ubuntu 12.04:
 
->  # apt-get install python python-dev liblapack3gf liblapack-dev liblas1 \
-
->      liblas-dev bison make gcc g++ autoconf automake libtool unzip \
-
->      libsndfile1 sox libsox-fmt-mp3 python-numpy
+>  # apt-get install python python-dev liblapack3gf liblapack-dev liblas1 liblas-dev bison make gcc g++ autoconf automake libtool unzip libsndfile1 sox libsox-fmt-mp3 python-numpy
 
 >  # ./install-sphinx.sh
 
