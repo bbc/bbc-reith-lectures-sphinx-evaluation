@@ -45,6 +45,7 @@ If you want to run the evaluation using only pre-computed transcriptions, use th
 For example to run the evaluation on transcriptions derived using the example configuration file:
 
 > $ ./evaluate.py --directory reith-lectures-hub4-and-lm-giga-64k-vp-3gram --lazy true 
+
 > Average WER: 0.576869
 
 Licensing terms and authorship
