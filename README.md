@@ -10,6 +10,18 @@ It can therefore be used for the evaluation of multi-speaker Automated Speech Re
 In particular, this script helps with evaluating the [CMU Sphinx3](http://cmusphinx.sourceforge.net/) 
 ASR system, to see how different acoustic and language models compare to each other.
 
+
+Dependencies
+------------
+
+The evaluation script relies on [SoX](http://sox.sourceforge.net/) being installed, and the
+Sphinx3 python bindings. The latter can be installed using the install-sphinx.sh script, e.g. on Ubuntu 12.04:
+
+  # apt-get install python python-dev liblapack3gf liblapack-dev liblas1 \
+      liblas-dev bison make gcc g++ autoconf automake libtool unzip \
+      libsndfile1 sox libsox-fmt-mp3 python-numpy
+  # ./install-sphinx.sh
+
 Getting started
 ---------------
 
@@ -20,7 +32,9 @@ Start by downloading the dataset using the provided script.
 > $ ../get-reith-lectures-dataset.sh
 
 Create a configuration file pointing to your acoustic and language models. 
-An example configuration file is given in hub4\_and\_lm\_giga\_64k\_vp\_3gram.ini.example.
+An example configuration file is given in hub4\_and\_lm\_giga\_64k\_vp\_3gram.ini.example, using
+the HUB4 acoustic model bundled with Sphinx and a [language model derived from the English
+Gigaword corpus](http://www.keithv.com/software/giga/).
 
 Run the evaluation.
 
@@ -31,6 +45,7 @@ If you want to run the evaluation using only pre-computed transcriptions, use th
 For example to run the evaluation on transcriptions derived using the example configuration file:
 
 > $ ./evaluate.py --directory reith-lectures-hub4-and-lm-giga-64k-vp-3gram --lazy true 
+> Average WER: 0.576869
 
 Licensing terms and authorship
 ------------------------------
