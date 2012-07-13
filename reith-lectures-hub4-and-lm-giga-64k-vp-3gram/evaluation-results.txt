@@ -1,0 +1,153 @@
+WER for 1996, Jean Aitchison: The Language Web, 1.sphinx.txt: 0.664388
+WER for 2007, Jeffrey Sachs: Bursting at the Seams, 4.sphinx.txt: 0.540039
+WER for 1987, Alexander Goehr: The Survival of the Symphony, 6.sphinx.txt: 0.470616
+WER for 1987, Alexander Goehr: The Survival of the Symphony, 4.sphinx.txt: 0.483774
+WER for 1976, Colin Blakemore: Mechanics of the Mind, 3.sphinx.txt: 0.500763
+WER for 1994, Marina Warner: Managing Monsters, 1.sphinx.txt: 0.611470
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 1.sphinx.txt: 0.486017
+WER for 1996, Jean Aitchison: The Language Web, 2.sphinx.txt: 0.692095
+WER for 1986, Lord McCluskey: Law, Justice and Democracy, 3.sphinx.txt: 0.558744
+WER for 1994, Marina Warner: Managing Monsters, 5.sphinx.txt: 0.616360
+WER for 1998, John Keegan: War in Our World, 4.sphinx.txt: 0.766028
+WER for 1979, Ali Mazrui: The African Condition, 1.sphinx.txt: 0.631671
+WER for 1981, Laurence Martin: The Two-Edged Sword, 1.sphinx.txt: 0.356232
+WER for 1999, Anthony Giddens: Runaway World, 3.sphinx.txt: 0.730352
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 5.sphinx.txt: 0.475000
+WER for 2003, VS Ramachandran: The Emerging Mind, 1.sphinx.txt: 0.787129
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 2.sphinx.txt: 0.408503
+WER for 2010, Martin Rees: Scientific Horizons, 3.sphinx.txt: 0.721304
+WER for 1991, Steve Jones: The Language of the Genes, 3.sphinx.txt: 0.386118
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 3.sphinx.txt: 0.398320
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 1.sphinx.txt: 0.396585
+WER for 2003, VS Ramachandran: The Emerging Mind, 5.sphinx.txt: 0.794449
+WER for 2004, Wole Soyinka: The Climate of Fear, 1.sphinx.txt: 0.799803
+WER for 1984, John Searle: Minds, Brains and Science, 4.sphinx.txt: 0.212409
+WER for 2001, Tom Kirkwood: The End of Age, 1.sphinx.txt: 0.668354
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 1.sphinx.txt: 0.409754
+WER for 2006, Daniel Barenboim: In the Beginning was Sound, 5.sphinx.txt: 0.680051
+WER for 2005, Alec Broers: The Triumph of Technology, 2.sphinx.txt: 0.693743
+WER for 1987, Alexander Goehr: The Survival of the Symphony, 5.sphinx.txt: 0.484923
+WER for 1979, Ali Mazrui: The African Condition, 2.sphinx.txt: 0.615436
+WER for 2009, Michael Sandel: A New Citizenship, 2.sphinx.txt: 0.362411
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 5.sphinx.txt: 0.377145
+WER for 1984, John Searle: Minds, Brains and Science, 5.sphinx.txt: 0.219983
+WER for 1999, Anthony Giddens: Runaway World, 1.sphinx.txt: 0.686449
+WER for 1984, John Searle: Minds, Brains and Science, 3.sphinx.txt: 0.256711
+WER for 1983, Douglas Wass: Government and the Governed, 3.sphinx.txt: 0.474272
+WER for 2004, Wole Soyinka: The Climate of Fear, 5.sphinx.txt: 0.811228
+WER for 1976, Colin Blakemore: Mechanics of the Mind, 1.sphinx.txt: 0.466350
+WER for 1989, Jacques Darras: Beyond the Tunnel of History, 4.sphinx.txt: 0.908712
+WER for 2001, Tom Kirkwood: The End of Age, 2.sphinx.txt: 0.746391
+WER for 1986, Lord McCluskey: Law, Justice and Democracy, 5.sphinx.txt: 0.469565
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 2.sphinx.txt: 0.512679
+WER for 1997, Patricia Williams: The Genealogy of Race, 2.sphinx.txt: 0.311091
+WER for 2010, Martin Rees: Scientific Horizons, 2.sphinx.txt: 0.676045
+WER for 2009, Michael Sandel: A New Citizenship, 3.sphinx.txt: 0.405161
+WER for 2006, Daniel Barenboim: In the Beginning was Sound, 1.sphinx.txt: 0.818265
+WER for 1999, Anthony Giddens: Runaway World, 5.sphinx.txt: 0.733666
+WER for 1981, Laurence Martin: The Two-Edged Sword, 5.sphinx.txt: 0.306929
+WER for 2007, Jeffrey Sachs: Bursting at the Seams, 3.sphinx.txt: 0.501038
+WER for 2003, VS Ramachandran: The Emerging Mind, 3.sphinx.txt: 0.817964
+WER for 1980, Ian Kennedy: Unmasking Medicine, 2.sphinx.txt: 0.462305
+WER for 1991, Steve Jones: The Language of the Genes, 2.sphinx.txt: 0.402245
+WER for 1978, A H Halsey: Change in British Society, 3.sphinx.txt: 0.486824
+WER for 1978, A H Halsey: Change in British Society, 4.sphinx.txt: 0.424031
+WER for 1987, Alexander Goehr: The Survival of the Symphony, 3.sphinx.txt: 0.490053
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 3.sphinx.txt: 0.442929
+WER for 1995, Richard Rogers: Sustainable City, 4.sphinx.txt: 0.564146
+WER for 1989, Jacques Darras: Beyond the Tunnel of History, 1.sphinx.txt: 0.918895
+WER for 2009, Michael Sandel: A New Citizenship, 1.sphinx.txt: 0.459441
+WER for 1989, Jacques Darras: Beyond the Tunnel of History, 3.sphinx.txt: 0.887321
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 3.sphinx.txt: 0.420536
+WER for 2000, Gro Harlem Brundtland: Respect for the Earth, 4.sphinx.txt: 0.618132
+WER for 1976, Colin Blakemore: Mechanics of the Mind, 5.sphinx.txt: 0.454919
+WER for 1995, Richard Rogers: Sustainable City, 5.sphinx.txt: 0.513177
+WER for 2007, Jeffrey Sachs: Bursting at the Seams, 2.sphinx.txt: 0.544867
+WER for 2000, Tom Lovejoy: Respect for the Earth, 2.sphinx.txt: 0.507011
+WER for 1997, Patricia Williams: The Genealogy of Race, 1.sphinx.txt: 0.295367
+WER for 1989, Jacques Darras: Beyond the Tunnel of History, 2.sphinx.txt: 0.875269
+WER for 2007, Jeffrey Sachs: Bursting at the Seams, 5.sphinx.txt: 0.466481
+WER for 2000, Chris Patten: Respect for the Earth, 1.sphinx.txt: 0.636872
+WER for 2005, Alec Broers: The Triumph of Technology, 5.sphinx.txt: 0.712916
+WER for 1976, Colin Blakemore: Mechanics of the Mind, 4.sphinx.txt: 0.435930
+WER for 2006, Daniel Barenboim: In the Beginning was Sound, 3.sphinx.txt: 0.712031
+WER for 1978, A H Halsey: Change in British Society, 2.sphinx.txt: 0.468651
+WER for 1995, Richard Rogers: Sustainable City, 2.sphinx.txt: 0.521442
+WER for 1994, Marina Warner: Managing Monsters, 4.sphinx.txt: 0.623163
+WER for 1986, Lord McCluskey: Law, Justice and Democracy, 1.sphinx.txt: 0.571575
+WER for 2000, John Browne: Respect for the Earth, 3.sphinx.txt: 0.738236
+WER for 1986, Lord McCluskey: Law, Justice and Democracy, 2.sphinx.txt: 0.558472
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 4.sphinx.txt: 0.419459
+WER for 1980, Ian Kennedy: Unmasking Medicine, 3.sphinx.txt: 0.447832
+WER for 1980, Ian Kennedy: Unmasking Medicine, 5.sphinx.txt: 0.443694
+WER for 1983, Douglas Wass: Government and the Governed, 2.sphinx.txt: 0.461909
+WER for 2005, Alec Broers: The Triumph of Technology, 3.sphinx.txt: 0.722905
+WER for 2009, Michael Sandel: A New Citizenship, 4.sphinx.txt: 0.313247
+WER for 1999, Anthony Giddens: Runaway World, 4.sphinx.txt: 0.760055
+WER for 1983, Douglas Wass: Government and the Governed, 4.sphinx.txt: 0.447276
+WER for 1976, Colin Blakemore: Mechanics of the Mind, 2.sphinx.txt: 0.462774
+WER for 1996, Jean Aitchison: The Language Web, 5.sphinx.txt: 0.664230
+WER for 2008, Jonathan Spence: Chinese Vistas, 1.sphinx.txt: 0.641796
+WER for 1995, Richard Rogers: Sustainable City, 3.sphinx.txt: 0.564318
+WER for 1981, Laurence Martin: The Two-Edged Sword, 2.sphinx.txt: 0.320706
+WER for 1981, Laurence Martin: The Two-Edged Sword, 4.sphinx.txt: 0.306265
+WER for 1981, Laurence Martin: The Two-Edged Sword, 3.sphinx.txt: 0.325522
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 6.sphinx.txt: 0.375476
+WER for 1998, John Keegan: War in Our World, 1.sphinx.txt: 0.756644
+WER for 2004, Wole Soyinka: The Climate of Fear, 4.sphinx.txt: 0.757730
+WER for 2004, Wole Soyinka: The Climate of Fear, 2.sphinx.txt: 0.866142
+WER for 1985, David Henderson: Innocence and Design, 4.sphinx.txt: 0.509350
+WER for 1984, John Searle: Minds, Brains and Science, 6.sphinx.txt: 0.215763
+WER for 1996, Jean Aitchison: The Language Web, 4.sphinx.txt: 0.688858
+WER for 1981, Laurence Martin: The Two-Edged Sword, 6.sphinx.txt: 0.318822
+WER for 2006, Daniel Barenboim: In the Beginning was Sound, 4.sphinx.txt: 0.656020
+WER for 1979, Ali Mazrui: The African Condition, 5.sphinx.txt: 0.664647
+WER for 2006, Daniel Barenboim: In the Beginning was Sound, 2.sphinx.txt: 0.693469
+WER for 1996, Jean Aitchison: The Language Web, 3.sphinx.txt: 0.701402
+WER for 1984, John Searle: Minds, Brains and Science, 1.sphinx.txt: 0.247253
+WER for 1979, Ali Mazrui: The African Condition, 4.sphinx.txt: 0.665608
+WER for 1985, David Henderson: Innocence and Design, 3.sphinx.txt: 0.504161
+WER for 1978, A H Halsey: Change in British Society, 5.sphinx.txt: 0.497037
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 6.sphinx.txt: 0.462085
+WER for 1983, Douglas Wass: Government and the Governed, 6.sphinx.txt: 0.428807
+WER for 1985, David Henderson: Innocence and Design, 1.sphinx.txt: 0.509888
+WER for 1979, Ali Mazrui: The African Condition, 6.sphinx.txt: 0.662307
+WER for 1983, Douglas Wass: Government and the Governed, 5.sphinx.txt: 0.436386
+WER for 2008, Jonathan Spence: Chinese Vistas, 4.sphinx.txt: 0.706955
+WER for 1985, David Henderson: Innocence and Design, 2.sphinx.txt: 0.548180
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 2.sphinx.txt: 0.428116
+WER for 1994, Marina Warner: Managing Monsters, 3.sphinx.txt: 0.591683
+WER for 1980, Ian Kennedy: Unmasking Medicine, 6.sphinx.txt: 0.470684
+WER for 1995, Richard Rogers: Sustainable City, 1.sphinx.txt: 0.574065
+WER for 2003, VS Ramachandran: The Emerging Mind, 2.sphinx.txt: 0.791791
+WER for 1990, Jonathan Sacks: The Persistence of Faith, 4.sphinx.txt: 0.484891
+WER for 1978, A H Halsey: Change in British Society, 6.sphinx.txt: 0.423708
+WER for 2001, Tom Kirkwood: The End of Age, 3.sphinx.txt: 0.698696
+WER for 1991, Steve Jones: The Language of the Genes, 1.sphinx.txt: 0.391063
+WER for 1983, Douglas Wass: Government and the Governed, 1.sphinx.txt: 0.484567
+WER for 1984, John Searle: Minds, Brains and Science, 2.sphinx.txt: 0.226557
+WER for 1998, John Keegan: War in Our World, 2.sphinx.txt: 0.719548
+WER for 2004, Wole Soyinka: The Climate of Fear, 3.sphinx.txt: 0.809037
+WER for 1985, David Henderson: Innocence and Design, 5.sphinx.txt: 0.521010
+WER for 1986, Lord McCluskey: Law, Justice and Democracy, 4.sphinx.txt: 0.499140
+WER for 1998, John Keegan: War in Our World, 3.sphinx.txt: 0.751403
+WER for 2005, Alec Broers: The Triumph of Technology, 1.sphinx.txt: 0.756655
+WER for 2010, Martin Rees: Scientific Horizons, 4.sphinx.txt: 0.653749
+WER for 1989, Jacques Darras: Beyond the Tunnel of History, 5.sphinx.txt: 0.883387
+WER for 1985, David Henderson: Innocence and Design, 6.sphinx.txt: 0.503447
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 6.sphinx.txt: 0.431160
+WER for 2003, VS Ramachandran: The Emerging Mind, 4.sphinx.txt: 0.780031
+WER for 2000, Vandana Shiva: Respect for the Earth, 5.sphinx.txt: 0.769792
+WER for 1980, Ian Kennedy: Unmasking Medicine, 1.sphinx.txt: 0.585888
+WER for 1994, Marina Warner: Managing Monsters, 2.sphinx.txt: 0.628909
+WER for 2008, Jonathan Spence: Chinese Vistas, 3.sphinx.txt: 0.616423
+WER for 1982, Denis Donoghue: The Arts Without Mystery, 5.sphinx.txt: 0.440808
+WER for 1988, Geoffrey Hosking: The Rediscovery of Politics, 4.sphinx.txt: 0.431633
+WER for 1978, A H Halsey: Change in British Society, 1.sphinx.txt: 0.446750
+WER for 1979, Ali Mazrui: The African Condition, 3.sphinx.txt: 0.666369
+WER for 1991, Steve Jones: The Language of the Genes, 4.sphinx.txt: 0.477683
+WER for 2007, Jeffrey Sachs: Bursting at the Seams, 1.sphinx.txt: 0.597325
+WER for 2008, Jonathan Spence: Chinese Vistas, 2.sphinx.txt: 0.665965
+WER for 2010, Martin Rees: Scientific Horizons, 1.sphinx.txt: 0.697560
+WER for 1980, Ian Kennedy: Unmasking Medicine, 4.sphinx.txt: 0.442020
+Average WER: 0.556791

@@ -45,7 +45,9 @@ For example to run the evaluation on transcriptions derived using the example co
 
 > $ ./evaluate.py --directory reith-lectures-hub4-and-lm-giga-64k-vp-3gram --lazy true 
 
-> Average WER: 0.576869
+> Average WER: 0.556791
+
+The full results of the above command are available in reith-lectures-hub4-and-lm-giga-64k-vp-3gram/evaluation-results.txt
 
 Licensing terms and authorship
 ------------------------------
