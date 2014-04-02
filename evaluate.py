@@ -31,17 +31,17 @@ def main():
     directory = args.directory
     config = ConfigParser()
     config_models = args.config
-    transcriber = Transcriber()
-    if not lazy:
+    if lazy:
+        transcriber = None
+    else:
         config.readfp(open(config_models))
         config.items('models')
         acoustic_model = config.get('models', 'acoustic_model')
         dictionary = config.get('models', 'dictionary')
-        filler = config.get('models', 'filler')
         language_model = config.get('models', 'language_model')
         convert_pdf_to_text(directory)
-        transcriber.initialise(acoustic_model, dictionary, filler, language_model)
-    evaluate(transcriber, directory, lazy)
+        transcriber = Transcriber(acoustic_model, dictionary, language_model)
+    evaluate(transcriber, directory)
 
 def convert_pdf_to_text(directory):
     print >> sys.stderr, "Converting all PDFs under %s to text" % directory
@@ -75,17 +75,12 @@ def word_error_rate(ref, hyp):
 def evaluate(transcriber, directory, lazy):
     wers = []
     for file_name in os.listdir(directory):
-        if not lazy and file_name.endswith('.mp3') and not os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
-            raw_file = '/tmp/sphinx-eval.raw'
+        if transcriber is not None and file_name.endswith('.mp3') and not os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
             print >> sys.stderr, "Transcribing %s" % file_name
-            os.system('sox "' + os.path.join(directory, file_name) + '" -r 14000 -c 1 -s ' + raw_file)
-            (sphinx_transcript, details) = transcriber.transcribe(raw_file)
+            sphinx_transcript = transcriber.transcribe(os.path.join(directory, file_name))
             sphinx_transcript_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt'), 'w')
             sphinx_transcript_f.write(sphinx_transcript)
             sphinx_transcript_f.close()
-            details_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.json'), 'w')
-            details_f.write(json.dumps(details))
-            details_f.close()
     for file_name in os.listdir(directory):
         if file_name.endswith('.sphinx.txt'):
             sphinx_transcript = open(os.path.join(directory, file_name)).read()
