@@ -12,58 +12,53 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import _sphinx3
-import os
+import pocketsphinx as ps
+import os, wave, tempfile
+from subprocess import Popen
+from multiprocessing import Pool, cpu_count
+
+def decode(acoustic_model, dictionary, language_model, data):
+    decoder = ps.Decoder(hmm = acoustic_model, lm = language_model, dict = dictionary)
+    decoder.start_utt()
+    decoder.process_raw(data)
+    decoder.end_utt()
+    return decoder.get_hyp()[0]
 
 class Transcriber(object):
 
-    _instance = None
-    initialised = False
-    sphinx3_dir = '/usr/local/share/sphinx3'
+    def __init__(self, acoustic_model, dictionary, language_model, workers = None, sample_rate = 16000, bits = 16, segment_duration = 120):
+        self.acoustic_model = acoustic_model
+        self.dictionary = dictionary
+        self.language_model = language_model
+        self.sample_rate = sample_rate
+        self.segment_duration = segment_duration
+        self.bits = bits
+        if workers is None:
+            workers = cpu_count()
+        self.pool = Pool(processes = workers)
 
-    def __new__(cls, *args, **kwargs):
-        if not cls._instance:
-            cls._instance = super(Transcriber, cls).__new__(
-                                cls, *args, **kwargs)
-        return cls._instance
+    def transcribe(self, audio_file):
+        wave_file = self.convert(audio_file)
+        segment_length = self.segment_duration * self.sample_rate
+        wav = wave.open(wave_file)
+        nframes = wav.getnframes()
+        offset = 0
+        results = []
+        while offset < nframes:
+            audio = wav.readframes(segment_length)
+            result = self.pool.apply_async(decode, (self.acoustic_model, self.dictionary, self.language_model, audio))
+            results.append(result)
+            offset += segment_length
+        hyps = []
+        for result in results:
+            hyps.append(result.get(None))
+        os.remove(wave_file)
+        return ' '.join(hyps)
 
-    def initialise(self, acoustic_model, dictionary, fdict, language_model):
-        if not self.initialised:
-            _sphinx3.parse_argdict({
-                'samprate': '14000',
-                'nfft': '1024',
-                'hmm': acoustic_model,
-                'dict': dictionary,
-                'fdict': fdict,
-                'lm': language_model,
-                'beam': '1e-60',
-                'wbeam': '1e-40',
-                'ci_pbeam': '1e-8',
-                'subvqbeam': '1e-2',
-                'maxhmmpf': '2000',
-                'maxcdsenpf': '1000',
-                'maxwpf': '8',
-            })
-            _sphinx3.init()
-            self.initialised = True
-
-    def transcribe(self, raw_audio_file):
-        segment_duration = 120
-        segment_length = segment_duration * 14000 * 2
-        raw = open(raw_audio_file, 'r')
-        n = 1 + len(raw.read()) / segment_length
-        raw.close()
-        transcript = ''
-        details = []
-        for i in range(0, n):
-            raw = open(raw_audio_file, 'r')
-            raw.seek(i * segment_length)
-            segment_data = raw.read(segment_length)
-            raw.close()
-            (transcript_s, details_s) = _sphinx3.decode_raw(segment_data)
-            transcript += transcript_s + ' '
-            details_with_offsets_s = []
-            for (term, start, end, s1, s2) in details_s:
-                details_with_offsets_s += [ (term, start / 100.0 + i * segment_duration, end / 100.0 + i * segment_duration, s1, s2) ]
-            details += details_with_offsets_s
-        return (transcript, details)
+    def convert(self, audio_file):
+        tmp_file = tempfile.NamedTemporaryFile(mode = 'r+b', prefix = 'pocketsphinx_', suffix = '.wav')
+        tmp_file_name = tmp_file.name
+        tmp_file.close()
+        psox = Popen(['sox', audio_file, '-c', '1', '-r', str(self.sample_rate), '-b', str(self.bits), tmp_file_name ])
+        psox.wait()
+        return tmp_file_name
