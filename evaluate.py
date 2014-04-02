@@ -18,6 +18,7 @@ import argparse
 from ConfigParser import ConfigParser
 import os, sys, re
 import json
+import editdistance
 from transcriber import Transcriber
 
 def main():
@@ -66,24 +67,10 @@ def extract_transcript_from_text(text_file):
     transcript = re.sub(r'( )+', ' ', transcript)
     return transcript
 
-def word_error_rate(t1, t2):
-    a = t1.split(' ')
-    b = t2.split(' ')
-    n = len(a)
-    m = len(b)
-    if n > m:
-        a,b = b,a
-        n,m = m,n
-    current = range(n+1)
-    for i in range(1,m+1):
-        previous, current = current, [i]+[0]*n
-        for j in range(1,n+1):
-            add, delete = previous[j]+1, current[j-1]+1
-            change = previous[j-1]
-            if a[j-1] != b[i-1]:
-                change = change + 1
-            current[j] = min(add, delete, change)
-    return (current[n] / float(m))
+def word_error_rate(ref, hyp):
+    ref = t1.split(' ')
+    hyp = t2.split(' ')
+    return (editdistance.eval(ref, hyp) / float(len(ref)))
 
 def evaluate(transcriber, directory, lazy):
     wers = []
@@ -103,7 +90,7 @@ def evaluate(transcriber, directory, lazy):
         if file_name.endswith('.sphinx.txt'):
             sphinx_transcript = open(os.path.join(directory, file_name)).read()
             transcript = extract_transcript_from_text(os.path.join(directory, file_name.split('.sphinx.txt')[0] + '.txt'))
-            wer = word_error_rate(sphinx_transcript, transcript)
+            wer = word_error_rate(transcript, sphinx_transcript)
             print "WER for %s: %f" % (file_name, wer)
             wers += [ wer ]
     print "Average WER: %f" % (sum(wers, 0.0) / len(wers),)
