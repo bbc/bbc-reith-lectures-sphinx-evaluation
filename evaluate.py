@@ -72,7 +72,7 @@ def word_error_rate(ref, hyp):
     hyp = t2.split(' ')
     return (editdistance.eval(ref, hyp) / float(len(ref)))
 
-def evaluate(transcriber, directory, lazy):
+def evaluate(transcriber, directory):
     wers = []
     for file_name in os.listdir(directory):
         if transcriber is not None and file_name.endswith('.mp3') and not os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
