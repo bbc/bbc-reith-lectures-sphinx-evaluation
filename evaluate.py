@@ -22,7 +22,7 @@ import editdistance
 from transcriber import Transcriber
 
 def main():
-    parser = argparse.ArgumentParser(description='Evaluate Sphinx3 WER on speech/transcripts dataset')
+    parser = argparse.ArgumentParser(description='Evaluate PocketSphinx WER on BBC Reith Lectures')
     parser.add_argument('--config', metavar='INI', type=str, default='sphinx-config.ini', help='A configuration file specifying which models to use (default: %(default)s)')
     parser.add_argument('--directory', metavar='DIR', type=str, default='reith-lectures', help='Path to the evaluation dataset (default: %(default)s)')
     parser.add_argument('--lazy', metavar='L', type=bool, default=False, help='If set to true, do not attempt to derive any new data (default: %(default)s)')
