@@ -2,5 +2,4 @@
 sphinx3_dir=/usr/local/share/sphinx3
 acoustic_model=%(sphinx3_dir)s/model/hmm/hub4_cd_continuous_8gau_1s_c_d_dd
 dictionary=./data/lm_giga_64k_vp_3gram/lm_giga_64k_vp.sphinx.dic
-filler=./data/lm_giga_64k_vp_3gram/lm_giga_64k_vp.sphinx.filler
 language_model=./data/lm_giga_64k_vp_3gram/lm_giga_64k_vp_3gram.arpa
