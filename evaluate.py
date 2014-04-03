@@ -25,7 +25,7 @@ def main():
     parser = argparse.ArgumentParser(description='Evaluate PocketSphinx WER on BBC Reith Lectures')
     parser.add_argument('--config', metavar='INI', type=str, default='sphinx-config.ini', help='A configuration file specifying which models to use (default: %(default)s)')
     parser.add_argument('--directory', metavar='DIR', type=str, default='reith-lectures', help='Path to the evaluation dataset (default: %(default)s)')
-    parser.add_argument('--lazy', metavar='L', type=bool, default=False, help='If set to true, do not attempt to derive any new data (default: %(default)s)')
+    parser.add_argument('--lazy', action = 'store_true', default=False, help='If set, do not attempt to derive any new data (default: %(default)s)')
     args = parser.parse_args()
     lazy = args.lazy
     directory = args.directory
@@ -68,16 +68,16 @@ def extract_transcript_from_text(text_file):
     return transcript
 
 def word_error_rate(ref, hyp):
-    ref = t1.split(' ')
-    hyp = t2.split(' ')
-    return (editdistance.eval(ref, hyp) / float(len(ref)))
+    ref = ref.split(' ')
+    hyp = hyp.split(' ')
+    return (editdistance.eval(ref, hyp) / float(len(hyp)))
 
 def evaluate(transcriber, directory):
     wers = []
     for file_name in os.listdir(directory):
         if transcriber is not None and file_name.endswith('.mp3') and not os.path.exists(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt')):
             print >> sys.stderr, "Transcribing %s" % file_name
-            sphinx_transcript = transcriber.transcribe(os.path.join(directory, file_name))
+            sphinx_transcript = transcriber.transcribe(os.path.abspath(os.path.join(directory, file_name)))
             sphinx_transcript_f = open(os.path.join(directory, file_name.split('.mp3')[0] + '.sphinx.txt'), 'w')
             sphinx_transcript_f.write(sphinx_transcript)
             sphinx_transcript_f.close()
