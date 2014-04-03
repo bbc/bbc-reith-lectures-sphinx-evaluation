@@ -19,6 +19,7 @@ from ConfigParser import ConfigParser
 import os, sys, re
 import json
 import editdistance
+import numpy as np
 from transcriber import Transcriber
 
 def main():
@@ -88,6 +89,6 @@ def evaluate(transcriber, directory):
             wer = word_error_rate(transcript, sphinx_transcript)
             print "WER for %s: %f" % (file_name, wer)
             wers += [ wer ]
-    print "Average WER: %f" % (sum(wers, 0.0) / len(wers),)
+    print "Average WER: %f" % np.mean(wers)
 
 main()
