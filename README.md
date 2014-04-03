@@ -7,19 +7,22 @@ on the BBC web site, under [personal non-commercial terms of use](http://www.bbc
 They cover almost each year since 1976 and a wide range of different speakers.
 
 It can therefore be used for the evaluation of multi-speaker Automated Speech Recognition (ASR) system.
-In particular, this script helps with evaluating the [CMU Sphinx3](http://cmusphinx.sourceforge.net/) 
+In particular, this script helps with evaluating the [CMU Sphinx](http://cmusphinx.sourceforge.net/) 
 ASR system, to see how different acoustic and language models compare to each other.
+
+However the transcripts are not verbatim. For example quite a few lectures start
+with an introduction of the speaker, which is not available in the transcripts. 
+Some times, the speaker deviate from the transcripts as well. Therefore
+the results will often be slightly worse than one could expect.
 
 
 Dependencies
 ------------
 
 The evaluation script relies on [SoX](http://sox.sourceforge.net/) being installed, and the
-Sphinx3 python bindings. The latter can be installed using the install-sphinx.sh script, e.g. on Ubuntu 12.04:
+PocketSphinx python bindings. 
 
->  # apt-get install python python-dev liblapack3gf liblapack-dev liblas1 liblas-dev bison make gcc g++ autoconf automake libtool unzip libsndfile1 sox libsox-fmt-mp3 python-numpy
-
->  # ./install-sphinx.sh
+>  # apt-get install sox libsox-fmt-mp3 python-numpy python-pocketsphinx
 
 Getting started
 ---------------
